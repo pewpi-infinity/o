@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/solar-grid-topic-coverage-open-licenses-peer-review-governance-trust-p2365
+[ANCHOR] ethics #FF6A00 link://ethics/solar-grid-topic-coverage-open-licenses-peer-review-governance-trust-p2365
+[ANCHOR] clarity #00C8FF link://clarity/solar-grid-topic-coverage-open-licenses-peer-review-governance-trust-p2365
+[ANCHOR] provenance #7D4DF2 link://provenance/solar-grid-topic-coverage-open-licenses-peer-review-governance-trust-p2365
+[ANCHOR] scope #6066FF link://scope/solar-grid-topic-coverage-open-licenses-peer-review-governance-trust-p2365
+
+TITLE: solar-grid-topic-coverage-open-licenses-peer-review-governance-trust-p2365
+SUMMARY: Research scaffold for solar-grid, topic-coverage, open-licenses, peer-review, governance-trust.
+
+LINKS:
+- https://data.europa.eu/
+- https://alleninstitute.org/what-we-do/brain-science/
+- https://govinfo.gov/
+
+EQUATIONS:
+- EQ038: Determinant expansion -> Σ permutations
+
+
+
+VALUATION:
+- Score: 0.671
+- Tier: silver

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/artifact-visibility-scholar-ledger-p7681
+[ANCHOR] clarity #00C8FF link://clarity/artifact-visibility-scholar-ledger-p7681
+[ANCHOR] alignment #33CCCC link://alignment/artifact-visibility-scholar-ledger-p7681
+
+TITLE: artifact-visibility-scholar-ledger-p7681
+SUMMARY: Research scaffold for artifact-visibility, scholar-ledger.
+
+LINKS:
+- https://warwick.ac.uk/research
+
+
+
+EQUATIONS:
+- EQ021: SVD -> A = UΣVᵀ
+- EQ010: Nash equilibrium -> best response mappings intersect
+- EQ012: Auction revenue equivalence -> symmetric independent private values
+
+VALUATION:
+- Score: 0.484
+- Tier: bronze

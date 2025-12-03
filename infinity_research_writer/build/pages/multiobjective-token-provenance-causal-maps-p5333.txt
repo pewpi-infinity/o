@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/multiobjective-token-provenance-causal-maps-p5333
+[ANCHOR] clarity #00C8FF link://clarity/multiobjective-token-provenance-causal-maps-p5333
+[ANCHOR] learning #E6B800 link://learning/multiobjective-token-provenance-causal-maps-p5333
+[ANCHOR] alignment #33CCCC link://alignment/multiobjective-token-provenance-causal-maps-p5333
+
+TITLE: multiobjective-token-provenance-causal-maps-p5333
+SUMMARY: Research scaffold for multiobjective, token-provenance, causal-maps.
+
+LINKS:
+- https://doaj.org/
+- https://erowid.org/chemicals/
+
+
+EQUATIONS:
+- EQ011: Mechanism incentive compatibility -> truth-telling maximizes utility
+- EQ045: Central limit theorem -> normalized sums→normal
+
+
+VALUATION:
+- Score: 0.559
+- Tier: bronze

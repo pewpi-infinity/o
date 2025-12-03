@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/health-outcomes-tree-decomposition-decision-criteria-pareto-front-p8811
+[ANCHOR] clarity #00C8FF link://clarity/health-outcomes-tree-decomposition-decision-criteria-pareto-front-p8811
+[ANCHOR] alignment #33CCCC link://alignment/health-outcomes-tree-decomposition-decision-criteria-pareto-front-p8811
+
+TITLE: health-outcomes-tree-decomposition-decision-criteria-pareto-front-p8811
+SUMMARY: Research scaffold for health-outcomes, tree-decomposition, decision-criteria, pareto-front.
+
+LINKS:
+- https://science.org/
+- https://frontiersin.org/journals/neuroscience
+- https://stoa.org/
+
+EQUATIONS:
+- EQ010: Nash equilibrium -> best response mappings intersect
+- EQ023: Cross entropy -> -Σ y log p
+
+
+VALUATION:
+- Score: 0.611
+- Tier: silver

@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/value-tiers-systems-usercentric-battery-solidstate-economy-barriers-p1734
+[ANCHOR] capacity #00D67D link://capacity/value-tiers-systems-usercentric-battery-solidstate-economy-barriers-p1734
+[ANCHOR] clarity #00C8FF link://clarity/value-tiers-systems-usercentric-battery-solidstate-economy-barriers-p1734
+[ANCHOR] provenance #7D4DF2 link://provenance/value-tiers-systems-usercentric-battery-solidstate-economy-barriers-p1734
+[ANCHOR] risk #FF3B3B link://risk/value-tiers-systems-usercentric-battery-solidstate-economy-barriers-p1734
+
+TITLE: value-tiers-systems-usercentric-battery-solidstate-economy-barriers-p1734
+SUMMARY: Research scaffold for value-tiers, systems-usercentric, battery-solidstate, economy-barriers.
+
+LINKS:
+- https://agu.org/Share-and-Advocate/Share/Eos
+
+
+
+EQUATIONS:
+- EQ025: Softmax -> exp(z_i) / Σ exp(z)
+
+
+
+VALUATION:
+- Score: 0.564
+- Tier: bronze

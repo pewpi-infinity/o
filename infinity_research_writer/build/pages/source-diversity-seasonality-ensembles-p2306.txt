@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/source-diversity-seasonality-ensembles-p2306
+[ANCHOR] clarity #00C8FF link://clarity/source-diversity-seasonality-ensembles-p2306
+[ANCHOR] alignment #33CCCC link://alignment/source-diversity-seasonality-ensembles-p2306
+
+TITLE: source-diversity-seasonality-ensembles-p2306
+SUMMARY: Research scaffold for source-diversity, seasonality, ensembles.
+
+LINKS:
+- https://archeology.uiowa.edu/
+- https://hindawi.com/
+
+
+EQUATIONS:
+- EQ019: Lasso sparsity -> many β_j = 0
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+
+VALUATION:
+- Score: 0.607
+- Tier: silver

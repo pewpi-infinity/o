@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/energy-market-uncertainty-matrix-factorization-equations-solver-resilience-testing-p9834
+[ANCHOR] clarity #00C8FF link://clarity/energy-market-uncertainty-matrix-factorization-equations-solver-resilience-testing-p9834
+[ANCHOR] alignment #33CCCC link://alignment/energy-market-uncertainty-matrix-factorization-equations-solver-resilience-testing-p9834
+
+TITLE: energy-market-uncertainty-matrix-factorization-equations-solver-resilience-testing-p9834
+SUMMARY: Research scaffold for energy-market, uncertainty, matrix-factorization, equations-solver, resilience-testing.
+
+LINKS:
+- https://nejm.org/
+- https://pnas.org/
+
+
+EQUATIONS:
+- EQ046: Markov inequality -> P(X≥a) ≤ E[X]/a
+- EQ024: Gradient descent -> θ ← θ - α∇J(θ)
+
+
+VALUATION:
+- Score: 0.653
+- Tier: silver

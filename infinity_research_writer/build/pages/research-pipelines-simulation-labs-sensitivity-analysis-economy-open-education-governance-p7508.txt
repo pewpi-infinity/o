@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p7508
+[ANCHOR] ethics #FF6A00 link://ethics/research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p7508
+[ANCHOR] clarity #00C8FF link://clarity/research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p7508
+[ANCHOR] provenance #7D4DF2 link://provenance/research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p7508
+[ANCHOR] scope #6066FF link://scope/research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p7508
+
+TITLE: research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p7508
+SUMMARY: Research scaffold for research-pipelines, simulation-labs, sensitivity-analysis, economy-open, education-governance.
+
+LINKS:
+- https://law.cornell.edu/
+
+
+
+EQUATIONS:
+- EQ001: Linear program objective -> maximize c^T x subject to Ax <= b, x >= 0
+- EQ032: Heat equation -> ∂u/∂t = α∇²u
+
+
+VALUATION:
+- Score: 0.628
+- Tier: silver

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scholar-grade-energy-curtailment-game-theory-p47
+[ANCHOR] clarity #00C8FF link://clarity/scholar-grade-energy-curtailment-game-theory-p47
+[ANCHOR] alignment #33CCCC link://alignment/scholar-grade-energy-curtailment-game-theory-p47
+
+TITLE: scholar-grade-energy-curtailment-game-theory-p47
+SUMMARY: Research scaffold for scholar-grade, energy-curtailment, game-theory.
+
+LINKS:
+- https://stoa.org/
+- https://apa.org/pubs/databases
+
+
+EQUATIONS:
+- EQ250: Robust optimization -> minimize max loss over uncertainty set U
+- EQ036: Schrödinger equation -> iħ∂ψ/∂t = Hψ
+
+
+VALUATION:
+- Score: 0.587
+- Tier: bronze

@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/solar-grid-topic-coverage-open-licenses-peer-review-governance-trust-p5445
+[ANCHOR] ethics #FF6A00 link://ethics/solar-grid-topic-coverage-open-licenses-peer-review-governance-trust-p5445
+[ANCHOR] clarity #00C8FF link://clarity/solar-grid-topic-coverage-open-licenses-peer-review-governance-trust-p5445
+[ANCHOR] provenance #7D4DF2 link://provenance/solar-grid-topic-coverage-open-licenses-peer-review-governance-trust-p5445
+[ANCHOR] scope #6066FF link://scope/solar-grid-topic-coverage-open-licenses-peer-review-governance-trust-p5445
+
+TITLE: solar-grid-topic-coverage-open-licenses-peer-review-governance-trust-p5445
+SUMMARY: Research scaffold for solar-grid, topic-coverage, open-licenses, peer-review, governance-trust.
+
+LINKS:
+- https://agu.org/Share-and-Advocate/Share/Eos
+- https://ncbi.nlm.nih.gov/Taxonomy/
+- https://jneuroengrehab.biomedcentral.com/
+
+EQUATIONS:
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+- EQ014: Bayesian update -> p(θ|D) ∝ p(D|θ)p(θ)
+
+
+VALUATION:
+- Score: 0.721
+- Tier: silver

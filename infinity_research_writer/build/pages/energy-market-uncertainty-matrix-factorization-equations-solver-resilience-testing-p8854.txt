@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/energy-market-uncertainty-matrix-factorization-equations-solver-resilience-testing-p8854
+[ANCHOR] clarity #00C8FF link://clarity/energy-market-uncertainty-matrix-factorization-equations-solver-resilience-testing-p8854
+[ANCHOR] alignment #33CCCC link://alignment/energy-market-uncertainty-matrix-factorization-equations-solver-resilience-testing-p8854
+
+TITLE: energy-market-uncertainty-matrix-factorization-equations-solver-resilience-testing-p8854
+SUMMARY: Research scaffold for energy-market, uncertainty, matrix-factorization, equations-solver, resilience-testing.
+
+LINKS:
+- https://sciencemag.org/journals/science-advances
+- https://openalex.org/
+- https://cern.ch/
+
+EQUATIONS:
+- EQ020: PCA -> eigenvectors of covariance Σ
+- EQ027: Entropy -> -Σ p log p
+- EQ017: L1 regularization -> minimize ||y-Xβ||² + λ||β||₁
+
+VALUATION:
+- Score: 0.697
+- Tier: silver

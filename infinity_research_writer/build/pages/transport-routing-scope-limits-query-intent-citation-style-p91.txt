@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/transport-routing-scope-limits-query-intent-citation-style-p91
+[ANCHOR] clarity #00C8FF link://clarity/transport-routing-scope-limits-query-intent-citation-style-p91
+[ANCHOR] alignment #33CCCC link://alignment/transport-routing-scope-limits-query-intent-citation-style-p91
+
+TITLE: transport-routing-scope-limits-query-intent-citation-style-p91
+SUMMARY: Research scaffold for transport-routing, scope-limits, query-intent, citation-style.
+
+LINKS:
+- https://columbia.edu/research
+
+
+
+EQUATIONS:
+- EQ025: Softmax -> exp(z_i) / Σ exp(z)
+- EQ044: Law of large numbers -> sample mean→μ
+- EQ048: Jensen's inequality -> φ(E[X]) ≤ E[φ(X)]
+
+VALUATION:
+- Score: 0.564
+- Tier: bronze

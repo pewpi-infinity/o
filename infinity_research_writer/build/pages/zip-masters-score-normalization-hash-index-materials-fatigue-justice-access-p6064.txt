@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/zip-masters-score-normalization-hash-index-materials-fatigue-justice-access-p6064
+[ANCHOR] ethics #FF6A00 link://ethics/zip-masters-score-normalization-hash-index-materials-fatigue-justice-access-p6064
+[ANCHOR] clarity #00C8FF link://clarity/zip-masters-score-normalization-hash-index-materials-fatigue-justice-access-p6064
+[ANCHOR] provenance #7D4DF2 link://provenance/zip-masters-score-normalization-hash-index-materials-fatigue-justice-access-p6064
+[ANCHOR] scope #6066FF link://scope/zip-masters-score-normalization-hash-index-materials-fatigue-justice-access-p6064
+
+TITLE: zip-masters-score-normalization-hash-index-materials-fatigue-justice-access-p6064
+SUMMARY: Research scaffold for zip-masters, score-normalization, hash-index, materials-fatigue, justice-access.
+
+LINKS:
+- https://ncbi.nlm.nih.gov/pmc/
+- https://iupac.org/
+- https://math.berkeley.edu/research
+
+EQUATIONS:
+- EQ050: Characteristic function -> E[e^{itX}]
+- EQ022: Logistic regression -> σ(wᵀx)
+- EQ019: Lasso sparsity -> many β_j = 0
+
+VALUATION:
+- Score: 0.737
+- Tier: silver

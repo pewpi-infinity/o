@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/user-config-hydro-optimization-needs-mapping-p4994
+[ANCHOR] clarity #00C8FF link://clarity/user-config-hydro-optimization-needs-mapping-p4994
+[ANCHOR] alignment #33CCCC link://alignment/user-config-hydro-optimization-needs-mapping-p4994
+
+TITLE: user-config-hydro-optimization-needs-mapping-p4994
+SUMMARY: Research scaffold for user-config, hydro-optimization, needs-mapping.
+
+LINKS:
+- https://un.org/en/research
+
+
+
+EQUATIONS:
+- EQ013: Markov chain stationary distribution -> π = πP
+
+
+
+VALUATION:
+- Score: 0.517
+- Tier: bronze

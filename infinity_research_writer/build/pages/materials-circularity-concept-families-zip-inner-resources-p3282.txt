@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/materials-circularity-concept-families-zip-inner-resources-p3282
+[ANCHOR] clarity #00C8FF link://clarity/materials-circularity-concept-families-zip-inner-resources-p3282
+[ANCHOR] alignment #33CCCC link://alignment/materials-circularity-concept-families-zip-inner-resources-p3282
+
+TITLE: materials-circularity-concept-families-zip-inner-resources-p3282
+SUMMARY: Research scaffold for materials-circularity, concept-families, zip-inner-resources.
+
+LINKS:
+- https://sagepub.com/en-us/nam/journals
+- https://mit.edu/research/
+
+
+EQUATIONS:
+- EQ014: Bayesian update -> p(θ|D) ∝ p(D|θ)p(θ)
+- EQ046: Markov inequality -> P(X≥a) ≤ E[X]/a
+- EQ008: Observability -> rank([C; CA; CA^2; ...; CA^{n-1}]) = n
+
+VALUATION:
+- Score: 0.617
+- Tier: silver

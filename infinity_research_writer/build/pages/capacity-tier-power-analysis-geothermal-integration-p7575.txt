@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/capacity-tier-power-analysis-geothermal-integration-p7575
+[ANCHOR] capacity #00D67D link://capacity/capacity-tier-power-analysis-geothermal-integration-p7575
+[ANCHOR] clarity #00C8FF link://clarity/capacity-tier-power-analysis-geothermal-integration-p7575
+[ANCHOR] provenance #7D4DF2 link://provenance/capacity-tier-power-analysis-geothermal-integration-p7575
+[ANCHOR] risk #FF3B3B link://risk/capacity-tier-power-analysis-geothermal-integration-p7575
+
+TITLE: capacity-tier-power-analysis-geothermal-integration-p7575
+SUMMARY: Research scaffold for capacity-tier, power-analysis, geothermal-integration.
+
+LINKS:
+- https://gapminder.org/data/
+- https://neurips.cc/Conferences/Current
+- https://clinicaltrials.gov/
+
+EQUATIONS:
+- EQ011: Mechanism incentive compatibility -> truth-telling maximizes utility
+- EQ032: Heat equation -> ∂u/∂t = α∇²u
+
+
+VALUATION:
+- Score: 0.611
+- Tier: silver

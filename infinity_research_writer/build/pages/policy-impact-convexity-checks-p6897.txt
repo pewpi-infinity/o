@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/policy-impact-convexity-checks-p6897
+[ANCHOR] clarity #00C8FF link://clarity/policy-impact-convexity-checks-p6897
+[ANCHOR] alignment #33CCCC link://alignment/policy-impact-convexity-checks-p6897
+
+TITLE: policy-impact-convexity-checks-p6897
+SUMMARY: Research scaffold for policy-impact, convexity-checks.
+
+LINKS:
+- https://iupac.org/
+- https://cell.com/trends/biochemical-sciences
+
+
+EQUATIONS:
+- EQ001: Linear program objective -> maximize c^T x subject to Ax <= b, x >= 0
+
+
+
+VALUATION:
+- Score: 0.477
+- Tier: bronze

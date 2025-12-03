@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/links-index-semantic-color-provenance-learning-health-registry-method-rigor-p1569
+[ANCHOR] clarity #00C8FF link://clarity/links-index-semantic-color-provenance-learning-health-registry-method-rigor-p1569
+[ANCHOR] learning #E6B800 link://learning/links-index-semantic-color-provenance-learning-health-registry-method-rigor-p1569
+[ANCHOR] alignment #33CCCC link://alignment/links-index-semantic-color-provenance-learning-health-registry-method-rigor-p1569
+
+TITLE: links-index-semantic-color-provenance-learning-health-registry-method-rigor-p1569
+SUMMARY: Research scaffold for links-index, semantic-color, provenance-learning, health-registry, method-rigor.
+
+LINKS:
+- https://perseus.tufts.edu/
+
+
+
+EQUATIONS:
+- EQ022: Logistic regression -> σ(wᵀx)
+- EQ019: Lasso sparsity -> many β_j = 0
+
+
+VALUATION:
+- Score: 0.628
+- Tier: silver

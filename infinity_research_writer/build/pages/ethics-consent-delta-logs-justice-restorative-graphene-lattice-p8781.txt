@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p8781
+[ANCHOR] ethics #FF6A00 link://ethics/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p8781
+[ANCHOR] capacity #00D67D link://capacity/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p8781
+[ANCHOR] clarity #00C8FF link://clarity/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p8781
+[ANCHOR] provenance #7D4DF2 link://provenance/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p8781
+
+TITLE: ethics-consent-delta-logs-justice-restorative-graphene-lattice-p8781
+SUMMARY: Research scaffold for ethics-consent, delta-logs, justice-restorative, graphene-lattice.
+
+LINKS:
+- https://osti.gov/
+- https://ox.ac.uk/museumofanthropology
+
+
+EQUATIONS:
+- EQ004: KKT conditions -> ∇f(x*) + A^T λ* = 0, Ax* <= b, λ* >= 0, λ*^T (Ax* - b) = 0
+
+
+
+VALUATION:
+- Score: 0.649
+- Tier: silver

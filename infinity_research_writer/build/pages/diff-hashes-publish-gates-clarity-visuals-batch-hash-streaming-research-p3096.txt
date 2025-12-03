@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/diff-hashes-publish-gates-clarity-visuals-batch-hash-streaming-research-p3096
+[ANCHOR] clarity #00C8FF link://clarity/diff-hashes-publish-gates-clarity-visuals-batch-hash-streaming-research-p3096
+[ANCHOR] learning #E6B800 link://learning/diff-hashes-publish-gates-clarity-visuals-batch-hash-streaming-research-p3096
+[ANCHOR] alignment #33CCCC link://alignment/diff-hashes-publish-gates-clarity-visuals-batch-hash-streaming-research-p3096
+
+TITLE: diff-hashes-publish-gates-clarity-visuals-batch-hash-streaming-research-p3096
+SUMMARY: Research scaffold for diff-hashes, publish-gates, clarity-visuals, batch-hash, streaming-research.
+
+LINKS:
+- https://nyu.edu/research
+
+
+
+EQUATIONS:
+- EQ003: Lagrangian -> L(x, λ) = f(x) + λ^T (Ax - b)
+
+
+
+VALUATION:
+- Score: 0.638
+- Tier: silver

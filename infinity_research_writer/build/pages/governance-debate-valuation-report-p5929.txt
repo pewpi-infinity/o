@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/governance-debate-valuation-report-p5929
+[ANCHOR] ethics #FF6A00 link://ethics/governance-debate-valuation-report-p5929
+[ANCHOR] clarity #00C8FF link://clarity/governance-debate-valuation-report-p5929
+[ANCHOR] provenance #7D4DF2 link://provenance/governance-debate-valuation-report-p5929
+[ANCHOR] scope #6066FF link://scope/governance-debate-valuation-report-p5929
+
+TITLE: governance-debate-valuation-report-p5929
+SUMMARY: Research scaffold for governance-debate, valuation-report.
+
+LINKS:
+- https://pubs.acs.org/journal/jpccck
+- https://mit.edu/research/brain-and-cognitive-sciences
+
+
+EQUATIONS:
+- EQ027: Entropy -> -Σ p log p
+- EQ003: Lagrangian -> L(x, λ) = f(x) + λ^T (Ax - b)
+- EQ032: Heat equation -> ∂u/∂t = α∇²u
+
+VALUATION:
+- Score: 0.606
+- Tier: silver

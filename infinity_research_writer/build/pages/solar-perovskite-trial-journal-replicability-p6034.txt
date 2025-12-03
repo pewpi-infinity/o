@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/solar-perovskite-trial-journal-replicability-p6034
+[ANCHOR] clarity #00C8FF link://clarity/solar-perovskite-trial-journal-replicability-p6034
+[ANCHOR] alignment #33CCCC link://alignment/solar-perovskite-trial-journal-replicability-p6034
+
+TITLE: solar-perovskite-trial-journal-replicability-p6034
+SUMMARY: Research scaffold for solar-perovskite, trial-journal, replicability.
+
+LINKS:
+- https://neuron.yale.edu/neuron/
+- https://ssrn.com/en/index.cfm/lsn-legal-studies/
+
+
+EQUATIONS:
+- EQ020: PCA -> eigenvectors of covariance Σ
+- EQ006: Stability -> Re(λ_i(A)) < 0 for continuous systems
+- EQ009: Queue M/M/1 -> ρ = λ/μ, W = 1/(μ - λ)
+
+VALUATION:
+- Score: 0.609
+- Tier: silver

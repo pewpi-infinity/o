@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/multiobjective-token-provenance-causal-maps-p5543
+[ANCHOR] clarity #00C8FF link://clarity/multiobjective-token-provenance-causal-maps-p5543
+[ANCHOR] learning #E6B800 link://learning/multiobjective-token-provenance-causal-maps-p5543
+[ANCHOR] alignment #33CCCC link://alignment/multiobjective-token-provenance-causal-maps-p5543
+
+TITLE: multiobjective-token-provenance-causal-maps-p5543
+SUMMARY: Research scaffold for multiobjective, token-provenance, causal-maps.
+
+LINKS:
+- https://ssrn.com/
+- https://neuromorphicsystems.org/
+
+
+EQUATIONS:
+- EQ040: Rank-nullity -> dim(V)=rank+nullity
+- EQ038: Determinant expansion -> Σ permutations
+- EQ035: Maxwell equations (set of 4)
+
+VALUATION:
+- Score: 0.579
+- Tier: bronze

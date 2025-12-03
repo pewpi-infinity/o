@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/health-outcomes-tree-decomposition-decision-criteria-pareto-front-p2791
+[ANCHOR] clarity #00C8FF link://clarity/health-outcomes-tree-decomposition-decision-criteria-pareto-front-p2791
+[ANCHOR] alignment #33CCCC link://alignment/health-outcomes-tree-decomposition-decision-criteria-pareto-front-p2791
+
+TITLE: health-outcomes-tree-decomposition-decision-criteria-pareto-front-p2791
+SUMMARY: Research scaffold for health-outcomes, tree-decomposition, decision-criteria, pareto-front.
+
+LINKS:
+- https://acs.org/content/acs/en/journals.html
+
+
+
+EQUATIONS:
+- EQ026: KL divergence -> Σ p log(p/q)
+- EQ013: Markov chain stationary distribution -> π = πP
+
+
+VALUATION:
+- Score: 0.574
+- Tier: bronze

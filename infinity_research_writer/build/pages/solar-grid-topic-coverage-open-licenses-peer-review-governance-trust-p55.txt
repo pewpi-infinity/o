@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/solar-grid-topic-coverage-open-licenses-peer-review-governance-trust-p55
+[ANCHOR] ethics #FF6A00 link://ethics/solar-grid-topic-coverage-open-licenses-peer-review-governance-trust-p55
+[ANCHOR] clarity #00C8FF link://clarity/solar-grid-topic-coverage-open-licenses-peer-review-governance-trust-p55
+[ANCHOR] provenance #7D4DF2 link://provenance/solar-grid-topic-coverage-open-licenses-peer-review-governance-trust-p55
+[ANCHOR] scope #6066FF link://scope/solar-grid-topic-coverage-open-licenses-peer-review-governance-trust-p55
+
+TITLE: solar-grid-topic-coverage-open-licenses-peer-review-governance-trust-p55
+SUMMARY: Research scaffold for solar-grid, topic-coverage, open-licenses, peer-review, governance-trust.
+
+LINKS:
+- https://terrytao.wordpress.com/
+- https://data.worldbank.org/
+- https://yale.edu/research/neuroscience
+
+EQUATIONS:
+- EQ004: KKT conditions -> ∇f(x*) + A^T λ* = 0, Ax* <= b, λ* >= 0, λ*^T (Ax* - b) = 0
+
+
+
+VALUATION:
+- Score: 0.721
+- Tier: silver

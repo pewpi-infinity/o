@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/stochastic-processes-hypothesis-tests-silicon-photonics-network-effects-p6094
+[ANCHOR] clarity #00C8FF link://clarity/stochastic-processes-hypothesis-tests-silicon-photonics-network-effects-p6094
+[ANCHOR] alignment #33CCCC link://alignment/stochastic-processes-hypothesis-tests-silicon-photonics-network-effects-p6094
+
+TITLE: stochastic-processes-hypothesis-tests-silicon-photonics-network-effects-p6094
+SUMMARY: Research scaffold for stochastic-processes, hypothesis-tests, silicon-photonics, network-effects.
+
+LINKS:
+- https://rsc.org/
+- https://doaj.org/
+
+
+EQUATIONS:
+- EQ004: KKT conditions -> ∇f(x*) + A^T λ* = 0, Ax* <= b, λ* >= 0, λ*^T (Ax* - b) = 0
+- EQ037: Eigenvalue problem -> Ax = λx
+- EQ019: Lasso sparsity -> many β_j = 0
+
+VALUATION:
+- Score: 0.687
+- Tier: silver

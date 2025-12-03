@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/hydrogen-ammonia-justice-appeals-alignment-protocols-p5760
+[ANCHOR] ethics #FF6A00 link://ethics/hydrogen-ammonia-justice-appeals-alignment-protocols-p5760
+[ANCHOR] capacity #00D67D link://capacity/hydrogen-ammonia-justice-appeals-alignment-protocols-p5760
+[ANCHOR] clarity #00C8FF link://clarity/hydrogen-ammonia-justice-appeals-alignment-protocols-p5760
+[ANCHOR] provenance #7D4DF2 link://provenance/hydrogen-ammonia-justice-appeals-alignment-protocols-p5760
+
+TITLE: hydrogen-ammonia-justice-appeals-alignment-protocols-p5760
+SUMMARY: Research scaffold for hydrogen-ammonia, justice-appeals, alignment-protocols.
+
+LINKS:
+- https://aaai.org/Library/
+- https://siam.org/journals
+- https://warwick.ac.uk/research
+
+EQUATIONS:
+- EQ006: Stability -> Re(λ_i(A)) < 0 for continuous systems
+- EQ033: Wave equation -> ∂²u/∂t² = c²∇²u
+
+
+VALUATION:
+- Score: 0.643
+- Tier: silver

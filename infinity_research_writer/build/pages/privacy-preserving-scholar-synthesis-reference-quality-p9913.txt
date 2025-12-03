@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/privacy-preserving-scholar-synthesis-reference-quality-p9913
+[ANCHOR] clarity #00C8FF link://clarity/privacy-preserving-scholar-synthesis-reference-quality-p9913
+[ANCHOR] alignment #33CCCC link://alignment/privacy-preserving-scholar-synthesis-reference-quality-p9913
+
+TITLE: privacy-preserving-scholar-synthesis-reference-quality-p9913
+SUMMARY: Research scaffold for privacy-preserving, scholar-synthesis, reference-quality.
+
+LINKS:
+- https://darwin-online.org.uk/
+- https://link.springer.com/
+
+
+EQUATIONS:
+- EQ043: Chi-square distribution -> special gamma
+- EQ048: Jensen's inequality -> φ(E[X]) ≤ E[φ(X)]
+
+
+VALUATION:
+- Score: 0.540
+- Tier: bronze

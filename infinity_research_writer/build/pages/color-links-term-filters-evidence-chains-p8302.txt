@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/color-links-term-filters-evidence-chains-p8302
+[ANCHOR] clarity #00C8FF link://clarity/color-links-term-filters-evidence-chains-p8302
+[ANCHOR] alignment #33CCCC link://alignment/color-links-term-filters-evidence-chains-p8302
+
+TITLE: color-links-term-filters-evidence-chains-p8302
+SUMMARY: Research scaffold for color-links, term-filters, evidence-chains.
+
+LINKS:
+- https://mdpi.com/
+
+
+
+EQUATIONS:
+- EQ041: Gaussian distribution -> (1/√2πσ²)e^{-(x-μ)²/2σ²}
+- EQ018: Ridge regression -> minimize ||y-Xβ||² + λ||β||²
+
+
+VALUATION:
+- Score: 0.524
+- Tier: bronze

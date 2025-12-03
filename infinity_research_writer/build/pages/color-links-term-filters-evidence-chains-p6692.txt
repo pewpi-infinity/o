@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/color-links-term-filters-evidence-chains-p6692
+[ANCHOR] clarity #00C8FF link://clarity/color-links-term-filters-evidence-chains-p6692
+[ANCHOR] alignment #33CCCC link://alignment/color-links-term-filters-evidence-chains-p6692
+
+TITLE: color-links-term-filters-evidence-chains-p6692
+SUMMARY: Research scaffold for color-links, term-filters, evidence-chains.
+
+LINKS:
+- https://springer.com/gp/biomedicine
+- https://ssrn.com/
+
+
+EQUATIONS:
+- EQ008: Observability -> rank([C; CA; CA^2; ...; CA^{n-1}]) = n
+- EQ005: Spectral radius -> ρ(A) = max |λ_i(A)|
+- EQ013: Markov chain stationary distribution -> π = πP
+
+VALUATION:
+- Score: 0.587
+- Tier: bronze

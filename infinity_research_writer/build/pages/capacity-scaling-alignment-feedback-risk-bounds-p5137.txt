@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/capacity-scaling-alignment-feedback-risk-bounds-p5137
+[ANCHOR] capacity #00D67D link://capacity/capacity-scaling-alignment-feedback-risk-bounds-p5137
+[ANCHOR] clarity #00C8FF link://clarity/capacity-scaling-alignment-feedback-risk-bounds-p5137
+[ANCHOR] provenance #7D4DF2 link://provenance/capacity-scaling-alignment-feedback-risk-bounds-p5137
+[ANCHOR] risk #FF3B3B link://risk/capacity-scaling-alignment-feedback-risk-bounds-p5137
+
+TITLE: capacity-scaling-alignment-feedback-risk-bounds-p5137
+SUMMARY: Research scaffold for capacity-scaling, alignment-feedback, risk-bounds.
+
+LINKS:
+- https://loveandscience.com/
+
+
+
+EQUATIONS:
+- EQ031: Laplace transform -> ∫f(t)e^{-st}dt
+- EQ003: Lagrangian -> L(x, λ) = f(x) + λ^T (Ax - b)
+
+
+VALUATION:
+- Score: 0.598
+- Tier: bronze

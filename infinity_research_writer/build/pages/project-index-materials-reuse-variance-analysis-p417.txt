@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/project-index-materials-reuse-variance-analysis-p417
+[ANCHOR] clarity #00C8FF link://clarity/project-index-materials-reuse-variance-analysis-p417
+[ANCHOR] alignment #33CCCC link://alignment/project-index-materials-reuse-variance-analysis-p417
+
+TITLE: project-index-materials-reuse-variance-analysis-p417
+SUMMARY: Research scaffold for project-index, materials-reuse, variance-analysis.
+
+LINKS:
+- https://neuroscience.ox.ac.uk/research
+- https://crcpress.com/mathematics
+- https://nber.org/
+
+EQUATIONS:
+- EQ030: Convolution -> (f*g)(t)=∫f(τ)g(t-τ)dτ
+- EQ018: Ridge regression -> minimize ||y-Xβ||² + λ||β||²
+- EQ013: Markov chain stationary distribution -> π = πP
+
+VALUATION:
+- Score: 0.644
+- Tier: silver

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/anchor-ledger-wind-grid-p2109
+[ANCHOR] clarity #00C8FF link://clarity/anchor-ledger-wind-grid-p2109
+[ANCHOR] alignment #33CCCC link://alignment/anchor-ledger-wind-grid-p2109
+
+TITLE: anchor-ledger-wind-grid-p2109
+SUMMARY: Research scaffold for anchor-ledger, wind-grid.
+
+LINKS:
+- https://brain.oxfordjournals.org/
+- https://jbc.org/
+- https://nasa.gov/
+
+EQUATIONS:
+- EQ028: Mutual information -> I(X;Y) = H(X)+H(Y)-H(X,Y)
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+- EQ036: Schrödinger equation -> iħ∂ψ/∂t = Hψ
+
+VALUATION:
+- Score: 0.575
+- Tier: bronze

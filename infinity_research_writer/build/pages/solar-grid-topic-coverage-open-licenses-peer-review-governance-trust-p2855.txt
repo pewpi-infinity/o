@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/solar-grid-topic-coverage-open-licenses-peer-review-governance-trust-p2855
+[ANCHOR] ethics #FF6A00 link://ethics/solar-grid-topic-coverage-open-licenses-peer-review-governance-trust-p2855
+[ANCHOR] clarity #00C8FF link://clarity/solar-grid-topic-coverage-open-licenses-peer-review-governance-trust-p2855
+[ANCHOR] provenance #7D4DF2 link://provenance/solar-grid-topic-coverage-open-licenses-peer-review-governance-trust-p2855
+[ANCHOR] scope #6066FF link://scope/solar-grid-topic-coverage-open-licenses-peer-review-governance-trust-p2855
+
+TITLE: solar-grid-topic-coverage-open-licenses-peer-review-governance-trust-p2855
+SUMMARY: Research scaffold for solar-grid, topic-coverage, open-licenses, peer-review, governance-trust.
+
+LINKS:
+- https://cambridge.org/core/what-we-publish/textbooks
+- https://metmuseum.org/art/metpublications
+- https://nature.com/subjects/blood
+
+EQUATIONS:
+- EQ030: Convolution -> (f*g)(t)=∫f(τ)g(t-τ)dτ
+- EQ031: Laplace transform -> ∫f(t)e^{-st}dt
+- EQ010: Nash equilibrium -> best response mappings intersect
+
+VALUATION:
+- Score: 0.711
+- Tier: silver

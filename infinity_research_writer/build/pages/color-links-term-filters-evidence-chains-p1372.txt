@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/color-links-term-filters-evidence-chains-p1372
+[ANCHOR] clarity #00C8FF link://clarity/color-links-term-filters-evidence-chains-p1372
+[ANCHOR] alignment #33CCCC link://alignment/color-links-term-filters-evidence-chains-p1372
+
+TITLE: color-links-term-filters-evidence-chains-p1372
+SUMMARY: Research scaffold for color-links, term-filters, evidence-chains.
+
+LINKS:
+- https://wwf.panda.org/discover/our_focus/
+
+
+
+EQUATIONS:
+- EQ045: Central limit theorem -> normalized sums→normal
+
+
+
+VALUATION:
+- Score: 0.484
+- Tier: bronze

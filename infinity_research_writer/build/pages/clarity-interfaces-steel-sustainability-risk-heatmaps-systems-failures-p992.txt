@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/clarity-interfaces-steel-sustainability-risk-heatmaps-systems-failures-p992
+[ANCHOR] clarity #00C8FF link://clarity/clarity-interfaces-steel-sustainability-risk-heatmaps-systems-failures-p992
+[ANCHOR] learning #E6B800 link://learning/clarity-interfaces-steel-sustainability-risk-heatmaps-systems-failures-p992
+[ANCHOR] alignment #33CCCC link://alignment/clarity-interfaces-steel-sustainability-risk-heatmaps-systems-failures-p992
+
+TITLE: clarity-interfaces-steel-sustainability-risk-heatmaps-systems-failures-p992
+SUMMARY: Research scaffold for clarity-interfaces, steel-sustainability, risk-heatmaps, systems-failures.
+
+LINKS:
+- https://gazzaleylab.ucsf.edu/publications
+
+
+
+EQUATIONS:
+- EQ012: Auction revenue equivalence -> symmetric independent private values
+
+
+
+VALUATION:
+- Score: 0.545
+- Tier: bronze

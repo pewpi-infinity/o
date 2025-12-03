@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/silicon-capacity-grid-stability-links-catalog-adjacency-discovery-p5283
+[ANCHOR] capacity #00D67D link://capacity/silicon-capacity-grid-stability-links-catalog-adjacency-discovery-p5283
+[ANCHOR] clarity #00C8FF link://clarity/silicon-capacity-grid-stability-links-catalog-adjacency-discovery-p5283
+[ANCHOR] provenance #7D4DF2 link://provenance/silicon-capacity-grid-stability-links-catalog-adjacency-discovery-p5283
+[ANCHOR] risk #FF3B3B link://risk/silicon-capacity-grid-stability-links-catalog-adjacency-discovery-p5283
+
+TITLE: silicon-capacity-grid-stability-links-catalog-adjacency-discovery-p5283
+SUMMARY: Research scaffold for silicon-capacity, grid-stability, links-catalog, adjacency-discovery.
+
+LINKS:
+- https://ieeexplore.ieee.org/
+- https://ncbi.nlm.nih.gov/books/
+- https://cern.ch/
+
+EQUATIONS:
+- EQ037: Eigenvalue problem -> Ax = λx
+- EQ250: Robust optimization -> minimize max loss over uncertainty set U
+
+
+VALUATION:
+- Score: 0.724
+- Tier: silver

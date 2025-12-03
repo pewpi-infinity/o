@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/user-config-hydro-optimization-needs-mapping-p6254
+[ANCHOR] clarity #00C8FF link://clarity/user-config-hydro-optimization-needs-mapping-p6254
+[ANCHOR] alignment #33CCCC link://alignment/user-config-hydro-optimization-needs-mapping-p6254
+
+TITLE: user-config-hydro-optimization-needs-mapping-p6254
+SUMMARY: Research scaffold for user-config, hydro-optimization, needs-mapping.
+
+LINKS:
+- https://agu.org/Share-and-Advocate/Share/Eos
+- https://usgs.gov/products/publications
+- https://link.springer.com/
+
+EQUATIONS:
+- EQ034: Poisson equation -> ∇²u = -ρ/ε
+- EQ007: Controllability -> rank([B, AB, A^2B, ..., A^{n-1}B]) = n
+
+
+VALUATION:
+- Score: 0.604
+- Tier: silver

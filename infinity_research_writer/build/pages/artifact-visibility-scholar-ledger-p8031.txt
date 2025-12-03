@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/artifact-visibility-scholar-ledger-p8031
+[ANCHOR] clarity #00C8FF link://clarity/artifact-visibility-scholar-ledger-p8031
+[ANCHOR] alignment #33CCCC link://alignment/artifact-visibility-scholar-ledger-p8031
+
+TITLE: artifact-visibility-scholar-ledger-p8031
+SUMMARY: Research scaffold for artifact-visibility, scholar-ledger.
+
+LINKS:
+- https://maa.org/press/periodicals
+- https://jstor.org/
+- https://thelancet.com/
+
+EQUATIONS:
+- EQ005: Spectral radius -> ρ(A) = max |λ_i(A)|
+
+
+
+VALUATION:
+- Score: 0.511
+- Tier: bronze

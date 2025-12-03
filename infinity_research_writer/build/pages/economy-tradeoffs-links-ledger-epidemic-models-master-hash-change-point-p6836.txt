@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/economy-tradeoffs-links-ledger-epidemic-models-master-hash-change-point-p6836
+[ANCHOR] clarity #00C8FF link://clarity/economy-tradeoffs-links-ledger-epidemic-models-master-hash-change-point-p6836
+[ANCHOR] alignment #33CCCC link://alignment/economy-tradeoffs-links-ledger-epidemic-models-master-hash-change-point-p6836
+
+TITLE: economy-tradeoffs-links-ledger-epidemic-models-master-hash-change-point-p6836
+SUMMARY: Research scaffold for economy-tradeoffs, links-ledger, epidemic-models, master-hash, change-point.
+
+LINKS:
+- https://cell.com/trends/biochemical-sciences
+- https://math.berkeley.edu/research
+- https://nature.com/subjects/earth-sciences
+
+EQUATIONS:
+- EQ001: Linear program objective -> maximize c^T x subject to Ax <= b, x >= 0
+- EQ007: Controllability -> rank([B, AB, A^2B, ..., A^{n-1}B]) = n
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+
+VALUATION:
+- Score: 0.754
+- Tier: silver

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/energy-market-uncertainty-matrix-factorization-equations-solver-resilience-testing-p9204
+[ANCHOR] clarity #00C8FF link://clarity/energy-market-uncertainty-matrix-factorization-equations-solver-resilience-testing-p9204
+[ANCHOR] alignment #33CCCC link://alignment/energy-market-uncertainty-matrix-factorization-equations-solver-resilience-testing-p9204
+
+TITLE: energy-market-uncertainty-matrix-factorization-equations-solver-resilience-testing-p9204
+SUMMARY: Research scaffold for energy-market, uncertainty, matrix-factorization, equations-solver, resilience-testing.
+
+LINKS:
+- https://psychedelics.ucsf.edu/research
+- https://health.harvard.edu/
+- https://jamanetwork.com/
+
+EQUATIONS:
+- EQ049: Moment generating function -> M(t)=E[e^{tX}]
+- EQ030: Convolution -> (f*g)(t)=∫f(τ)g(t-τ)dτ
+
+
+VALUATION:
+- Score: 0.657
+- Tier: silver

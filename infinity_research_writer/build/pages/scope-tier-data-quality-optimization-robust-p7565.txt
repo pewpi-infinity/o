@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scope-tier-data-quality-optimization-robust-p7565
+[ANCHOR] clarity #00C8FF link://clarity/scope-tier-data-quality-optimization-robust-p7565
+[ANCHOR] alignment #33CCCC link://alignment/scope-tier-data-quality-optimization-robust-p7565
+
+TITLE: scope-tier-data-quality-optimization-robust-p7565
+SUMMARY: Research scaffold for scope-tier, data-quality, optimization-robust.
+
+LINKS:
+- https://nature.com/subjects/neuromorphic-engineering
+- https://digital.library.yale.edu/
+- https://qmul.ac.uk/research
+
+EQUATIONS:
+- EQ250: Robust optimization -> minimize max loss over uncertainty set U
+- EQ029: Fourier transform -> F(ω)=∫ f(t)e^{-iωt}dt
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+
+VALUATION:
+- Score: 0.694
+- Tier: silver

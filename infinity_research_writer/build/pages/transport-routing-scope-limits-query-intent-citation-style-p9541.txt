@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/transport-routing-scope-limits-query-intent-citation-style-p9541
+[ANCHOR] clarity #00C8FF link://clarity/transport-routing-scope-limits-query-intent-citation-style-p9541
+[ANCHOR] alignment #33CCCC link://alignment/transport-routing-scope-limits-query-intent-citation-style-p9541
+
+TITLE: transport-routing-scope-limits-query-intent-citation-style-p9541
+SUMMARY: Research scaffold for transport-routing, scope-limits, query-intent, citation-style.
+
+LINKS:
+- https://ssrn.com/
+- https://brainfacts.org/
+- https://fermilab.org/
+
+EQUATIONS:
+- EQ040: Rank-nullity -> dim(V)=rank+nullity
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+- EQ017: L1 regularization -> minimize ||y-Xβ||² + λ||β||₁
+
+VALUATION:
+- Score: 0.661
+- Tier: silver

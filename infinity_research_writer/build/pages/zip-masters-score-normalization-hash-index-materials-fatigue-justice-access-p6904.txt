@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/zip-masters-score-normalization-hash-index-materials-fatigue-justice-access-p6904
+[ANCHOR] ethics #FF6A00 link://ethics/zip-masters-score-normalization-hash-index-materials-fatigue-justice-access-p6904
+[ANCHOR] clarity #00C8FF link://clarity/zip-masters-score-normalization-hash-index-materials-fatigue-justice-access-p6904
+[ANCHOR] provenance #7D4DF2 link://provenance/zip-masters-score-normalization-hash-index-materials-fatigue-justice-access-p6904
+[ANCHOR] scope #6066FF link://scope/zip-masters-score-normalization-hash-index-materials-fatigue-justice-access-p6904
+
+TITLE: zip-masters-score-normalization-hash-index-materials-fatigue-justice-access-p6904
+SUMMARY: Research scaffold for zip-masters, score-normalization, hash-index, materials-fatigue, justice-access.
+
+LINKS:
+- https://apa.org/pubs/databases
+- https://scriptorium.columbia.edu/
+- https://doaj.org/
+
+EQUATIONS:
+- ...
+- EQ032: Heat equation -> ∂u/∂t = α∇²u
+- EQ033: Wave equation -> ∂²u/∂t² = c²∇²u
+
+VALUATION:
+- Score: 0.717
+- Tier: silver

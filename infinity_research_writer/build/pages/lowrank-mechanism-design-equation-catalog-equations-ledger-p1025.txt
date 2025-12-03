@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/lowrank-mechanism-design-equation-catalog-equations-ledger-p1025
+[ANCHOR] clarity #00C8FF link://clarity/lowrank-mechanism-design-equation-catalog-equations-ledger-p1025
+[ANCHOR] alignment #33CCCC link://alignment/lowrank-mechanism-design-equation-catalog-equations-ledger-p1025
+
+TITLE: lowrank-mechanism-design-equation-catalog-equations-ledger-p1025
+SUMMARY: Research scaffold for lowrank, mechanism-design, equation-catalog, equations-ledger.
+
+LINKS:
+- https://frontiersin.org/journals/neuroscience
+- https://plos.org/
+- https://health.harvard.edu/
+
+EQUATIONS:
+- EQ043: Chi-square distribution -> special gamma
+- EQ005: Spectral radius -> ρ(A) = max |λ_i(A)|
+- EQ003: Lagrangian -> L(x, λ) = f(x) + λ^T (Ax - b)
+
+VALUATION:
+- Score: 0.684
+- Tier: silver

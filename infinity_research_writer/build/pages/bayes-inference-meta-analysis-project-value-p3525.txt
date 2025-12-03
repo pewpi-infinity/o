@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/bayes-inference-meta-analysis-project-value-p3525
+[ANCHOR] clarity #00C8FF link://clarity/bayes-inference-meta-analysis-project-value-p3525
+[ANCHOR] alignment #33CCCC link://alignment/bayes-inference-meta-analysis-project-value-p3525
+
+TITLE: bayes-inference-meta-analysis-project-value-p3525
+SUMMARY: Research scaffold for bayes-inference, meta-analysis, project-value.
+
+LINKS:
+- https://synapse.org/
+
+
+
+EQUATIONS:
+- EQ035: Maxwell equations (set of 4)
+
+
+
+VALUATION:
+- Score: 0.487
+- Tier: bronze

@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/clarity-interfaces-steel-sustainability-risk-heatmaps-systems-failures-p82
+[ANCHOR] clarity #00C8FF link://clarity/clarity-interfaces-steel-sustainability-risk-heatmaps-systems-failures-p82
+[ANCHOR] learning #E6B800 link://learning/clarity-interfaces-steel-sustainability-risk-heatmaps-systems-failures-p82
+[ANCHOR] alignment #33CCCC link://alignment/clarity-interfaces-steel-sustainability-risk-heatmaps-systems-failures-p82
+
+TITLE: clarity-interfaces-steel-sustainability-risk-heatmaps-systems-failures-p82
+SUMMARY: Research scaffold for clarity-interfaces, steel-sustainability, risk-heatmaps, systems-failures.
+
+LINKS:
+- https://bl.uk/catalogues-and-collections
+
+
+
+EQUATIONS:
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+- EQ033: Wave equation -> ∂²u/∂t² = c²∇²u
+
+
+VALUATION:
+- Score: 0.565
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/source-diversity-seasonality-ensembles-p8606
+[ANCHOR] clarity #00C8FF link://clarity/source-diversity-seasonality-ensembles-p8606
+[ANCHOR] alignment #33CCCC link://alignment/source-diversity-seasonality-ensembles-p8606
+
+TITLE: source-diversity-seasonality-ensembles-p8606
+SUMMARY: Research scaffold for source-diversity, seasonality, ensembles.
+
+LINKS:
+- https://stoa.org/
+- https://jstor.org/open/
+- https://ancient.eu/
+
+EQUATIONS:
+- EQ050: Characteristic function -> E[e^{itX}]
+- EQ024: Gradient descent -> θ ← θ - α∇J(θ)
+
+
+VALUATION:
+- Score: 0.571
+- Tier: bronze

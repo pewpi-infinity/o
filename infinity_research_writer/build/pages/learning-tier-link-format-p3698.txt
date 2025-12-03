@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/learning-tier-link-format-p3698
+[ANCHOR] clarity #00C8FF link://clarity/learning-tier-link-format-p3698
+[ANCHOR] learning #E6B800 link://learning/learning-tier-link-format-p3698
+[ANCHOR] alignment #33CCCC link://alignment/learning-tier-link-format-p3698
+
+TITLE: learning-tier-link-format-p3698
+SUMMARY: Research scaffold for learning-tier, link-format.
+
+LINKS:
+- https://nature.com/subjects/evolution
+- https://openalex.org/
+
+
+EQUATIONS:
+- ...
+- EQ006: Stability -> Re(λ_i(A)) < 0 for continuous systems
+
+
+VALUATION:
+- Score: 0.541
+- Tier: bronze

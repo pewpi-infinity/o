@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/bayes-inference-meta-analysis-project-value-p8355
+[ANCHOR] clarity #00C8FF link://clarity/bayes-inference-meta-analysis-project-value-p8355
+[ANCHOR] alignment #33CCCC link://alignment/bayes-inference-meta-analysis-project-value-p8355
+
+TITLE: bayes-inference-meta-analysis-project-value-p8355
+SUMMARY: Research scaffold for bayes-inference, meta-analysis, project-value.
+
+LINKS:
+- https://nejm.org/
+- https://ncbi.nlm.nih.gov/pmc/
+- https://qmul.ac.uk/research
+
+EQUATIONS:
+- EQ041: Gaussian distribution -> (1/√2πσ²)e^{-(x-μ)²/2σ²}
+
+
+
+VALUATION:
+- Score: 0.553
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/signal-noise-health-equity-p9593
+[ANCHOR] clarity #00C8FF link://clarity/signal-noise-health-equity-p9593
+[ANCHOR] alignment #33CCCC link://alignment/signal-noise-health-equity-p9593
+
+TITLE: signal-noise-health-equity-p9593
+SUMMARY: Research scaffold for signal-noise, health-equity.
+
+LINKS:
+- https://re3data.org/
+- https://oxfordhandbooks.com/
+- https://loveandscience.com/
+
+EQUATIONS:
+- EQ045: Central limit theorem -> normalized sums→normal
+- EQ047: Chebyshev inequality -> P(|X-μ|≥kσ) ≤ 1/k²
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+
+VALUATION:
+- Score: 0.596
+- Tier: bronze

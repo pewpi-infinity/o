@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/tier-silver-provenance-signing-context-windows-p9794
+[ANCHOR] clarity #00C8FF link://clarity/tier-silver-provenance-signing-context-windows-p9794
+[ANCHOR] learning #E6B800 link://learning/tier-silver-provenance-signing-context-windows-p9794
+[ANCHOR] alignment #33CCCC link://alignment/tier-silver-provenance-signing-context-windows-p9794
+
+TITLE: tier-silver-provenance-signing-context-windows-p9794
+SUMMARY: Research scaffold for tier-silver, provenance-signing, context-windows.
+
+LINKS:
+- https://drugabuse.gov/
+- https://mit.edu/research/brain-and-cognitive-sciences
+- https://math.berkeley.edu/research
+
+EQUATIONS:
+- EQ025: Softmax -> exp(z_i) / Σ exp(z)
+- EQ020: PCA -> eigenvectors of covariance Σ
+
+
+VALUATION:
+- Score: 0.611
+- Tier: silver

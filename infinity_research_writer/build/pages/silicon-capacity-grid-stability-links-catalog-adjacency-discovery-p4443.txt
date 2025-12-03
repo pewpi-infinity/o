@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/silicon-capacity-grid-stability-links-catalog-adjacency-discovery-p4443
+[ANCHOR] capacity #00D67D link://capacity/silicon-capacity-grid-stability-links-catalog-adjacency-discovery-p4443
+[ANCHOR] clarity #00C8FF link://clarity/silicon-capacity-grid-stability-links-catalog-adjacency-discovery-p4443
+[ANCHOR] provenance #7D4DF2 link://provenance/silicon-capacity-grid-stability-links-catalog-adjacency-discovery-p4443
+[ANCHOR] risk #FF3B3B link://risk/silicon-capacity-grid-stability-links-catalog-adjacency-discovery-p4443
+
+TITLE: silicon-capacity-grid-stability-links-catalog-adjacency-discovery-p4443
+SUMMARY: Research scaffold for silicon-capacity, grid-stability, links-catalog, adjacency-discovery.
+
+LINKS:
+- https://sciencedirect.com/book-series
+
+
+
+EQUATIONS:
+- EQ025: Softmax -> exp(z_i) / Σ exp(z)
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+- ...
+
+VALUATION:
+- Score: 0.637
+- Tier: silver

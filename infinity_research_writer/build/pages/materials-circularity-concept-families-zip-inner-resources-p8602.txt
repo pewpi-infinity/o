@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/materials-circularity-concept-families-zip-inner-resources-p8602
+[ANCHOR] clarity #00C8FF link://clarity/materials-circularity-concept-families-zip-inner-resources-p8602
+[ANCHOR] alignment #33CCCC link://alignment/materials-circularity-concept-families-zip-inner-resources-p8602
+
+TITLE: materials-circularity-concept-families-zip-inner-resources-p8602
+SUMMARY: Research scaffold for materials-circularity, concept-families, zip-inner-resources.
+
+LINKS:
+- https://evolution.berkeley.edu/
+- https://salk.edu/research
+
+
+EQUATIONS:
+- EQ022: Logistic regression -> σ(wᵀx)
+
+
+
+VALUATION:
+- Score: 0.517
+- Tier: bronze

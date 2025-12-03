@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/transport-routing-scope-limits-query-intent-citation-style-p4011
+[ANCHOR] clarity #00C8FF link://clarity/transport-routing-scope-limits-query-intent-citation-style-p4011
+[ANCHOR] alignment #33CCCC link://alignment/transport-routing-scope-limits-query-intent-citation-style-p4011
+
+TITLE: transport-routing-scope-limits-query-intent-citation-style-p4011
+SUMMARY: Research scaffold for transport-routing, scope-limits, query-intent, citation-style.
+
+LINKS:
+- https://gapminder.org/data/
+- https://acs.org/
+- https://sagepub.com/en-us/nam/journals
+
+EQUATIONS:
+- EQ013: Markov chain stationary distribution -> π = πP
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+
+
+VALUATION:
+- Score: 0.641
+- Tier: silver

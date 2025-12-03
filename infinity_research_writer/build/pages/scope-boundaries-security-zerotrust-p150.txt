@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scope-boundaries-security-zerotrust-p150
+[ANCHOR] clarity #00C8FF link://clarity/scope-boundaries-security-zerotrust-p150
+[ANCHOR] alignment #33CCCC link://alignment/scope-boundaries-security-zerotrust-p150
+
+TITLE: scope-boundaries-security-zerotrust-p150
+SUMMARY: Research scaffold for scope-boundaries, security-zerotrust.
+
+LINKS:
+- https://chemspider.com/
+
+
+
+EQUATIONS:
+- EQ019: Lasso sparsity -> many β_j = 0
+- EQ045: Central limit theorem -> normalized sums→normal
+- EQ009: Queue M/M/1 -> ρ = λ/μ, W = 1/(μ - λ)
+
+VALUATION:
+- Score: 0.502
+- Tier: bronze

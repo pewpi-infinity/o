@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/concept-anchors-learning-pathways-p9031
+[ANCHOR] clarity #00C8FF link://clarity/concept-anchors-learning-pathways-p9031
+[ANCHOR] learning #E6B800 link://learning/concept-anchors-learning-pathways-p9031
+[ANCHOR] alignment #33CCCC link://alignment/concept-anchors-learning-pathways-p9031
+
+TITLE: concept-anchors-learning-pathways-p9031
+SUMMARY: Research scaffold for concept-anchors, learning-pathways.
+
+LINKS:
+- https://directory.doabooks.org/
+- https://cam.ac.uk/research
+- https://ionosphere.meteoromania.ro/
+
+EQUATIONS:
+- EQ034: Poisson equation -> ∇²u = -ρ/ε
+- EQ012: Auction revenue equivalence -> symmetric independent private values
+
+
+VALUATION:
+- Score: 0.549
+- Tier: bronze

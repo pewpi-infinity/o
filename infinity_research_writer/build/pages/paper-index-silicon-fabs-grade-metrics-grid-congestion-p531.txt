@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/paper-index-silicon-fabs-grade-metrics-grid-congestion-p531
+[ANCHOR] clarity #00C8FF link://clarity/paper-index-silicon-fabs-grade-metrics-grid-congestion-p531
+[ANCHOR] alignment #33CCCC link://alignment/paper-index-silicon-fabs-grade-metrics-grid-congestion-p531
+
+TITLE: paper-index-silicon-fabs-grade-metrics-grid-congestion-p531
+SUMMARY: Research scaffold for paper-index, silicon-fabs, grade-metrics, grid-congestion.
+
+LINKS:
+- https://heinonline.org/
+- https://orthopaedicresearchsociety.org/
+- https://mlr.press/
+
+EQUATIONS:
+- EQ030: Convolution -> (f*g)(t)=∫f(τ)g(t-τ)dτ
+- ...
+
+
+VALUATION:
+- Score: 0.612
+- Tier: silver

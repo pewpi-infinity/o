@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/bayes-inference-meta-analysis-project-value-p9895
+[ANCHOR] clarity #00C8FF link://clarity/bayes-inference-meta-analysis-project-value-p9895
+[ANCHOR] alignment #33CCCC link://alignment/bayes-inference-meta-analysis-project-value-p9895
+
+TITLE: bayes-inference-meta-analysis-project-value-p9895
+SUMMARY: Research scaffold for bayes-inference, meta-analysis, project-value.
+
+LINKS:
+- https://esa.int/
+- https://nature.com/subjects/biochemistry
+- https://worldbank.org/en/research
+
+EQUATIONS:
+- EQ044: Law of large numbers -> sample mean→μ
+- EQ024: Gradient descent -> θ ← θ - α∇J(θ)
+- EQ250: Robust optimization -> minimize max loss over uncertainty set U
+
+VALUATION:
+- Score: 0.644
+- Tier: silver

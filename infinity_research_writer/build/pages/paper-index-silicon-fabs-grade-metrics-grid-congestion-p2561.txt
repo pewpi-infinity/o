@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/paper-index-silicon-fabs-grade-metrics-grid-congestion-p2561
+[ANCHOR] clarity #00C8FF link://clarity/paper-index-silicon-fabs-grade-metrics-grid-congestion-p2561
+[ANCHOR] alignment #33CCCC link://alignment/paper-index-silicon-fabs-grade-metrics-grid-congestion-p2561
+
+TITLE: paper-index-silicon-fabs-grade-metrics-grid-congestion-p2561
+SUMMARY: Research scaffold for paper-index, silicon-fabs, grade-metrics, grid-congestion.
+
+LINKS:
+- https://nasa.gov/
+- https://psychedelics.ucsf.edu/research
+- https://louvre.fr/en/archives-and-documentation
+
+EQUATIONS:
+- EQ003: Lagrangian -> L(x, λ) = f(x) + λ^T (Ax - b)
+- EQ043: Chi-square distribution -> special gamma
+
+
+VALUATION:
+- Score: 0.662
+- Tier: silver

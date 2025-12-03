@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/provenance-tier-hash-ledger-grand-hash-p9229
+[ANCHOR] clarity #00C8FF link://clarity/provenance-tier-hash-ledger-grand-hash-p9229
+[ANCHOR] learning #E6B800 link://learning/provenance-tier-hash-ledger-grand-hash-p9229
+[ANCHOR] alignment #33CCCC link://alignment/provenance-tier-hash-ledger-grand-hash-p9229
+
+TITLE: provenance-tier-hash-ledger-grand-hash-p9229
+SUMMARY: Research scaffold for provenance-tier, hash-ledger, grand-hash.
+
+LINKS:
+- https://legifrance.gouv.fr/
+- https://conservation.org/research
+
+
+EQUATIONS:
+- EQ018: Ridge regression -> minimize ||y-Xβ||² + λ||β||²
+
+
+
+VALUATION:
+- Score: 0.556
+- Tier: bronze

@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p5338
+[ANCHOR] ethics #FF6A00 link://ethics/research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p5338
+[ANCHOR] clarity #00C8FF link://clarity/research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p5338
+[ANCHOR] provenance #7D4DF2 link://provenance/research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p5338
+[ANCHOR] scope #6066FF link://scope/research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p5338
+
+TITLE: research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p5338
+SUMMARY: Research scaffold for research-pipelines, simulation-labs, sensitivity-analysis, economy-open, education-governance.
+
+LINKS:
+- https://maps.org/research/
+- https://nature.com/subjects/neuroscience
+
+
+EQUATIONS:
+- EQ040: Rank-nullity -> dim(V)=rank+nullity
+- EQ031: Laplace transform -> ∫f(t)e^{-st}dt
+
+
+VALUATION:
+- Score: 0.662
+- Tier: silver

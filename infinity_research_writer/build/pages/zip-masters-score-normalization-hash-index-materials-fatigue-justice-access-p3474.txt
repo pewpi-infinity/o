@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/zip-masters-score-normalization-hash-index-materials-fatigue-justice-access-p3474
+[ANCHOR] ethics #FF6A00 link://ethics/zip-masters-score-normalization-hash-index-materials-fatigue-justice-access-p3474
+[ANCHOR] clarity #00C8FF link://clarity/zip-masters-score-normalization-hash-index-materials-fatigue-justice-access-p3474
+[ANCHOR] provenance #7D4DF2 link://provenance/zip-masters-score-normalization-hash-index-materials-fatigue-justice-access-p3474
+[ANCHOR] scope #6066FF link://scope/zip-masters-score-normalization-hash-index-materials-fatigue-justice-access-p3474
+
+TITLE: zip-masters-score-normalization-hash-index-materials-fatigue-justice-access-p3474
+SUMMARY: Research scaffold for zip-masters, score-normalization, hash-index, materials-fatigue, justice-access.
+
+LINKS:
+- https://royalsocietypublishing.org/
+- https://humanconnectome.org/
+
+
+EQUATIONS:
+- EQ001: Linear program objective -> maximize c^T x subject to Ax <= b, x >= 0
+- EQ014: Bayesian update -> p(θ|D) ∝ p(D|θ)p(θ)
+
+
+VALUATION:
+- Score: 0.693
+- Tier: silver

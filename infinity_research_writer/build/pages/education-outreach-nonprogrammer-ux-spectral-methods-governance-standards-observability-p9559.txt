@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/education-outreach-nonprogrammer-ux-spectral-methods-governance-standards-observability-p9559
+[ANCHOR] ethics #FF6A00 link://ethics/education-outreach-nonprogrammer-ux-spectral-methods-governance-standards-observability-p9559
+[ANCHOR] clarity #00C8FF link://clarity/education-outreach-nonprogrammer-ux-spectral-methods-governance-standards-observability-p9559
+[ANCHOR] provenance #7D4DF2 link://provenance/education-outreach-nonprogrammer-ux-spectral-methods-governance-standards-observability-p9559
+[ANCHOR] scope #6066FF link://scope/education-outreach-nonprogrammer-ux-spectral-methods-governance-standards-observability-p9559
+
+TITLE: education-outreach-nonprogrammer-ux-spectral-methods-governance-standards-observability-p9559
+SUMMARY: Research scaffold for education-outreach, nonprogrammer-ux, spectral-methods, governance-standards, observability.
+
+LINKS:
+- https://vellum.sas.ac.uk/
+- https://tudelft.nl/en/research
+
+
+EQUATIONS:
+- EQ005: Spectral radius -> ρ(A) = max |λ_i(A)|
+- EQ009: Queue M/M/1 -> ρ = λ/μ, W = 1/(μ - λ)
+- EQ043: Chi-square distribution -> special gamma
+
+VALUATION:
+- Score: 0.683
+- Tier: silver

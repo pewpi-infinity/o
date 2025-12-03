@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/project-index-materials-reuse-variance-analysis-p5037
+[ANCHOR] clarity #00C8FF link://clarity/project-index-materials-reuse-variance-analysis-p5037
+[ANCHOR] alignment #33CCCC link://alignment/project-index-materials-reuse-variance-analysis-p5037
+
+TITLE: project-index-materials-reuse-variance-analysis-p5037
+SUMMARY: Research scaffold for project-index, materials-reuse, variance-analysis.
+
+LINKS:
+- https://usgs.gov/products/publications
+- https://neuroscience.ox.ac.uk/research
+
+
+EQUATIONS:
+- EQ035: Maxwell equations (set of 4)
+
+
+
+VALUATION:
+- Score: 0.520
+- Tier: bronze

@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/confidence-bands-fusion-plasma-regularization-carbon-accounting-diffusion-models-p77
+[ANCHOR] capacity #00D67D link://capacity/confidence-bands-fusion-plasma-regularization-carbon-accounting-diffusion-models-p77
+[ANCHOR] clarity #00C8FF link://clarity/confidence-bands-fusion-plasma-regularization-carbon-accounting-diffusion-models-p77
+[ANCHOR] provenance #7D4DF2 link://provenance/confidence-bands-fusion-plasma-regularization-carbon-accounting-diffusion-models-p77
+[ANCHOR] risk #FF3B3B link://risk/confidence-bands-fusion-plasma-regularization-carbon-accounting-diffusion-models-p77
+
+TITLE: confidence-bands-fusion-plasma-regularization-carbon-accounting-diffusion-models-p77
+SUMMARY: Research scaffold for confidence-bands, fusion-plasma, regularization, carbon-accounting, diffusion-models.
+
+LINKS:
+- https://harvard.edu/research
+
+
+
+EQUATIONS:
+- EQ012: Auction revenue equivalence -> symmetric independent private values
+
+
+
+VALUATION:
+- Score: 0.607
+- Tier: silver

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/anchor-ledger-wind-grid-p8829
+[ANCHOR] clarity #00C8FF link://clarity/anchor-ledger-wind-grid-p8829
+[ANCHOR] alignment #33CCCC link://alignment/anchor-ledger-wind-grid-p8829
+
+TITLE: anchor-ledger-wind-grid-p8829
+SUMMARY: Research scaffold for anchor-ledger, wind-grid.
+
+LINKS:
+- https://biochemj.org/
+- https://springer.com/gp/mathematics
+
+
+EQUATIONS:
+- EQ049: Moment generating function -> M(t)=E[e^{tX}]
+- EQ044: Law of large numbers -> sample mean→μ
+
+
+VALUATION:
+- Score: 0.491
+- Tier: bronze

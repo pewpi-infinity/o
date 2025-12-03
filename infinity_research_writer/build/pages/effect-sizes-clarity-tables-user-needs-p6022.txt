@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/effect-sizes-clarity-tables-user-needs-p6022
+[ANCHOR] clarity #00C8FF link://clarity/effect-sizes-clarity-tables-user-needs-p6022
+[ANCHOR] learning #E6B800 link://learning/effect-sizes-clarity-tables-user-needs-p6022
+[ANCHOR] alignment #33CCCC link://alignment/effect-sizes-clarity-tables-user-needs-p6022
+
+TITLE: effect-sizes-clarity-tables-user-needs-p6022
+SUMMARY: Research scaffold for effect-sizes, clarity-tables, user-needs.
+
+LINKS:
+- https://unsw.edu.au/research
+- https://poker.srv.ualberta.ca/publications/
+
+
+EQUATIONS:
+- EQ039: Matrix invertibility -> det(A) ≠ 0
+- EQ024: Gradient descent -> θ ← θ - α∇J(θ)
+
+
+VALUATION:
+- Score: 0.556
+- Tier: bronze

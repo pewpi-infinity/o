@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/evidence-priority-ethics-alignment-p7308
+[ANCHOR] ethics #FF6A00 link://ethics/evidence-priority-ethics-alignment-p7308
+[ANCHOR] clarity #00C8FF link://clarity/evidence-priority-ethics-alignment-p7308
+[ANCHOR] provenance #7D4DF2 link://provenance/evidence-priority-ethics-alignment-p7308
+[ANCHOR] scope #6066FF link://scope/evidence-priority-ethics-alignment-p7308
+
+TITLE: evidence-priority-ethics-alignment-p7308
+SUMMARY: Research scaffold for evidence-priority, ethics-alignment.
+
+LINKS:
+- https://jamanetwork.com/journals/jamaoncology
+
+
+
+EQUATIONS:
+- EQ031: Laplace transform -> ∫f(t)e^{-st}dt
+- EQ036: Schrödinger equation -> iħ∂ψ/∂t = Hψ
+- EQ011: Mechanism incentive compatibility -> truth-telling maximizes utility
+
+VALUATION:
+- Score: 0.525
+- Tier: bronze

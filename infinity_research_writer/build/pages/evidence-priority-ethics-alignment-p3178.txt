@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/evidence-priority-ethics-alignment-p3178
+[ANCHOR] ethics #FF6A00 link://ethics/evidence-priority-ethics-alignment-p3178
+[ANCHOR] clarity #00C8FF link://clarity/evidence-priority-ethics-alignment-p3178
+[ANCHOR] provenance #7D4DF2 link://provenance/evidence-priority-ethics-alignment-p3178
+[ANCHOR] scope #6066FF link://scope/evidence-priority-ethics-alignment-p3178
+
+TITLE: evidence-priority-ethics-alignment-p3178
+SUMMARY: Research scaffold for evidence-priority, ethics-alignment.
+
+LINKS:
+- https://elifesciences.org/
+- https://data.un.org/
+- https://elsevier.com/catalog?producttype=journal
+
+EQUATIONS:
+- EQ048: Jensen's inequality -> φ(E[X]) ≤ E[φ(X)]
+- EQ026: KL divergence -> Σ p log(p/q)
+
+
+VALUATION:
+- Score: 0.572
+- Tier: bronze

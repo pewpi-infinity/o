@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/project-index-materials-reuse-variance-analysis-p8747
+[ANCHOR] clarity #00C8FF link://clarity/project-index-materials-reuse-variance-analysis-p8747
+[ANCHOR] alignment #33CCCC link://alignment/project-index-materials-reuse-variance-analysis-p8747
+
+TITLE: project-index-materials-reuse-variance-analysis-p8747
+SUMMARY: Research scaffold for project-index, materials-reuse, variance-analysis.
+
+LINKS:
+- https://doabooks.org/
+- https://nsf.gov/
+- https://bloodjournal.org/
+
+EQUATIONS:
+- EQ032: Heat equation -> ∂u/∂t = α∇²u
+- EQ048: Jensen's inequality -> φ(E[X]) ≤ E[φ(X)]
+- EQ023: Cross entropy -> -Σ y log p
+
+VALUATION:
+- Score: 0.594
+- Tier: bronze

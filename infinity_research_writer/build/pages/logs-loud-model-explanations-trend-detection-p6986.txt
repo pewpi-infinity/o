@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/logs-loud-model-explanations-trend-detection-p6986
+[ANCHOR] clarity #00C8FF link://clarity/logs-loud-model-explanations-trend-detection-p6986
+[ANCHOR] alignment #33CCCC link://alignment/logs-loud-model-explanations-trend-detection-p6986
+
+TITLE: logs-loud-model-explanations-trend-detection-p6986
+SUMMARY: Research scaffold for logs-loud, model-explanations, trend-detection.
+
+LINKS:
+- https://drugabuse.gov/publications
+- https://health.harvard.edu/
+- https://ncbi.nlm.nih.gov/books/
+
+EQUATIONS:
+- EQ030: Convolution -> (f*g)(t)=∫f(τ)g(t-τ)dτ
+- EQ046: Markov inequality -> P(X≥a) ≤ E[X]/a
+
+
+VALUATION:
+- Score: 0.601
+- Tier: silver

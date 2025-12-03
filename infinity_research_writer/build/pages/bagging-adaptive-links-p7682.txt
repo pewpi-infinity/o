@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/bagging-adaptive-links-p7682
+[ANCHOR] clarity #00C8FF link://clarity/bagging-adaptive-links-p7682
+[ANCHOR] alignment #33CCCC link://alignment/bagging-adaptive-links-p7682
+
+TITLE: bagging-adaptive-links-p7682
+SUMMARY: Research scaffold for bagging, adaptive-links.
+
+LINKS:
+- https://drugpolicy.org/resource-library
+- https://hathitrust.org/
+- https://nsidc.org/data
+
+EQUATIONS:
+- EQ041: Gaussian distribution -> (1/√2πσ²)e^{-(x-μ)²/2σ²}
+- EQ009: Queue M/M/1 -> ρ = λ/μ, W = 1/(μ - λ)
+
+
+VALUATION:
+- Score: 0.526
+- Tier: bronze

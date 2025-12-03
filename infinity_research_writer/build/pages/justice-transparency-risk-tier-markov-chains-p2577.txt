@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/justice-transparency-risk-tier-markov-chains-p2577
+[ANCHOR] ethics #FF6A00 link://ethics/justice-transparency-risk-tier-markov-chains-p2577
+[ANCHOR] clarity #00C8FF link://clarity/justice-transparency-risk-tier-markov-chains-p2577
+[ANCHOR] provenance #7D4DF2 link://provenance/justice-transparency-risk-tier-markov-chains-p2577
+[ANCHOR] scope #6066FF link://scope/justice-transparency-risk-tier-markov-chains-p2577
+
+TITLE: justice-transparency-risk-tier-markov-chains-p2577
+SUMMARY: Research scaffold for justice-transparency, risk-tier, markov-chains.
+
+LINKS:
+- https://princeton.edu/research
+- https://scholar.google.com/
+- https://humanbrainproject.eu/en/
+
+EQUATIONS:
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+- EQ011: Mechanism incentive compatibility -> truth-telling maximizes utility
+- EQ037: Eigenvalue problem -> Ax = λx
+
+VALUATION:
+- Score: 0.682
+- Tier: silver

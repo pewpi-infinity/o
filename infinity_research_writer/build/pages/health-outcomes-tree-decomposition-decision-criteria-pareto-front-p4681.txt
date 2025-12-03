@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/health-outcomes-tree-decomposition-decision-criteria-pareto-front-p4681
+[ANCHOR] clarity #00C8FF link://clarity/health-outcomes-tree-decomposition-decision-criteria-pareto-front-p4681
+[ANCHOR] alignment #33CCCC link://alignment/health-outcomes-tree-decomposition-decision-criteria-pareto-front-p4681
+
+TITLE: health-outcomes-tree-decomposition-decision-criteria-pareto-front-p4681
+SUMMARY: Research scaffold for health-outcomes, tree-decomposition, decision-criteria, pareto-front.
+
+LINKS:
+- https://cern.ch/
+- https://arxiv.org/
+- https://jstor.org/
+
+EQUATIONS:
+- EQ045: Central limit theorem -> normalized sums→normal
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+- EQ027: Entropy -> -Σ p log p
+
+VALUATION:
+- Score: 0.631
+- Tier: silver

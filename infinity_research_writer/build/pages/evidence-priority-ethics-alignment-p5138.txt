@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/evidence-priority-ethics-alignment-p5138
+[ANCHOR] ethics #FF6A00 link://ethics/evidence-priority-ethics-alignment-p5138
+[ANCHOR] clarity #00C8FF link://clarity/evidence-priority-ethics-alignment-p5138
+[ANCHOR] provenance #7D4DF2 link://provenance/evidence-priority-ethics-alignment-p5138
+[ANCHOR] scope #6066FF link://scope/evidence-priority-ethics-alignment-p5138
+
+TITLE: evidence-priority-ethics-alignment-p5138
+SUMMARY: Research scaffold for evidence-priority, ethics-alignment.
+
+LINKS:
+- https://jneurosci.org/
+
+
+
+EQUATIONS:
+- EQ017: L1 regularization -> minimize ||y-Xβ||² + λ||β||₁
+
+
+
+VALUATION:
+- Score: 0.485
+- Tier: bronze

@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/effect-sizes-clarity-tables-user-needs-p842
+[ANCHOR] clarity #00C8FF link://clarity/effect-sizes-clarity-tables-user-needs-p842
+[ANCHOR] learning #E6B800 link://learning/effect-sizes-clarity-tables-user-needs-p842
+[ANCHOR] alignment #33CCCC link://alignment/effect-sizes-clarity-tables-user-needs-p842
+
+TITLE: effect-sizes-clarity-tables-user-needs-p842
+SUMMARY: Research scaffold for effect-sizes, clarity-tables, user-needs.
+
+LINKS:
+- https://vellum.sas.ac.uk/
+- https://scopus.com/
+- https://nsidc.org/data
+
+EQUATIONS:
+- EQ033: Wave equation -> ∂²u/∂t² = c²∇²u
+- EQ250: Robust optimization -> minimize max loss over uncertainty set U
+
+
+VALUATION:
+- Score: 0.639
+- Tier: silver

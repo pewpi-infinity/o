@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scholar-grade-energy-curtailment-game-theory-p5787
+[ANCHOR] clarity #00C8FF link://clarity/scholar-grade-energy-curtailment-game-theory-p5787
+[ANCHOR] alignment #33CCCC link://alignment/scholar-grade-energy-curtailment-game-theory-p5787
+
+TITLE: scholar-grade-energy-curtailment-game-theory-p5787
+SUMMARY: Research scaffold for scholar-grade, energy-curtailment, game-theory.
+
+LINKS:
+- https://plos.org/
+- https://diabetesjournals.org/
+- https://wolframalpha.com/examples/mathematics
+
+EQUATIONS:
+- EQ049: Moment generating function -> M(t)=E[e^{tX}]
+- EQ040: Rank-nullity -> dim(V)=rank+nullity
+
+
+VALUATION:
+- Score: 0.571
+- Tier: bronze

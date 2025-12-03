@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/effect-sizes-clarity-tables-user-needs-p5532
+[ANCHOR] clarity #00C8FF link://clarity/effect-sizes-clarity-tables-user-needs-p5532
+[ANCHOR] learning #E6B800 link://learning/effect-sizes-clarity-tables-user-needs-p5532
+[ANCHOR] alignment #33CCCC link://alignment/effect-sizes-clarity-tables-user-needs-p5532
+
+TITLE: effect-sizes-clarity-tables-user-needs-p5532
+SUMMARY: Research scaffold for effect-sizes, clarity-tables, user-needs.
+
+LINKS:
+- https://conservation.org/research
+- https://soton.ac.uk/research
+- https://ssrn.com/
+
+EQUATIONS:
+- EQ009: Queue M/M/1 -> ρ = λ/μ, W = 1/(μ - λ)
+- EQ031: Laplace transform -> ∫f(t)e^{-st}dt
+
+
+VALUATION:
+- Score: 0.589
+- Tier: bronze

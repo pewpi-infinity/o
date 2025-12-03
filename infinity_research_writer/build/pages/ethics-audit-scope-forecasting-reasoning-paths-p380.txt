@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/ethics-audit-scope-forecasting-reasoning-paths-p380
+[ANCHOR] ethics #FF6A00 link://ethics/ethics-audit-scope-forecasting-reasoning-paths-p380
+[ANCHOR] clarity #00C8FF link://clarity/ethics-audit-scope-forecasting-reasoning-paths-p380
+[ANCHOR] provenance #7D4DF2 link://provenance/ethics-audit-scope-forecasting-reasoning-paths-p380
+[ANCHOR] scope #6066FF link://scope/ethics-audit-scope-forecasting-reasoning-paths-p380
+
+TITLE: ethics-audit-scope-forecasting-reasoning-paths-p380
+SUMMARY: Research scaffold for ethics-audit, scope-forecasting, reasoning-paths.
+
+LINKS:
+- https://science.org/
+- https://apa.org/research
+
+
+EQUATIONS:
+- EQ037: Eigenvalue problem -> Ax = λx
+
+
+
+VALUATION:
+- Score: 0.576
+- Tier: bronze

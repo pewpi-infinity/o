@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/nonconvex-landscapes-bias-detection-p318
+[ANCHOR] clarity #00C8FF link://clarity/nonconvex-landscapes-bias-detection-p318
+[ANCHOR] alignment #33CCCC link://alignment/nonconvex-landscapes-bias-detection-p318
+
+TITLE: nonconvex-landscapes-bias-detection-p318
+SUMMARY: Research scaffold for nonconvex-landscapes, bias-detection.
+
+LINKS:
+- https://mathworld.wolfram.com/
+- https://ncbi.nlm.nih.gov/
+- https://plos.org/
+
+EQUATIONS:
+- EQ039: Matrix invertibility -> det(A) ≠ 0
+- EQ035: Maxwell equations (set of 4)
+
+
+VALUATION:
+- Score: 0.528
+- Tier: bronze

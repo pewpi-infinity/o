@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/zip-masters-score-normalization-hash-index-materials-fatigue-justice-access-p4874
+[ANCHOR] ethics #FF6A00 link://ethics/zip-masters-score-normalization-hash-index-materials-fatigue-justice-access-p4874
+[ANCHOR] clarity #00C8FF link://clarity/zip-masters-score-normalization-hash-index-materials-fatigue-justice-access-p4874
+[ANCHOR] provenance #7D4DF2 link://provenance/zip-masters-score-normalization-hash-index-materials-fatigue-justice-access-p4874
+[ANCHOR] scope #6066FF link://scope/zip-masters-score-normalization-hash-index-materials-fatigue-justice-access-p4874
+
+TITLE: zip-masters-score-normalization-hash-index-materials-fatigue-justice-access-p4874
+SUMMARY: Research scaffold for zip-masters, score-normalization, hash-index, materials-fatigue, justice-access.
+
+LINKS:
+- https://agu.org/learn-and-develop/learn/earth-and-space-science-news
+- https://humanconnectome.org/
+- https://qmul.ac.uk/research
+
+EQUATIONS:
+- EQ019: Lasso sparsity -> many β_j = 0
+
+
+
+VALUATION:
+- Score: 0.697
+- Tier: silver

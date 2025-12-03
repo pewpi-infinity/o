@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/bagging-adaptive-links-p2852
+[ANCHOR] clarity #00C8FF link://clarity/bagging-adaptive-links-p2852
+[ANCHOR] alignment #33CCCC link://alignment/bagging-adaptive-links-p2852
+
+TITLE: bagging-adaptive-links-p2852
+SUMMARY: Research scaffold for bagging, adaptive-links.
+
+LINKS:
+- https://eol.org/
+
+
+
+EQUATIONS:
+- EQ003: Lagrangian -> L(x, λ) = f(x) + λ^T (Ax - b)
+- EQ037: Eigenvalue problem -> Ax = λx
+- EQ035: Maxwell equations (set of 4)
+
+VALUATION:
+- Score: 0.549
+- Tier: bronze

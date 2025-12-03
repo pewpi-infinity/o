@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/justice-transparency-risk-tier-markov-chains-p4537
+[ANCHOR] ethics #FF6A00 link://ethics/justice-transparency-risk-tier-markov-chains-p4537
+[ANCHOR] clarity #00C8FF link://clarity/justice-transparency-risk-tier-markov-chains-p4537
+[ANCHOR] provenance #7D4DF2 link://provenance/justice-transparency-risk-tier-markov-chains-p4537
+[ANCHOR] scope #6066FF link://scope/justice-transparency-risk-tier-markov-chains-p4537
+
+TITLE: justice-transparency-risk-tier-markov-chains-p4537
+SUMMARY: Research scaffold for justice-transparency, risk-tier, markov-chains.
+
+LINKS:
+- https://sciencedirect.com/book-series
+- https://springer.com/
+
+
+EQUATIONS:
+- EQ047: Chebyshev inequality -> P(|X-μ|≥kσ) ≤ 1/k²
+- EQ046: Markov inequality -> P(X≥a) ≤ E[X]/a
+- EQ036: Schrödinger equation -> iħ∂ψ/∂t = Hψ
+
+VALUATION:
+- Score: 0.629
+- Tier: silver

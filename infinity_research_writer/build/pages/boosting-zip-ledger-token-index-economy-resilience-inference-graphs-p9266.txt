@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/boosting-zip-ledger-token-index-economy-resilience-inference-graphs-p9266
+[ANCHOR] clarity #00C8FF link://clarity/boosting-zip-ledger-token-index-economy-resilience-inference-graphs-p9266
+[ANCHOR] alignment #33CCCC link://alignment/boosting-zip-ledger-token-index-economy-resilience-inference-graphs-p9266
+
+TITLE: boosting-zip-ledger-token-index-economy-resilience-inference-graphs-p9266
+SUMMARY: Research scaffold for boosting, zip-ledger, token-index, economy-resilience, inference-graphs.
+
+LINKS:
+- https://ncbi.nlm.nih.gov/books/
+- https://oi.uchicago.edu/research
+- https://psychologytoday.com/us/topics
+
+EQUATIONS:
+- EQ014: Bayesian update -> p(θ|D) ∝ p(D|θ)p(θ)
+
+
+
+VALUATION:
+- Score: 0.668
+- Tier: silver

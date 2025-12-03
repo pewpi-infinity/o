@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Quantum View</title>
+<script src="../js/quantum_view.js"></script>
+</head>
+
+<body>
+<h1>Quantum State Visualization</h1>
+<pre id="qv"></pre>
+
+<script>
+  let q = quantumView("WRITER_IDLE");
+  document.getElementById("qv").innerText =
+    JSON.stringify(q,null,2);
+</script>
+
+</body>
+</html>

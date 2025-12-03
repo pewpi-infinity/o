@@ -1,0 +1,24 @@
+{
+  "version": "1.0.1",
+  "palette": {
+    "clarity": "#00C8FF",
+    "ethics": "#FF6A00",
+    "provenance": "#7D4DF2",
+    "capacity": "#00D67D",
+    "risk": "#FF3B3B",
+    "scope": "#6066FF",
+    "alignment": "#33CCCC",
+    "learning": "#E6B800"
+  },
+  "families": {
+    "materials": ["hydrogen", "carbon", "co2", "graphene", "silicon", "ceramics", "steel"],
+    "energy": ["solar", "wind", "battery", "fusion", "grid", "hydro", "geothermal"],
+    "systems": ["governance", "economy", "education", "health", "transport", "justice", "security"]
+  },
+  "rules": {
+    "defaultAnchors": ["clarity", "provenance", "alignment"],
+    "linkStrategy": "token-first",
+    "linkFormat": "link://{anchor}/{term}",
+    "tagging": { "maxAnchorsPerPage": 5, "requireFamilies": true }
+  }
+}

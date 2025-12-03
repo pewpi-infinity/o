@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/learning-tier-link-format-p9508
+[ANCHOR] clarity #00C8FF link://clarity/learning-tier-link-format-p9508
+[ANCHOR] learning #E6B800 link://learning/learning-tier-link-format-p9508
+[ANCHOR] alignment #33CCCC link://alignment/learning-tier-link-format-p9508
+
+TITLE: learning-tier-link-format-p9508
+SUMMARY: Research scaffold for learning-tier, link-format.
+
+LINKS:
+- https://openalex.org/
+- https://oecd.org/statistics/
+- https://doaj.org/
+
+EQUATIONS:
+- EQ020: PCA -> eigenvectors of covariance Σ
+- EQ022: Logistic regression -> σ(wᵀx)
+- EQ017: L1 regularization -> minimize ||y-Xβ||² + λ||β||₁
+
+VALUATION:
+- Score: 0.585
+- Tier: bronze

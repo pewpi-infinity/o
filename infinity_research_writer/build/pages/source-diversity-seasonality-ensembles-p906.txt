@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/source-diversity-seasonality-ensembles-p906
+[ANCHOR] clarity #00C8FF link://clarity/source-diversity-seasonality-ensembles-p906
+[ANCHOR] alignment #33CCCC link://alignment/source-diversity-seasonality-ensembles-p906
+
+TITLE: source-diversity-seasonality-ensembles-p906
+SUMMARY: Research scaffold for source-diversity, seasonality, ensembles.
+
+LINKS:
+- https://mayoclinic.org/
+- https://ethz.ch/en/research.html
+- https://nber.org/
+
+EQUATIONS:
+- EQ031: Laplace transform -> ∫f(t)e^{-st}dt
+- EQ050: Characteristic function -> E[e^{itX}]
+
+
+VALUATION:
+- Score: 0.571
+- Tier: bronze

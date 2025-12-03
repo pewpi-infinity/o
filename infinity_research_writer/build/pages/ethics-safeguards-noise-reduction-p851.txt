@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/ethics-safeguards-noise-reduction-p851
+[ANCHOR] ethics #FF6A00 link://ethics/ethics-safeguards-noise-reduction-p851
+[ANCHOR] clarity #00C8FF link://clarity/ethics-safeguards-noise-reduction-p851
+[ANCHOR] provenance #7D4DF2 link://provenance/ethics-safeguards-noise-reduction-p851
+[ANCHOR] scope #6066FF link://scope/ethics-safeguards-noise-reduction-p851
+
+TITLE: ethics-safeguards-noise-reduction-p851
+SUMMARY: Research scaffold for ethics-safeguards, noise-reduction.
+
+LINKS:
+- https://jneurosci.org/
+- https://nature.com/
+
+
+EQUATIONS:
+- EQ044: Law of large numbers -> sample mean→μ
+- EQ008: Observability -> rank([C; CA; CA^2; ...; CA^{n-1}]) = n
+
+
+VALUATION:
+- Score: 0.534
+- Tier: bronze

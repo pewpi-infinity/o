@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/artifact-visibility-scholar-ledger-p8941
+[ANCHOR] clarity #00C8FF link://clarity/artifact-visibility-scholar-ledger-p8941
+[ANCHOR] alignment #33CCCC link://alignment/artifact-visibility-scholar-ledger-p8941
+
+TITLE: artifact-visibility-scholar-ledger-p8941
+SUMMARY: Research scaffold for artifact-visibility, scholar-ledger.
+
+LINKS:
+- https://ams.org/journals
+- https://maps.org/research/
+
+
+EQUATIONS:
+- EQ048: Jensen's inequality -> φ(E[X]) ≤ E[φ(X)]
+- EQ035: Maxwell equations (set of 4)
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+
+VALUATION:
+- Score: 0.567
+- Tier: bronze

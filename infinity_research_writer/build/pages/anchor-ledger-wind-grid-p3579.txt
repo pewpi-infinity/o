@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/anchor-ledger-wind-grid-p3579
+[ANCHOR] clarity #00C8FF link://clarity/anchor-ledger-wind-grid-p3579
+[ANCHOR] alignment #33CCCC link://alignment/anchor-ledger-wind-grid-p3579
+
+TITLE: anchor-ledger-wind-grid-p3579
+SUMMARY: Research scaffold for anchor-ledger, wind-grid.
+
+LINKS:
+- https://cern.ch/
+- https://ncbi.nlm.nih.gov/
+
+
+EQUATIONS:
+- EQ044: Law of large numbers -> sample mean→μ
+- EQ014: Bayesian update -> p(θ|D) ∝ p(D|θ)p(θ)
+
+
+VALUATION:
+- Score: 0.521
+- Tier: bronze

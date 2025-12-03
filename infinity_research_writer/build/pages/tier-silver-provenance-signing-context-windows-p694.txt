@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/tier-silver-provenance-signing-context-windows-p694
+[ANCHOR] clarity #00C8FF link://clarity/tier-silver-provenance-signing-context-windows-p694
+[ANCHOR] learning #E6B800 link://learning/tier-silver-provenance-signing-context-windows-p694
+[ANCHOR] alignment #33CCCC link://alignment/tier-silver-provenance-signing-context-windows-p694
+
+TITLE: tier-silver-provenance-signing-context-windows-p694
+SUMMARY: Research scaffold for tier-silver, provenance-signing, context-windows.
+
+LINKS:
+- https://ancientcoins.ca/
+- https://drugabuse.gov/
+- https://royalsocietypublishing.org/
+
+EQUATIONS:
+- EQ012: Auction revenue equivalence -> symmetric independent private values
+- EQ024: Gradient descent -> θ ← θ - α∇J(θ)
+
+
+VALUATION:
+- Score: 0.591
+- Tier: bronze

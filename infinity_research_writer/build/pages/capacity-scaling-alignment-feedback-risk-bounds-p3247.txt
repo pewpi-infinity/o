@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/capacity-scaling-alignment-feedback-risk-bounds-p3247
+[ANCHOR] capacity #00D67D link://capacity/capacity-scaling-alignment-feedback-risk-bounds-p3247
+[ANCHOR] clarity #00C8FF link://clarity/capacity-scaling-alignment-feedback-risk-bounds-p3247
+[ANCHOR] provenance #7D4DF2 link://provenance/capacity-scaling-alignment-feedback-risk-bounds-p3247
+[ANCHOR] risk #FF3B3B link://risk/capacity-scaling-alignment-feedback-risk-bounds-p3247
+
+TITLE: capacity-scaling-alignment-feedback-risk-bounds-p3247
+SUMMARY: Research scaffold for capacity-scaling, alignment-feedback, risk-bounds.
+
+LINKS:
+- https://evolution.berkeley.edu/
+- https://icpsr.umich.edu/
+- https://oapen.org/
+
+EQUATIONS:
+- EQ025: Softmax -> exp(z_i) / Σ exp(z)
+- EQ021: SVD -> A = UΣVᵀ
+
+
+VALUATION:
+- Score: 0.615
+- Tier: silver

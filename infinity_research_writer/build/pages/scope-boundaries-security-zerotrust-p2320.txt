@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scope-boundaries-security-zerotrust-p2320
+[ANCHOR] clarity #00C8FF link://clarity/scope-boundaries-security-zerotrust-p2320
+[ANCHOR] alignment #33CCCC link://alignment/scope-boundaries-security-zerotrust-p2320
+
+TITLE: scope-boundaries-security-zerotrust-p2320
+SUMMARY: Research scaffold for scope-boundaries, security-zerotrust.
+
+LINKS:
+- https://iuphar.org/
+- https://frontiersin.org/
+- https://doabooks.org/
+
+EQUATIONS:
+- EQ047: Chebyshev inequality -> P(|X-μ|≥kσ) ≤ 1/k²
+- EQ044: Law of large numbers -> sample mean→μ
+
+
+VALUATION:
+- Score: 0.529
+- Tier: bronze

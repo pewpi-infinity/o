@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/policy-impact-convexity-checks-p3957
+[ANCHOR] clarity #00C8FF link://clarity/policy-impact-convexity-checks-p3957
+[ANCHOR] alignment #33CCCC link://alignment/policy-impact-convexity-checks-p3957
+
+TITLE: policy-impact-convexity-checks-p3957
+SUMMARY: Research scaffold for policy-impact, convexity-checks.
+
+LINKS:
+- https://asa3.org/
+
+
+
+EQUATIONS:
+- EQ046: Markov inequality -> P(X≥a) ≤ E[X]/a
+- EQ013: Markov chain stationary distribution -> π = πP
+
+
+VALUATION:
+- Score: 0.524
+- Tier: bronze

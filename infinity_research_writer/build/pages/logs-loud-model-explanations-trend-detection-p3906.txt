@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/logs-loud-model-explanations-trend-detection-p3906
+[ANCHOR] clarity #00C8FF link://clarity/logs-loud-model-explanations-trend-detection-p3906
+[ANCHOR] alignment #33CCCC link://alignment/logs-loud-model-explanations-trend-detection-p3906
+
+TITLE: logs-loud-model-explanations-trend-detection-p3906
+SUMMARY: Research scaffold for logs-loud, model-explanations, trend-detection.
+
+LINKS:
+- https://wwf.panda.org/discover/our_focus/
+
+
+
+EQUATIONS:
+- EQ022: Logistic regression -> σ(wᵀx)
+- EQ040: Rank-nullity -> dim(V)=rank+nullity
+- EQ012: Auction revenue equivalence -> symmetric independent private values
+
+VALUATION:
+- Score: 0.524
+- Tier: bronze

@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/provenance-tier-hash-ledger-grand-hash-p899
+[ANCHOR] clarity #00C8FF link://clarity/provenance-tier-hash-ledger-grand-hash-p899
+[ANCHOR] learning #E6B800 link://learning/provenance-tier-hash-ledger-grand-hash-p899
+[ANCHOR] alignment #33CCCC link://alignment/provenance-tier-hash-ledger-grand-hash-p899
+
+TITLE: provenance-tier-hash-ledger-grand-hash-p899
+SUMMARY: Research scaffold for provenance-tier, hash-ledger, grand-hash.
+
+LINKS:
+- https://bonekey-ibms.mdc-berlin.de/
+- https://soton.ac.uk/research
+- https://medrxiv.org/
+
+EQUATIONS:
+- EQ025: Softmax -> exp(z_i) / Σ exp(z)
+
+
+
+VALUATION:
+- Score: 0.569
+- Tier: bronze

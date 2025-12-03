@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/energy-storage-auction-theory-ledger-proof-review-cycle-anomaly-detection-p5762
+[ANCHOR] clarity #00C8FF link://clarity/energy-storage-auction-theory-ledger-proof-review-cycle-anomaly-detection-p5762
+[ANCHOR] alignment #33CCCC link://alignment/energy-storage-auction-theory-ledger-proof-review-cycle-anomaly-detection-p5762
+
+TITLE: energy-storage-auction-theory-ledger-proof-review-cycle-anomaly-detection-p5762
+SUMMARY: Research scaffold for energy-storage, auction-theory, ledger-proof, review-cycle, anomaly-detection.
+
+LINKS:
+- https://berkeley.edu/research
+- https://openpsych.net/
+
+
+EQUATIONS:
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+- ...
+- EQ025: Softmax -> exp(z_i) / Σ exp(z)
+
+VALUATION:
+- Score: 0.643
+- Tier: silver

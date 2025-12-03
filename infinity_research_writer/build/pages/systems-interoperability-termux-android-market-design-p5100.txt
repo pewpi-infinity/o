@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/systems-interoperability-termux-android-market-design-p5100
+[ANCHOR] clarity #00C8FF link://clarity/systems-interoperability-termux-android-market-design-p5100
+[ANCHOR] alignment #33CCCC link://alignment/systems-interoperability-termux-android-market-design-p5100
+
+TITLE: systems-interoperability-termux-android-market-design-p5100
+SUMMARY: Research scaffold for systems-interoperability, termux-android, market-design.
+
+LINKS:
+- https://durham.ac.uk/research
+- https://biorxiv.org/
+
+
+EQUATIONS:
+- EQ010: Nash equilibrium -> best response mappings intersect
+- EQ041: Gaussian distribution -> (1/√2πσ²)e^{-(x-μ)²/2σ²}
+
+
+VALUATION:
+- Score: 0.540
+- Tier: bronze

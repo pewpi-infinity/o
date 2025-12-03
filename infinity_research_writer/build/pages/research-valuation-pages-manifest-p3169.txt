@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/research-valuation-pages-manifest-p3169
+[ANCHOR] clarity #00C8FF link://clarity/research-valuation-pages-manifest-p3169
+[ANCHOR] alignment #33CCCC link://alignment/research-valuation-pages-manifest-p3169
+
+TITLE: research-valuation-pages-manifest-p3169
+SUMMARY: Research scaffold for research-valuation, pages-manifest.
+
+LINKS:
+- https://ancientcoins.ca/
+
+
+
+EQUATIONS:
+- EQ031: Laplace transform -> ∫f(t)e^{-st}dt
+- ...
+- EQ005: Spectral radius -> ρ(A) = max |λ_i(A)|
+
+VALUATION:
+- Score: 0.485
+- Tier: bronze

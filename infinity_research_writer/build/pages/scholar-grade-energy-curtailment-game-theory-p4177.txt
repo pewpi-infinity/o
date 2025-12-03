@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scholar-grade-energy-curtailment-game-theory-p4177
+[ANCHOR] clarity #00C8FF link://clarity/scholar-grade-energy-curtailment-game-theory-p4177
+[ANCHOR] alignment #33CCCC link://alignment/scholar-grade-energy-curtailment-game-theory-p4177
+
+TITLE: scholar-grade-energy-curtailment-game-theory-p4177
+SUMMARY: Research scaffold for scholar-grade, energy-curtailment, game-theory.
+
+LINKS:
+- https://springer.com/gp/mathematics
+- https://jneuroengrehab.biomedcentral.com/
+
+
+EQUATIONS:
+- EQ011: Mechanism incentive compatibility -> truth-telling maximizes utility
+
+
+
+VALUATION:
+- Score: 0.517
+- Tier: bronze

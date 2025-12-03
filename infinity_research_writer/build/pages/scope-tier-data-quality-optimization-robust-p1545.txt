@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scope-tier-data-quality-optimization-robust-p1545
+[ANCHOR] clarity #00C8FF link://clarity/scope-tier-data-quality-optimization-robust-p1545
+[ANCHOR] alignment #33CCCC link://alignment/scope-tier-data-quality-optimization-robust-p1545
+
+TITLE: scope-tier-data-quality-optimization-robust-p1545
+SUMMARY: Research scaffold for scope-tier, data-quality, optimization-robust.
+
+LINKS:
+- https://doabooks.org/
+- https://oxfordacademic.com/
+
+
+EQUATIONS:
+- EQ032: Heat equation -> ∂u/∂t = α∇²u
+
+
+
+VALUATION:
+- Score: 0.520
+- Tier: bronze

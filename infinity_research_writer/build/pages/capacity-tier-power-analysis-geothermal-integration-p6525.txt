@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/capacity-tier-power-analysis-geothermal-integration-p6525
+[ANCHOR] capacity #00D67D link://capacity/capacity-tier-power-analysis-geothermal-integration-p6525
+[ANCHOR] clarity #00C8FF link://clarity/capacity-tier-power-analysis-geothermal-integration-p6525
+[ANCHOR] provenance #7D4DF2 link://provenance/capacity-tier-power-analysis-geothermal-integration-p6525
+[ANCHOR] risk #FF3B3B link://risk/capacity-tier-power-analysis-geothermal-integration-p6525
+
+TITLE: capacity-tier-power-analysis-geothermal-integration-p6525
+SUMMARY: Research scaffold for capacity-tier, power-analysis, geothermal-integration.
+
+LINKS:
+- https://theoi.com/
+
+
+
+EQUATIONS:
+- EQ007: Controllability -> rank([B, AB, A^2B, ..., A^{n-1}B]) = n
+- EQ031: Laplace transform -> ∫f(t)e^{-st}dt
+
+
+VALUATION:
+- Score: 0.574
+- Tier: bronze

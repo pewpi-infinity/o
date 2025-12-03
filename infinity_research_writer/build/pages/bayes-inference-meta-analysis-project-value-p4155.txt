@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/bayes-inference-meta-analysis-project-value-p4155
+[ANCHOR] clarity #00C8FF link://clarity/bayes-inference-meta-analysis-project-value-p4155
+[ANCHOR] alignment #33CCCC link://alignment/bayes-inference-meta-analysis-project-value-p4155
+
+TITLE: bayes-inference-meta-analysis-project-value-p4155
+SUMMARY: Research scaffold for bayes-inference, meta-analysis, project-value.
+
+LINKS:
+- https://stoa.org/
+- https://nature.com/subjects/physics
+
+
+EQUATIONS:
+- EQ037: Eigenvalue problem -> Ax = λx
+- EQ050: Characteristic function -> E[e^{itX}]
+
+
+VALUATION:
+- Score: 0.560
+- Tier: bronze

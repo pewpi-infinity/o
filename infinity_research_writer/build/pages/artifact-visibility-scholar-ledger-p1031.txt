@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/artifact-visibility-scholar-ledger-p1031
+[ANCHOR] clarity #00C8FF link://clarity/artifact-visibility-scholar-ledger-p1031
+[ANCHOR] alignment #33CCCC link://alignment/artifact-visibility-scholar-ledger-p1031
+
+TITLE: artifact-visibility-scholar-ledger-p1031
+SUMMARY: Research scaffold for artifact-visibility, scholar-ledger.
+
+LINKS:
+- https://nih.gov/
+- https://springer.com/gp/biomedicine
+- https://oapen.org/
+
+EQUATIONS:
+- EQ027: Entropy -> -Σ p log p
+- EQ024: Gradient descent -> θ ← θ - α∇J(θ)
+- ...
+
+VALUATION:
+- Score: 0.551
+- Tier: bronze

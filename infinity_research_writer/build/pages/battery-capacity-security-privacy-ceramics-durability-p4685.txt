@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/battery-capacity-security-privacy-ceramics-durability-p4685
+[ANCHOR] capacity #00D67D link://capacity/battery-capacity-security-privacy-ceramics-durability-p4685
+[ANCHOR] clarity #00C8FF link://clarity/battery-capacity-security-privacy-ceramics-durability-p4685
+[ANCHOR] provenance #7D4DF2 link://provenance/battery-capacity-security-privacy-ceramics-durability-p4685
+[ANCHOR] risk #FF3B3B link://risk/battery-capacity-security-privacy-ceramics-durability-p4685
+
+TITLE: battery-capacity-security-privacy-ceramics-durability-p4685
+SUMMARY: Research scaffold for battery-capacity, security-privacy, ceramics-durability.
+
+LINKS:
+- https://digital-scriptorium.org/
+- https://thelancet.com/
+
+
+EQUATIONS:
+- EQ046: Markov inequality -> P(X≥a) ≤ E[X]/a
+
+
+
+VALUATION:
+- Score: 0.586
+- Tier: bronze

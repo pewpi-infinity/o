@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/concept-anchors-learning-pathways-p9241
+[ANCHOR] clarity #00C8FF link://clarity/concept-anchors-learning-pathways-p9241
+[ANCHOR] learning #E6B800 link://learning/concept-anchors-learning-pathways-p9241
+[ANCHOR] alignment #33CCCC link://alignment/concept-anchors-learning-pathways-p9241
+
+TITLE: concept-anchors-learning-pathways-p9241
+SUMMARY: Research scaffold for concept-anchors, learning-pathways.
+
+LINKS:
+- https://who.int/research
+- https://mdpi.com/
+- https://sciencemag.org/journals/science-advances
+
+EQUATIONS:
+- EQ009: Queue M/M/1 -> ρ = λ/μ, W = 1/(μ - λ)
+- EQ044: Law of large numbers -> sample mean→μ
+- EQ027: Entropy -> -Σ p log p
+
+VALUATION:
+- Score: 0.569
+- Tier: bronze

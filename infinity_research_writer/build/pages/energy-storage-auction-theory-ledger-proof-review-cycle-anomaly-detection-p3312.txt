@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/energy-storage-auction-theory-ledger-proof-review-cycle-anomaly-detection-p3312
+[ANCHOR] clarity #00C8FF link://clarity/energy-storage-auction-theory-ledger-proof-review-cycle-anomaly-detection-p3312
+[ANCHOR] alignment #33CCCC link://alignment/energy-storage-auction-theory-ledger-proof-review-cycle-anomaly-detection-p3312
+
+TITLE: energy-storage-auction-theory-ledger-proof-review-cycle-anomaly-detection-p3312
+SUMMARY: Research scaffold for energy-storage, auction-theory, ledger-proof, review-cycle, anomaly-detection.
+
+LINKS:
+- https://harvard.edu/research
+- https://gazzaleylab.ucsf.edu/publications
+
+
+EQUATIONS:
+- EQ005: Spectral radius -> ρ(A) = max |λ_i(A)|
+- EQ007: Controllability -> rank([B, AB, A^2B, ..., A^{n-1}B]) = n
+- EQ044: Law of large numbers -> sample mean→μ
+
+VALUATION:
+- Score: 0.673
+- Tier: silver

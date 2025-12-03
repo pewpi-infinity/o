@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/solar-irradiance-iterative-updates-education-access-adaptive-ui-p7356
+[ANCHOR] clarity #00C8FF link://clarity/solar-irradiance-iterative-updates-education-access-adaptive-ui-p7356
+[ANCHOR] alignment #33CCCC link://alignment/solar-irradiance-iterative-updates-education-access-adaptive-ui-p7356
+
+TITLE: solar-irradiance-iterative-updates-education-access-adaptive-ui-p7356
+SUMMARY: Research scaffold for solar-irradiance, iterative-updates, education-access, adaptive-ui.
+
+LINKS:
+- https://openlibrary.org/
+- https://scriptorium.columbia.edu/
+
+
+EQUATIONS:
+- EQ023: Cross entropy -> -Σ y log p
+- EQ018: Ridge regression -> minimize ||y-Xβ||² + λ||β||²
+- EQ048: Jensen's inequality -> φ(E[X]) ≤ E[φ(X)]
+
+VALUATION:
+- Score: 0.614
+- Tier: silver

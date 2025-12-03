@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/diff-hashes-publish-gates-clarity-visuals-batch-hash-streaming-research-p6246
+[ANCHOR] clarity #00C8FF link://clarity/diff-hashes-publish-gates-clarity-visuals-batch-hash-streaming-research-p6246
+[ANCHOR] learning #E6B800 link://learning/diff-hashes-publish-gates-clarity-visuals-batch-hash-streaming-research-p6246
+[ANCHOR] alignment #33CCCC link://alignment/diff-hashes-publish-gates-clarity-visuals-batch-hash-streaming-research-p6246
+
+TITLE: diff-hashes-publish-gates-clarity-visuals-batch-hash-streaming-research-p6246
+SUMMARY: Research scaffold for diff-hashes, publish-gates, clarity-visuals, batch-hash, streaming-research.
+
+LINKS:
+- https://frontiersin.org/journals/neuroscience
+
+
+
+EQUATIONS:
+- EQ026: KL divergence -> Σ p log(p/q)
+
+
+
+VALUATION:
+- Score: 0.588
+- Tier: bronze

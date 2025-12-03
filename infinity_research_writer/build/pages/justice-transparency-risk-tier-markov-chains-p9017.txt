@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/justice-transparency-risk-tier-markov-chains-p9017
+[ANCHOR] ethics #FF6A00 link://ethics/justice-transparency-risk-tier-markov-chains-p9017
+[ANCHOR] clarity #00C8FF link://clarity/justice-transparency-risk-tier-markov-chains-p9017
+[ANCHOR] provenance #7D4DF2 link://provenance/justice-transparency-risk-tier-markov-chains-p9017
+[ANCHOR] scope #6066FF link://scope/justice-transparency-risk-tier-markov-chains-p9017
+
+TITLE: justice-transparency-risk-tier-markov-chains-p9017
+SUMMARY: Research scaffold for justice-transparency, risk-tier, markov-chains.
+
+LINKS:
+- https://neuroscience.ox.ac.uk/research
+- https://ncbi.nlm.nih.gov/
+- https://ipcc.ch/
+
+EQUATIONS:
+- EQ038: Determinant expansion -> Σ permutations
+- EQ004: KKT conditions -> ∇f(x*) + A^T λ* = 0, Ax* <= b, λ* >= 0, λ*^T (Ax* - b) = 0
+
+
+VALUATION:
+- Score: 0.662
+- Tier: silver

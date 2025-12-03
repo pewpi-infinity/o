@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/energy-storage-auction-theory-ledger-proof-review-cycle-anomaly-detection-p5692
+[ANCHOR] clarity #00C8FF link://clarity/energy-storage-auction-theory-ledger-proof-review-cycle-anomaly-detection-p5692
+[ANCHOR] alignment #33CCCC link://alignment/energy-storage-auction-theory-ledger-proof-review-cycle-anomaly-detection-p5692
+
+TITLE: energy-storage-auction-theory-ledger-proof-review-cycle-anomaly-detection-p5692
+SUMMARY: Research scaffold for energy-storage, auction-theory, ledger-proof, review-cycle, anomaly-detection.
+
+LINKS:
+- https://cambridge.org/core/what-we-publish/journals
+- https://cern.ch/
+
+
+EQUATIONS:
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+- EQ047: Chebyshev inequality -> P(|X-μ|≥kσ) ≤ 1/k²
+
+
+VALUATION:
+- Score: 0.653
+- Tier: silver

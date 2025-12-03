@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/capacity-tier-power-analysis-geothermal-integration-p7785
+[ANCHOR] capacity #00D67D link://capacity/capacity-tier-power-analysis-geothermal-integration-p7785
+[ANCHOR] clarity #00C8FF link://clarity/capacity-tier-power-analysis-geothermal-integration-p7785
+[ANCHOR] provenance #7D4DF2 link://provenance/capacity-tier-power-analysis-geothermal-integration-p7785
+[ANCHOR] risk #FF3B3B link://risk/capacity-tier-power-analysis-geothermal-integration-p7785
+
+TITLE: capacity-tier-power-analysis-geothermal-integration-p7785
+SUMMARY: Research scaffold for capacity-tier, power-analysis, geothermal-integration.
+
+LINKS:
+- https://worldbank.org/en/research
+- https://gutenberg.org/
+
+
+EQUATIONS:
+- EQ026: KL divergence -> Σ p log(p/q)
+- EQ048: Jensen's inequality -> φ(E[X]) ≤ E[φ(X)]
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+
+VALUATION:
+- Score: 0.647
+- Tier: silver

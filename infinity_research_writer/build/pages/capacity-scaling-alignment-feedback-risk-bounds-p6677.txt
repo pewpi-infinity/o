@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/capacity-scaling-alignment-feedback-risk-bounds-p6677
+[ANCHOR] capacity #00D67D link://capacity/capacity-scaling-alignment-feedback-risk-bounds-p6677
+[ANCHOR] clarity #00C8FF link://clarity/capacity-scaling-alignment-feedback-risk-bounds-p6677
+[ANCHOR] provenance #7D4DF2 link://provenance/capacity-scaling-alignment-feedback-risk-bounds-p6677
+[ANCHOR] risk #FF3B3B link://risk/capacity-scaling-alignment-feedback-risk-bounds-p6677
+
+TITLE: capacity-scaling-alignment-feedback-risk-bounds-p6677
+SUMMARY: Research scaffold for capacity-scaling, alignment-feedback, risk-bounds.
+
+LINKS:
+- https://diabetesjournals.org/
+
+
+
+EQUATIONS:
+- EQ006: Stability -> Re(λ_i(A)) < 0 for continuous systems
+
+
+
+VALUATION:
+- Score: 0.558
+- Tier: bronze

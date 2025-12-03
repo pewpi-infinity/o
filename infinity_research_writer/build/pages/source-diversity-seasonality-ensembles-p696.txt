@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/source-diversity-seasonality-ensembles-p696
+[ANCHOR] clarity #00C8FF link://clarity/source-diversity-seasonality-ensembles-p696
+[ANCHOR] alignment #33CCCC link://alignment/source-diversity-seasonality-ensembles-p696
+
+TITLE: source-diversity-seasonality-ensembles-p696
+SUMMARY: Research scaffold for source-diversity, seasonality, ensembles.
+
+LINKS:
+- https://ams.org/journals
+- https://libguides.bodleian.ox.ac.uk/numismatics
+
+
+EQUATIONS:
+- EQ018: Ridge regression -> minimize ||y-Xβ||² + λ||β||²
+
+
+
+VALUATION:
+- Score: 0.537
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/bayes-inference-meta-analysis-project-value-p5065
+[ANCHOR] clarity #00C8FF link://clarity/bayes-inference-meta-analysis-project-value-p5065
+[ANCHOR] alignment #33CCCC link://alignment/bayes-inference-meta-analysis-project-value-p5065
+
+TITLE: bayes-inference-meta-analysis-project-value-p5065
+SUMMARY: Research scaffold for bayes-inference, meta-analysis, project-value.
+
+LINKS:
+- https://drugabuse.gov/publications
+- https://gazzaleylab.ucsf.edu/publications
+- https://apa.org/pubs/databases
+
+EQUATIONS:
+- EQ003: Lagrangian -> L(x, λ) = f(x) + λ^T (Ax - b)
+- EQ038: Determinant expansion -> Σ permutations
+- EQ041: Gaussian distribution -> (1/√2πσ²)e^{-(x-μ)²/2σ²}
+
+VALUATION:
+- Score: 0.643
+- Tier: silver

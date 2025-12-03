@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/project-index-materials-reuse-variance-analysis-p8397
+[ANCHOR] clarity #00C8FF link://clarity/project-index-materials-reuse-variance-analysis-p8397
+[ANCHOR] alignment #33CCCC link://alignment/project-index-materials-reuse-variance-analysis-p8397
+
+TITLE: project-index-materials-reuse-variance-analysis-p8397
+SUMMARY: Research scaffold for project-index, materials-reuse, variance-analysis.
+
+LINKS:
+- https://data.europa.eu/
+- https://agu.org/Publish-with-AGU/Journals
+
+
+EQUATIONS:
+- EQ017: L1 regularization -> minimize ||y-Xβ||² + λ||β||₁
+- EQ027: Entropy -> -Σ p log p
+
+
+VALUATION:
+- Score: 0.540
+- Tier: bronze

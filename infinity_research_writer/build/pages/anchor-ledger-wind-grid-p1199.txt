@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/anchor-ledger-wind-grid-p1199
+[ANCHOR] clarity #00C8FF link://clarity/anchor-ledger-wind-grid-p1199
+[ANCHOR] alignment #33CCCC link://alignment/anchor-ledger-wind-grid-p1199
+
+TITLE: anchor-ledger-wind-grid-p1199
+SUMMARY: Research scaffold for anchor-ledger, wind-grid.
+
+LINKS:
+- https://math.berkeley.edu/research
+
+
+
+EQUATIONS:
+- EQ006: Stability -> Re(λ_i(A)) < 0 for continuous systems
+- EQ010: Nash equilibrium -> best response mappings intersect
+- EQ047: Chebyshev inequality -> P(|X-μ|≥kσ) ≤ 1/k²
+
+VALUATION:
+- Score: 0.508
+- Tier: bronze

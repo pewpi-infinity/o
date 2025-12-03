@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/solar-perovskite-trial-journal-replicability-p7924
+[ANCHOR] clarity #00C8FF link://clarity/solar-perovskite-trial-journal-replicability-p7924
+[ANCHOR] alignment #33CCCC link://alignment/solar-perovskite-trial-journal-replicability-p7924
+
+TITLE: solar-perovskite-trial-journal-replicability-p7924
+SUMMARY: Research scaffold for solar-perovskite, trial-journal, replicability.
+
+LINKS:
+- https://noaa.gov/
+
+
+
+EQUATIONS:
+- EQ035: Maxwell equations (set of 4)
+- EQ012: Auction revenue equivalence -> symmetric independent private values
+
+
+VALUATION:
+- Score: 0.505
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/user-config-hydro-optimization-needs-mapping-p8424
+[ANCHOR] clarity #00C8FF link://clarity/user-config-hydro-optimization-needs-mapping-p8424
+[ANCHOR] alignment #33CCCC link://alignment/user-config-hydro-optimization-needs-mapping-p8424
+
+TITLE: user-config-hydro-optimization-needs-mapping-p8424
+SUMMARY: Research scaffold for user-config, hydro-optimization, needs-mapping.
+
+LINKS:
+- https://oi.uchicago.edu/research
+
+
+
+EQUATIONS:
+- EQ029: Fourier transform -> F(ω)=∫ f(t)e^{-iωt}dt
+- EQ018: Ridge regression -> minimize ||y-Xβ||² + λ||β||²
+
+
+VALUATION:
+- Score: 0.527
+- Tier: bronze

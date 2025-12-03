@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/source-diversity-seasonality-ensembles-p4126
+[ANCHOR] clarity #00C8FF link://clarity/source-diversity-seasonality-ensembles-p4126
+[ANCHOR] alignment #33CCCC link://alignment/source-diversity-seasonality-ensembles-p4126
+
+TITLE: source-diversity-seasonality-ensembles-p4126
+SUMMARY: Research scaffold for source-diversity, seasonality, ensembles.
+
+LINKS:
+- https://congress.gov/
+
+
+
+EQUATIONS:
+- EQ006: Stability -> Re(λ_i(A)) < 0 for continuous systems
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+- EQ043: Chi-square distribution -> special gamma
+
+VALUATION:
+- Score: 0.554
+- Tier: bronze

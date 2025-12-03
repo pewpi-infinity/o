@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/effect-sizes-clarity-tables-user-needs-p7702
+[ANCHOR] clarity #00C8FF link://clarity/effect-sizes-clarity-tables-user-needs-p7702
+[ANCHOR] learning #E6B800 link://learning/effect-sizes-clarity-tables-user-needs-p7702
+[ANCHOR] alignment #33CCCC link://alignment/effect-sizes-clarity-tables-user-needs-p7702
+
+TITLE: effect-sizes-clarity-tables-user-needs-p7702
+SUMMARY: Research scaffold for effect-sizes, clarity-tables, user-needs.
+
+LINKS:
+- https://acs.org/content/acs/en/journals.html
+- https://nature.com/subjects/cardiology
+
+
+EQUATIONS:
+- EQ037: Eigenvalue problem -> Ax = λx
+- EQ049: Moment generating function -> M(t)=E[e^{tX}]
+
+
+VALUATION:
+- Score: 0.576
+- Tier: bronze

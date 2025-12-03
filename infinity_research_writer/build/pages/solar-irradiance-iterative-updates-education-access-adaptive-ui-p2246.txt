@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/solar-irradiance-iterative-updates-education-access-adaptive-ui-p2246
+[ANCHOR] clarity #00C8FF link://clarity/solar-irradiance-iterative-updates-education-access-adaptive-ui-p2246
+[ANCHOR] alignment #33CCCC link://alignment/solar-irradiance-iterative-updates-education-access-adaptive-ui-p2246
+
+TITLE: solar-irradiance-iterative-updates-education-access-adaptive-ui-p2246
+SUMMARY: Research scaffold for solar-irradiance, iterative-updates, education-access, adaptive-ui.
+
+LINKS:
+- https://stats.stackexchange.com/questions/tagged/crossvalidated
+- https://acs.org/content/acs/en/journals.html
+
+
+EQUATIONS:
+- EQ035: Maxwell equations (set of 4)
+
+
+
+VALUATION:
+- Score: 0.554
+- Tier: bronze

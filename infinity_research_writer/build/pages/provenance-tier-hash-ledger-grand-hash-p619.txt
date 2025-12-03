@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/provenance-tier-hash-ledger-grand-hash-p619
+[ANCHOR] clarity #00C8FF link://clarity/provenance-tier-hash-ledger-grand-hash-p619
+[ANCHOR] learning #E6B800 link://learning/provenance-tier-hash-ledger-grand-hash-p619
+[ANCHOR] alignment #33CCCC link://alignment/provenance-tier-hash-ledger-grand-hash-p619
+
+TITLE: provenance-tier-hash-ledger-grand-hash-p619
+SUMMARY: Research scaffold for provenance-tier, hash-ledger, grand-hash.
+
+LINKS:
+- https://pubchem.ncbi.nlm.nih.gov/
+- https://physics.aps.org/
+- https://eol.org/
+
+EQUATIONS:
+- EQ003: Lagrangian -> L(x, λ) = f(x) + λ^T (Ax - b)
+- EQ026: KL divergence -> Σ p log(p/q)
+- EQ005: Spectral radius -> ρ(A) = max |λ_i(A)|
+
+VALUATION:
+- Score: 0.659
+- Tier: silver

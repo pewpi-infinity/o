@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/hydrogen-ammonia-justice-appeals-alignment-protocols-p3590
+[ANCHOR] ethics #FF6A00 link://ethics/hydrogen-ammonia-justice-appeals-alignment-protocols-p3590
+[ANCHOR] capacity #00D67D link://capacity/hydrogen-ammonia-justice-appeals-alignment-protocols-p3590
+[ANCHOR] clarity #00C8FF link://clarity/hydrogen-ammonia-justice-appeals-alignment-protocols-p3590
+[ANCHOR] provenance #7D4DF2 link://provenance/hydrogen-ammonia-justice-appeals-alignment-protocols-p3590
+
+TITLE: hydrogen-ammonia-justice-appeals-alignment-protocols-p3590
+SUMMARY: Research scaffold for hydrogen-ammonia, justice-appeals, alignment-protocols.
+
+LINKS:
+- https://osf.io/
+- https://aip.org/
+- https://ucl.ac.uk/research
+
+EQUATIONS:
+- EQ038: Determinant expansion -> Σ permutations
+- EQ029: Fourier transform -> F(ω)=∫ f(t)e^{-iωt}dt
+- EQ001: Linear program objective -> maximize c^T x subject to Ax <= b, x >= 0
+
+VALUATION:
+- Score: 0.634
+- Tier: silver

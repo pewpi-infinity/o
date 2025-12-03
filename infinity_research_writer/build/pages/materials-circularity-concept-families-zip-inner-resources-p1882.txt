@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/materials-circularity-concept-families-zip-inner-resources-p1882
+[ANCHOR] clarity #00C8FF link://clarity/materials-circularity-concept-families-zip-inner-resources-p1882
+[ANCHOR] alignment #33CCCC link://alignment/materials-circularity-concept-families-zip-inner-resources-p1882
+
+TITLE: materials-circularity-concept-families-zip-inner-resources-p1882
+SUMMARY: Research scaffold for materials-circularity, concept-families, zip-inner-resources.
+
+LINKS:
+- https://ncbi.nlm.nih.gov/
+- https://osti.gov/
+
+
+EQUATIONS:
+- EQ035: Maxwell equations (set of 4)
+- EQ046: Markov inequality -> P(X≥a) ≤ E[X]/a
+- ...
+
+VALUATION:
+- Score: 0.587
+- Tier: bronze

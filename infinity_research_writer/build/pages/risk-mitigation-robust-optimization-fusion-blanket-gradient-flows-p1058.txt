@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/risk-mitigation-robust-optimization-fusion-blanket-gradient-flows-p1058
+[ANCHOR] capacity #00D67D link://capacity/risk-mitigation-robust-optimization-fusion-blanket-gradient-flows-p1058
+[ANCHOR] clarity #00C8FF link://clarity/risk-mitigation-robust-optimization-fusion-blanket-gradient-flows-p1058
+[ANCHOR] provenance #7D4DF2 link://provenance/risk-mitigation-robust-optimization-fusion-blanket-gradient-flows-p1058
+[ANCHOR] risk #FF3B3B link://risk/risk-mitigation-robust-optimization-fusion-blanket-gradient-flows-p1058
+
+TITLE: risk-mitigation-robust-optimization-fusion-blanket-gradient-flows-p1058
+SUMMARY: Research scaffold for risk-mitigation, robust-optimization, fusion-blanket, gradient-flows.
+
+LINKS:
+- https://worldbank.org/en/research
+- https://beckerfreidman.uchicago.edu/research/
+- https://math.berkeley.edu/research
+
+EQUATIONS:
+- EQ013: Markov chain stationary distribution -> π = πP
+- EQ032: Heat equation -> ∂u/∂t = α∇²u
+- EQ026: KL divergence -> Σ p log(p/q)
+
+VALUATION:
+- Score: 0.705
+- Tier: silver

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/nonconvex-landscapes-bias-detection-p8998
+[ANCHOR] clarity #00C8FF link://clarity/nonconvex-landscapes-bias-detection-p8998
+[ANCHOR] alignment #33CCCC link://alignment/nonconvex-landscapes-bias-detection-p8998
+
+TITLE: nonconvex-landscapes-bias-detection-p8998
+SUMMARY: Research scaffold for nonconvex-landscapes, bias-detection.
+
+LINKS:
+- https://math.mit.edu/research/
+- https://berkeley.edu/research
+- https://evolution.berkeley.edu/
+
+EQUATIONS:
+- EQ044: Law of large numbers -> sample mean→μ
+
+
+
+VALUATION:
+- Score: 0.508
+- Tier: bronze

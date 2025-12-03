@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/diff-hashes-publish-gates-clarity-visuals-batch-hash-streaming-research-p2466
+[ANCHOR] clarity #00C8FF link://clarity/diff-hashes-publish-gates-clarity-visuals-batch-hash-streaming-research-p2466
+[ANCHOR] learning #E6B800 link://learning/diff-hashes-publish-gates-clarity-visuals-batch-hash-streaming-research-p2466
+[ANCHOR] alignment #33CCCC link://alignment/diff-hashes-publish-gates-clarity-visuals-batch-hash-streaming-research-p2466
+
+TITLE: diff-hashes-publish-gates-clarity-visuals-batch-hash-streaming-research-p2466
+SUMMARY: Research scaffold for diff-hashes, publish-gates, clarity-visuals, batch-hash, streaming-research.
+
+LINKS:
+- https://neuromorphicsystems.org/
+- https://cochranelibrary.com/
+
+
+EQUATIONS:
+- EQ017: L1 regularization -> minimize ||y-Xβ||² + λ||β||₁
+- EQ033: Wave equation -> ∂²u/∂t² = c²∇²u
+
+
+VALUATION:
+- Score: 0.642
+- Tier: silver

@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p6541
+[ANCHOR] ethics #FF6A00 link://ethics/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p6541
+[ANCHOR] capacity #00D67D link://capacity/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p6541
+[ANCHOR] clarity #00C8FF link://clarity/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p6541
+[ANCHOR] provenance #7D4DF2 link://provenance/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p6541
+
+TITLE: ethics-consent-delta-logs-justice-restorative-graphene-lattice-p6541
+SUMMARY: Research scaffold for ethics-consent, delta-logs, justice-restorative, graphene-lattice.
+
+LINKS:
+- https://humanorigins.si.edu/
+
+
+
+EQUATIONS:
+- EQ250: Robust optimization -> minimize max loss over uncertainty set U
+
+
+
+VALUATION:
+- Score: 0.615
+- Tier: silver

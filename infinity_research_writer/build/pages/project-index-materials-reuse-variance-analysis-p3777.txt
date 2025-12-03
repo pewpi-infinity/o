@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/project-index-materials-reuse-variance-analysis-p3777
+[ANCHOR] clarity #00C8FF link://clarity/project-index-materials-reuse-variance-analysis-p3777
+[ANCHOR] alignment #33CCCC link://alignment/project-index-materials-reuse-variance-analysis-p3777
+
+TITLE: project-index-materials-reuse-variance-analysis-p3777
+SUMMARY: Research scaffold for project-index, materials-reuse, variance-analysis.
+
+LINKS:
+- https://asa3.org/
+
+
+
+EQUATIONS:
+- EQ019: Lasso sparsity -> many β_j = 0
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+- EQ044: Law of large numbers -> sample mean→μ
+
+VALUATION:
+- Score: 0.547
+- Tier: bronze

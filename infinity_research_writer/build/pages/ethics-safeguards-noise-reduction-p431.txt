@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/ethics-safeguards-noise-reduction-p431
+[ANCHOR] ethics #FF6A00 link://ethics/ethics-safeguards-noise-reduction-p431
+[ANCHOR] clarity #00C8FF link://clarity/ethics-safeguards-noise-reduction-p431
+[ANCHOR] provenance #7D4DF2 link://provenance/ethics-safeguards-noise-reduction-p431
+[ANCHOR] scope #6066FF link://scope/ethics-safeguards-noise-reduction-p431
+
+TITLE: ethics-safeguards-noise-reduction-p431
+SUMMARY: Research scaffold for ethics-safeguards, noise-reduction.
+
+LINKS:
+- https://alleninstitute.org/
+- https://mit.edu/research/brain-and-cognitive-sciences
+- https://ucl.ac.uk/research
+
+EQUATIONS:
+- EQ046: Markov inequality -> P(X≥a) ≤ E[X]/a
+- EQ024: Gradient descent -> θ ← θ - α∇J(θ)
+- EQ005: Spectral radius -> ρ(A) = max |λ_i(A)|
+
+VALUATION:
+- Score: 0.618
+- Tier: silver

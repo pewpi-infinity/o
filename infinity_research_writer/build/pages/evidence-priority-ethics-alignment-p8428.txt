@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/evidence-priority-ethics-alignment-p8428
+[ANCHOR] ethics #FF6A00 link://ethics/evidence-priority-ethics-alignment-p8428
+[ANCHOR] clarity #00C8FF link://clarity/evidence-priority-ethics-alignment-p8428
+[ANCHOR] provenance #7D4DF2 link://provenance/evidence-priority-ethics-alignment-p8428
+[ANCHOR] scope #6066FF link://scope/evidence-priority-ethics-alignment-p8428
+
+TITLE: evidence-priority-ethics-alignment-p8428
+SUMMARY: Research scaffold for evidence-priority, ethics-alignment.
+
+LINKS:
+- https://coursera.org/browse/math-and-logic
+
+
+
+EQUATIONS:
+- EQ014: Bayesian update -> p(θ|D) ∝ p(D|θ)p(θ)
+- EQ036: Schrödinger equation -> iħ∂ψ/∂t = Hψ
+
+
+VALUATION:
+- Score: 0.535
+- Tier: bronze

@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p9202
+[ANCHOR] clarity #00C8FF link://clarity/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p9202
+[ANCHOR] learning #E6B800 link://learning/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p9202
+[ANCHOR] alignment #33CCCC link://alignment/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p9202
+
+TITLE: trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p9202
+SUMMARY: Research scaffold for trial-evidence, clarity-tier, tier-gold, sparsity, security-threats.
+
+LINKS:
+- https://ourworldindata.org/
+- https://epfl.ch/en/research/
+- https://rsc.org/
+
+EQUATIONS:
+- EQ028: Mutual information -> I(X;Y) = H(X)+H(Y)-H(X,Y)
+- EQ034: Poisson equation -> ∇²u = -ρ/ε
+- EQ005: Spectral radius -> ρ(A) = max |λ_i(A)|
+
+VALUATION:
+- Score: 0.692
+- Tier: silver

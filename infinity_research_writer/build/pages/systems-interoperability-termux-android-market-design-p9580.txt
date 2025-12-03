@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/systems-interoperability-termux-android-market-design-p9580
+[ANCHOR] clarity #00C8FF link://clarity/systems-interoperability-termux-android-market-design-p9580
+[ANCHOR] alignment #33CCCC link://alignment/systems-interoperability-termux-android-market-design-p9580
+
+TITLE: systems-interoperability-termux-android-market-design-p9580
+SUMMARY: Research scaffold for systems-interoperability, termux-android, market-design.
+
+LINKS:
+- https://ukdataservice.ac.uk/
+- https://asa3.org/
+- https://springer.com/
+
+EQUATIONS:
+- EQ044: Law of large numbers -> sample mean→μ
+- EQ013: Markov chain stationary distribution -> π = πP
+
+
+VALUATION:
+- Score: 0.604
+- Tier: silver

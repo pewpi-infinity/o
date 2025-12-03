@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/anchor-ledger-wind-grid-p4489
+[ANCHOR] clarity #00C8FF link://clarity/anchor-ledger-wind-grid-p4489
+[ANCHOR] alignment #33CCCC link://alignment/anchor-ledger-wind-grid-p4489
+
+TITLE: anchor-ledger-wind-grid-p4489
+SUMMARY: Research scaffold for anchor-ledger, wind-grid.
+
+LINKS:
+- https://ncbi.nlm.nih.gov/Taxonomy/
+- https://sciencemag.org/journals/science-signaling
+
+
+EQUATIONS:
+- EQ027: Entropy -> -Σ p log p
+- EQ006: Stability -> Re(λ_i(A)) < 0 for continuous systems
+- EQ032: Heat equation -> ∂u/∂t = α∇²u
+
+VALUATION:
+- Score: 0.541
+- Tier: bronze

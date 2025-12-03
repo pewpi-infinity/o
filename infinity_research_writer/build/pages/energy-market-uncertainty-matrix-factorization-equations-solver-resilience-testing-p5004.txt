@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/energy-market-uncertainty-matrix-factorization-equations-solver-resilience-testing-p5004
+[ANCHOR] clarity #00C8FF link://clarity/energy-market-uncertainty-matrix-factorization-equations-solver-resilience-testing-p5004
+[ANCHOR] alignment #33CCCC link://alignment/energy-market-uncertainty-matrix-factorization-equations-solver-resilience-testing-p5004
+
+TITLE: energy-market-uncertainty-matrix-factorization-equations-solver-resilience-testing-p5004
+SUMMARY: Research scaffold for energy-market, uncertainty, matrix-factorization, equations-solver, resilience-testing.
+
+LINKS:
+- https://coursera.org/browse/math-and-logic
+- https://khanacademy.org/math
+- https://beckerfreidman.uchicago.edu/research/
+
+EQUATIONS:
+- EQ022: Logistic regression -> σ(wᵀx)
+- EQ010: Nash equilibrium -> best response mappings intersect
+
+
+VALUATION:
+- Score: 0.657
+- Tier: silver

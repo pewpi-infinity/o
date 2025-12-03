@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/evidence-priority-ethics-alignment-p3598
+[ANCHOR] ethics #FF6A00 link://ethics/evidence-priority-ethics-alignment-p3598
+[ANCHOR] clarity #00C8FF link://clarity/evidence-priority-ethics-alignment-p3598
+[ANCHOR] provenance #7D4DF2 link://provenance/evidence-priority-ethics-alignment-p3598
+[ANCHOR] scope #6066FF link://scope/evidence-priority-ethics-alignment-p3598
+
+TITLE: evidence-priority-ethics-alignment-p3598
+SUMMARY: Research scaffold for evidence-priority, ethics-alignment.
+
+LINKS:
+- https://ams.org/journals
+- https://osti.gov/
+- https://data.worldbank.org/
+
+EQUATIONS:
+- EQ037: Eigenvalue problem -> Ax = λx
+- EQ029: Fourier transform -> F(ω)=∫ f(t)e^{-iωt}dt
+- EQ023: Cross entropy -> -Σ y log p
+
+VALUATION:
+- Score: 0.612
+- Tier: silver

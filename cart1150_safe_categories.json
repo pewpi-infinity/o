@@ -1,0 +1,14 @@
+{
+  "forbidden_categories": [
+    "weapons",
+    "drugs",
+    "explosives",
+    "stolen_goods",
+    "explicit_content",
+    "fraud_tools",
+    "forbidden_documents",
+    "dangerous_materials",
+    "hate_material",
+    "restricted_chemicals"
+  ]
+}

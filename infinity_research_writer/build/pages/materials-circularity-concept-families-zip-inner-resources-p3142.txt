@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/materials-circularity-concept-families-zip-inner-resources-p3142
+[ANCHOR] clarity #00C8FF link://clarity/materials-circularity-concept-families-zip-inner-resources-p3142
+[ANCHOR] alignment #33CCCC link://alignment/materials-circularity-concept-families-zip-inner-resources-p3142
+
+TITLE: materials-circularity-concept-families-zip-inner-resources-p3142
+SUMMARY: Research scaffold for materials-circularity, concept-families, zip-inner-resources.
+
+LINKS:
+- https://data.worldbank.org/
+
+
+
+EQUATIONS:
+- EQ009: Queue M/M/1 -> ρ = λ/μ, W = 1/(μ - λ)
+- EQ250: Robust optimization -> minimize max loss over uncertainty set U
+
+
+VALUATION:
+- Score: 0.554
+- Tier: bronze

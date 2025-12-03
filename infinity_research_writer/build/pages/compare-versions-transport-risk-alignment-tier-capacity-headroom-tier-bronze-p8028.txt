@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/compare-versions-transport-risk-alignment-tier-capacity-headroom-tier-bronze-p8028
+[ANCHOR] capacity #00D67D link://capacity/compare-versions-transport-risk-alignment-tier-capacity-headroom-tier-bronze-p8028
+[ANCHOR] clarity #00C8FF link://clarity/compare-versions-transport-risk-alignment-tier-capacity-headroom-tier-bronze-p8028
+[ANCHOR] provenance #7D4DF2 link://provenance/compare-versions-transport-risk-alignment-tier-capacity-headroom-tier-bronze-p8028
+[ANCHOR] risk #FF3B3B link://risk/compare-versions-transport-risk-alignment-tier-capacity-headroom-tier-bronze-p8028
+
+TITLE: compare-versions-transport-risk-alignment-tier-capacity-headroom-tier-bronze-p8028
+SUMMARY: Research scaffold for compare-versions, transport-risk, alignment-tier, capacity-headroom, tier-bronze.
+
+LINKS:
+- https://icpsr.umich.edu/
+- https://data.europa.eu/
+
+
+EQUATIONS:
+- EQ044: Law of large numbers -> sample mean→μ
+
+
+
+VALUATION:
+- Score: 0.643
+- Tier: silver

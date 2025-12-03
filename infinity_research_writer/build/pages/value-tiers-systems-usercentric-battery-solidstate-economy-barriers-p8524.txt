@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/value-tiers-systems-usercentric-battery-solidstate-economy-barriers-p8524
+[ANCHOR] capacity #00D67D link://capacity/value-tiers-systems-usercentric-battery-solidstate-economy-barriers-p8524
+[ANCHOR] clarity #00C8FF link://clarity/value-tiers-systems-usercentric-battery-solidstate-economy-barriers-p8524
+[ANCHOR] provenance #7D4DF2 link://provenance/value-tiers-systems-usercentric-battery-solidstate-economy-barriers-p8524
+[ANCHOR] risk #FF3B3B link://risk/value-tiers-systems-usercentric-battery-solidstate-economy-barriers-p8524
+
+TITLE: value-tiers-systems-usercentric-battery-solidstate-economy-barriers-p8524
+SUMMARY: Research scaffold for value-tiers, systems-usercentric, battery-solidstate, economy-barriers.
+
+LINKS:
+- https://gazzaleylab.ucsf.edu/publications
+- https://jamanetwork.com/
+
+
+EQUATIONS:
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+
+
+
+VALUATION:
+- Score: 0.647
+- Tier: silver

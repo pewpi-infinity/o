@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/lowrank-mechanism-design-equation-catalog-equations-ledger-p6625
+[ANCHOR] clarity #00C8FF link://clarity/lowrank-mechanism-design-equation-catalog-equations-ledger-p6625
+[ANCHOR] alignment #33CCCC link://alignment/lowrank-mechanism-design-equation-catalog-equations-ledger-p6625
+
+TITLE: lowrank-mechanism-design-equation-catalog-equations-ledger-p6625
+SUMMARY: Research scaffold for lowrank, mechanism-design, equation-catalog, equations-ledger.
+
+LINKS:
+- https://royalsociety.org/journals/
+
+
+
+EQUATIONS:
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+- EQ019: Lasso sparsity -> many β_j = 0
+
+
+VALUATION:
+- Score: 0.597
+- Tier: bronze

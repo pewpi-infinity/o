@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/signal-noise-health-equity-p9663
+[ANCHOR] clarity #00C8FF link://clarity/signal-noise-health-equity-p9663
+[ANCHOR] alignment #33CCCC link://alignment/signal-noise-health-equity-p9663
+
+TITLE: signal-noise-health-equity-p9663
+SUMMARY: Research scaffold for signal-noise, health-equity.
+
+LINKS:
+- https://toxnet.nlm.nih.gov/
+- https://onlinelibrary.wiley.com/
+
+
+EQUATIONS:
+- EQ047: Chebyshev inequality -> P(|X-μ|≥kσ) ≤ 1/k²
+
+
+
+VALUATION:
+- Score: 0.473
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scope-tier-data-quality-optimization-robust-p4905
+[ANCHOR] clarity #00C8FF link://clarity/scope-tier-data-quality-optimization-robust-p4905
+[ANCHOR] alignment #33CCCC link://alignment/scope-tier-data-quality-optimization-robust-p4905
+
+TITLE: scope-tier-data-quality-optimization-robust-p4905
+SUMMARY: Research scaffold for scope-tier, data-quality, optimization-robust.
+
+LINKS:
+- https://journals.sagepub.com/home/jfm
+- https://nature.com/
+
+
+EQUATIONS:
+- EQ013: Markov chain stationary distribution -> π = πP
+
+
+
+VALUATION:
+- Score: 0.550
+- Tier: bronze

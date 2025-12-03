@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/concept-anchors-learning-pathways-p5811
+[ANCHOR] clarity #00C8FF link://clarity/concept-anchors-learning-pathways-p5811
+[ANCHOR] learning #E6B800 link://learning/concept-anchors-learning-pathways-p5811
+[ANCHOR] alignment #33CCCC link://alignment/concept-anchors-learning-pathways-p5811
+
+TITLE: concept-anchors-learning-pathways-p5811
+SUMMARY: Research scaffold for concept-anchors, learning-pathways.
+
+LINKS:
+- https://ideas.repec.org/
+- https://govinfo.gov/
+- https://alleninstitute.org/what-we-do/brain-science/
+
+EQUATIONS:
+- EQ250: Robust optimization -> minimize max loss over uncertainty set U
+- EQ032: Heat equation -> ∂u/∂t = α∇²u
+- EQ023: Cross entropy -> -Σ y log p
+
+VALUATION:
+- Score: 0.619
+- Tier: silver

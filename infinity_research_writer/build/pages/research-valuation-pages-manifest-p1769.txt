@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/research-valuation-pages-manifest-p1769
+[ANCHOR] clarity #00C8FF link://clarity/research-valuation-pages-manifest-p1769
+[ANCHOR] alignment #33CCCC link://alignment/research-valuation-pages-manifest-p1769
+
+TITLE: research-valuation-pages-manifest-p1769
+SUMMARY: Research scaffold for research-valuation, pages-manifest.
+
+LINKS:
+- https://nature.com/subjects/chemistry
+- https://nature.com/subjects/atmospheric-science
+- https://elifesciences.org/
+
+EQUATIONS:
+- EQ028: Mutual information -> I(X;Y) = H(X)+H(Y)-H(X,Y)
+- EQ008: Observability -> rank([C; CA; CA^2; ...; CA^{n-1}]) = n
+
+
+VALUATION:
+- Score: 0.532
+- Tier: bronze

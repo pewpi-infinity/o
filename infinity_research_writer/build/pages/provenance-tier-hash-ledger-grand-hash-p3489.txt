@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/provenance-tier-hash-ledger-grand-hash-p3489
+[ANCHOR] clarity #00C8FF link://clarity/provenance-tier-hash-ledger-grand-hash-p3489
+[ANCHOR] learning #E6B800 link://learning/provenance-tier-hash-ledger-grand-hash-p3489
+[ANCHOR] alignment #33CCCC link://alignment/provenance-tier-hash-ledger-grand-hash-p3489
+
+TITLE: provenance-tier-hash-ledger-grand-hash-p3489
+SUMMARY: Research scaffold for provenance-tier, hash-ledger, grand-hash.
+
+LINKS:
+- https://bloodjournal.org/
+- https://cambridge.org/core/what-we-publish/textbooks
+- https://manchester.ac.uk/research
+
+EQUATIONS:
+- EQ049: Moment generating function -> M(t)=E[e^{tX}]
+
+
+
+VALUATION:
+- Score: 0.569
+- Tier: bronze

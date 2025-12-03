@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/logs-loud-model-explanations-trend-detection-p8806
+[ANCHOR] clarity #00C8FF link://clarity/logs-loud-model-explanations-trend-detection-p8806
+[ANCHOR] alignment #33CCCC link://alignment/logs-loud-model-explanations-trend-detection-p8806
+
+TITLE: logs-loud-model-explanations-trend-detection-p8806
+SUMMARY: Research scaffold for logs-loud, model-explanations, trend-detection.
+
+LINKS:
+- https://pubmed.ncbi.nlm.nih.gov/
+- https://stanford.edu/research/
+
+
+EQUATIONS:
+- EQ043: Chi-square distribution -> special gamma
+- EQ020: PCA -> eigenvectors of covariance Σ
+- EQ025: Softmax -> exp(z_i) / Σ exp(z)
+
+VALUATION:
+- Score: 0.577
+- Tier: bronze

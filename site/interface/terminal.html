@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Infinity‑OS Terminal</title>
+    <link rel="stylesheet" href="../styles/inf_style.css">
+
+    <script src="../js/session.js"></script>
+    <script src="../js/terminal.js"></script>
+    <script src="../js/feed.js"></script>
+</head>
+<body onload="initTerminal()">
+
+<div class="terminal_wrapper">
+
+    <div class="terminal_header">
+        <h2>Infinity Terminal</h2>
+        <p id="current_user_display"></p>
+    </div>
+
+    <textarea id="terminal_input" rows="3"></textarea>
+    <button onclick="sendTerminalCmd()">Run</button>
+
+    <h3>Feed</h3>
+    <div id="feed_panel"></div>
+
+</div>
+
+</body>
+</html>

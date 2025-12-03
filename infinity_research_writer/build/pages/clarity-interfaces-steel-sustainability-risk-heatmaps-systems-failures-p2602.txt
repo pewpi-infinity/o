@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/clarity-interfaces-steel-sustainability-risk-heatmaps-systems-failures-p2602
+[ANCHOR] clarity #00C8FF link://clarity/clarity-interfaces-steel-sustainability-risk-heatmaps-systems-failures-p2602
+[ANCHOR] learning #E6B800 link://learning/clarity-interfaces-steel-sustainability-risk-heatmaps-systems-failures-p2602
+[ANCHOR] alignment #33CCCC link://alignment/clarity-interfaces-steel-sustainability-risk-heatmaps-systems-failures-p2602
+
+TITLE: clarity-interfaces-steel-sustainability-risk-heatmaps-systems-failures-p2602
+SUMMARY: Research scaffold for clarity-interfaces, steel-sustainability, risk-heatmaps, systems-failures.
+
+LINKS:
+- https://nsidc.org/data
+- https://journals.sagepub.com/home/jfm
+- https://terrytao.wordpress.com/
+
+EQUATIONS:
+- EQ011: Mechanism incentive compatibility -> truth-telling maximizes utility
+- EQ023: Cross entropy -> -Σ y log p
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+
+VALUATION:
+- Score: 0.652
+- Tier: silver

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/artifact-visibility-scholar-ledger-p7401
+[ANCHOR] clarity #00C8FF link://clarity/artifact-visibility-scholar-ledger-p7401
+[ANCHOR] alignment #33CCCC link://alignment/artifact-visibility-scholar-ledger-p7401
+
+TITLE: artifact-visibility-scholar-ledger-p7401
+SUMMARY: Research scaffold for artifact-visibility, scholar-ledger.
+
+LINKS:
+- https://eol.org/
+- https://poker.srv.ualberta.ca/publications/
+- https://noaa.gov/
+
+EQUATIONS:
+- EQ018: Ridge regression -> minimize ||y-Xβ||² + λ||β||²
+
+
+
+VALUATION:
+- Score: 0.531
+- Tier: bronze

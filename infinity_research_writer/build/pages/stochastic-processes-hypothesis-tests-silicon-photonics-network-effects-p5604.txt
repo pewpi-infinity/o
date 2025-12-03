@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/stochastic-processes-hypothesis-tests-silicon-photonics-network-effects-p5604
+[ANCHOR] clarity #00C8FF link://clarity/stochastic-processes-hypothesis-tests-silicon-photonics-network-effects-p5604
+[ANCHOR] alignment #33CCCC link://alignment/stochastic-processes-hypothesis-tests-silicon-photonics-network-effects-p5604
+
+TITLE: stochastic-processes-hypothesis-tests-silicon-photonics-network-effects-p5604
+SUMMARY: Research scaffold for stochastic-processes, hypothesis-tests, silicon-photonics, network-effects.
+
+LINKS:
+- https://icpsr.umich.edu/
+- https://nature.com/subjects/atmospheric-science
+
+
+EQUATIONS:
+- EQ007: Controllability -> rank([B, AB, A^2B, ..., A^{n-1}B]) = n
+- EQ013: Markov chain stationary distribution -> π = πP
+
+
+VALUATION:
+- Score: 0.637
+- Tier: silver

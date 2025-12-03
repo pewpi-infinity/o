@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/energy-efficiency-learning-curves-transport-autonomy-fusion-scope-source-weighting-p1118
+[ANCHOR] capacity #00D67D link://capacity/energy-efficiency-learning-curves-transport-autonomy-fusion-scope-source-weighting-p1118
+[ANCHOR] clarity #00C8FF link://clarity/energy-efficiency-learning-curves-transport-autonomy-fusion-scope-source-weighting-p1118
+[ANCHOR] provenance #7D4DF2 link://provenance/energy-efficiency-learning-curves-transport-autonomy-fusion-scope-source-weighting-p1118
+[ANCHOR] risk #FF3B3B link://risk/energy-efficiency-learning-curves-transport-autonomy-fusion-scope-source-weighting-p1118
+
+TITLE: energy-efficiency-learning-curves-transport-autonomy-fusion-scope-source-weighting-p1118
+SUMMARY: Research scaffold for energy-efficiency, learning-curves, transport-autonomy, fusion-scope, source-weighting.
+
+LINKS:
+- https://ukdataservice.ac.uk/
+- https://gapminder.org/data/
+
+
+EQUATIONS:
+- EQ250: Robust optimization -> minimize max loss over uncertainty set U
+- EQ001: Linear program objective -> maximize c^T x subject to Ax <= b, x >= 0
+- EQ039: Matrix invertibility -> det(A) ≠ 0
+
+VALUATION:
+- Score: 0.732
+- Tier: silver

@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/hydrogen-ammonia-justice-appeals-alignment-protocols-p5130
+[ANCHOR] ethics #FF6A00 link://ethics/hydrogen-ammonia-justice-appeals-alignment-protocols-p5130
+[ANCHOR] capacity #00D67D link://capacity/hydrogen-ammonia-justice-appeals-alignment-protocols-p5130
+[ANCHOR] clarity #00C8FF link://clarity/hydrogen-ammonia-justice-appeals-alignment-protocols-p5130
+[ANCHOR] provenance #7D4DF2 link://provenance/hydrogen-ammonia-justice-appeals-alignment-protocols-p5130
+
+TITLE: hydrogen-ammonia-justice-appeals-alignment-protocols-p5130
+SUMMARY: Research scaffold for hydrogen-ammonia, justice-appeals, alignment-protocols.
+
+LINKS:
+- https://soton.ac.uk/research
+- https://chemspider.com/
+
+
+EQUATIONS:
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+- EQ036: Schrödinger equation -> iħ∂ψ/∂t = Hψ
+
+
+VALUATION:
+- Score: 0.580
+- Tier: bronze

@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/ethics-audit-scope-forecasting-reasoning-paths-p5630
+[ANCHOR] ethics #FF6A00 link://ethics/ethics-audit-scope-forecasting-reasoning-paths-p5630
+[ANCHOR] clarity #00C8FF link://clarity/ethics-audit-scope-forecasting-reasoning-paths-p5630
+[ANCHOR] provenance #7D4DF2 link://provenance/ethics-audit-scope-forecasting-reasoning-paths-p5630
+[ANCHOR] scope #6066FF link://scope/ethics-audit-scope-forecasting-reasoning-paths-p5630
+
+TITLE: ethics-audit-scope-forecasting-reasoning-paths-p5630
+SUMMARY: Research scaffold for ethics-audit, scope-forecasting, reasoning-paths.
+
+LINKS:
+- https://cochranelibrary.com/
+- https://doabooks.org/
+- https://gazzaleylab.ucsf.edu/publications
+
+EQUATIONS:
+- EQ007: Controllability -> rank([B, AB, A^2B, ..., A^{n-1}B]) = n
+- EQ001: Linear program objective -> maximize c^T x subject to Ax <= b, x >= 0
+- EQ028: Mutual information -> I(X;Y) = H(X)+H(Y)-H(X,Y)
+
+VALUATION:
+- Score: 0.659
+- Tier: silver

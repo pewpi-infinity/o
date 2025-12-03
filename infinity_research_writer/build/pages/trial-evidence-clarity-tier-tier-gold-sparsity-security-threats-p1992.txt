@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p1992
+[ANCHOR] clarity #00C8FF link://clarity/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p1992
+[ANCHOR] learning #E6B800 link://learning/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p1992
+[ANCHOR] alignment #33CCCC link://alignment/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p1992
+
+TITLE: trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p1992
+SUMMARY: Research scaffold for trial-evidence, clarity-tier, tier-gold, sparsity, security-threats.
+
+LINKS:
+- https://kcl.ac.uk/research
+- https://mdpi.com/
+- https://europa.eu/european-union/documents-publications_en
+
+EQUATIONS:
+- EQ006: Stability -> Re(λ_i(A)) < 0 for continuous systems
+- EQ032: Heat equation -> ∂u/∂t = α∇²u
+
+
+VALUATION:
+- Score: 0.702
+- Tier: silver

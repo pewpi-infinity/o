@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/project-index-materials-reuse-variance-analysis-p9307
+[ANCHOR] clarity #00C8FF link://clarity/project-index-materials-reuse-variance-analysis-p9307
+[ANCHOR] alignment #33CCCC link://alignment/project-index-materials-reuse-variance-analysis-p9307
+
+TITLE: project-index-materials-reuse-variance-analysis-p9307
+SUMMARY: Research scaffold for project-index, materials-reuse, variance-analysis.
+
+LINKS:
+- https://cell.com/trends/biochemical-sciences
+- https://nature.com/nrd/
+- https://sciencedirect.com/journal/earth-and-planetary-science-letters
+
+EQUATIONS:
+- EQ043: Chi-square distribution -> special gamma
+
+
+
+VALUATION:
+- Score: 0.553
+- Tier: bronze

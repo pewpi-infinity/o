@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/solar-perovskite-trial-journal-replicability-p7994
+[ANCHOR] clarity #00C8FF link://clarity/solar-perovskite-trial-journal-replicability-p7994
+[ANCHOR] alignment #33CCCC link://alignment/solar-perovskite-trial-journal-replicability-p7994
+
+TITLE: solar-perovskite-trial-journal-replicability-p7994
+SUMMARY: Research scaffold for solar-perovskite, trial-journal, replicability.
+
+LINKS:
+- https://biorxiv.org/
+- https://ourworldindata.org/
+- https://pubs.acs.org/journal/jpccck
+
+EQUATIONS:
+- EQ250: Robust optimization -> minimize max loss over uncertainty set U
+
+
+
+VALUATION:
+- Score: 0.602
+- Tier: silver

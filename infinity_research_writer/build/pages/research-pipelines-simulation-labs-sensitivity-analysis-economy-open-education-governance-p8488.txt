@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p8488
+[ANCHOR] ethics #FF6A00 link://ethics/research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p8488
+[ANCHOR] clarity #00C8FF link://clarity/research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p8488
+[ANCHOR] provenance #7D4DF2 link://provenance/research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p8488
+[ANCHOR] scope #6066FF link://scope/research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p8488
+
+TITLE: research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p8488
+SUMMARY: Research scaffold for research-pipelines, simulation-labs, sensitivity-analysis, economy-open, education-governance.
+
+LINKS:
+- https://link.springer.com/journal/10896
+
+
+
+EQUATIONS:
+- EQ017: L1 regularization -> minimize ||y-Xβ||² + λ||β||₁
+- EQ044: Law of large numbers -> sample mean→μ
+- EQ033: Wave equation -> ∂²u/∂t² = c²∇²u
+
+VALUATION:
+- Score: 0.648
+- Tier: silver

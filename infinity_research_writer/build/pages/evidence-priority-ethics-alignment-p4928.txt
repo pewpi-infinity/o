@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/evidence-priority-ethics-alignment-p4928
+[ANCHOR] ethics #FF6A00 link://ethics/evidence-priority-ethics-alignment-p4928
+[ANCHOR] clarity #00C8FF link://clarity/evidence-priority-ethics-alignment-p4928
+[ANCHOR] provenance #7D4DF2 link://provenance/evidence-priority-ethics-alignment-p4928
+[ANCHOR] scope #6066FF link://scope/evidence-priority-ethics-alignment-p4928
+
+TITLE: evidence-priority-ethics-alignment-p4928
+SUMMARY: Research scaffold for evidence-priority, ethics-alignment.
+
+LINKS:
+- https://diabetesjournals.org/
+- https://royalsociety.org/journals/
+
+
+EQUATIONS:
+- EQ011: Mechanism incentive compatibility -> truth-telling maximizes utility
+- EQ029: Fourier transform -> F(ω)=∫ f(t)e^{-iωt}dt
+
+
+VALUATION:
+- Score: 0.539
+- Tier: bronze

@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/ethics-safeguards-noise-reduction-p6241
+[ANCHOR] ethics #FF6A00 link://ethics/ethics-safeguards-noise-reduction-p6241
+[ANCHOR] clarity #00C8FF link://clarity/ethics-safeguards-noise-reduction-p6241
+[ANCHOR] provenance #7D4DF2 link://provenance/ethics-safeguards-noise-reduction-p6241
+[ANCHOR] scope #6066FF link://scope/ethics-safeguards-noise-reduction-p6241
+
+TITLE: ethics-safeguards-noise-reduction-p6241
+SUMMARY: Research scaffold for ethics-safeguards, noise-reduction.
+
+LINKS:
+- https://epfl.ch/en/research/
+
+
+
+EQUATIONS:
+- EQ023: Cross entropy -> -Σ y log p
+- EQ015: Power of hypothesis test -> 1 - β
+
+
+VALUATION:
+- Score: 0.501
+- Tier: bronze

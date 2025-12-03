@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/artifact-visibility-scholar-ledger-p3971
+[ANCHOR] clarity #00C8FF link://clarity/artifact-visibility-scholar-ledger-p3971
+[ANCHOR] alignment #33CCCC link://alignment/artifact-visibility-scholar-ledger-p3971
+
+TITLE: artifact-visibility-scholar-ledger-p3971
+SUMMARY: Research scaffold for artifact-visibility, scholar-ledger.
+
+LINKS:
+- https://congress.gov/
+- https://nih.gov/brain-initiative
+
+
+EQUATIONS:
+- EQ033: Wave equation -> ∂²u/∂t² = c²∇²u
+- EQ250: Robust optimization -> minimize max loss over uncertainty set U
+- EQ026: KL divergence -> Σ p log(p/q)
+
+VALUATION:
+- Score: 0.567
+- Tier: bronze

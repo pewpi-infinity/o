@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p8572
+[ANCHOR] clarity #00C8FF link://clarity/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p8572
+[ANCHOR] learning #E6B800 link://learning/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p8572
+[ANCHOR] alignment #33CCCC link://alignment/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p8572
+
+TITLE: trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p8572
+SUMMARY: Research scaffold for trial-evidence, clarity-tier, tier-gold, sparsity, security-threats.
+
+LINKS:
+- https://asa3.org/
+- https://archeology.uiowa.edu/
+
+
+EQUATIONS:
+- EQ014: Bayesian update -> p(θ|D) ∝ p(D|θ)p(θ)
+
+
+
+VALUATION:
+- Score: 0.649
+- Tier: silver

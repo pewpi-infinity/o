@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scope-boundaries-security-zerotrust-p6380
+[ANCHOR] clarity #00C8FF link://clarity/scope-boundaries-security-zerotrust-p6380
+[ANCHOR] alignment #33CCCC link://alignment/scope-boundaries-security-zerotrust-p6380
+
+TITLE: scope-boundaries-security-zerotrust-p6380
+SUMMARY: Research scaffold for scope-boundaries, security-zerotrust.
+
+LINKS:
+- https://link.springer.com/journal/10896
+- https://anu.edu.au/research
+
+
+EQUATIONS:
+- EQ029: Fourier transform -> F(ω)=∫ f(t)e^{-iωt}dt
+- EQ032: Heat equation -> ∂u/∂t = α∇²u
+
+
+VALUATION:
+- Score: 0.496
+- Tier: bronze

@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p1921
+[ANCHOR] ethics #FF6A00 link://ethics/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p1921
+[ANCHOR] capacity #00D67D link://capacity/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p1921
+[ANCHOR] clarity #00C8FF link://clarity/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p1921
+[ANCHOR] provenance #7D4DF2 link://provenance/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p1921
+
+TITLE: ethics-consent-delta-logs-justice-restorative-graphene-lattice-p1921
+SUMMARY: Research scaffold for ethics-consent, delta-logs, justice-restorative, graphene-lattice.
+
+LINKS:
+- https://ox.ac.uk/research
+
+
+
+EQUATIONS:
+- EQ028: Mutual information -> I(X;Y) = H(X)+H(Y)-H(X,Y)
+- EQ045: Central limit theorem -> normalized sums→normal
+- EQ035: Maxwell equations (set of 4)
+
+VALUATION:
+- Score: 0.605
+- Tier: silver

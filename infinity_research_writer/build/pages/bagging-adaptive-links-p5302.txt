@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/bagging-adaptive-links-p5302
+[ANCHOR] clarity #00C8FF link://clarity/bagging-adaptive-links-p5302
+[ANCHOR] alignment #33CCCC link://alignment/bagging-adaptive-links-p5302
+
+TITLE: bagging-adaptive-links-p5302
+SUMMARY: Research scaffold for bagging, adaptive-links.
+
+LINKS:
+- https://acs.org/content/acs/en/journals.html
+
+
+
+EQUATIONS:
+- EQ038: Determinant expansion -> Σ permutations
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+- EQ022: Logistic regression -> σ(wᵀx)
+
+VALUATION:
+- Score: 0.479
+- Tier: bronze

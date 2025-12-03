@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/grand-master-ethics-tier-reason-checklist-tamper-evident-p9373
+[ANCHOR] ethics #FF6A00 link://ethics/grand-master-ethics-tier-reason-checklist-tamper-evident-p9373
+[ANCHOR] clarity #00C8FF link://clarity/grand-master-ethics-tier-reason-checklist-tamper-evident-p9373
+[ANCHOR] provenance #7D4DF2 link://provenance/grand-master-ethics-tier-reason-checklist-tamper-evident-p9373
+[ANCHOR] scope #6066FF link://scope/grand-master-ethics-tier-reason-checklist-tamper-evident-p9373
+
+TITLE: grand-master-ethics-tier-reason-checklist-tamper-evident-p9373
+SUMMARY: Research scaffold for grand-master, ethics-tier, reason-checklist, tamper-evident.
+
+LINKS:
+- https://figshare.com/
+- https://nature.com/
+- https://neuromorphicsystems.org/
+
+EQUATIONS:
+- EQ032: Heat equation -> ∂u/∂t = α∇²u
+
+
+
+VALUATION:
+- Score: 0.632
+- Tier: silver

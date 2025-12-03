@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/signal-noise-health-equity-p3293
+[ANCHOR] clarity #00C8FF link://clarity/signal-noise-health-equity-p3293
+[ANCHOR] alignment #33CCCC link://alignment/signal-noise-health-equity-p3293
+
+TITLE: signal-noise-health-equity-p3293
+SUMMARY: Research scaffold for signal-noise, health-equity.
+
+LINKS:
+- https://cdc.gov/
+- https://soton.ac.uk/research
+- https://orthopaedicresearchsociety.org/
+
+EQUATIONS:
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+- EQ015: Power of hypothesis test -> 1 - β
+
+
+VALUATION:
+- Score: 0.526
+- Tier: bronze

@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p1851
+[ANCHOR] ethics #FF6A00 link://ethics/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p1851
+[ANCHOR] capacity #00D67D link://capacity/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p1851
+[ANCHOR] clarity #00C8FF link://clarity/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p1851
+[ANCHOR] provenance #7D4DF2 link://provenance/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p1851
+
+TITLE: ethics-consent-delta-logs-justice-restorative-graphene-lattice-p1851
+SUMMARY: Research scaffold for ethics-consent, delta-logs, justice-restorative, graphene-lattice.
+
+LINKS:
+- https://bloodjournal.org/
+
+
+
+EQUATIONS:
+- EQ038: Determinant expansion -> Σ permutations
+- EQ013: Markov chain stationary distribution -> π = πP
+- EQ048: Jensen's inequality -> φ(E[X]) ≤ E[φ(X)]
+
+VALUATION:
+- Score: 0.635
+- Tier: silver

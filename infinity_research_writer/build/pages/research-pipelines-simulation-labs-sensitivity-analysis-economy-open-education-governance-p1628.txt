@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p1628
+[ANCHOR] ethics #FF6A00 link://ethics/research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p1628
+[ANCHOR] clarity #00C8FF link://clarity/research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p1628
+[ANCHOR] provenance #7D4DF2 link://provenance/research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p1628
+[ANCHOR] scope #6066FF link://scope/research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p1628
+
+TITLE: research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p1628
+SUMMARY: Research scaffold for research-pipelines, simulation-labs, sensitivity-analysis, economy-open, education-governance.
+
+LINKS:
+- https://darwin-online.org.uk/
+- https://sciencedirect.com/
+- https://gutenberg.org/
+
+EQUATIONS:
+- EQ038: Determinant expansion -> Σ permutations
+- EQ044: Law of large numbers -> sample mean→μ
+- EQ007: Controllability -> rank([B, AB, A^2B, ..., A^{n-1}B]) = n
+
+VALUATION:
+- Score: 0.745
+- Tier: silver

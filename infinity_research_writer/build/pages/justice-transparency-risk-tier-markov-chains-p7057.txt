@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/justice-transparency-risk-tier-markov-chains-p7057
+[ANCHOR] ethics #FF6A00 link://ethics/justice-transparency-risk-tier-markov-chains-p7057
+[ANCHOR] clarity #00C8FF link://clarity/justice-transparency-risk-tier-markov-chains-p7057
+[ANCHOR] provenance #7D4DF2 link://provenance/justice-transparency-risk-tier-markov-chains-p7057
+[ANCHOR] scope #6066FF link://scope/justice-transparency-risk-tier-markov-chains-p7057
+
+TITLE: justice-transparency-risk-tier-markov-chains-p7057
+SUMMARY: Research scaffold for justice-transparency, risk-tier, markov-chains.
+
+LINKS:
+- https://unep.org/resources/publications
+- https://scopus.com/
+- https://geoscienceworld.org/
+
+EQUATIONS:
+- EQ041: Gaussian distribution -> (1/√2πσ²)e^{-(x-μ)²/2σ²}
+
+
+
+VALUATION:
+- Score: 0.592
+- Tier: bronze

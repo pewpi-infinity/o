@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/anchor-ledger-wind-grid-p7989
+[ANCHOR] clarity #00C8FF link://clarity/anchor-ledger-wind-grid-p7989
+[ANCHOR] alignment #33CCCC link://alignment/anchor-ledger-wind-grid-p7989
+
+TITLE: anchor-ledger-wind-grid-p7989
+SUMMARY: Research scaffold for anchor-ledger, wind-grid.
+
+LINKS:
+- https://bonekey-ibms.mdc-berlin.de/
+- https://ideas.repec.org/
+
+
+EQUATIONS:
+- EQ029: Fourier transform -> F(ω)=∫ f(t)e^{-iωt}dt
+- EQ045: Central limit theorem -> normalized sums→normal
+- EQ022: Logistic regression -> σ(wᵀx)
+
+VALUATION:
+- Score: 0.511
+- Tier: bronze

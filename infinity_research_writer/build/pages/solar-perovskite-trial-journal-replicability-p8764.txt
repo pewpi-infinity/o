@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/solar-perovskite-trial-journal-replicability-p8764
+[ANCHOR] clarity #00C8FF link://clarity/solar-perovskite-trial-journal-replicability-p8764
+[ANCHOR] alignment #33CCCC link://alignment/solar-perovskite-trial-journal-replicability-p8764
+
+TITLE: solar-perovskite-trial-journal-replicability-p8764
+SUMMARY: Research scaffold for solar-perovskite, trial-journal, replicability.
+
+LINKS:
+- https://terrytao.wordpress.com/
+- https://asa3.org/
+
+
+EQUATIONS:
+- EQ024: Gradient descent -> θ ← θ - α∇J(θ)
+
+
+
+VALUATION:
+- Score: 0.519
+- Tier: bronze

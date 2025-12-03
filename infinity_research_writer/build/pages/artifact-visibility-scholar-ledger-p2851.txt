@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/artifact-visibility-scholar-ledger-p2851
+[ANCHOR] clarity #00C8FF link://clarity/artifact-visibility-scholar-ledger-p2851
+[ANCHOR] alignment #33CCCC link://alignment/artifact-visibility-scholar-ledger-p2851
+
+TITLE: artifact-visibility-scholar-ledger-p2851
+SUMMARY: Research scaffold for artifact-visibility, scholar-ledger.
+
+LINKS:
+- https://iuphar.org/
+
+
+
+EQUATIONS:
+- EQ050: Characteristic function -> E[e^{itX}]
+- EQ037: Eigenvalue problem -> Ax = λx
+
+
+VALUATION:
+- Score: 0.484
+- Tier: bronze

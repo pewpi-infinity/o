@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/compare-versions-transport-risk-alignment-tier-capacity-headroom-tier-bronze-p818
+[ANCHOR] capacity #00D67D link://capacity/compare-versions-transport-risk-alignment-tier-capacity-headroom-tier-bronze-p818
+[ANCHOR] clarity #00C8FF link://clarity/compare-versions-transport-risk-alignment-tier-capacity-headroom-tier-bronze-p818
+[ANCHOR] provenance #7D4DF2 link://provenance/compare-versions-transport-risk-alignment-tier-capacity-headroom-tier-bronze-p818
+[ANCHOR] risk #FF3B3B link://risk/compare-versions-transport-risk-alignment-tier-capacity-headroom-tier-bronze-p818
+
+TITLE: compare-versions-transport-risk-alignment-tier-capacity-headroom-tier-bronze-p818
+SUMMARY: Research scaffold for compare-versions, transport-risk, alignment-tier, capacity-headroom, tier-bronze.
+
+LINKS:
+- https://osf.io/
+- https://sciencemag.org/journals/science-advances
+
+
+EQUATIONS:
+- EQ031: Laplace transform -> ∫f(t)e^{-st}dt
+- EQ038: Determinant expansion -> Σ permutations
+- EQ037: Eigenvalue problem -> Ax = λx
+
+VALUATION:
+- Score: 0.703
+- Tier: silver

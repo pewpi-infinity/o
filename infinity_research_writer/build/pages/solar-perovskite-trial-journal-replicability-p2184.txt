@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/solar-perovskite-trial-journal-replicability-p2184
+[ANCHOR] clarity #00C8FF link://clarity/solar-perovskite-trial-journal-replicability-p2184
+[ANCHOR] alignment #33CCCC link://alignment/solar-perovskite-trial-journal-replicability-p2184
+
+TITLE: solar-perovskite-trial-journal-replicability-p2184
+SUMMARY: Research scaffold for solar-perovskite, trial-journal, replicability.
+
+LINKS:
+- https://data.worldbank.org/
+- https://tokyo-u.ac.jp/en/research
+
+
+EQUATIONS:
+- EQ022: Logistic regression -> σ(wᵀx)
+- EQ004: KKT conditions -> ∇f(x*) + A^T λ* = 0, Ax* <= b, λ* >= 0, λ*^T (Ax* - b) = 0
+- EQ029: Fourier transform -> F(ω)=∫ f(t)e^{-iωt}dt
+
+VALUATION:
+- Score: 0.609
+- Tier: silver

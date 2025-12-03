@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/signal-noise-health-equity-p7983
+[ANCHOR] clarity #00C8FF link://clarity/signal-noise-health-equity-p7983
+[ANCHOR] alignment #33CCCC link://alignment/signal-noise-health-equity-p7983
+
+TITLE: signal-noise-health-equity-p7983
+SUMMARY: Research scaffold for signal-noise, health-equity.
+
+LINKS:
+- https://cern.ch/
+- https://data.cdc.gov/
+
+
+EQUATIONS:
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+
+
+
+VALUATION:
+- Score: 0.473
+- Tier: bronze

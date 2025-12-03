@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/project-index-materials-reuse-variance-analysis-p6857
+[ANCHOR] clarity #00C8FF link://clarity/project-index-materials-reuse-variance-analysis-p6857
+[ANCHOR] alignment #33CCCC link://alignment/project-index-materials-reuse-variance-analysis-p6857
+
+TITLE: project-index-materials-reuse-variance-analysis-p6857
+SUMMARY: Research scaffold for project-index, materials-reuse, variance-analysis.
+
+LINKS:
+- https://cambridge.org/core/what-we-publish/textbooks
+- https://emmadata.europa.eu/
+
+
+EQUATIONS:
+- EQ008: Observability -> rank([C; CA; CA^2; ...; CA^{n-1}]) = n
+
+
+
+VALUATION:
+- Score: 0.520
+- Tier: bronze

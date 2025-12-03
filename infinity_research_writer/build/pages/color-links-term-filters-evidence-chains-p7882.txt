@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/color-links-term-filters-evidence-chains-p7882
+[ANCHOR] clarity #00C8FF link://clarity/color-links-term-filters-evidence-chains-p7882
+[ANCHOR] alignment #33CCCC link://alignment/color-links-term-filters-evidence-chains-p7882
+
+TITLE: color-links-term-filters-evidence-chains-p7882
+SUMMARY: Research scaffold for color-links, term-filters, evidence-chains.
+
+LINKS:
+- https://heinonline.org/
+
+
+
+EQUATIONS:
+- EQ015: Power of hypothesis test -> 1 - β
+
+
+
+VALUATION:
+- Score: 0.484
+- Tier: bronze

@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/capacity-scaling-alignment-feedback-risk-bounds-p9197
+[ANCHOR] capacity #00D67D link://capacity/capacity-scaling-alignment-feedback-risk-bounds-p9197
+[ANCHOR] clarity #00C8FF link://clarity/capacity-scaling-alignment-feedback-risk-bounds-p9197
+[ANCHOR] provenance #7D4DF2 link://provenance/capacity-scaling-alignment-feedback-risk-bounds-p9197
+[ANCHOR] risk #FF3B3B link://risk/capacity-scaling-alignment-feedback-risk-bounds-p9197
+
+TITLE: capacity-scaling-alignment-feedback-risk-bounds-p9197
+SUMMARY: Research scaffold for capacity-scaling, alignment-feedback, risk-bounds.
+
+LINKS:
+- https://acs.org/
+- https://aaas.org/
+
+
+EQUATIONS:
+- EQ047: Chebyshev inequality -> P(|X-μ|≥kσ) ≤ 1/k²
+- EQ020: PCA -> eigenvectors of covariance Σ
+
+
+VALUATION:
+- Score: 0.602
+- Tier: silver

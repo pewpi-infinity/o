@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/concept-anchors-learning-pathways-p3011
+[ANCHOR] clarity #00C8FF link://clarity/concept-anchors-learning-pathways-p3011
+[ANCHOR] learning #E6B800 link://learning/concept-anchors-learning-pathways-p3011
+[ANCHOR] alignment #33CCCC link://alignment/concept-anchors-learning-pathways-p3011
+
+TITLE: concept-anchors-learning-pathways-p3011
+SUMMARY: Research scaffold for concept-anchors, learning-pathways.
+
+LINKS:
+- https://radiopaedia.org/
+- https://link.springer.com/journal/10896
+- https://cern.ch/
+
+EQUATIONS:
+- EQ026: KL divergence -> Σ p log(p/q)
+- EQ024: Gradient descent -> θ ← θ - α∇J(θ)
+- EQ030: Convolution -> (f*g)(t)=∫f(τ)g(t-τ)dτ
+
+VALUATION:
+- Score: 0.569
+- Tier: bronze

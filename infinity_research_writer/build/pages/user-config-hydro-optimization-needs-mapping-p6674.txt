@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/user-config-hydro-optimization-needs-mapping-p6674
+[ANCHOR] clarity #00C8FF link://clarity/user-config-hydro-optimization-needs-mapping-p6674
+[ANCHOR] alignment #33CCCC link://alignment/user-config-hydro-optimization-needs-mapping-p6674
+
+TITLE: user-config-hydro-optimization-needs-mapping-p6674
+SUMMARY: Research scaffold for user-config, hydro-optimization, needs-mapping.
+
+LINKS:
+- https://gutenberg.org/
+- https://britishmuseum.org/collection
+- https://humanconnectome.org/
+
+EQUATIONS:
+- EQ029: Fourier transform -> F(ω)=∫ f(t)e^{-iωt}dt
+- EQ012: Auction revenue equivalence -> symmetric independent private values
+
+
+VALUATION:
+- Score: 0.574
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scope-boundaries-security-zerotrust-p3650
+[ANCHOR] clarity #00C8FF link://clarity/scope-boundaries-security-zerotrust-p3650
+[ANCHOR] alignment #33CCCC link://alignment/scope-boundaries-security-zerotrust-p3650
+
+TITLE: scope-boundaries-security-zerotrust-p3650
+SUMMARY: Research scaffold for scope-boundaries, security-zerotrust.
+
+LINKS:
+- https://nejm.org/
+- https://royalsocietypublishing.org/
+- https://jstor.org/
+
+EQUATIONS:
+- EQ007: Controllability -> rank([B, AB, A^2B, ..., A^{n-1}B]) = n
+- EQ250: Robust optimization -> minimize max loss over uncertainty set U
+- EQ047: Chebyshev inequality -> P(|X-μ|≥kσ) ≤ 1/k²
+
+VALUATION:
+- Score: 0.629
+- Tier: silver

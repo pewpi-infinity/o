@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Safety Dashboard</title>
+</head>
+<body>
+
+<h1>Safety Dashboard</h1>
+
+<p>Review flagged listings, remove dangerous content, maintain marketplace quality.</p>
+
+<pre id="flag_output"></pre>
+
+<script>
+async function loadFlags(){
+    let res = await fetch("../../cart1156_flags.json");
+    let data = await res.json();
+    document.getElementById("flag_output").innerText =
+        JSON.stringify(data, null, 2);
+}
+loadFlags();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/evidence-priority-ethics-alignment-p5698
+[ANCHOR] ethics #FF6A00 link://ethics/evidence-priority-ethics-alignment-p5698
+[ANCHOR] clarity #00C8FF link://clarity/evidence-priority-ethics-alignment-p5698
+[ANCHOR] provenance #7D4DF2 link://provenance/evidence-priority-ethics-alignment-p5698
+[ANCHOR] scope #6066FF link://scope/evidence-priority-ethics-alignment-p5698
+
+TITLE: evidence-priority-ethics-alignment-p5698
+SUMMARY: Research scaffold for evidence-priority, ethics-alignment.
+
+LINKS:
+- https://health.harvard.edu/
+- https://siam.org/journals
+- https://journals.sagepub.com/home/jfm
+
+EQUATIONS:
+- EQ003: Lagrangian -> L(x, λ) = f(x) + λ^T (Ax - b)
+- EQ017: L1 regularization -> minimize ||y-Xβ||² + λ||β||₁
+
+
+VALUATION:
+- Score: 0.622
+- Tier: silver

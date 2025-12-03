@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/zip-masters-score-normalization-hash-index-materials-fatigue-justice-access-p5504
+[ANCHOR] ethics #FF6A00 link://ethics/zip-masters-score-normalization-hash-index-materials-fatigue-justice-access-p5504
+[ANCHOR] clarity #00C8FF link://clarity/zip-masters-score-normalization-hash-index-materials-fatigue-justice-access-p5504
+[ANCHOR] provenance #7D4DF2 link://provenance/zip-masters-score-normalization-hash-index-materials-fatigue-justice-access-p5504
+[ANCHOR] scope #6066FF link://scope/zip-masters-score-normalization-hash-index-materials-fatigue-justice-access-p5504
+
+TITLE: zip-masters-score-normalization-hash-index-materials-fatigue-justice-access-p5504
+SUMMARY: Research scaffold for zip-masters, score-normalization, hash-index, materials-fatigue, justice-access.
+
+LINKS:
+- https://ucla.edu/research
+
+
+
+EQUATIONS:
+- EQ014: Bayesian update -> p(θ|D) ∝ p(D|θ)p(θ)
+- EQ028: Mutual information -> I(X;Y) = H(X)+H(Y)-H(X,Y)
+
+
+VALUATION:
+- Score: 0.660
+- Tier: silver

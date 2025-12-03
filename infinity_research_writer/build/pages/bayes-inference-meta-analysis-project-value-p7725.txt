@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/bayes-inference-meta-analysis-project-value-p7725
+[ANCHOR] clarity #00C8FF link://clarity/bayes-inference-meta-analysis-project-value-p7725
+[ANCHOR] alignment #33CCCC link://alignment/bayes-inference-meta-analysis-project-value-p7725
+
+TITLE: bayes-inference-meta-analysis-project-value-p7725
+SUMMARY: Research scaffold for bayes-inference, meta-analysis, project-value.
+
+LINKS:
+- https://agu.org/Publish-with-AGU/Journals
+
+
+
+EQUATIONS:
+- EQ026: KL divergence -> Σ p log(p/q)
+
+
+
+VALUATION:
+- Score: 0.487
+- Tier: bronze

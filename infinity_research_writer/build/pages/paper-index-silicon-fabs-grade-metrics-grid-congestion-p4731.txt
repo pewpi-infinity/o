@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/paper-index-silicon-fabs-grade-metrics-grid-congestion-p4731
+[ANCHOR] clarity #00C8FF link://clarity/paper-index-silicon-fabs-grade-metrics-grid-congestion-p4731
+[ANCHOR] alignment #33CCCC link://alignment/paper-index-silicon-fabs-grade-metrics-grid-congestion-p4731
+
+TITLE: paper-index-silicon-fabs-grade-metrics-grid-congestion-p4731
+SUMMARY: Research scaffold for paper-index, silicon-fabs, grade-metrics, grid-congestion.
+
+LINKS:
+- https://pubmed.ncbi.nlm.nih.gov/
+- https://oxfordacademic.com/
+
+
+EQUATIONS:
+- EQ024: Gradient descent -> θ ← θ - α∇J(θ)
+
+
+
+VALUATION:
+- Score: 0.559
+- Tier: bronze

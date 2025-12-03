@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/silicon-capacity-grid-stability-links-catalog-adjacency-discovery-p103
+[ANCHOR] capacity #00D67D link://capacity/silicon-capacity-grid-stability-links-catalog-adjacency-discovery-p103
+[ANCHOR] clarity #00C8FF link://clarity/silicon-capacity-grid-stability-links-catalog-adjacency-discovery-p103
+[ANCHOR] provenance #7D4DF2 link://provenance/silicon-capacity-grid-stability-links-catalog-adjacency-discovery-p103
+[ANCHOR] risk #FF3B3B link://risk/silicon-capacity-grid-stability-links-catalog-adjacency-discovery-p103
+
+TITLE: silicon-capacity-grid-stability-links-catalog-adjacency-discovery-p103
+SUMMARY: Research scaffold for silicon-capacity, grid-stability, links-catalog, adjacency-discovery.
+
+LINKS:
+- https://yale.edu/research/neuroscience
+- https://brain.oxfordjournals.org/
+
+
+EQUATIONS:
+- EQ040: Rank-nullity -> dim(V)=rank+nullity
+- EQ047: Chebyshev inequality -> P(|X-μ|≥kσ) ≤ 1/k²
+
+
+VALUATION:
+- Score: 0.620
+- Tier: silver

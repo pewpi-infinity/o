@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p6892
+[ANCHOR] clarity #00C8FF link://clarity/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p6892
+[ANCHOR] learning #E6B800 link://learning/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p6892
+[ANCHOR] alignment #33CCCC link://alignment/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p6892
+
+TITLE: trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p6892
+SUMMARY: Research scaffold for trial-evidence, clarity-tier, tier-gold, sparsity, security-threats.
+
+LINKS:
+- https://oecd.org/statistics/
+- https://sciencedirect.com/journal/earth-and-planetary-science-letters
+
+
+EQUATIONS:
+- EQ046: Markov inequality -> P(X≥a) ≤ E[X]/a
+
+
+
+VALUATION:
+- Score: 0.649
+- Tier: silver

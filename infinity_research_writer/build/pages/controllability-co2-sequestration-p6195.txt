@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/controllability-co2-sequestration-p6195
+[ANCHOR] clarity #00C8FF link://clarity/controllability-co2-sequestration-p6195
+[ANCHOR] alignment #33CCCC link://alignment/controllability-co2-sequestration-p6195
+
+TITLE: controllability-co2-sequestration-p6195
+SUMMARY: Research scaffold for controllability, co2-sequestration.
+
+LINKS:
+- https://archive.org/
+- https://harvard.edu/research
+
+
+EQUATIONS:
+- EQ010: Nash equilibrium -> best response mappings intersect
+- EQ033: Wave equation -> ∂²u/∂t² = c²∇²u
+
+
+VALUATION:
+- Score: 0.496
+- Tier: bronze

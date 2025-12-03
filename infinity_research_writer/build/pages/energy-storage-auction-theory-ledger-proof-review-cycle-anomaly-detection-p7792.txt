@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/energy-storage-auction-theory-ledger-proof-review-cycle-anomaly-detection-p7792
+[ANCHOR] clarity #00C8FF link://clarity/energy-storage-auction-theory-ledger-proof-review-cycle-anomaly-detection-p7792
+[ANCHOR] alignment #33CCCC link://alignment/energy-storage-auction-theory-ledger-proof-review-cycle-anomaly-detection-p7792
+
+TITLE: energy-storage-auction-theory-ledger-proof-review-cycle-anomaly-detection-p7792
+SUMMARY: Research scaffold for energy-storage, auction-theory, ledger-proof, review-cycle, anomaly-detection.
+
+LINKS:
+- https://wolframalpha.com/examples/mathematics
+- https://beckerfreidman.uchicago.edu/research/
+
+
+EQUATIONS:
+- EQ013: Markov chain stationary distribution -> π = πP
+- EQ047: Chebyshev inequality -> P(|X-μ|≥kσ) ≤ 1/k²
+
+
+VALUATION:
+- Score: 0.653
+- Tier: silver

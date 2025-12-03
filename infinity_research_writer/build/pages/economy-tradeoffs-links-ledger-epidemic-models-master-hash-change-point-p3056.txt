@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/economy-tradeoffs-links-ledger-epidemic-models-master-hash-change-point-p3056
+[ANCHOR] clarity #00C8FF link://clarity/economy-tradeoffs-links-ledger-epidemic-models-master-hash-change-point-p3056
+[ANCHOR] alignment #33CCCC link://alignment/economy-tradeoffs-links-ledger-epidemic-models-master-hash-change-point-p3056
+
+TITLE: economy-tradeoffs-links-ledger-epidemic-models-master-hash-change-point-p3056
+SUMMARY: Research scaffold for economy-tradeoffs, links-ledger, epidemic-models, master-hash, change-point.
+
+LINKS:
+- https://royalsociety.org/journals/
+
+
+
+EQUATIONS:
+- EQ013: Markov chain stationary distribution -> π = πP
+- EQ029: Fourier transform -> F(ω)=∫ f(t)e^{-iωt}dt
+- EQ043: Chi-square distribution -> special gamma
+
+VALUATION:
+- Score: 0.637
+- Tier: silver

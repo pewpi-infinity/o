@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/user-config-hydro-optimization-needs-mapping-p4714
+[ANCHOR] clarity #00C8FF link://clarity/user-config-hydro-optimization-needs-mapping-p4714
+[ANCHOR] alignment #33CCCC link://alignment/user-config-hydro-optimization-needs-mapping-p4714
+
+TITLE: user-config-hydro-optimization-needs-mapping-p4714
+SUMMARY: Research scaffold for user-config, hydro-optimization, needs-mapping.
+
+LINKS:
+- https://law.cornell.edu/
+- https://uchicago.edu/research
+
+
+EQUATIONS:
+- EQ037: Eigenvalue problem -> Ax = λx
+- EQ003: Lagrangian -> L(x, λ) = f(x) + λ^T (Ax - b)
+- EQ018: Ridge regression -> minimize ||y-Xβ||² + λ||β||²
+
+VALUATION:
+- Score: 0.650
+- Tier: silver

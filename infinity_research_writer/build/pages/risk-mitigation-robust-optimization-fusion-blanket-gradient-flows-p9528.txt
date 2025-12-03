@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/risk-mitigation-robust-optimization-fusion-blanket-gradient-flows-p9528
+[ANCHOR] capacity #00D67D link://capacity/risk-mitigation-robust-optimization-fusion-blanket-gradient-flows-p9528
+[ANCHOR] clarity #00C8FF link://clarity/risk-mitigation-robust-optimization-fusion-blanket-gradient-flows-p9528
+[ANCHOR] provenance #7D4DF2 link://provenance/risk-mitigation-robust-optimization-fusion-blanket-gradient-flows-p9528
+[ANCHOR] risk #FF3B3B link://risk/risk-mitigation-robust-optimization-fusion-blanket-gradient-flows-p9528
+
+TITLE: risk-mitigation-robust-optimization-fusion-blanket-gradient-flows-p9528
+SUMMARY: Research scaffold for risk-mitigation, robust-optimization, fusion-blanket, gradient-flows.
+
+LINKS:
+- https://durham.ac.uk/research
+- https://terrytao.wordpress.com/
+
+
+EQUATIONS:
+- EQ050: Characteristic function -> E[e^{itX}]
+- EQ020: PCA -> eigenvectors of covariance Σ
+- EQ044: Law of large numbers -> sample mean→μ
+
+VALUATION:
+- Score: 0.662
+- Tier: silver

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/lowrank-mechanism-design-equation-catalog-equations-ledger-p8375
+[ANCHOR] clarity #00C8FF link://clarity/lowrank-mechanism-design-equation-catalog-equations-ledger-p8375
+[ANCHOR] alignment #33CCCC link://alignment/lowrank-mechanism-design-equation-catalog-equations-ledger-p8375
+
+TITLE: lowrank-mechanism-design-equation-catalog-equations-ledger-p8375
+SUMMARY: Research scaffold for lowrank, mechanism-design, equation-catalog, equations-ledger.
+
+LINKS:
+- https://erowid.org/chemicals/
+
+
+
+EQUATIONS:
+- EQ024: Gradient descent -> θ ← θ - α∇J(θ)
+- EQ046: Markov inequality -> P(X≥a) ≤ E[X]/a
+- EQ010: Nash equilibrium -> best response mappings intersect
+
+VALUATION:
+- Score: 0.597
+- Tier: bronze

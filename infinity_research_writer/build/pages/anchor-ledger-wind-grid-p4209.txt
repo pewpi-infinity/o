@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/anchor-ledger-wind-grid-p4209
+[ANCHOR] clarity #00C8FF link://clarity/anchor-ledger-wind-grid-p4209
+[ANCHOR] alignment #33CCCC link://alignment/anchor-ledger-wind-grid-p4209
+
+TITLE: anchor-ledger-wind-grid-p4209
+SUMMARY: Research scaffold for anchor-ledger, wind-grid.
+
+LINKS:
+- https://pubmed.ncbi.nlm.nih.gov/
+- https://iuphar.org/
+- https://conservation.org/research
+
+EQUATIONS:
+- EQ028: Mutual information -> I(X;Y) = H(X)+H(Y)-H(X,Y)
+- EQ027: Entropy -> -Σ p log p
+
+
+VALUATION:
+- Score: 0.525
+- Tier: bronze

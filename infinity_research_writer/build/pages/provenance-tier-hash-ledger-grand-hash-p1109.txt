@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/provenance-tier-hash-ledger-grand-hash-p1109
+[ANCHOR] clarity #00C8FF link://clarity/provenance-tier-hash-ledger-grand-hash-p1109
+[ANCHOR] learning #E6B800 link://learning/provenance-tier-hash-ledger-grand-hash-p1109
+[ANCHOR] alignment #33CCCC link://alignment/provenance-tier-hash-ledger-grand-hash-p1109
+
+TITLE: provenance-tier-hash-ledger-grand-hash-p1109
+SUMMARY: Research scaffold for provenance-tier, hash-ledger, grand-hash.
+
+LINKS:
+- https://physics.aps.org/
+
+
+
+EQUATIONS:
+- EQ038: Determinant expansion -> Σ permutations
+- EQ046: Markov inequality -> P(X≥a) ≤ E[X]/a
+
+
+VALUATION:
+- Score: 0.552
+- Tier: bronze

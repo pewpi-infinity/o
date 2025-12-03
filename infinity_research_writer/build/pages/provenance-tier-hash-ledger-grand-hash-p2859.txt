@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/provenance-tier-hash-ledger-grand-hash-p2859
+[ANCHOR] clarity #00C8FF link://clarity/provenance-tier-hash-ledger-grand-hash-p2859
+[ANCHOR] learning #E6B800 link://learning/provenance-tier-hash-ledger-grand-hash-p2859
+[ANCHOR] alignment #33CCCC link://alignment/provenance-tier-hash-ledger-grand-hash-p2859
+
+TITLE: provenance-tier-hash-ledger-grand-hash-p2859
+SUMMARY: Research scaffold for provenance-tier, hash-ledger, grand-hash.
+
+LINKS:
+- https://berkeley.edu/research
+- https://elifesciences.org/
+
+
+EQUATIONS:
+- EQ026: KL divergence -> Σ p log(p/q)
+
+
+
+VALUATION:
+- Score: 0.536
+- Tier: bronze

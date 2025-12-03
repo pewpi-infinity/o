@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/governance-debate-valuation-report-p9989
+[ANCHOR] ethics #FF6A00 link://ethics/governance-debate-valuation-report-p9989
+[ANCHOR] clarity #00C8FF link://clarity/governance-debate-valuation-report-p9989
+[ANCHOR] provenance #7D4DF2 link://provenance/governance-debate-valuation-report-p9989
+[ANCHOR] scope #6066FF link://scope/governance-debate-valuation-report-p9989
+
+TITLE: governance-debate-valuation-report-p9989
+SUMMARY: Research scaffold for governance-debate, valuation-report.
+
+LINKS:
+- https://oecd.org/statistics/
+- https://fermilab.org/
+- https://frontiersin.org/journals/neuroscience
+
+EQUATIONS:
+- EQ046: Markov inequality -> P(X≥a) ≤ E[X]/a
+
+
+
+VALUATION:
+- Score: 0.579
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/lowrank-mechanism-design-equation-catalog-equations-ledger-p1305
+[ANCHOR] clarity #00C8FF link://clarity/lowrank-mechanism-design-equation-catalog-equations-ledger-p1305
+[ANCHOR] alignment #33CCCC link://alignment/lowrank-mechanism-design-equation-catalog-equations-ledger-p1305
+
+TITLE: lowrank-mechanism-design-equation-catalog-equations-ledger-p1305
+SUMMARY: Research scaffold for lowrank, mechanism-design, equation-catalog, equations-ledger.
+
+LINKS:
+- https://iupac.org/
+- https://data.noaa.gov/
+- https://intechopen.com/
+
+EQUATIONS:
+- EQ008: Observability -> rank([C; CA; CA^2; ...; CA^{n-1}]) = n
+
+
+
+VALUATION:
+- Score: 0.594
+- Tier: bronze

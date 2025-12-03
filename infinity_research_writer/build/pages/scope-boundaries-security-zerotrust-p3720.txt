@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scope-boundaries-security-zerotrust-p3720
+[ANCHOR] clarity #00C8FF link://clarity/scope-boundaries-security-zerotrust-p3720
+[ANCHOR] alignment #33CCCC link://alignment/scope-boundaries-security-zerotrust-p3720
+
+TITLE: scope-boundaries-security-zerotrust-p3720
+SUMMARY: Research scaffold for scope-boundaries, security-zerotrust.
+
+LINKS:
+- https://scholar.google.com/
+- https://nsf.gov/
+
+
+EQUATIONS:
+- EQ018: Ridge regression -> minimize ||y-Xβ||² + λ||β||²
+- EQ049: Moment generating function -> M(t)=E[e^{tX}]
+
+
+VALUATION:
+- Score: 0.516
+- Tier: bronze

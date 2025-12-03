@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/energy-market-uncertainty-matrix-factorization-equations-solver-resilience-testing-p7454
+[ANCHOR] clarity #00C8FF link://clarity/energy-market-uncertainty-matrix-factorization-equations-solver-resilience-testing-p7454
+[ANCHOR] alignment #33CCCC link://alignment/energy-market-uncertainty-matrix-factorization-equations-solver-resilience-testing-p7454
+
+TITLE: energy-market-uncertainty-matrix-factorization-equations-solver-resilience-testing-p7454
+SUMMARY: Research scaffold for energy-market, uncertainty, matrix-factorization, equations-solver, resilience-testing.
+
+LINKS:
+- https://perseus.tufts.edu/
+- https://hindawi.com/
+- https://geoscienceworld.org/
+
+EQUATIONS:
+- EQ017: L1 regularization -> minimize ||y-Xβ||² + λ||β||₁
+- EQ043: Chi-square distribution -> special gamma
+- EQ009: Queue M/M/1 -> ρ = λ/μ, W = 1/(μ - λ)
+
+VALUATION:
+- Score: 0.677
+- Tier: silver

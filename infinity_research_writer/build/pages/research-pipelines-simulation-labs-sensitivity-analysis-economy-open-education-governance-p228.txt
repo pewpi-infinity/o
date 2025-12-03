@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p228
+[ANCHOR] ethics #FF6A00 link://ethics/research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p228
+[ANCHOR] clarity #00C8FF link://clarity/research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p228
+[ANCHOR] provenance #7D4DF2 link://provenance/research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p228
+[ANCHOR] scope #6066FF link://scope/research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p228
+
+TITLE: research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p228
+SUMMARY: Research scaffold for research-pipelines, simulation-labs, sensitivity-analysis, economy-open, education-governance.
+
+LINKS:
+- https://mdpi.com/
+
+
+
+EQUATIONS:
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+- EQ023: Cross entropy -> -Σ y log p
+- EQ004: KKT conditions -> ∇f(x*) + A^T λ* = 0, Ax* <= b, λ* >= 0, λ*^T (Ax* - b) = 0
+
+VALUATION:
+- Score: 0.698
+- Tier: silver

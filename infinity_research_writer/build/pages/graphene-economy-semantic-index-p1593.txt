@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/graphene-economy-semantic-index-p1593
+[ANCHOR] capacity #00D67D link://capacity/graphene-economy-semantic-index-p1593
+[ANCHOR] clarity #00C8FF link://clarity/graphene-economy-semantic-index-p1593
+[ANCHOR] provenance #7D4DF2 link://provenance/graphene-economy-semantic-index-p1593
+[ANCHOR] risk #FF3B3B link://risk/graphene-economy-semantic-index-p1593
+
+TITLE: graphene-economy-semantic-index-p1593
+SUMMARY: Research scaffold for graphene-economy, semantic-index.
+
+LINKS:
+- https://worldbank.org/en/research
+- https://linear.ups.edu/
+
+
+EQUATIONS:
+- EQ029: Fourier transform -> F(ω)=∫ f(t)e^{-iωt}dt
+
+
+
+VALUATION:
+- Score: 0.517
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/transport-routing-scope-limits-query-intent-citation-style-p721
+[ANCHOR] clarity #00C8FF link://clarity/transport-routing-scope-limits-query-intent-citation-style-p721
+[ANCHOR] alignment #33CCCC link://alignment/transport-routing-scope-limits-query-intent-citation-style-p721
+
+TITLE: transport-routing-scope-limits-query-intent-citation-style-p721
+SUMMARY: Research scaffold for transport-routing, scope-limits, query-intent, citation-style.
+
+LINKS:
+- https://ssrn.com/
+
+
+
+EQUATIONS:
+- EQ004: KKT conditions -> ∇f(x*) + A^T λ* = 0, Ax* <= b, λ* >= 0, λ*^T (Ax* - b) = 0
+- EQ024: Gradient descent -> θ ← θ - α∇J(θ)
+
+
+VALUATION:
+- Score: 0.594
+- Tier: bronze

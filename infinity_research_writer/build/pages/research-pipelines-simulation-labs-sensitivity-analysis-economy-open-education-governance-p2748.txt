@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p2748
+[ANCHOR] ethics #FF6A00 link://ethics/research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p2748
+[ANCHOR] clarity #00C8FF link://clarity/research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p2748
+[ANCHOR] provenance #7D4DF2 link://provenance/research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p2748
+[ANCHOR] scope #6066FF link://scope/research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p2748
+
+TITLE: research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p2748
+SUMMARY: Research scaffold for research-pipelines, simulation-labs, sensitivity-analysis, economy-open, education-governance.
+
+LINKS:
+- https://mayoclinic.org/
+- https://oxfordhandbooks.com/
+
+
+EQUATIONS:
+- EQ250: Robust optimization -> minimize max loss over uncertainty set U
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+
+
+VALUATION:
+- Score: 0.762
+- Tier: silver

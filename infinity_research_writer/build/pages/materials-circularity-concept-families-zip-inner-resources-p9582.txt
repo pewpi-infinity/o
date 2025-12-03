@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/materials-circularity-concept-families-zip-inner-resources-p9582
+[ANCHOR] clarity #00C8FF link://clarity/materials-circularity-concept-families-zip-inner-resources-p9582
+[ANCHOR] alignment #33CCCC link://alignment/materials-circularity-concept-families-zip-inner-resources-p9582
+
+TITLE: materials-circularity-concept-families-zip-inner-resources-p9582
+SUMMARY: Research scaffold for materials-circularity, concept-families, zip-inner-resources.
+
+LINKS:
+- https://agu.org/learn-and-develop/learn/atmospheric-science
+- https://royalsociety.org/journals/
+- https://ipcc.ch/
+
+EQUATIONS:
+- EQ010: Nash equilibrium -> best response mappings intersect
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+
+
+VALUATION:
+- Score: 0.621
+- Tier: silver

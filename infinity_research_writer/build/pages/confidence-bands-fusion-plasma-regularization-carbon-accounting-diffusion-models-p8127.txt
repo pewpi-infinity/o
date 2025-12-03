@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/confidence-bands-fusion-plasma-regularization-carbon-accounting-diffusion-models-p8127
+[ANCHOR] capacity #00D67D link://capacity/confidence-bands-fusion-plasma-regularization-carbon-accounting-diffusion-models-p8127
+[ANCHOR] clarity #00C8FF link://clarity/confidence-bands-fusion-plasma-regularization-carbon-accounting-diffusion-models-p8127
+[ANCHOR] provenance #7D4DF2 link://provenance/confidence-bands-fusion-plasma-regularization-carbon-accounting-diffusion-models-p8127
+[ANCHOR] risk #FF3B3B link://risk/confidence-bands-fusion-plasma-regularization-carbon-accounting-diffusion-models-p8127
+
+TITLE: confidence-bands-fusion-plasma-regularization-carbon-accounting-diffusion-models-p8127
+SUMMARY: Research scaffold for confidence-bands, fusion-plasma, regularization, carbon-accounting, diffusion-models.
+
+LINKS:
+- https://royalsocietypublishing.org/
+- https://cambridge.org/core/what-we-publish/journals
+- https://jneuroengrehab.biomedcentral.com/
+
+EQUATIONS:
+- EQ015: Power of hypothesis test -> 1 - β
+- EQ010: Nash equilibrium -> best response mappings intersect
+
+
+VALUATION:
+- Score: 0.694
+- Tier: silver

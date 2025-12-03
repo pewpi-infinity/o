@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/capacity-tier-power-analysis-geothermal-integration-p4705
+[ANCHOR] capacity #00D67D link://capacity/capacity-tier-power-analysis-geothermal-integration-p4705
+[ANCHOR] clarity #00C8FF link://clarity/capacity-tier-power-analysis-geothermal-integration-p4705
+[ANCHOR] provenance #7D4DF2 link://provenance/capacity-tier-power-analysis-geothermal-integration-p4705
+[ANCHOR] risk #FF3B3B link://risk/capacity-tier-power-analysis-geothermal-integration-p4705
+
+TITLE: capacity-tier-power-analysis-geothermal-integration-p4705
+SUMMARY: Research scaffold for capacity-tier, power-analysis, geothermal-integration.
+
+LINKS:
+- https://oxfordhandbooks.com/
+- https://aip.org/
+- https://science.org/
+
+EQUATIONS:
+- EQ028: Mutual information -> I(X;Y) = H(X)+H(Y)-H(X,Y)
+- EQ250: Robust optimization -> minimize max loss over uncertainty set U
+
+
+VALUATION:
+- Score: 0.660
+- Tier: silver

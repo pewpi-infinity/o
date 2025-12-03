@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/justice-transparency-risk-tier-markov-chains-p2087
+[ANCHOR] ethics #FF6A00 link://ethics/justice-transparency-risk-tier-markov-chains-p2087
+[ANCHOR] clarity #00C8FF link://clarity/justice-transparency-risk-tier-markov-chains-p2087
+[ANCHOR] provenance #7D4DF2 link://provenance/justice-transparency-risk-tier-markov-chains-p2087
+[ANCHOR] scope #6066FF link://scope/justice-transparency-risk-tier-markov-chains-p2087
+
+TITLE: justice-transparency-risk-tier-markov-chains-p2087
+SUMMARY: Research scaffold for justice-transparency, risk-tier, markov-chains.
+
+LINKS:
+- https://brain.oxfordjournals.org/
+- https://springer.com/
+- https://govinfo.gov/
+
+EQUATIONS:
+- EQ010: Nash equilibrium -> best response mappings intersect
+- EQ032: Heat equation -> ∂u/∂t = α∇²u
+
+
+VALUATION:
+- Score: 0.612
+- Tier: silver

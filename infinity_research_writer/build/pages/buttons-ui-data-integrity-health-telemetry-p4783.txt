@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/buttons-ui-data-integrity-health-telemetry-p4783
+[ANCHOR] clarity #00C8FF link://clarity/buttons-ui-data-integrity-health-telemetry-p4783
+[ANCHOR] alignment #33CCCC link://alignment/buttons-ui-data-integrity-health-telemetry-p4783
+
+TITLE: buttons-ui-data-integrity-health-telemetry-p4783
+SUMMARY: Research scaffold for buttons-ui, data-integrity, health-telemetry.
+
+LINKS:
+- https://coursera.org/browse/math-and-logic
+- https://ox.ac.uk/research
+- https://alleninstitute.org/
+
+EQUATIONS:
+- EQ001: Linear program objective -> maximize c^T x subject to Ax <= b, x >= 0
+
+
+
+VALUATION:
+- Score: 0.550
+- Tier: bronze

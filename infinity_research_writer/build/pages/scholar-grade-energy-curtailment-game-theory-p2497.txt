@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scholar-grade-energy-curtailment-game-theory-p2497
+[ANCHOR] clarity #00C8FF link://clarity/scholar-grade-energy-curtailment-game-theory-p2497
+[ANCHOR] alignment #33CCCC link://alignment/scholar-grade-energy-curtailment-game-theory-p2497
+
+TITLE: scholar-grade-energy-curtailment-game-theory-p2497
+SUMMARY: Research scaffold for scholar-grade, energy-curtailment, game-theory.
+
+LINKS:
+- https://royalsociety.org/journals/
+- https://linear.ups.edu/
+- https://ssrn.com/en/index.cfm/lsn-legal-studies/
+
+EQUATIONS:
+- EQ038: Determinant expansion -> Σ permutations
+- EQ021: SVD -> A = UΣVᵀ
+
+
+VALUATION:
+- Score: 0.571
+- Tier: bronze

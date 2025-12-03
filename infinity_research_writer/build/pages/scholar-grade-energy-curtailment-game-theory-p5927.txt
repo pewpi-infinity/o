@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scholar-grade-energy-curtailment-game-theory-p5927
+[ANCHOR] clarity #00C8FF link://clarity/scholar-grade-energy-curtailment-game-theory-p5927
+[ANCHOR] alignment #33CCCC link://alignment/scholar-grade-energy-curtailment-game-theory-p5927
+
+TITLE: scholar-grade-energy-curtailment-game-theory-p5927
+SUMMARY: Research scaffold for scholar-grade, energy-curtailment, game-theory.
+
+LINKS:
+- https://paleobiology.si.edu/
+- https://jstor.org/open/
+
+
+EQUATIONS:
+- EQ028: Mutual information -> I(X;Y) = H(X)+H(Y)-H(X,Y)
+- EQ029: Fourier transform -> F(ω)=∫ f(t)e^{-iωt}dt
+- EQ026: KL divergence -> Σ p log(p/q)
+
+VALUATION:
+- Score: 0.557
+- Tier: bronze

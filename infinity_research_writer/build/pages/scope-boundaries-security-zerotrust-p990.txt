@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scope-boundaries-security-zerotrust-p990
+[ANCHOR] clarity #00C8FF link://clarity/scope-boundaries-security-zerotrust-p990
+[ANCHOR] alignment #33CCCC link://alignment/scope-boundaries-security-zerotrust-p990
+
+TITLE: scope-boundaries-security-zerotrust-p990
+SUMMARY: Research scaffold for scope-boundaries, security-zerotrust.
+
+LINKS:
+- https://poker.srv.ualberta.ca/publications/
+
+
+
+EQUATIONS:
+- EQ029: Fourier transform -> F(ω)=∫ f(t)e^{-iωt}dt
+- EQ018: Ridge regression -> minimize ||y-Xβ||² + λ||β||²
+- EQ045: Central limit theorem -> normalized sums→normal
+
+VALUATION:
+- Score: 0.502
+- Tier: bronze

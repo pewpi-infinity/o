@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/battery-capacity-security-privacy-ceramics-durability-p7345
+[ANCHOR] capacity #00D67D link://capacity/battery-capacity-security-privacy-ceramics-durability-p7345
+[ANCHOR] clarity #00C8FF link://clarity/battery-capacity-security-privacy-ceramics-durability-p7345
+[ANCHOR] provenance #7D4DF2 link://provenance/battery-capacity-security-privacy-ceramics-durability-p7345
+[ANCHOR] risk #FF3B3B link://risk/battery-capacity-security-privacy-ceramics-durability-p7345
+
+TITLE: battery-capacity-security-privacy-ceramics-durability-p7345
+SUMMARY: Research scaffold for battery-capacity, security-privacy, ceramics-durability.
+
+LINKS:
+- https://nature.com/subjects/earth-sciences
+- https://darpa.mil/our-research
+- https://wolframalpha.com/examples/mathematics
+
+EQUATIONS:
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+- EQ028: Mutual information -> I(X;Y) = H(X)+H(Y)-H(X,Y)
+- EQ034: Poisson equation -> ∇²u = -ρ/ε
+
+VALUATION:
+- Score: 0.629
+- Tier: silver

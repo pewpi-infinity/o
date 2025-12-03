@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/links-index-semantic-color-provenance-learning-health-registry-method-rigor-p7309
+[ANCHOR] clarity #00C8FF link://clarity/links-index-semantic-color-provenance-learning-health-registry-method-rigor-p7309
+[ANCHOR] learning #E6B800 link://learning/links-index-semantic-color-provenance-learning-health-registry-method-rigor-p7309
+[ANCHOR] alignment #33CCCC link://alignment/links-index-semantic-color-provenance-learning-health-registry-method-rigor-p7309
+
+TITLE: links-index-semantic-color-provenance-learning-health-registry-method-rigor-p7309
+SUMMARY: Research scaffold for links-index, semantic-color, provenance-learning, health-registry, method-rigor.
+
+LINKS:
+- https://who.int/research
+- https://neuromorphicsystems.org/
+- https://fermilab.org/
+
+EQUATIONS:
+- EQ250: Robust optimization -> minimize max loss over uncertainty set U
+- EQ020: PCA -> eigenvectors of covariance Σ
+- EQ038: Determinant expansion -> Σ permutations
+
+VALUATION:
+- Score: 0.765
+- Tier: silver

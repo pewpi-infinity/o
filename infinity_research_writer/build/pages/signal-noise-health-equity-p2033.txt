@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/signal-noise-health-equity-p2033
+[ANCHOR] clarity #00C8FF link://clarity/signal-noise-health-equity-p2033
+[ANCHOR] alignment #33CCCC link://alignment/signal-noise-health-equity-p2033
+
+TITLE: signal-noise-health-equity-p2033
+SUMMARY: Research scaffold for signal-noise, health-equity.
+
+LINKS:
+- https://oi.uchicago.edu/research
+- https://siam.org/journals
+- https://berkeley.edu/research
+
+EQUATIONS:
+- EQ022: Logistic regression -> σ(wᵀx)
+- EQ029: Fourier transform -> F(ω)=∫ f(t)e^{-iωt}dt
+- ...
+
+VALUATION:
+- Score: 0.546
+- Tier: bronze

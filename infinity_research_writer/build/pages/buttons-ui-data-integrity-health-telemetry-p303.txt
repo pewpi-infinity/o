@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/buttons-ui-data-integrity-health-telemetry-p303
+[ANCHOR] clarity #00C8FF link://clarity/buttons-ui-data-integrity-health-telemetry-p303
+[ANCHOR] alignment #33CCCC link://alignment/buttons-ui-data-integrity-health-telemetry-p303
+
+TITLE: buttons-ui-data-integrity-health-telemetry-p303
+SUMMARY: Research scaffold for buttons-ui, data-integrity, health-telemetry.
+
+LINKS:
+- https://paleobiology.si.edu/
+- https://qmul.ac.uk/research
+- https://digital-scriptorium.org/
+
+EQUATIONS:
+- ...
+- EQ029: Fourier transform -> F(ω)=∫ f(t)e^{-iωt}dt
+- EQ015: Power of hypothesis test -> 1 - β
+
+VALUATION:
+- Score: 0.591
+- Tier: bronze

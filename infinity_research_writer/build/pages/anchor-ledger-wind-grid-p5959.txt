@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/anchor-ledger-wind-grid-p5959
+[ANCHOR] clarity #00C8FF link://clarity/anchor-ledger-wind-grid-p5959
+[ANCHOR] alignment #33CCCC link://alignment/anchor-ledger-wind-grid-p5959
+
+TITLE: anchor-ledger-wind-grid-p5959
+SUMMARY: Research scaffold for anchor-ledger, wind-grid.
+
+LINKS:
+- https://neuron.yale.edu/neuron/
+
+
+
+EQUATIONS:
+- EQ004: KKT conditions -> ∇f(x*) + A^T λ* = 0, Ax* <= b, λ* >= 0, λ*^T (Ax* - b) = 0
+- EQ007: Controllability -> rank([B, AB, A^2B, ..., A^{n-1}B]) = n
+
+
+VALUATION:
+- Score: 0.538
+- Tier: bronze

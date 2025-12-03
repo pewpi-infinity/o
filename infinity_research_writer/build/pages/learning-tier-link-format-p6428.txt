@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/learning-tier-link-format-p6428
+[ANCHOR] clarity #00C8FF link://clarity/learning-tier-link-format-p6428
+[ANCHOR] learning #E6B800 link://learning/learning-tier-link-format-p6428
+[ANCHOR] alignment #33CCCC link://alignment/learning-tier-link-format-p6428
+
+TITLE: learning-tier-link-format-p6428
+SUMMARY: Research scaffold for learning-tier, link-format.
+
+LINKS:
+- https://uchicago.edu/research
+
+
+
+EQUATIONS:
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+- EQ029: Fourier transform -> F(ω)=∫ f(t)e^{-iωt}dt
+
+
+VALUATION:
+- Score: 0.528
+- Tier: bronze

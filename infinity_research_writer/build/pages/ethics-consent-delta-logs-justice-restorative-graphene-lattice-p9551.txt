@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p9551
+[ANCHOR] ethics #FF6A00 link://ethics/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p9551
+[ANCHOR] capacity #00D67D link://capacity/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p9551
+[ANCHOR] clarity #00C8FF link://clarity/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p9551
+[ANCHOR] provenance #7D4DF2 link://provenance/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p9551
+
+TITLE: ethics-consent-delta-logs-justice-restorative-graphene-lattice-p9551
+SUMMARY: Research scaffold for ethics-consent, delta-logs, justice-restorative, graphene-lattice.
+
+LINKS:
+- https://agu.org/Share-and-Advocate/Share/Eos
+- https://anthrosource.onlinelibrary.wiley.com/
+- https://gbif.org/
+
+EQUATIONS:
+- EQ022: Logistic regression -> σ(wᵀx)
+
+
+
+VALUATION:
+- Score: 0.632
+- Tier: silver

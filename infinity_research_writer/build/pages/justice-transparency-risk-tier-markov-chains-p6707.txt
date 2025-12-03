@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/justice-transparency-risk-tier-markov-chains-p6707
+[ANCHOR] ethics #FF6A00 link://ethics/justice-transparency-risk-tier-markov-chains-p6707
+[ANCHOR] clarity #00C8FF link://clarity/justice-transparency-risk-tier-markov-chains-p6707
+[ANCHOR] provenance #7D4DF2 link://provenance/justice-transparency-risk-tier-markov-chains-p6707
+[ANCHOR] scope #6066FF link://scope/justice-transparency-risk-tier-markov-chains-p6707
+
+TITLE: justice-transparency-risk-tier-markov-chains-p6707
+SUMMARY: Research scaffold for justice-transparency, risk-tier, markov-chains.
+
+LINKS:
+- https://jamanetwork.com/
+- https://ideas.repec.org/
+- https://digital-scriptorium.org/
+
+EQUATIONS:
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+- EQ022: Logistic regression -> σ(wᵀx)
+- EQ029: Fourier transform -> F(ω)=∫ f(t)e^{-iωt}dt
+
+VALUATION:
+- Score: 0.632
+- Tier: silver

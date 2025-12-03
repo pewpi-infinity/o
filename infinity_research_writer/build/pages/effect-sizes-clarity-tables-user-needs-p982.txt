@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/effect-sizes-clarity-tables-user-needs-p982
+[ANCHOR] clarity #00C8FF link://clarity/effect-sizes-clarity-tables-user-needs-p982
+[ANCHOR] learning #E6B800 link://learning/effect-sizes-clarity-tables-user-needs-p982
+[ANCHOR] alignment #33CCCC link://alignment/effect-sizes-clarity-tables-user-needs-p982
+
+TITLE: effect-sizes-clarity-tables-user-needs-p982
+SUMMARY: Research scaffold for effect-sizes, clarity-tables, user-needs.
+
+LINKS:
+- https://beckerfreidman.uchicago.edu/research/
+- https://nature.com/subjects/blood
+- https://journals.sagepub.com/home/his
+
+EQUATIONS:
+- EQ035: Maxwell equations (set of 4)
+- EQ001: Linear program objective -> maximize c^T x subject to Ax <= b, x >= 0
+
+
+VALUATION:
+- Score: 0.589
+- Tier: bronze

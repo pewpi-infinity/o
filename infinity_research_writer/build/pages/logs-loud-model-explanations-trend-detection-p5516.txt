@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/logs-loud-model-explanations-trend-detection-p5516
+[ANCHOR] clarity #00C8FF link://clarity/logs-loud-model-explanations-trend-detection-p5516
+[ANCHOR] alignment #33CCCC link://alignment/logs-loud-model-explanations-trend-detection-p5516
+
+TITLE: logs-loud-model-explanations-trend-detection-p5516
+SUMMARY: Research scaffold for logs-loud, model-explanations, trend-detection.
+
+LINKS:
+- https://stanford.edu/research/
+- https://anthrosource.onlinelibrary.wiley.com/
+
+
+EQUATIONS:
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+- EQ005: Spectral radius -> ρ(A) = max |λ_i(A)|
+- EQ027: Entropy -> -Σ p log p
+
+VALUATION:
+- Score: 0.607
+- Tier: silver

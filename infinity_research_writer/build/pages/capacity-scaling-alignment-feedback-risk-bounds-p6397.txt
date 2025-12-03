@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/capacity-scaling-alignment-feedback-risk-bounds-p6397
+[ANCHOR] capacity #00D67D link://capacity/capacity-scaling-alignment-feedback-risk-bounds-p6397
+[ANCHOR] clarity #00C8FF link://clarity/capacity-scaling-alignment-feedback-risk-bounds-p6397
+[ANCHOR] provenance #7D4DF2 link://provenance/capacity-scaling-alignment-feedback-risk-bounds-p6397
+[ANCHOR] risk #FF3B3B link://risk/capacity-scaling-alignment-feedback-risk-bounds-p6397
+
+TITLE: capacity-scaling-alignment-feedback-risk-bounds-p6397
+SUMMARY: Research scaffold for capacity-scaling, alignment-feedback, risk-bounds.
+
+LINKS:
+- https://cam.ac.uk/research
+- https://stanford.edu/research/
+- https://siam.org/journals
+
+EQUATIONS:
+- EQ032: Heat equation -> ∂u/∂t = α∇²u
+
+
+
+VALUATION:
+- Score: 0.595
+- Tier: bronze

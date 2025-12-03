@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/project-index-materials-reuse-variance-analysis-p7137
+[ANCHOR] clarity #00C8FF link://clarity/project-index-materials-reuse-variance-analysis-p7137
+[ANCHOR] alignment #33CCCC link://alignment/project-index-materials-reuse-variance-analysis-p7137
+
+TITLE: project-index-materials-reuse-variance-analysis-p7137
+SUMMARY: Research scaffold for project-index, materials-reuse, variance-analysis.
+
+LINKS:
+- https://arpa-e.energy.gov/
+- https://mlr.press/
+- https://erowid.org/chemicals/
+
+EQUATIONS:
+- EQ029: Fourier transform -> F(ω)=∫ f(t)e^{-iωt}dt
+- EQ043: Chi-square distribution -> special gamma
+- EQ006: Stability -> Re(λ_i(A)) < 0 for continuous systems
+
+VALUATION:
+- Score: 0.624
+- Tier: silver

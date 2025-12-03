@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/clarity-interfaces-steel-sustainability-risk-heatmaps-systems-failures-p712
+[ANCHOR] clarity #00C8FF link://clarity/clarity-interfaces-steel-sustainability-risk-heatmaps-systems-failures-p712
+[ANCHOR] learning #E6B800 link://learning/clarity-interfaces-steel-sustainability-risk-heatmaps-systems-failures-p712
+[ANCHOR] alignment #33CCCC link://alignment/clarity-interfaces-steel-sustainability-risk-heatmaps-systems-failures-p712
+
+TITLE: clarity-interfaces-steel-sustainability-risk-heatmaps-systems-failures-p712
+SUMMARY: Research scaffold for clarity-interfaces, steel-sustainability, risk-heatmaps, systems-failures.
+
+LINKS:
+- https://cell.com/
+- https://drugpolicy.org/resource-library
+
+
+EQUATIONS:
+- EQ045: Central limit theorem -> normalized sums→normal
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+
+
+VALUATION:
+- Score: 0.629
+- Tier: silver

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/paper-index-silicon-fabs-grade-metrics-grid-congestion-p8721
+[ANCHOR] clarity #00C8FF link://clarity/paper-index-silicon-fabs-grade-metrics-grid-congestion-p8721
+[ANCHOR] alignment #33CCCC link://alignment/paper-index-silicon-fabs-grade-metrics-grid-congestion-p8721
+
+TITLE: paper-index-silicon-fabs-grade-metrics-grid-congestion-p8721
+SUMMARY: Research scaffold for paper-index, silicon-fabs, grade-metrics, grid-congestion.
+
+LINKS:
+- https://nature.com/subjects/atmospheric-science
+- https://rsc.org/
+- https://thelancet.com/journals/lancet/issue/current
+
+EQUATIONS:
+- EQ031: Laplace transform -> ∫f(t)e^{-st}dt
+
+
+
+VALUATION:
+- Score: 0.592
+- Tier: bronze

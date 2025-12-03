@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/tier-silver-provenance-signing-context-windows-p8324
+[ANCHOR] clarity #00C8FF link://clarity/tier-silver-provenance-signing-context-windows-p8324
+[ANCHOR] learning #E6B800 link://learning/tier-silver-provenance-signing-context-windows-p8324
+[ANCHOR] alignment #33CCCC link://alignment/tier-silver-provenance-signing-context-windows-p8324
+
+TITLE: tier-silver-provenance-signing-context-windows-p8324
+SUMMARY: Research scaffold for tier-silver, provenance-signing, context-windows.
+
+LINKS:
+- https://nature.com/collections
+
+
+
+EQUATIONS:
+- EQ031: Laplace transform -> ∫f(t)e^{-st}dt
+- EQ046: Markov inequality -> P(X≥a) ≤ E[X]/a
+
+
+VALUATION:
+- Score: 0.554
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/energy-market-uncertainty-matrix-factorization-equations-solver-resilience-testing-p8084
+[ANCHOR] clarity #00C8FF link://clarity/energy-market-uncertainty-matrix-factorization-equations-solver-resilience-testing-p8084
+[ANCHOR] alignment #33CCCC link://alignment/energy-market-uncertainty-matrix-factorization-equations-solver-resilience-testing-p8084
+
+TITLE: energy-market-uncertainty-matrix-factorization-equations-solver-resilience-testing-p8084
+SUMMARY: Research scaffold for energy-market, uncertainty, matrix-factorization, equations-solver, resilience-testing.
+
+LINKS:
+- https://psychedelics.ucsf.edu/research
+- https://noaa.gov/
+- https://opendata.nasa.gov/
+
+EQUATIONS:
+- EQ025: Softmax -> exp(z_i) / Σ exp(z)
+- EQ038: Determinant expansion -> Σ permutations
+- EQ030: Convolution -> (f*g)(t)=∫f(τ)g(t-τ)dτ
+
+VALUATION:
+- Score: 0.677
+- Tier: silver

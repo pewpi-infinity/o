@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/research-valuation-pages-manifest-p999
+[ANCHOR] clarity #00C8FF link://clarity/research-valuation-pages-manifest-p999
+[ANCHOR] alignment #33CCCC link://alignment/research-valuation-pages-manifest-p999
+
+TITLE: research-valuation-pages-manifest-p999
+SUMMARY: Research scaffold for research-valuation, pages-manifest.
+
+LINKS:
+- https://royalsocietypublishing.org/
+
+
+
+EQUATIONS:
+- EQ012: Auction revenue equivalence -> symmetric independent private values
+- EQ013: Markov chain stationary distribution -> π = πP
+
+
+VALUATION:
+- Score: 0.495
+- Tier: bronze

@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/learning-tier-link-format-p7268
+[ANCHOR] clarity #00C8FF link://clarity/learning-tier-link-format-p7268
+[ANCHOR] learning #E6B800 link://learning/learning-tier-link-format-p7268
+[ANCHOR] alignment #33CCCC link://alignment/learning-tier-link-format-p7268
+
+TITLE: learning-tier-link-format-p7268
+SUMMARY: Research scaffold for learning-tier, link-format.
+
+LINKS:
+- https://math.berkeley.edu/research
+- https://icpsr.umich.edu/
+
+
+EQUATIONS:
+- EQ031: Laplace transform -> ∫f(t)e^{-st}dt
+- EQ050: Characteristic function -> E[e^{itX}]
+- EQ037: Eigenvalue problem -> Ax = λx
+
+VALUATION:
+- Score: 0.551
+- Tier: bronze

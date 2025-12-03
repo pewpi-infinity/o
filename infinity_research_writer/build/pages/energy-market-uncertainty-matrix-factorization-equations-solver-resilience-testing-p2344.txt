@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/energy-market-uncertainty-matrix-factorization-equations-solver-resilience-testing-p2344
+[ANCHOR] clarity #00C8FF link://clarity/energy-market-uncertainty-matrix-factorization-equations-solver-resilience-testing-p2344
+[ANCHOR] alignment #33CCCC link://alignment/energy-market-uncertainty-matrix-factorization-equations-solver-resilience-testing-p2344
+
+TITLE: energy-market-uncertainty-matrix-factorization-equations-solver-resilience-testing-p2344
+SUMMARY: Research scaffold for energy-market, uncertainty, matrix-factorization, equations-solver, resilience-testing.
+
+LINKS:
+- https://data.europa.eu/
+- https://nature.com/subjects/blood
+- https://unep.org/resources/publications
+
+EQUATIONS:
+- EQ038: Determinant expansion -> Σ permutations
+- EQ003: Lagrangian -> L(x, λ) = f(x) + λ^T (Ax - b)
+
+
+VALUATION:
+- Score: 0.707
+- Tier: silver

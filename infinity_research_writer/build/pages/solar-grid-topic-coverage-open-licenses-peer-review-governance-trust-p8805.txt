@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/solar-grid-topic-coverage-open-licenses-peer-review-governance-trust-p8805
+[ANCHOR] ethics #FF6A00 link://ethics/solar-grid-topic-coverage-open-licenses-peer-review-governance-trust-p8805
+[ANCHOR] clarity #00C8FF link://clarity/solar-grid-topic-coverage-open-licenses-peer-review-governance-trust-p8805
+[ANCHOR] provenance #7D4DF2 link://provenance/solar-grid-topic-coverage-open-licenses-peer-review-governance-trust-p8805
+[ANCHOR] scope #6066FF link://scope/solar-grid-topic-coverage-open-licenses-peer-review-governance-trust-p8805
+
+TITLE: solar-grid-topic-coverage-open-licenses-peer-review-governance-trust-p8805
+SUMMARY: Research scaffold for solar-grid, topic-coverage, open-licenses, peer-review, governance-trust.
+
+LINKS:
+- https://emmadata.europa.eu/
+- https://digital.library.yale.edu/
+
+
+EQUATIONS:
+- EQ034: Poisson equation -> ∇²u = -ρ/ε
+- EQ037: Eigenvalue problem -> Ax = λx
+
+
+VALUATION:
+- Score: 0.677
+- Tier: silver

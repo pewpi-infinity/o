@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/provenance-tier-hash-ledger-grand-hash-p7969
+[ANCHOR] clarity #00C8FF link://clarity/provenance-tier-hash-ledger-grand-hash-p7969
+[ANCHOR] learning #E6B800 link://learning/provenance-tier-hash-ledger-grand-hash-p7969
+[ANCHOR] alignment #33CCCC link://alignment/provenance-tier-hash-ledger-grand-hash-p7969
+
+TITLE: provenance-tier-hash-ledger-grand-hash-p7969
+SUMMARY: Research scaffold for provenance-tier, hash-ledger, grand-hash.
+
+LINKS:
+- https://oxfordacademic.com/
+- https://darpa.mil/our-research
+- https://openknowledge.worldbank.org/
+
+EQUATIONS:
+- EQ250: Robust optimization -> minimize max loss over uncertainty set U
+- EQ005: Spectral radius -> ρ(A) = max |λ_i(A)|
+
+
+VALUATION:
+- Score: 0.639
+- Tier: silver

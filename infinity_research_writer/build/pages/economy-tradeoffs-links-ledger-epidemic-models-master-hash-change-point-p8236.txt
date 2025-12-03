@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/economy-tradeoffs-links-ledger-epidemic-models-master-hash-change-point-p8236
+[ANCHOR] clarity #00C8FF link://clarity/economy-tradeoffs-links-ledger-epidemic-models-master-hash-change-point-p8236
+[ANCHOR] alignment #33CCCC link://alignment/economy-tradeoffs-links-ledger-epidemic-models-master-hash-change-point-p8236
+
+TITLE: economy-tradeoffs-links-ledger-epidemic-models-master-hash-change-point-p8236
+SUMMARY: Research scaffold for economy-tradeoffs, links-ledger, epidemic-models, master-hash, change-point.
+
+LINKS:
+- https://agu.org/learn-and-develop/learn/eos
+
+
+
+EQUATIONS:
+- EQ040: Rank-nullity -> dim(V)=rank+nullity
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+
+
+VALUATION:
+- Score: 0.637
+- Tier: silver

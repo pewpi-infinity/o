@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/privacy-preserving-scholar-synthesis-reference-quality-p2983
+[ANCHOR] clarity #00C8FF link://clarity/privacy-preserving-scholar-synthesis-reference-quality-p2983
+[ANCHOR] alignment #33CCCC link://alignment/privacy-preserving-scholar-synthesis-reference-quality-p2983
+
+TITLE: privacy-preserving-scholar-synthesis-reference-quality-p2983
+SUMMARY: Research scaffold for privacy-preserving, scholar-synthesis, reference-quality.
+
+LINKS:
+- https://openei.org/
+- https://journals.sagepub.com/home/jfm
+- https://agu.org/learn-and-develop/learn/eos
+
+EQUATIONS:
+- EQ008: Observability -> rank([C; CA; CA^2; ...; CA^{n-1}]) = n
+
+
+
+VALUATION:
+- Score: 0.553
+- Tier: bronze

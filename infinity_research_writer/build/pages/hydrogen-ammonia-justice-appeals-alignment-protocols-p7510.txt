@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/hydrogen-ammonia-justice-appeals-alignment-protocols-p7510
+[ANCHOR] ethics #FF6A00 link://ethics/hydrogen-ammonia-justice-appeals-alignment-protocols-p7510
+[ANCHOR] capacity #00D67D link://capacity/hydrogen-ammonia-justice-appeals-alignment-protocols-p7510
+[ANCHOR] clarity #00C8FF link://clarity/hydrogen-ammonia-justice-appeals-alignment-protocols-p7510
+[ANCHOR] provenance #7D4DF2 link://provenance/hydrogen-ammonia-justice-appeals-alignment-protocols-p7510
+
+TITLE: hydrogen-ammonia-justice-appeals-alignment-protocols-p7510
+SUMMARY: Research scaffold for hydrogen-ammonia, justice-appeals, alignment-protocols.
+
+LINKS:
+- https://metmuseum.org/art/metpublications
+- https://re3data.org/
+- https://toxnet.nlm.nih.gov/
+
+EQUATIONS:
+- EQ043: Chi-square distribution -> special gamma
+- ...
+- EQ025: Softmax -> exp(z_i) / Σ exp(z)
+
+VALUATION:
+- Score: 0.634
+- Tier: silver

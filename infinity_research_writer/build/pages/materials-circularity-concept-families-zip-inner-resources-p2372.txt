@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/materials-circularity-concept-families-zip-inner-resources-p2372
+[ANCHOR] clarity #00C8FF link://clarity/materials-circularity-concept-families-zip-inner-resources-p2372
+[ANCHOR] alignment #33CCCC link://alignment/materials-circularity-concept-families-zip-inner-resources-p2372
+
+TITLE: materials-circularity-concept-families-zip-inner-resources-p2372
+SUMMARY: Research scaffold for materials-circularity, concept-families, zip-inner-resources.
+
+LINKS:
+- https://cambridge.org/core/what-we-publish/journals
+
+
+
+EQUATIONS:
+- EQ032: Heat equation -> ∂u/∂t = α∇²u
+- EQ029: Fourier transform -> F(ω)=∫ f(t)e^{-iωt}dt
+
+
+VALUATION:
+- Score: 0.504
+- Tier: bronze

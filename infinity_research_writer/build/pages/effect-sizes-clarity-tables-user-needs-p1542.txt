@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/effect-sizes-clarity-tables-user-needs-p1542
+[ANCHOR] clarity #00C8FF link://clarity/effect-sizes-clarity-tables-user-needs-p1542
+[ANCHOR] learning #E6B800 link://learning/effect-sizes-clarity-tables-user-needs-p1542
+[ANCHOR] alignment #33CCCC link://alignment/effect-sizes-clarity-tables-user-needs-p1542
+
+TITLE: effect-sizes-clarity-tables-user-needs-p1542
+SUMMARY: Research scaffold for effect-sizes, clarity-tables, user-needs.
+
+LINKS:
+- https://qmul.ac.uk/research
+- https://coursera.org/browse/math-and-logic
+- https://projecteuclid.org/
+
+EQUATIONS:
+- EQ029: Fourier transform -> F(ω)=∫ f(t)e^{-iωt}dt
+
+
+
+VALUATION:
+- Score: 0.569
+- Tier: bronze

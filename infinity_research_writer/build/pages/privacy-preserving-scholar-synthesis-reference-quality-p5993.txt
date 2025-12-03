@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/privacy-preserving-scholar-synthesis-reference-quality-p5993
+[ANCHOR] clarity #00C8FF link://clarity/privacy-preserving-scholar-synthesis-reference-quality-p5993
+[ANCHOR] alignment #33CCCC link://alignment/privacy-preserving-scholar-synthesis-reference-quality-p5993
+
+TITLE: privacy-preserving-scholar-synthesis-reference-quality-p5993
+SUMMARY: Research scaffold for privacy-preserving, scholar-synthesis, reference-quality.
+
+LINKS:
+- https://jstor.org/
+- https://conservation.org/research
+- https://cell.com/trends/biochemical-sciences
+
+EQUATIONS:
+- EQ030: Convolution -> (f*g)(t)=∫f(τ)g(t-τ)dτ
+- EQ007: Controllability -> rank([B, AB, A^2B, ..., A^{n-1}B]) = n
+- EQ032: Heat equation -> ∂u/∂t = α∇²u
+
+VALUATION:
+- Score: 0.624
+- Tier: silver

@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/education-outreach-nonprogrammer-ux-spectral-methods-governance-standards-observability-p8929
+[ANCHOR] ethics #FF6A00 link://ethics/education-outreach-nonprogrammer-ux-spectral-methods-governance-standards-observability-p8929
+[ANCHOR] clarity #00C8FF link://clarity/education-outreach-nonprogrammer-ux-spectral-methods-governance-standards-observability-p8929
+[ANCHOR] provenance #7D4DF2 link://provenance/education-outreach-nonprogrammer-ux-spectral-methods-governance-standards-observability-p8929
+[ANCHOR] scope #6066FF link://scope/education-outreach-nonprogrammer-ux-spectral-methods-governance-standards-observability-p8929
+
+TITLE: education-outreach-nonprogrammer-ux-spectral-methods-governance-standards-observability-p8929
+SUMMARY: Research scaffold for education-outreach, nonprogrammer-ux, spectral-methods, governance-standards, observability.
+
+LINKS:
+- https://orthopaedicresearchsociety.org/
+- https://plos.org/
+
+
+EQUATIONS:
+- EQ048: Jensen's inequality -> φ(E[X]) ≤ E[φ(X)]
+- EQ035: Maxwell equations (set of 4)
+- EQ001: Linear program objective -> maximize c^T x subject to Ax <= b, x >= 0
+
+VALUATION:
+- Score: 0.683
+- Tier: silver

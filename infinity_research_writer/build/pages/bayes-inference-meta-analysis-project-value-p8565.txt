@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/bayes-inference-meta-analysis-project-value-p8565
+[ANCHOR] clarity #00C8FF link://clarity/bayes-inference-meta-analysis-project-value-p8565
+[ANCHOR] alignment #33CCCC link://alignment/bayes-inference-meta-analysis-project-value-p8565
+
+TITLE: bayes-inference-meta-analysis-project-value-p8565
+SUMMARY: Research scaffold for bayes-inference, meta-analysis, project-value.
+
+LINKS:
+- https://uclpress.co.uk/
+- https://govinfo.gov/
+
+
+EQUATIONS:
+- EQ019: Lasso sparsity -> many β_j = 0
+- EQ018: Ridge regression -> minimize ||y-Xβ||² + λ||β||²
+- EQ039: Matrix invertibility -> det(A) ≠ 0
+
+VALUATION:
+- Score: 0.600
+- Tier: silver

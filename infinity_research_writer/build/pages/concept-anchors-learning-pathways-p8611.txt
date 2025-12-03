@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/concept-anchors-learning-pathways-p8611
+[ANCHOR] clarity #00C8FF link://clarity/concept-anchors-learning-pathways-p8611
+[ANCHOR] learning #E6B800 link://learning/concept-anchors-learning-pathways-p8611
+[ANCHOR] alignment #33CCCC link://alignment/concept-anchors-learning-pathways-p8611
+
+TITLE: concept-anchors-learning-pathways-p8611
+SUMMARY: Research scaffold for concept-anchors, learning-pathways.
+
+LINKS:
+- https://anthrosource.onlinelibrary.wiley.com/
+- https://terrytao.wordpress.com/
+- https://sciencemag.org/journals/science-signaling
+
+EQUATIONS:
+- EQ041: Gaussian distribution -> (1/√2πσ²)e^{-(x-μ)²/2σ²}
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+
+
+VALUATION:
+- Score: 0.549
+- Tier: bronze

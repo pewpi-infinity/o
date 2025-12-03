@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scope-boundaries-security-zerotrust-p6660
+[ANCHOR] clarity #00C8FF link://clarity/scope-boundaries-security-zerotrust-p6660
+[ANCHOR] alignment #33CCCC link://alignment/scope-boundaries-security-zerotrust-p6660
+
+TITLE: scope-boundaries-security-zerotrust-p6660
+SUMMARY: Research scaffold for scope-boundaries, security-zerotrust.
+
+LINKS:
+- https://elifesciences.org/
+- https://heinonline.org/
+
+
+EQUATIONS:
+- EQ024: Gradient descent -> θ ← θ - α∇J(θ)
+- EQ036: Schrödinger equation -> iħ∂ψ/∂t = Hψ
+- EQ022: Logistic regression -> σ(wᵀx)
+
+VALUATION:
+- Score: 0.516
+- Tier: bronze

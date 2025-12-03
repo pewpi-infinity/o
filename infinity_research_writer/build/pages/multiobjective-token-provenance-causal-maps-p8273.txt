@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/multiobjective-token-provenance-causal-maps-p8273
+[ANCHOR] clarity #00C8FF link://clarity/multiobjective-token-provenance-causal-maps-p8273
+[ANCHOR] learning #E6B800 link://learning/multiobjective-token-provenance-causal-maps-p8273
+[ANCHOR] alignment #33CCCC link://alignment/multiobjective-token-provenance-causal-maps-p8273
+
+TITLE: multiobjective-token-provenance-causal-maps-p8273
+SUMMARY: Research scaffold for multiobjective, token-provenance, causal-maps.
+
+LINKS:
+- https://zenodo.org/
+- https://beckerfreidman.uchicago.edu/research/
+- https://apa.org/research
+
+EQUATIONS:
+- EQ008: Observability -> rank([C; CA; CA^2; ...; CA^{n-1}]) = n
+- EQ032: Heat equation -> ∂u/∂t = α∇²u
+- EQ049: Moment generating function -> M(t)=E[e^{tX}]
+
+VALUATION:
+- Score: 0.612
+- Tier: silver

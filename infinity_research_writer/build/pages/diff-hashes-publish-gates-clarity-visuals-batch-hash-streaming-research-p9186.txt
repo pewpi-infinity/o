@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/diff-hashes-publish-gates-clarity-visuals-batch-hash-streaming-research-p9186
+[ANCHOR] clarity #00C8FF link://clarity/diff-hashes-publish-gates-clarity-visuals-batch-hash-streaming-research-p9186
+[ANCHOR] learning #E6B800 link://learning/diff-hashes-publish-gates-clarity-visuals-batch-hash-streaming-research-p9186
+[ANCHOR] alignment #33CCCC link://alignment/diff-hashes-publish-gates-clarity-visuals-batch-hash-streaming-research-p9186
+
+TITLE: diff-hashes-publish-gates-clarity-visuals-batch-hash-streaming-research-p9186
+SUMMARY: Research scaffold for diff-hashes, publish-gates, clarity-visuals, batch-hash, streaming-research.
+
+LINKS:
+- https://khanacademy.org/math
+- https://nature.com/subjects/biochemistry
+
+
+EQUATIONS:
+- EQ023: Cross entropy -> -Σ y log p
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+- EQ008: Observability -> rank([C; CA; CA^2; ...; CA^{n-1}]) = n
+
+VALUATION:
+- Score: 0.712
+- Tier: silver

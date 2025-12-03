@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/artifact-visibility-scholar-ledger-p7611
+[ANCHOR] clarity #00C8FF link://clarity/artifact-visibility-scholar-ledger-p7611
+[ANCHOR] alignment #33CCCC link://alignment/artifact-visibility-scholar-ledger-p7611
+
+TITLE: artifact-visibility-scholar-ledger-p7611
+SUMMARY: Research scaffold for artifact-visibility, scholar-ledger.
+
+LINKS:
+- https://nature.com/collections
+- https://geoscienceworld.org/
+- https://ourworldindata.org/
+
+EQUATIONS:
+- EQ046: Markov inequality -> P(X≥a) ≤ E[X]/a
+- EQ006: Stability -> Re(λ_i(A)) < 0 for continuous systems
+
+
+VALUATION:
+- Score: 0.591
+- Tier: bronze

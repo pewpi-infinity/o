@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/controllability-co2-sequestration-p4095
+[ANCHOR] clarity #00C8FF link://clarity/controllability-co2-sequestration-p4095
+[ANCHOR] alignment #33CCCC link://alignment/controllability-co2-sequestration-p4095
+
+TITLE: controllability-co2-sequestration-p4095
+SUMMARY: Research scaffold for controllability, co2-sequestration.
+
+LINKS:
+- https://wwf.panda.org/discover/our_focus/
+- https://neurips.cc/Conferences/Current
+
+
+EQUATIONS:
+- EQ017: L1 regularization -> minimize ||y-Xβ||² + λ||β||₁
+- ...
+- EQ005: Spectral radius -> ρ(A) = max |λ_i(A)|
+
+VALUATION:
+- Score: 0.516
+- Tier: bronze

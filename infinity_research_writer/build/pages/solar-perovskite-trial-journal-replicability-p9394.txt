@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/solar-perovskite-trial-journal-replicability-p9394
+[ANCHOR] clarity #00C8FF link://clarity/solar-perovskite-trial-journal-replicability-p9394
+[ANCHOR] alignment #33CCCC link://alignment/solar-perovskite-trial-journal-replicability-p9394
+
+TITLE: solar-perovskite-trial-journal-replicability-p9394
+SUMMARY: Research scaffold for solar-perovskite, trial-journal, replicability.
+
+LINKS:
+- https://math.berkeley.edu/research
+- https://zenodo.org/
+
+
+EQUATIONS:
+- EQ048: Jensen's inequality -> φ(E[X]) ≤ E[φ(X)]
+- EQ036: Schrödinger equation -> iħ∂ψ/∂t = Hψ
+
+
+VALUATION:
+- Score: 0.539
+- Tier: bronze

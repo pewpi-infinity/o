@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/links-index-semantic-color-provenance-learning-health-registry-method-rigor-p6959
+[ANCHOR] clarity #00C8FF link://clarity/links-index-semantic-color-provenance-learning-health-registry-method-rigor-p6959
+[ANCHOR] learning #E6B800 link://learning/links-index-semantic-color-provenance-learning-health-registry-method-rigor-p6959
+[ANCHOR] alignment #33CCCC link://alignment/links-index-semantic-color-provenance-learning-health-registry-method-rigor-p6959
+
+TITLE: links-index-semantic-color-provenance-learning-health-registry-method-rigor-p6959
+SUMMARY: Research scaffold for links-index, semantic-color, provenance-learning, health-registry, method-rigor.
+
+LINKS:
+- https://apa.org/research
+
+
+
+EQUATIONS:
+- EQ043: Chi-square distribution -> special gamma
+- EQ026: KL divergence -> Σ p log(p/q)
+
+
+VALUATION:
+- Score: 0.608
+- Tier: silver

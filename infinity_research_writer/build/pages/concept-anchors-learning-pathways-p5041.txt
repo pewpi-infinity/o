@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/concept-anchors-learning-pathways-p5041
+[ANCHOR] clarity #00C8FF link://clarity/concept-anchors-learning-pathways-p5041
+[ANCHOR] learning #E6B800 link://learning/concept-anchors-learning-pathways-p5041
+[ANCHOR] alignment #33CCCC link://alignment/concept-anchors-learning-pathways-p5041
+
+TITLE: concept-anchors-learning-pathways-p5041
+SUMMARY: Research scaffold for concept-anchors, learning-pathways.
+
+LINKS:
+- https://darpa.mil/our-research
+- https://journals.sagepub.com/home/jfm
+
+
+EQUATIONS:
+- EQ014: Bayesian update -> p(θ|D) ∝ p(D|θ)p(θ)
+- EQ033: Wave equation -> ∂²u/∂t² = c²∇²u
+- EQ017: L1 regularization -> minimize ||y-Xβ||² + λ||β||₁
+
+VALUATION:
+- Score: 0.566
+- Tier: bronze

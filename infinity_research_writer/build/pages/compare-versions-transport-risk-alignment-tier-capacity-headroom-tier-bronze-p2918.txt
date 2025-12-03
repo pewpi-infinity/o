@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/compare-versions-transport-risk-alignment-tier-capacity-headroom-tier-bronze-p2918
+[ANCHOR] capacity #00D67D link://capacity/compare-versions-transport-risk-alignment-tier-capacity-headroom-tier-bronze-p2918
+[ANCHOR] clarity #00C8FF link://clarity/compare-versions-transport-risk-alignment-tier-capacity-headroom-tier-bronze-p2918
+[ANCHOR] provenance #7D4DF2 link://provenance/compare-versions-transport-risk-alignment-tier-capacity-headroom-tier-bronze-p2918
+[ANCHOR] risk #FF3B3B link://risk/compare-versions-transport-risk-alignment-tier-capacity-headroom-tier-bronze-p2918
+
+TITLE: compare-versions-transport-risk-alignment-tier-capacity-headroom-tier-bronze-p2918
+SUMMARY: Research scaffold for compare-versions, transport-risk, alignment-tier, capacity-headroom, tier-bronze.
+
+LINKS:
+- https://crcpress.com/mathematics
+
+
+
+EQUATIONS:
+- EQ047: Chebyshev inequality -> P(|X-μ|≥kσ) ≤ 1/k²
+- EQ004: KKT conditions -> ∇f(x*) + A^T λ* = 0, Ax* <= b, λ* >= 0, λ*^T (Ax* - b) = 0
+
+
+VALUATION:
+- Score: 0.680
+- Tier: silver

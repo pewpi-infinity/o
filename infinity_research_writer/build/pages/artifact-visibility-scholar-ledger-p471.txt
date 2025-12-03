@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/artifact-visibility-scholar-ledger-p471
+[ANCHOR] clarity #00C8FF link://clarity/artifact-visibility-scholar-ledger-p471
+[ANCHOR] alignment #33CCCC link://alignment/artifact-visibility-scholar-ledger-p471
+
+TITLE: artifact-visibility-scholar-ledger-p471
+SUMMARY: Research scaffold for artifact-visibility, scholar-ledger.
+
+LINKS:
+- https://perseus.tufts.edu/
+- https://gapminder.org/data/
+- https://jstor.org/open/
+
+EQUATIONS:
+- EQ044: Law of large numbers -> sample mean→μ
+- EQ022: Logistic regression -> σ(wᵀx)
+- EQ017: L1 regularization -> minimize ||y-Xβ||² + λ||β||₁
+
+VALUATION:
+- Score: 0.551
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/solar-perovskite-trial-journal-replicability-p2254
+[ANCHOR] clarity #00C8FF link://clarity/solar-perovskite-trial-journal-replicability-p2254
+[ANCHOR] alignment #33CCCC link://alignment/solar-perovskite-trial-journal-replicability-p2254
+
+TITLE: solar-perovskite-trial-journal-replicability-p2254
+SUMMARY: Research scaffold for solar-perovskite, trial-journal, replicability.
+
+LINKS:
+- https://arxiv.org/
+- https://aaas.org/
+
+
+EQUATIONS:
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+
+
+
+VALUATION:
+- Score: 0.519
+- Tier: bronze

@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/ethics-audit-scope-forecasting-reasoning-paths-p4020
+[ANCHOR] ethics #FF6A00 link://ethics/ethics-audit-scope-forecasting-reasoning-paths-p4020
+[ANCHOR] clarity #00C8FF link://clarity/ethics-audit-scope-forecasting-reasoning-paths-p4020
+[ANCHOR] provenance #7D4DF2 link://provenance/ethics-audit-scope-forecasting-reasoning-paths-p4020
+[ANCHOR] scope #6066FF link://scope/ethics-audit-scope-forecasting-reasoning-paths-p4020
+
+TITLE: ethics-audit-scope-forecasting-reasoning-paths-p4020
+SUMMARY: Research scaffold for ethics-audit, scope-forecasting, reasoning-paths.
+
+LINKS:
+- https://openreview.net/
+
+
+
+EQUATIONS:
+- EQ021: SVD -> A = UΣVᵀ
+
+
+
+VALUATION:
+- Score: 0.522
+- Tier: bronze

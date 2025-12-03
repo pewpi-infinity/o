@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p5911
+[ANCHOR] ethics #FF6A00 link://ethics/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p5911
+[ANCHOR] capacity #00D67D link://capacity/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p5911
+[ANCHOR] clarity #00C8FF link://clarity/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p5911
+[ANCHOR] provenance #7D4DF2 link://provenance/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p5911
+
+TITLE: ethics-consent-delta-logs-justice-restorative-graphene-lattice-p5911
+SUMMARY: Research scaffold for ethics-consent, delta-logs, justice-restorative, graphene-lattice.
+
+LINKS:
+- https://nature.com/subjects/blood
+- https://coursera.org/browse/math-and-logic
+- https://archeology.uiowa.edu/
+
+EQUATIONS:
+- EQ024: Gradient descent -> θ ← θ - α∇J(θ)
+- EQ033: Wave equation -> ∂²u/∂t² = c²∇²u
+
+
+VALUATION:
+- Score: 0.652
+- Tier: silver

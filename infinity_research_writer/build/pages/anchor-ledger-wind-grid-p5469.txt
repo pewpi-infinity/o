@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/anchor-ledger-wind-grid-p5469
+[ANCHOR] clarity #00C8FF link://clarity/anchor-ledger-wind-grid-p5469
+[ANCHOR] alignment #33CCCC link://alignment/anchor-ledger-wind-grid-p5469
+
+TITLE: anchor-ledger-wind-grid-p5469
+SUMMARY: Research scaffold for anchor-ledger, wind-grid.
+
+LINKS:
+- https://data.noaa.gov/
+- https://arxiv.org/
+- https://agu.org/Publish-with-AGU/Journals
+
+EQUATIONS:
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+- EQ026: KL divergence -> Σ p log(p/q)
+
+
+VALUATION:
+- Score: 0.525
+- Tier: bronze

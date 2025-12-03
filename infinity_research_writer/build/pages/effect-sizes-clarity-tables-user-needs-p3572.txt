@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/effect-sizes-clarity-tables-user-needs-p3572
+[ANCHOR] clarity #00C8FF link://clarity/effect-sizes-clarity-tables-user-needs-p3572
+[ANCHOR] learning #E6B800 link://learning/effect-sizes-clarity-tables-user-needs-p3572
+[ANCHOR] alignment #33CCCC link://alignment/effect-sizes-clarity-tables-user-needs-p3572
+
+TITLE: effect-sizes-clarity-tables-user-needs-p3572
+SUMMARY: Research scaffold for effect-sizes, clarity-tables, user-needs.
+
+LINKS:
+- https://fermilab.org/
+- https://aip.org/
+
+
+EQUATIONS:
+- EQ031: Laplace transform -> ∫f(t)e^{-st}dt
+- EQ030: Convolution -> (f*g)(t)=∫f(τ)g(t-τ)dτ
+
+
+VALUATION:
+- Score: 0.556
+- Tier: bronze

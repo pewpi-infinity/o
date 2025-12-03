@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/multiobjective-token-provenance-causal-maps-p3023
+[ANCHOR] clarity #00C8FF link://clarity/multiobjective-token-provenance-causal-maps-p3023
+[ANCHOR] learning #E6B800 link://learning/multiobjective-token-provenance-causal-maps-p3023
+[ANCHOR] alignment #33CCCC link://alignment/multiobjective-token-provenance-causal-maps-p3023
+
+TITLE: multiobjective-token-provenance-causal-maps-p3023
+SUMMARY: Research scaffold for multiobjective, token-provenance, causal-maps.
+
+LINKS:
+- https://soton.ac.uk/research
+- https://uscourts.gov/statistics-reports
+- https://nature.com/subjects/physics
+
+EQUATIONS:
+- EQ001: Linear program objective -> maximize c^T x subject to Ax <= b, x >= 0
+- ...
+- EQ033: Wave equation -> ∂²u/∂t² = c²∇²u
+
+VALUATION:
+- Score: 0.612
+- Tier: silver

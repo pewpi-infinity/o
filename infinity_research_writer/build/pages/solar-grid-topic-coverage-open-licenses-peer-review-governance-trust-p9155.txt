@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/solar-grid-topic-coverage-open-licenses-peer-review-governance-trust-p9155
+[ANCHOR] ethics #FF6A00 link://ethics/solar-grid-topic-coverage-open-licenses-peer-review-governance-trust-p9155
+[ANCHOR] clarity #00C8FF link://clarity/solar-grid-topic-coverage-open-licenses-peer-review-governance-trust-p9155
+[ANCHOR] provenance #7D4DF2 link://provenance/solar-grid-topic-coverage-open-licenses-peer-review-governance-trust-p9155
+[ANCHOR] scope #6066FF link://scope/solar-grid-topic-coverage-open-licenses-peer-review-governance-trust-p9155
+
+TITLE: solar-grid-topic-coverage-open-licenses-peer-review-governance-trust-p9155
+SUMMARY: Research scaffold for solar-grid, topic-coverage, open-licenses, peer-review, governance-trust.
+
+LINKS:
+- https://terrytao.wordpress.com/
+
+
+
+EQUATIONS:
+- EQ038: Determinant expansion -> Σ permutations
+- EQ007: Controllability -> rank([B, AB, A^2B, ..., A^{n-1}B]) = n
+
+
+VALUATION:
+- Score: 0.654
+- Tier: silver

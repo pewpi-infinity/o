@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/grand-master-ethics-tier-reason-checklist-tamper-evident-p6853
+[ANCHOR] ethics #FF6A00 link://ethics/grand-master-ethics-tier-reason-checklist-tamper-evident-p6853
+[ANCHOR] clarity #00C8FF link://clarity/grand-master-ethics-tier-reason-checklist-tamper-evident-p6853
+[ANCHOR] provenance #7D4DF2 link://provenance/grand-master-ethics-tier-reason-checklist-tamper-evident-p6853
+[ANCHOR] scope #6066FF link://scope/grand-master-ethics-tier-reason-checklist-tamper-evident-p6853
+
+TITLE: grand-master-ethics-tier-reason-checklist-tamper-evident-p6853
+SUMMARY: Research scaffold for grand-master, ethics-tier, reason-checklist, tamper-evident.
+
+LINKS:
+- https://warwick.ac.uk/research
+
+
+
+EQUATIONS:
+- EQ035: Maxwell equations (set of 4)
+- EQ001: Linear program objective -> maximize c^T x subject to Ax <= b, x >= 0
+
+
+VALUATION:
+- Score: 0.585
+- Tier: bronze

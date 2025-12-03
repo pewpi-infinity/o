@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/anchor-ledger-wind-grid-p6309
+[ANCHOR] clarity #00C8FF link://clarity/anchor-ledger-wind-grid-p6309
+[ANCHOR] alignment #33CCCC link://alignment/anchor-ledger-wind-grid-p6309
+
+TITLE: anchor-ledger-wind-grid-p6309
+SUMMARY: Research scaffold for anchor-ledger, wind-grid.
+
+LINKS:
+- https://stoa.org/
+- https://tudelft.nl/en/research
+
+
+EQUATIONS:
+- EQ047: Chebyshev inequality -> P(|X-μ|≥kσ) ≤ 1/k²
+- EQ035: Maxwell equations (set of 4)
+- EQ028: Mutual information -> I(X;Y) = H(X)+H(Y)-H(X,Y)
+
+VALUATION:
+- Score: 0.511
+- Tier: bronze

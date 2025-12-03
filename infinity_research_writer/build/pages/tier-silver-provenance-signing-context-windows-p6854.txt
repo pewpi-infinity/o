@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/tier-silver-provenance-signing-context-windows-p6854
+[ANCHOR] clarity #00C8FF link://clarity/tier-silver-provenance-signing-context-windows-p6854
+[ANCHOR] learning #E6B800 link://learning/tier-silver-provenance-signing-context-windows-p6854
+[ANCHOR] alignment #33CCCC link://alignment/tier-silver-provenance-signing-context-windows-p6854
+
+TITLE: tier-silver-provenance-signing-context-windows-p6854
+SUMMARY: Research scaffold for tier-silver, provenance-signing, context-windows.
+
+LINKS:
+- https://openpsych.net/
+- https://thelancet.com/journals/lancet/issue/current
+
+
+EQUATIONS:
+- EQ045: Central limit theorem -> normalized sums→normal
+
+
+
+VALUATION:
+- Score: 0.537
+- Tier: bronze

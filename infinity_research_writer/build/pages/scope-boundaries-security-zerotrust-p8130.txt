@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scope-boundaries-security-zerotrust-p8130
+[ANCHOR] clarity #00C8FF link://clarity/scope-boundaries-security-zerotrust-p8130
+[ANCHOR] alignment #33CCCC link://alignment/scope-boundaries-security-zerotrust-p8130
+
+TITLE: scope-boundaries-security-zerotrust-p8130
+SUMMARY: Research scaffold for scope-boundaries, security-zerotrust.
+
+LINKS:
+- https://louvre.fr/en/archives-and-documentation
+- https://springer.com/
+
+
+EQUATIONS:
+- EQ005: Spectral radius -> ρ(A) = max |λ_i(A)|
+- EQ250: Robust optimization -> minimize max loss over uncertainty set U
+
+
+VALUATION:
+- Score: 0.546
+- Tier: bronze

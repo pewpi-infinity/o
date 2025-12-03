@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/signal-noise-health-equity-p563
+[ANCHOR] clarity #00C8FF link://clarity/signal-noise-health-equity-p563
+[ANCHOR] alignment #33CCCC link://alignment/signal-noise-health-equity-p563
+
+TITLE: signal-noise-health-equity-p563
+SUMMARY: Research scaffold for signal-noise, health-equity.
+
+LINKS:
+- https://neuron.yale.edu/neuron/
+
+
+
+EQUATIONS:
+- EQ019: Lasso sparsity -> many β_j = 0
+- EQ037: Eigenvalue problem -> Ax = λx
+- EQ018: Ridge regression -> minimize ||y-Xβ||² + λ||β||²
+
+VALUATION:
+- Score: 0.539
+- Tier: bronze

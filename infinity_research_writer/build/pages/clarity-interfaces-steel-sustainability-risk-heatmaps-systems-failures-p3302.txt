@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/clarity-interfaces-steel-sustainability-risk-heatmaps-systems-failures-p3302
+[ANCHOR] clarity #00C8FF link://clarity/clarity-interfaces-steel-sustainability-risk-heatmaps-systems-failures-p3302
+[ANCHOR] learning #E6B800 link://learning/clarity-interfaces-steel-sustainability-risk-heatmaps-systems-failures-p3302
+[ANCHOR] alignment #33CCCC link://alignment/clarity-interfaces-steel-sustainability-risk-heatmaps-systems-failures-p3302
+
+TITLE: clarity-interfaces-steel-sustainability-risk-heatmaps-systems-failures-p3302
+SUMMARY: Research scaffold for clarity-interfaces, steel-sustainability, risk-heatmaps, systems-failures.
+
+LINKS:
+- https://ukdataservice.ac.uk/
+
+
+
+EQUATIONS:
+- EQ001: Linear program objective -> maximize c^T x subject to Ax <= b, x >= 0
+- EQ010: Nash equilibrium -> best response mappings intersect
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+
+VALUATION:
+- Score: 0.635
+- Tier: silver

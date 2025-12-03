@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/justice-transparency-risk-tier-markov-chains-p1317
+[ANCHOR] ethics #FF6A00 link://ethics/justice-transparency-risk-tier-markov-chains-p1317
+[ANCHOR] clarity #00C8FF link://clarity/justice-transparency-risk-tier-markov-chains-p1317
+[ANCHOR] provenance #7D4DF2 link://provenance/justice-transparency-risk-tier-markov-chains-p1317
+[ANCHOR] scope #6066FF link://scope/justice-transparency-risk-tier-markov-chains-p1317
+
+TITLE: justice-transparency-risk-tier-markov-chains-p1317
+SUMMARY: Research scaffold for justice-transparency, risk-tier, markov-chains.
+
+LINKS:
+- https://scholar.google.com/
+- https://uclpress.co.uk/
+- https://ucla.edu/research
+
+EQUATIONS:
+- EQ035: Maxwell equations (set of 4)
+- EQ009: Queue M/M/1 -> ρ = λ/μ, W = 1/(μ - λ)
+- EQ031: Laplace transform -> ∫f(t)e^{-st}dt
+
+VALUATION:
+- Score: 0.632
+- Tier: silver

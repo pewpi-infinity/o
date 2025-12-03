@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/materials-circularity-concept-families-zip-inner-resources-p3982
+[ANCHOR] clarity #00C8FF link://clarity/materials-circularity-concept-families-zip-inner-resources-p3982
+[ANCHOR] alignment #33CCCC link://alignment/materials-circularity-concept-families-zip-inner-resources-p3982
+
+TITLE: materials-circularity-concept-families-zip-inner-resources-p3982
+SUMMARY: Research scaffold for materials-circularity, concept-families, zip-inner-resources.
+
+LINKS:
+- https://mayoclinic.org/
+- https://link.springer.com/journal/10896
+- https://europa.eu/european-union/documents-publications_en
+
+EQUATIONS:
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+- EQ047: Chebyshev inequality -> P(|X-μ|≥kσ) ≤ 1/k²
+- EQ020: PCA -> eigenvectors of covariance Σ
+
+VALUATION:
+- Score: 0.641
+- Tier: silver

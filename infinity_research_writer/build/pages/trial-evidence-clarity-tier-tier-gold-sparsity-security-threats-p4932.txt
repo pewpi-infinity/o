@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p4932
+[ANCHOR] clarity #00C8FF link://clarity/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p4932
+[ANCHOR] learning #E6B800 link://learning/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p4932
+[ANCHOR] alignment #33CCCC link://alignment/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p4932
+
+TITLE: trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p4932
+SUMMARY: Research scaffold for trial-evidence, clarity-tier, tier-gold, sparsity, security-threats.
+
+LINKS:
+- https://nyu.edu/research
+
+
+
+EQUATIONS:
+- EQ013: Markov chain stationary distribution -> π = πP
+- EQ015: Power of hypothesis test -> 1 - β
+- EQ049: Moment generating function -> M(t)=E[e^{tX}]
+
+VALUATION:
+- Score: 0.655
+- Tier: silver

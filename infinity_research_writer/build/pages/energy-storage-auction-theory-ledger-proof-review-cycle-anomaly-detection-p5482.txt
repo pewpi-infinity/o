@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/energy-storage-auction-theory-ledger-proof-review-cycle-anomaly-detection-p5482
+[ANCHOR] clarity #00C8FF link://clarity/energy-storage-auction-theory-ledger-proof-review-cycle-anomaly-detection-p5482
+[ANCHOR] alignment #33CCCC link://alignment/energy-storage-auction-theory-ledger-proof-review-cycle-anomaly-detection-p5482
+
+TITLE: energy-storage-auction-theory-ledger-proof-review-cycle-anomaly-detection-p5482
+SUMMARY: Research scaffold for energy-storage, auction-theory, ledger-proof, review-cycle, anomaly-detection.
+
+LINKS:
+- https://springer.com/gp/biomedicine
+- https://pnas.org/
+- https://stanford.edu/research/
+
+EQUATIONS:
+- EQ039: Matrix invertibility -> det(A) ≠ 0
+- EQ012: Auction revenue equivalence -> symmetric independent private values
+- EQ017: L1 regularization -> minimize ||y-Xβ||² + λ||β||₁
+
+VALUATION:
+- Score: 0.677
+- Tier: silver

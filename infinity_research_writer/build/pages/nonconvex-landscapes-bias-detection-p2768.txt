@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/nonconvex-landscapes-bias-detection-p2768
+[ANCHOR] clarity #00C8FF link://clarity/nonconvex-landscapes-bias-detection-p2768
+[ANCHOR] alignment #33CCCC link://alignment/nonconvex-landscapes-bias-detection-p2768
+
+TITLE: nonconvex-landscapes-bias-detection-p2768
+SUMMARY: Research scaffold for nonconvex-landscapes, bias-detection.
+
+LINKS:
+- https://unep.org/resources/publications
+- https://icj-cij.org/en/decisions
+- https://jstor.org/
+
+EQUATIONS:
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+
+
+VALUATION:
+- Score: 0.608
+- Tier: silver

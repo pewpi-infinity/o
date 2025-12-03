@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/concept-anchors-learning-pathways-p5881
+[ANCHOR] clarity #00C8FF link://clarity/concept-anchors-learning-pathways-p5881
+[ANCHOR] learning #E6B800 link://learning/concept-anchors-learning-pathways-p5881
+[ANCHOR] alignment #33CCCC link://alignment/concept-anchors-learning-pathways-p5881
+
+TITLE: concept-anchors-learning-pathways-p5881
+SUMMARY: Research scaffold for concept-anchors, learning-pathways.
+
+LINKS:
+- https://congress.gov/
+- https://ourworldindata.org/
+
+
+EQUATIONS:
+- EQ048: Jensen's inequality -> φ(E[X]) ≤ E[φ(X)]
+- EQ003: Lagrangian -> L(x, λ) = f(x) + λ^T (Ax - b)
+
+
+VALUATION:
+- Score: 0.566
+- Tier: bronze

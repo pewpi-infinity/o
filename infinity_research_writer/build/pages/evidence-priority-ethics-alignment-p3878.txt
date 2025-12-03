@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/evidence-priority-ethics-alignment-p3878
+[ANCHOR] ethics #FF6A00 link://ethics/evidence-priority-ethics-alignment-p3878
+[ANCHOR] clarity #00C8FF link://clarity/evidence-priority-ethics-alignment-p3878
+[ANCHOR] provenance #7D4DF2 link://provenance/evidence-priority-ethics-alignment-p3878
+[ANCHOR] scope #6066FF link://scope/evidence-priority-ethics-alignment-p3878
+
+TITLE: evidence-priority-ethics-alignment-p3878
+SUMMARY: Research scaffold for evidence-priority, ethics-alignment.
+
+LINKS:
+- https://warwick.ac.uk/research
+- https://agu.org/Publish-with-AGU/Journals
+
+
+EQUATIONS:
+- EQ036: Schrödinger equation -> iħ∂ψ/∂t = Hψ
+- EQ015: Power of hypothesis test -> 1 - β
+- EQ046: Markov inequality -> P(X≥a) ≤ E[X]/a
+
+VALUATION:
+- Score: 0.589
+- Tier: bronze

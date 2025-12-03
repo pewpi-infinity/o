@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/research-valuation-pages-manifest-p4709
+[ANCHOR] clarity #00C8FF link://clarity/research-valuation-pages-manifest-p4709
+[ANCHOR] alignment #33CCCC link://alignment/research-valuation-pages-manifest-p4709
+
+TITLE: research-valuation-pages-manifest-p4709
+SUMMARY: Research scaffold for research-valuation, pages-manifest.
+
+LINKS:
+- https://conservation.org/research
+- https://qmul.ac.uk/research
+
+
+EQUATIONS:
+- EQ018: Ridge regression -> minimize ||y-Xβ||² + λ||β||²
+- EQ050: Characteristic function -> E[e^{itX}]
+
+
+VALUATION:
+- Score: 0.519
+- Tier: bronze

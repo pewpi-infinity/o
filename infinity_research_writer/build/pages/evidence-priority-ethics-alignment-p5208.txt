@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/evidence-priority-ethics-alignment-p5208
+[ANCHOR] ethics #FF6A00 link://ethics/evidence-priority-ethics-alignment-p5208
+[ANCHOR] clarity #00C8FF link://clarity/evidence-priority-ethics-alignment-p5208
+[ANCHOR] provenance #7D4DF2 link://provenance/evidence-priority-ethics-alignment-p5208
+[ANCHOR] scope #6066FF link://scope/evidence-priority-ethics-alignment-p5208
+
+TITLE: evidence-priority-ethics-alignment-p5208
+SUMMARY: Research scaffold for evidence-priority, ethics-alignment.
+
+LINKS:
+- https://mayoclinic.org/
+
+
+
+EQUATIONS:
+- EQ044: Law of large numbers -> sample mean→μ
+- EQ020: PCA -> eigenvectors of covariance Σ
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+
+VALUATION:
+- Score: 0.595
+- Tier: bronze

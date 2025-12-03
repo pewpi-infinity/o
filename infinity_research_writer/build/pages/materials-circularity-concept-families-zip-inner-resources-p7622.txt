@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/materials-circularity-concept-families-zip-inner-resources-p7622
+[ANCHOR] clarity #00C8FF link://clarity/materials-circularity-concept-families-zip-inner-resources-p7622
+[ANCHOR] alignment #33CCCC link://alignment/materials-circularity-concept-families-zip-inner-resources-p7622
+
+TITLE: materials-circularity-concept-families-zip-inner-resources-p7622
+SUMMARY: Research scaffold for materials-circularity, concept-families, zip-inner-resources.
+
+LINKS:
+- https://imf.org/en/Publications
+- https://cam.ac.uk/research
+- https://nature.com/subjects/physics
+
+EQUATIONS:
+- EQ043: Chi-square distribution -> special gamma
+- EQ030: Convolution -> (f*g)(t)=∫f(τ)g(t-τ)dτ
+- EQ011: Mechanism incentive compatibility -> truth-telling maximizes utility
+
+VALUATION:
+- Score: 0.591
+- Tier: bronze

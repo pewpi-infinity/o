@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/paper-index-silicon-fabs-grade-metrics-grid-congestion-p3961
+[ANCHOR] clarity #00C8FF link://clarity/paper-index-silicon-fabs-grade-metrics-grid-congestion-p3961
+[ANCHOR] alignment #33CCCC link://alignment/paper-index-silicon-fabs-grade-metrics-grid-congestion-p3961
+
+TITLE: paper-index-silicon-fabs-grade-metrics-grid-congestion-p3961
+SUMMARY: Research scaffold for paper-index, silicon-fabs, grade-metrics, grid-congestion.
+
+LINKS:
+- https://royalsocietypublishing.org/journal/rspb
+- https://unsw.edu.au/research
+- https://poker.srv.ualberta.ca/publications/
+
+EQUATIONS:
+- EQ023: Cross entropy -> -Σ y log p
+- EQ026: KL divergence -> Σ p log(p/q)
+
+
+VALUATION:
+- Score: 0.612
+- Tier: silver

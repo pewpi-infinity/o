@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/anchor-ledger-wind-grid-p7079
+[ANCHOR] clarity #00C8FF link://clarity/anchor-ledger-wind-grid-p7079
+[ANCHOR] alignment #33CCCC link://alignment/anchor-ledger-wind-grid-p7079
+
+TITLE: anchor-ledger-wind-grid-p7079
+SUMMARY: Research scaffold for anchor-ledger, wind-grid.
+
+LINKS:
+- https://pubs.acs.org/journal/jacsat
+
+
+
+EQUATIONS:
+- EQ033: Wave equation -> ∂²u/∂t² = c²∇²u
+
+
+
+VALUATION:
+- Score: 0.438
+- Tier: bronze

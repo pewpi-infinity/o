@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/artifact-visibility-scholar-ledger-p4671
+[ANCHOR] clarity #00C8FF link://clarity/artifact-visibility-scholar-ledger-p4671
+[ANCHOR] alignment #33CCCC link://alignment/artifact-visibility-scholar-ledger-p4671
+
+TITLE: artifact-visibility-scholar-ledger-p4671
+SUMMARY: Research scaffold for artifact-visibility, scholar-ledger.
+
+LINKS:
+- https://nasa.gov/
+- https://frontiersin.org/journals/neuroscience
+- https://edinburgh.ac.uk/research
+
+EQUATIONS:
+- ...
+- EQ031: Laplace transform -> ∫f(t)e^{-st}dt
+- EQ009: Queue M/M/1 -> ρ = λ/μ, W = 1/(μ - λ)
+
+VALUATION:
+- Score: 0.551
+- Tier: bronze

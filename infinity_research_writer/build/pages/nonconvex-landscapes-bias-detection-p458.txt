@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/nonconvex-landscapes-bias-detection-p458
+[ANCHOR] clarity #00C8FF link://clarity/nonconvex-landscapes-bias-detection-p458
+[ANCHOR] alignment #33CCCC link://alignment/nonconvex-landscapes-bias-detection-p458
+
+TITLE: nonconvex-landscapes-bias-detection-p458
+SUMMARY: Research scaffold for nonconvex-landscapes, bias-detection.
+
+LINKS:
+- https://ucla.edu/research
+- https://oapen.org/
+
+
+EQUATIONS:
+- EQ009: Queue M/M/1 -> ρ = λ/μ, W = 1/(μ - λ)
+- EQ025: Softmax -> exp(z_i) / Σ exp(z)
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+
+VALUATION:
+- Score: 0.544
+- Tier: bronze

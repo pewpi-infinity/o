@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/multiobjective-token-provenance-causal-maps-p5263
+[ANCHOR] clarity #00C8FF link://clarity/multiobjective-token-provenance-causal-maps-p5263
+[ANCHOR] learning #E6B800 link://learning/multiobjective-token-provenance-causal-maps-p5263
+[ANCHOR] alignment #33CCCC link://alignment/multiobjective-token-provenance-causal-maps-p5263
+
+TITLE: multiobjective-token-provenance-causal-maps-p5263
+SUMMARY: Research scaffold for multiobjective, token-provenance, causal-maps.
+
+LINKS:
+- https://qmul.ac.uk/research
+- https://metmuseum.org/art/metpublications
+- https://humanorigins.si.edu/
+
+EQUATIONS:
+- EQ026: KL divergence -> Σ p log(p/q)
+- EQ039: Matrix invertibility -> det(A) ≠ 0
+- EQ037: Eigenvalue problem -> Ax = λx
+
+VALUATION:
+- Score: 0.632
+- Tier: silver

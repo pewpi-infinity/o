@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/economy-tradeoffs-links-ledger-epidemic-models-master-hash-change-point-p116
+[ANCHOR] clarity #00C8FF link://clarity/economy-tradeoffs-links-ledger-epidemic-models-master-hash-change-point-p116
+[ANCHOR] alignment #33CCCC link://alignment/economy-tradeoffs-links-ledger-epidemic-models-master-hash-change-point-p116
+
+TITLE: economy-tradeoffs-links-ledger-epidemic-models-master-hash-change-point-p116
+SUMMARY: Research scaffold for economy-tradeoffs, links-ledger, epidemic-models, master-hash, change-point.
+
+LINKS:
+- https://gazzaleylab.ucsf.edu/publications
+- https://webofscience.com/
+- https://drugabuse.gov/publications
+
+EQUATIONS:
+- EQ037: Eigenvalue problem -> Ax = λx
+- EQ043: Chi-square distribution -> special gamma
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+
+VALUATION:
+- Score: 0.744
+- Tier: silver

@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/links-index-semantic-color-provenance-learning-health-registry-method-rigor-p8149
+[ANCHOR] clarity #00C8FF link://clarity/links-index-semantic-color-provenance-learning-health-registry-method-rigor-p8149
+[ANCHOR] learning #E6B800 link://learning/links-index-semantic-color-provenance-learning-health-registry-method-rigor-p8149
+[ANCHOR] alignment #33CCCC link://alignment/links-index-semantic-color-provenance-learning-health-registry-method-rigor-p8149
+
+TITLE: links-index-semantic-color-provenance-learning-health-registry-method-rigor-p8149
+SUMMARY: Research scaffold for links-index, semantic-color, provenance-learning, health-registry, method-rigor.
+
+LINKS:
+- https://acs.org/
+- https://royalsocietypublishing.org/journal/rspb
+
+
+EQUATIONS:
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+- EQ026: KL divergence -> Σ p log(p/q)
+
+
+VALUATION:
+- Score: 0.642
+- Tier: silver

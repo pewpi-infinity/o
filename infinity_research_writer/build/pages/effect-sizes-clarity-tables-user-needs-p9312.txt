@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/effect-sizes-clarity-tables-user-needs-p9312
+[ANCHOR] clarity #00C8FF link://clarity/effect-sizes-clarity-tables-user-needs-p9312
+[ANCHOR] learning #E6B800 link://learning/effect-sizes-clarity-tables-user-needs-p9312
+[ANCHOR] alignment #33CCCC link://alignment/effect-sizes-clarity-tables-user-needs-p9312
+
+TITLE: effect-sizes-clarity-tables-user-needs-p9312
+SUMMARY: Research scaffold for effect-sizes, clarity-tables, user-needs.
+
+LINKS:
+- https://rsc.org/
+- https://wwf.panda.org/discover/our_focus/
+- https://ncbi.nlm.nih.gov/books/
+
+EQUATIONS:
+- EQ043: Chi-square distribution -> special gamma
+
+
+
+VALUATION:
+- Score: 0.569
+- Tier: bronze

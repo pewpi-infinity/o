@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/anchor-ledger-wind-grid-p5329
+[ANCHOR] clarity #00C8FF link://clarity/anchor-ledger-wind-grid-p5329
+[ANCHOR] alignment #33CCCC link://alignment/anchor-ledger-wind-grid-p5329
+
+TITLE: anchor-ledger-wind-grid-p5329
+SUMMARY: Research scaffold for anchor-ledger, wind-grid.
+
+LINKS:
+- https://nature.com/subjects/oncology
+- https://nature.com/subjects/atmospheric-science
+
+
+EQUATIONS:
+- EQ031: Laplace transform -> ∫f(t)e^{-st}dt
+
+
+
+VALUATION:
+- Score: 0.471
+- Tier: bronze

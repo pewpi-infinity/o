@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/ethics-audit-scope-forecasting-reasoning-paths-p7380
+[ANCHOR] ethics #FF6A00 link://ethics/ethics-audit-scope-forecasting-reasoning-paths-p7380
+[ANCHOR] clarity #00C8FF link://clarity/ethics-audit-scope-forecasting-reasoning-paths-p7380
+[ANCHOR] provenance #7D4DF2 link://provenance/ethics-audit-scope-forecasting-reasoning-paths-p7380
+[ANCHOR] scope #6066FF link://scope/ethics-audit-scope-forecasting-reasoning-paths-p7380
+
+TITLE: ethics-audit-scope-forecasting-reasoning-paths-p7380
+SUMMARY: Research scaffold for ethics-audit, scope-forecasting, reasoning-paths.
+
+LINKS:
+- https://cell.com/
+- https://pnas.org/
+- https://worldbank.org/en/research
+
+EQUATIONS:
+- EQ033: Wave equation -> ∂²u/∂t² = c²∇²u
+
+
+
+VALUATION:
+- Score: 0.589
+- Tier: bronze

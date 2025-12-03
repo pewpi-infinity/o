@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/controllability-co2-sequestration-p7315
+[ANCHOR] clarity #00C8FF link://clarity/controllability-co2-sequestration-p7315
+[ANCHOR] alignment #33CCCC link://alignment/controllability-co2-sequestration-p7315
+
+TITLE: controllability-co2-sequestration-p7315
+SUMMARY: Research scaffold for controllability, co2-sequestration.
+
+LINKS:
+- https://frontiersin.org/journals/neuroscience
+- https://congress.gov/
+
+
+EQUATIONS:
+- EQ008: Observability -> rank([C; CA; CA^2; ...; CA^{n-1}]) = n
+
+
+
+VALUATION:
+- Score: 0.476
+- Tier: bronze

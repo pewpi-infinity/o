@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/multiobjective-token-provenance-causal-maps-p573
+[ANCHOR] clarity #00C8FF link://clarity/multiobjective-token-provenance-causal-maps-p573
+[ANCHOR] learning #E6B800 link://learning/multiobjective-token-provenance-causal-maps-p573
+[ANCHOR] alignment #33CCCC link://alignment/multiobjective-token-provenance-causal-maps-p573
+
+TITLE: multiobjective-token-provenance-causal-maps-p573
+SUMMARY: Research scaffold for multiobjective, token-provenance, causal-maps.
+
+LINKS:
+- https://coursera.org/browse/math-and-logic
+
+
+
+EQUATIONS:
+- EQ044: Law of large numbers -> sample mean→μ
+- EQ049: Moment generating function -> M(t)=E[e^{tX}]
+
+
+VALUATION:
+- Score: 0.525
+- Tier: bronze

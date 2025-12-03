@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/research-valuation-pages-manifest-p2469
+[ANCHOR] clarity #00C8FF link://clarity/research-valuation-pages-manifest-p2469
+[ANCHOR] alignment #33CCCC link://alignment/research-valuation-pages-manifest-p2469
+
+TITLE: research-valuation-pages-manifest-p2469
+SUMMARY: Research scaffold for research-valuation, pages-manifest.
+
+LINKS:
+- https://britishmuseum.org/collection
+- https://loc.gov/collections/
+- https://iuphar.org/
+
+EQUATIONS:
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+- EQ046: Markov inequality -> P(X≥a) ≤ E[X]/a
+- EQ031: Laplace transform -> ∫f(t)e^{-st}dt
+
+VALUATION:
+- Score: 0.632
+- Tier: silver

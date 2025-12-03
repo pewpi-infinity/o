@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/silicon-capacity-grid-stability-links-catalog-adjacency-discovery-p4303
+[ANCHOR] capacity #00D67D link://capacity/silicon-capacity-grid-stability-links-catalog-adjacency-discovery-p4303
+[ANCHOR] clarity #00C8FF link://clarity/silicon-capacity-grid-stability-links-catalog-adjacency-discovery-p4303
+[ANCHOR] provenance #7D4DF2 link://provenance/silicon-capacity-grid-stability-links-catalog-adjacency-discovery-p4303
+[ANCHOR] risk #FF3B3B link://risk/silicon-capacity-grid-stability-links-catalog-adjacency-discovery-p4303
+
+TITLE: silicon-capacity-grid-stability-links-catalog-adjacency-discovery-p4303
+SUMMARY: Research scaffold for silicon-capacity, grid-stability, links-catalog, adjacency-discovery.
+
+LINKS:
+- https://cell.com/
+- https://openei.org/
+
+
+EQUATIONS:
+- EQ033: Wave equation -> ∂²u/∂t² = c²∇²u
+- EQ035: Maxwell equations (set of 4)
+
+
+VALUATION:
+- Score: 0.620
+- Tier: silver

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/project-index-materials-reuse-variance-analysis-p2377
+[ANCHOR] clarity #00C8FF link://clarity/project-index-materials-reuse-variance-analysis-p2377
+[ANCHOR] alignment #33CCCC link://alignment/project-index-materials-reuse-variance-analysis-p2377
+
+TITLE: project-index-materials-reuse-variance-analysis-p2377
+SUMMARY: Research scaffold for project-index, materials-reuse, variance-analysis.
+
+LINKS:
+- https://webofscience.com/
+- https://jamanetwork.com/journals/jamaneurology
+
+
+EQUATIONS:
+- EQ019: Lasso sparsity -> many β_j = 0
+
+
+
+VALUATION:
+- Score: 0.540
+- Tier: bronze

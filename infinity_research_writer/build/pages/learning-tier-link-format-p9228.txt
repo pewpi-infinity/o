@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/learning-tier-link-format-p9228
+[ANCHOR] clarity #00C8FF link://clarity/learning-tier-link-format-p9228
+[ANCHOR] learning #E6B800 link://learning/learning-tier-link-format-p9228
+[ANCHOR] alignment #33CCCC link://alignment/learning-tier-link-format-p9228
+
+TITLE: learning-tier-link-format-p9228
+SUMMARY: Research scaffold for learning-tier, link-format.
+
+LINKS:
+- https://asa3.org/
+- https://openalex.org/
+
+
+EQUATIONS:
+- EQ021: SVD -> A = UΣVᵀ
+- EQ011: Mechanism incentive compatibility -> truth-telling maximizes utility
+
+
+VALUATION:
+- Score: 0.511
+- Tier: bronze

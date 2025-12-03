@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/controllability-co2-sequestration-p4025
+[ANCHOR] clarity #00C8FF link://clarity/controllability-co2-sequestration-p4025
+[ANCHOR] alignment #33CCCC link://alignment/controllability-co2-sequestration-p4025
+
+TITLE: controllability-co2-sequestration-p4025
+SUMMARY: Research scaffold for controllability, co2-sequestration.
+
+LINKS:
+- https://radiopaedia.org/
+- https://sciencemag.org/journals/science-signaling
+- https://congress.gov/
+
+EQUATIONS:
+- EQ050: Characteristic function -> E[e^{itX}]
+- EQ026: KL divergence -> Σ p log(p/q)
+- EQ012: Auction revenue equivalence -> symmetric independent private values
+
+VALUATION:
+- Score: 0.549
+- Tier: bronze

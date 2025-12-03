@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/source-diversity-seasonality-ensembles-p5386
+[ANCHOR] clarity #00C8FF link://clarity/source-diversity-seasonality-ensembles-p5386
+[ANCHOR] alignment #33CCCC link://alignment/source-diversity-seasonality-ensembles-p5386
+
+TITLE: source-diversity-seasonality-ensembles-p5386
+SUMMARY: Research scaffold for source-diversity, seasonality, ensembles.
+
+LINKS:
+- https://nyu.edu/research
+- https://sagepub.com/en-us/nam/journals
+- https://nih.gov/brain-initiative
+
+EQUATIONS:
+- EQ037: Eigenvalue problem -> Ax = λx
+- EQ031: Laplace transform -> ∫f(t)e^{-st}dt
+- EQ025: Softmax -> exp(z_i) / Σ exp(z)
+
+VALUATION:
+- Score: 0.611
+- Tier: silver

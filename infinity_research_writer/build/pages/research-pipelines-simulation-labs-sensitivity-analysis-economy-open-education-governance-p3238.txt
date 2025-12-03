@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p3238
+[ANCHOR] ethics #FF6A00 link://ethics/research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p3238
+[ANCHOR] clarity #00C8FF link://clarity/research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p3238
+[ANCHOR] provenance #7D4DF2 link://provenance/research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p3238
+[ANCHOR] scope #6066FF link://scope/research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p3238
+
+TITLE: research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p3238
+SUMMARY: Research scaffold for research-pipelines, simulation-labs, sensitivity-analysis, economy-open, education-governance.
+
+LINKS:
+- https://biochemj.org/
+- https://figshare.com/
+
+
+EQUATIONS:
+- EQ050: Characteristic function -> E[e^{itX}]
+- EQ035: Maxwell equations (set of 4)
+- EQ030: Convolution -> (f*g)(t)=∫f(τ)g(t-τ)dτ
+
+VALUATION:
+- Score: 0.682
+- Tier: silver

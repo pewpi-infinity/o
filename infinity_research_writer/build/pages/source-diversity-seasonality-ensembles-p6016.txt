@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/source-diversity-seasonality-ensembles-p6016
+[ANCHOR] clarity #00C8FF link://clarity/source-diversity-seasonality-ensembles-p6016
+[ANCHOR] alignment #33CCCC link://alignment/source-diversity-seasonality-ensembles-p6016
+
+TITLE: source-diversity-seasonality-ensembles-p6016
+SUMMARY: Research scaffold for source-diversity, seasonality, ensembles.
+
+LINKS:
+- https://ancient.eu/
+
+
+
+EQUATIONS:
+- EQ022: Logistic regression -> σ(wᵀx)
+- EQ018: Ridge regression -> minimize ||y-Xβ||² + λ||β||²
+- EQ044: Law of large numbers -> sample mean→μ
+
+VALUATION:
+- Score: 0.544
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/color-links-term-filters-evidence-chains-p812
+[ANCHOR] clarity #00C8FF link://clarity/color-links-term-filters-evidence-chains-p812
+[ANCHOR] alignment #33CCCC link://alignment/color-links-term-filters-evidence-chains-p812
+
+TITLE: color-links-term-filters-evidence-chains-p812
+SUMMARY: Research scaffold for color-links, term-filters, evidence-chains.
+
+LINKS:
+- https://frontiersin.org/journals/neuroscience
+- https://data.un.org/
+- https://ncbi.nlm.nih.gov/books/
+
+EQUATIONS:
+- EQ039: Matrix invertibility -> det(A) ≠ 0
+- EQ045: Central limit theorem -> normalized sums→normal
+
+
+VALUATION:
+- Score: 0.571
+- Tier: bronze

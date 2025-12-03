@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/policy-impact-convexity-checks-p8857
+[ANCHOR] clarity #00C8FF link://clarity/policy-impact-convexity-checks-p8857
+[ANCHOR] alignment #33CCCC link://alignment/policy-impact-convexity-checks-p8857
+
+TITLE: policy-impact-convexity-checks-p8857
+SUMMARY: Research scaffold for policy-impact, convexity-checks.
+
+LINKS:
+- https://orthopaedicresearchsociety.org/
+- https://health.harvard.edu/
+
+
+EQUATIONS:
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+
+
+
+VALUATION:
+- Score: 0.477
+- Tier: bronze

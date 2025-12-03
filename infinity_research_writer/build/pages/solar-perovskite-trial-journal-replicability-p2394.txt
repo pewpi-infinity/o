@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/solar-perovskite-trial-journal-replicability-p2394
+[ANCHOR] clarity #00C8FF link://clarity/solar-perovskite-trial-journal-replicability-p2394
+[ANCHOR] alignment #33CCCC link://alignment/solar-perovskite-trial-journal-replicability-p2394
+
+TITLE: solar-perovskite-trial-journal-replicability-p2394
+SUMMARY: Research scaffold for solar-perovskite, trial-journal, replicability.
+
+LINKS:
+- https://coursera.org/browse/math-and-logic
+- https://brill.com/browse?level=research
+- https://maps.org/research/
+
+EQUATIONS:
+- EQ023: Cross entropy -> -Σ y log p
+- EQ035: Maxwell equations (set of 4)
+- EQ031: Laplace transform -> ∫f(t)e^{-st}dt
+
+VALUATION:
+- Score: 0.592
+- Tier: bronze

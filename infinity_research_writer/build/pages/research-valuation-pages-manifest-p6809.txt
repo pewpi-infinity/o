@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/research-valuation-pages-manifest-p6809
+[ANCHOR] clarity #00C8FF link://clarity/research-valuation-pages-manifest-p6809
+[ANCHOR] alignment #33CCCC link://alignment/research-valuation-pages-manifest-p6809
+
+TITLE: research-valuation-pages-manifest-p6809
+SUMMARY: Research scaffold for research-valuation, pages-manifest.
+
+LINKS:
+- https://cambridge.org/core/what-we-publish/textbooks
+- https://theoi.com/
+
+
+EQUATIONS:
+- EQ018: Ridge regression -> minimize ||y-Xβ||² + λ||β||²
+- EQ027: Entropy -> -Σ p log p
+- EQ028: Mutual information -> I(X;Y) = H(X)+H(Y)-H(X,Y)
+
+VALUATION:
+- Score: 0.539
+- Tier: bronze

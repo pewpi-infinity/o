@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/lowrank-mechanism-design-equation-catalog-equations-ledger-p7115
+[ANCHOR] clarity #00C8FF link://clarity/lowrank-mechanism-design-equation-catalog-equations-ledger-p7115
+[ANCHOR] alignment #33CCCC link://alignment/lowrank-mechanism-design-equation-catalog-equations-ledger-p7115
+
+TITLE: lowrank-mechanism-design-equation-catalog-equations-ledger-p7115
+SUMMARY: Research scaffold for lowrank, mechanism-design, equation-catalog, equations-ledger.
+
+LINKS:
+- https://nida.nih.gov/research
+- https://jamanetwork.com/journals/jamaneurology
+
+
+EQUATIONS:
+- EQ044: Law of large numbers -> sample mean→μ
+- EQ031: Laplace transform -> ∫f(t)e^{-st}dt
+
+
+VALUATION:
+- Score: 0.580
+- Tier: bronze

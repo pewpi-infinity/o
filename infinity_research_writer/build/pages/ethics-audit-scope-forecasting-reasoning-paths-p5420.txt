@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/ethics-audit-scope-forecasting-reasoning-paths-p5420
+[ANCHOR] ethics #FF6A00 link://ethics/ethics-audit-scope-forecasting-reasoning-paths-p5420
+[ANCHOR] clarity #00C8FF link://clarity/ethics-audit-scope-forecasting-reasoning-paths-p5420
+[ANCHOR] provenance #7D4DF2 link://provenance/ethics-audit-scope-forecasting-reasoning-paths-p5420
+[ANCHOR] scope #6066FF link://scope/ethics-audit-scope-forecasting-reasoning-paths-p5420
+
+TITLE: ethics-audit-scope-forecasting-reasoning-paths-p5420
+SUMMARY: Research scaffold for ethics-audit, scope-forecasting, reasoning-paths.
+
+LINKS:
+- https://law.cornell.edu/
+- https://nature.com/subjects/oncology
+
+
+EQUATIONS:
+- EQ046: Markov inequality -> P(X≥a) ≤ E[X]/a
+- EQ024: Gradient descent -> θ ← θ - α∇J(θ)
+- EQ013: Markov chain stationary distribution -> π = πP
+
+VALUATION:
+- Score: 0.656
+- Tier: silver

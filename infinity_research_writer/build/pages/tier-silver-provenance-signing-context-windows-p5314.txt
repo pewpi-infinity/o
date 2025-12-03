@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/tier-silver-provenance-signing-context-windows-p5314
+[ANCHOR] clarity #00C8FF link://clarity/tier-silver-provenance-signing-context-windows-p5314
+[ANCHOR] learning #E6B800 link://learning/tier-silver-provenance-signing-context-windows-p5314
+[ANCHOR] alignment #33CCCC link://alignment/tier-silver-provenance-signing-context-windows-p5314
+
+TITLE: tier-silver-provenance-signing-context-windows-p5314
+SUMMARY: Research scaffold for tier-silver, provenance-signing, context-windows.
+
+LINKS:
+- https://uchicago.edu/research
+- https://clinicaltrials.gov/
+
+
+EQUATIONS:
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+
+
+
+VALUATION:
+- Score: 0.587
+- Tier: bronze

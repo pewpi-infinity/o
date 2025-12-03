@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/economy-tradeoffs-links-ledger-epidemic-models-master-hash-change-point-p1656
+[ANCHOR] clarity #00C8FF link://clarity/economy-tradeoffs-links-ledger-epidemic-models-master-hash-change-point-p1656
+[ANCHOR] alignment #33CCCC link://alignment/economy-tradeoffs-links-ledger-epidemic-models-master-hash-change-point-p1656
+
+TITLE: economy-tradeoffs-links-ledger-epidemic-models-master-hash-change-point-p1656
+SUMMARY: Research scaffold for economy-tradeoffs, links-ledger, epidemic-models, master-hash, change-point.
+
+LINKS:
+- https://osti.gov/
+- https://ams.org/journals
+- https://icpsr.umich.edu/
+
+EQUATIONS:
+- EQ034: Poisson equation -> ∇²u = -ρ/ε
+- EQ049: Moment generating function -> M(t)=E[e^{tX}]
+
+
+VALUATION:
+- Score: 0.654
+- Tier: silver

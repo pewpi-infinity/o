@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/evidence-priority-ethics-alignment-p28
+[ANCHOR] ethics #FF6A00 link://ethics/evidence-priority-ethics-alignment-p28
+[ANCHOR] clarity #00C8FF link://clarity/evidence-priority-ethics-alignment-p28
+[ANCHOR] provenance #7D4DF2 link://provenance/evidence-priority-ethics-alignment-p28
+[ANCHOR] scope #6066FF link://scope/evidence-priority-ethics-alignment-p28
+
+TITLE: evidence-priority-ethics-alignment-p28
+SUMMARY: Research scaffold for evidence-priority, ethics-alignment.
+
+LINKS:
+- https://egyptology.yale.edu/research
+
+
+
+EQUATIONS:
+- EQ033: Wave equation -> ∂²u/∂t² = c²∇²u
+- EQ039: Matrix invertibility -> det(A) ≠ 0
+- EQ013: Markov chain stationary distribution -> π = πP
+
+VALUATION:
+- Score: 0.555
+- Tier: bronze

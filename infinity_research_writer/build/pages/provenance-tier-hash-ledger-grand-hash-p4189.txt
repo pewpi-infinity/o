@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/provenance-tier-hash-ledger-grand-hash-p4189
+[ANCHOR] clarity #00C8FF link://clarity/provenance-tier-hash-ledger-grand-hash-p4189
+[ANCHOR] learning #E6B800 link://learning/provenance-tier-hash-ledger-grand-hash-p4189
+[ANCHOR] alignment #33CCCC link://alignment/provenance-tier-hash-ledger-grand-hash-p4189
+
+TITLE: provenance-tier-hash-ledger-grand-hash-p4189
+SUMMARY: Research scaffold for provenance-tier, hash-ledger, grand-hash.
+
+LINKS:
+- https://thelancet.com/
+- https://pnas.org/
+- https://hathitrust.org/
+
+EQUATIONS:
+- EQ035: Maxwell equations (set of 4)
+- EQ015: Power of hypothesis test -> 1 - β
+- EQ046: Markov inequality -> P(X≥a) ≤ E[X]/a
+
+VALUATION:
+- Score: 0.639
+- Tier: silver

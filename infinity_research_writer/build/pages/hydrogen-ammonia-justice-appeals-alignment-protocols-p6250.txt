@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/hydrogen-ammonia-justice-appeals-alignment-protocols-p6250
+[ANCHOR] ethics #FF6A00 link://ethics/hydrogen-ammonia-justice-appeals-alignment-protocols-p6250
+[ANCHOR] capacity #00D67D link://capacity/hydrogen-ammonia-justice-appeals-alignment-protocols-p6250
+[ANCHOR] clarity #00C8FF link://clarity/hydrogen-ammonia-justice-appeals-alignment-protocols-p6250
+[ANCHOR] provenance #7D4DF2 link://provenance/hydrogen-ammonia-justice-appeals-alignment-protocols-p6250
+
+TITLE: hydrogen-ammonia-justice-appeals-alignment-protocols-p6250
+SUMMARY: Research scaffold for hydrogen-ammonia, justice-appeals, alignment-protocols.
+
+LINKS:
+- https://medrxiv.org/
+- https://maa.org/press/periodicals
+- https://jstor.org/
+
+EQUATIONS:
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+- EQ026: KL divergence -> Σ p log(p/q)
+- EQ250: Robust optimization -> minimize max loss over uncertainty set U
+
+VALUATION:
+- Score: 0.714
+- Tier: silver

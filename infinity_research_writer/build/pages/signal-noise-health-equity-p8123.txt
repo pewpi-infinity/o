@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/signal-noise-health-equity-p8123
+[ANCHOR] clarity #00C8FF link://clarity/signal-noise-health-equity-p8123
+[ANCHOR] alignment #33CCCC link://alignment/signal-noise-health-equity-p8123
+
+TITLE: signal-noise-health-equity-p8123
+SUMMARY: Research scaffold for signal-noise, health-equity.
+
+LINKS:
+- https://ancient.eu/
+
+
+
+EQUATIONS:
+- EQ038: Determinant expansion -> Σ permutations
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+
+
+VALUATION:
+- Score: 0.509
+- Tier: bronze

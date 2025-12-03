@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/artifact-visibility-scholar-ledger-p2571
+[ANCHOR] clarity #00C8FF link://clarity/artifact-visibility-scholar-ledger-p2571
+[ANCHOR] alignment #33CCCC link://alignment/artifact-visibility-scholar-ledger-p2571
+
+TITLE: artifact-visibility-scholar-ledger-p2571
+SUMMARY: Research scaffold for artifact-visibility, scholar-ledger.
+
+LINKS:
+- https://thelancet.com/journals/lancet/issue/current
+- https://brain.oxfordjournals.org/
+
+
+EQUATIONS:
+- EQ035: Maxwell equations (set of 4)
+- EQ026: KL divergence -> Σ p log(p/q)
+- EQ015: Power of hypothesis test -> 1 - β
+
+VALUATION:
+- Score: 0.517
+- Tier: bronze

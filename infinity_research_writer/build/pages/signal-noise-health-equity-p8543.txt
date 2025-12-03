@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/signal-noise-health-equity-p8543
+[ANCHOR] clarity #00C8FF link://clarity/signal-noise-health-equity-p8543
+[ANCHOR] alignment #33CCCC link://alignment/signal-noise-health-equity-p8543
+
+TITLE: signal-noise-health-equity-p8543
+SUMMARY: Research scaffold for signal-noise, health-equity.
+
+LINKS:
+- https://coursera.org/browse/math-and-logic
+- https://tudelft.nl/en/research
+- https://beckerfreidman.uchicago.edu/research/
+
+EQUATIONS:
+- EQ039: Matrix invertibility -> det(A) ≠ 0
+
+
+
+VALUATION:
+- Score: 0.506
+- Tier: bronze

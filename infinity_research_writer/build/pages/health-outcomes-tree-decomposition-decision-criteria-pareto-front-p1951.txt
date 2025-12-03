@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/health-outcomes-tree-decomposition-decision-criteria-pareto-front-p1951
+[ANCHOR] clarity #00C8FF link://clarity/health-outcomes-tree-decomposition-decision-criteria-pareto-front-p1951
+[ANCHOR] alignment #33CCCC link://alignment/health-outcomes-tree-decomposition-decision-criteria-pareto-front-p1951
+
+TITLE: health-outcomes-tree-decomposition-decision-criteria-pareto-front-p1951
+SUMMARY: Research scaffold for health-outcomes, tree-decomposition, decision-criteria, pareto-front.
+
+LINKS:
+- https://data.worldbank.org/
+- https://aip.org/
+- https://nature.com/subjects/physics
+
+EQUATIONS:
+- EQ041: Gaussian distribution -> (1/√2πσ²)e^{-(x-μ)²/2σ²}
+- EQ010: Nash equilibrium -> best response mappings intersect
+- EQ015: Power of hypothesis test -> 1 - β
+
+VALUATION:
+- Score: 0.631
+- Tier: silver

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/bagging-adaptive-links-p8102
+[ANCHOR] clarity #00C8FF link://clarity/bagging-adaptive-links-p8102
+[ANCHOR] alignment #33CCCC link://alignment/bagging-adaptive-links-p8102
+
+TITLE: bagging-adaptive-links-p8102
+SUMMARY: Research scaffold for bagging, adaptive-links.
+
+LINKS:
+- https://nature.com/subjects/neuromorphic-engineering
+- https://nature.com/subjects/neuroscience
+
+
+EQUATIONS:
+- EQ019: Lasso sparsity -> many β_j = 0
+- EQ041: Gaussian distribution -> (1/√2πσ²)e^{-(x-μ)²/2σ²}
+
+
+VALUATION:
+- Score: 0.513
+- Tier: bronze

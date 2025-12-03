@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/bagging-adaptive-links-p8732
+[ANCHOR] clarity #00C8FF link://clarity/bagging-adaptive-links-p8732
+[ANCHOR] alignment #33CCCC link://alignment/bagging-adaptive-links-p8732
+
+TITLE: bagging-adaptive-links-p8732
+SUMMARY: Research scaffold for bagging, adaptive-links.
+
+LINKS:
+- https://ox.ac.uk/research
+- https://agu.org/learn-and-develop/learn/atmospheric-science
+- https://ucl.ac.uk/research
+
+EQUATIONS:
+- EQ024: Gradient descent -> θ ← θ - α∇J(θ)
+
+
+
+VALUATION:
+- Score: 0.506
+- Tier: bronze

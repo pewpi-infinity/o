@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/learning-tier-link-format-p2158
+[ANCHOR] clarity #00C8FF link://clarity/learning-tier-link-format-p2158
+[ANCHOR] learning #E6B800 link://learning/learning-tier-link-format-p2158
+[ANCHOR] alignment #33CCCC link://alignment/learning-tier-link-format-p2158
+
+TITLE: learning-tier-link-format-p2158
+SUMMARY: Research scaffold for learning-tier, link-format.
+
+LINKS:
+- https://humanconnectome.org/
+- https://directory.doabooks.org/
+
+
+EQUATIONS:
+- EQ032: Heat equation -> ∂u/∂t = α∇²u
+- EQ040: Rank-nullity -> dim(V)=rank+nullity
+
+
+VALUATION:
+- Score: 0.511
+- Tier: bronze

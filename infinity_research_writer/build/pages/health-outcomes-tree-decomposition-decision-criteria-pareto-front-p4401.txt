@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/health-outcomes-tree-decomposition-decision-criteria-pareto-front-p4401
+[ANCHOR] clarity #00C8FF link://clarity/health-outcomes-tree-decomposition-decision-criteria-pareto-front-p4401
+[ANCHOR] alignment #33CCCC link://alignment/health-outcomes-tree-decomposition-decision-criteria-pareto-front-p4401
+
+TITLE: health-outcomes-tree-decomposition-decision-criteria-pareto-front-p4401
+SUMMARY: Research scaffold for health-outcomes, tree-decomposition, decision-criteria, pareto-front.
+
+LINKS:
+- https://springer.com/gp/biomedicine
+
+
+
+EQUATIONS:
+- EQ027: Entropy -> -Σ p log p
+
+
+
+VALUATION:
+- Score: 0.524
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/artifact-visibility-scholar-ledger-p6001
+[ANCHOR] clarity #00C8FF link://clarity/artifact-visibility-scholar-ledger-p6001
+[ANCHOR] alignment #33CCCC link://alignment/artifact-visibility-scholar-ledger-p6001
+
+TITLE: artifact-visibility-scholar-ledger-p6001
+SUMMARY: Research scaffold for artifact-visibility, scholar-ledger.
+
+LINKS:
+- https://arxiv.org/archive/math
+- https://edinburgh.ac.uk/research
+
+
+EQUATIONS:
+- EQ001: Linear program objective -> maximize c^T x subject to Ax <= b, x >= 0
+
+
+
+VALUATION:
+- Score: 0.477
+- Tier: bronze

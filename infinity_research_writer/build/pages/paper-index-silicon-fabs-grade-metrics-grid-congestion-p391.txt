@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/paper-index-silicon-fabs-grade-metrics-grid-congestion-p391
+[ANCHOR] clarity #00C8FF link://clarity/paper-index-silicon-fabs-grade-metrics-grid-congestion-p391
+[ANCHOR] alignment #33CCCC link://alignment/paper-index-silicon-fabs-grade-metrics-grid-congestion-p391
+
+TITLE: paper-index-silicon-fabs-grade-metrics-grid-congestion-p391
+SUMMARY: Research scaffold for paper-index, silicon-fabs, grade-metrics, grid-congestion.
+
+LINKS:
+- https://ucla.edu/research
+
+
+
+EQUATIONS:
+- EQ020: PCA -> eigenvectors of covariance Σ
+- ...
+- EQ047: Chebyshev inequality -> P(|X-μ|≥kσ) ≤ 1/k²
+
+VALUATION:
+- Score: 0.585
+- Tier: bronze

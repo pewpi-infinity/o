@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/boosting-zip-ledger-token-index-economy-resilience-inference-graphs-p2896
+[ANCHOR] clarity #00C8FF link://clarity/boosting-zip-ledger-token-index-economy-resilience-inference-graphs-p2896
+[ANCHOR] alignment #33CCCC link://alignment/boosting-zip-ledger-token-index-economy-resilience-inference-graphs-p2896
+
+TITLE: boosting-zip-ledger-token-index-economy-resilience-inference-graphs-p2896
+SUMMARY: Research scaffold for boosting, zip-ledger, token-index, economy-resilience, inference-graphs.
+
+LINKS:
+- https://jbc.org/
+- https://hindawi.com/
+
+
+EQUATIONS:
+- ...
+- EQ028: Mutual information -> I(X;Y) = H(X)+H(Y)-H(X,Y)
+- EQ027: Entropy -> -Σ p log p
+
+VALUATION:
+- Score: 0.645
+- Tier: silver

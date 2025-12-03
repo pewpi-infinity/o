@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/research-valuation-pages-manifest-p9539
+[ANCHOR] clarity #00C8FF link://clarity/research-valuation-pages-manifest-p9539
+[ANCHOR] alignment #33CCCC link://alignment/research-valuation-pages-manifest-p9539
+
+TITLE: research-valuation-pages-manifest-p9539
+SUMMARY: Research scaffold for research-valuation, pages-manifest.
+
+LINKS:
+- https://oecd.org/statistics/
+
+
+
+EQUATIONS:
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+
+
+
+VALUATION:
+- Score: 0.445
+- Tier: bronze

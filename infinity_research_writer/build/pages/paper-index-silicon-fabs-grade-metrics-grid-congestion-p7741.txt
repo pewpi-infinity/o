@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/paper-index-silicon-fabs-grade-metrics-grid-congestion-p7741
+[ANCHOR] clarity #00C8FF link://clarity/paper-index-silicon-fabs-grade-metrics-grid-congestion-p7741
+[ANCHOR] alignment #33CCCC link://alignment/paper-index-silicon-fabs-grade-metrics-grid-congestion-p7741
+
+TITLE: paper-index-silicon-fabs-grade-metrics-grid-congestion-p7741
+SUMMARY: Research scaffold for paper-index, silicon-fabs, grade-metrics, grid-congestion.
+
+LINKS:
+- https://openknowledge.worldbank.org/
+- https://cam.ac.uk/research
+- https://nature.com/collections
+
+EQUATIONS:
+- EQ013: Markov chain stationary distribution -> π = πP
+- EQ019: Lasso sparsity -> many β_j = 0
+- EQ041: Gaussian distribution -> (1/√2πσ²)e^{-(x-μ)²/2σ²}
+
+VALUATION:
+- Score: 0.682
+- Tier: silver

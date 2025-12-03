@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scope-boundaries-security-zerotrust-p5400
+[ANCHOR] clarity #00C8FF link://clarity/scope-boundaries-security-zerotrust-p5400
+[ANCHOR] alignment #33CCCC link://alignment/scope-boundaries-security-zerotrust-p5400
+
+TITLE: scope-boundaries-security-zerotrust-p5400
+SUMMARY: Research scaffold for scope-boundaries, security-zerotrust.
+
+LINKS:
+- https://physics.aps.org/
+- https://math.mit.edu/research/
+
+
+EQUATIONS:
+- EQ028: Mutual information -> I(X;Y) = H(X)+H(Y)-H(X,Y)
+- EQ038: Determinant expansion -> Σ permutations
+
+
+VALUATION:
+- Score: 0.496
+- Tier: bronze

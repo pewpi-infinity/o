@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/project-index-materials-reuse-variance-analysis-p2587
+[ANCHOR] clarity #00C8FF link://clarity/project-index-materials-reuse-variance-analysis-p2587
+[ANCHOR] alignment #33CCCC link://alignment/project-index-materials-reuse-variance-analysis-p2587
+
+TITLE: project-index-materials-reuse-variance-analysis-p2587
+SUMMARY: Research scaffold for project-index, materials-reuse, variance-analysis.
+
+LINKS:
+- https://zenodo.org/
+- https://gazzaleylab.ucsf.edu/publications
+- https://scopus.com/
+
+EQUATIONS:
+- EQ031: Laplace transform -> ∫f(t)e^{-st}dt
+- EQ047: Chebyshev inequality -> P(|X-μ|≥kσ) ≤ 1/k²
+
+
+VALUATION:
+- Score: 0.574
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/project-index-materials-reuse-variance-analysis-p5667
+[ANCHOR] clarity #00C8FF link://clarity/project-index-materials-reuse-variance-analysis-p5667
+[ANCHOR] alignment #33CCCC link://alignment/project-index-materials-reuse-variance-analysis-p5667
+
+TITLE: project-index-materials-reuse-variance-analysis-p5667
+SUMMARY: Research scaffold for project-index, materials-reuse, variance-analysis.
+
+LINKS:
+- https://kcl.ac.uk/research
+
+
+
+EQUATIONS:
+- EQ020: PCA -> eigenvectors of covariance Σ
+- EQ001: Linear program objective -> maximize c^T x subject to Ax <= b, x >= 0
+
+
+VALUATION:
+- Score: 0.527
+- Tier: bronze

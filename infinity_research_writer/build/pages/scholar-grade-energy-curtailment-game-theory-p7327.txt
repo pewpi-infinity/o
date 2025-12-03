@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scholar-grade-energy-curtailment-game-theory-p7327
+[ANCHOR] clarity #00C8FF link://clarity/scholar-grade-energy-curtailment-game-theory-p7327
+[ANCHOR] alignment #33CCCC link://alignment/scholar-grade-energy-curtailment-game-theory-p7327
+
+TITLE: scholar-grade-energy-curtailment-game-theory-p7327
+SUMMARY: Research scaffold for scholar-grade, energy-curtailment, game-theory.
+
+LINKS:
+- https://ncbi.nlm.nih.gov/Taxonomy/
+
+
+
+EQUATIONS:
+- EQ012: Auction revenue equivalence -> symmetric independent private values
+- EQ035: Maxwell equations (set of 4)
+
+
+VALUATION:
+- Score: 0.504
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/bayes-inference-meta-analysis-project-value-p7865
+[ANCHOR] clarity #00C8FF link://clarity/bayes-inference-meta-analysis-project-value-p7865
+[ANCHOR] alignment #33CCCC link://alignment/bayes-inference-meta-analysis-project-value-p7865
+
+TITLE: bayes-inference-meta-analysis-project-value-p7865
+SUMMARY: Research scaffold for bayes-inference, meta-analysis, project-value.
+
+LINKS:
+- https://nature.com/
+- https://coursera.org/browse/math-and-logic
+
+
+EQUATIONS:
+- EQ006: Stability -> Re(λ_i(A)) < 0 for continuous systems
+- EQ250: Robust optimization -> minimize max loss over uncertainty set U
+
+
+VALUATION:
+- Score: 0.620
+- Tier: silver

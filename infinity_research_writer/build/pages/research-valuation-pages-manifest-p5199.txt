@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/research-valuation-pages-manifest-p5199
+[ANCHOR] clarity #00C8FF link://clarity/research-valuation-pages-manifest-p5199
+[ANCHOR] alignment #33CCCC link://alignment/research-valuation-pages-manifest-p5199
+
+TITLE: research-valuation-pages-manifest-p5199
+SUMMARY: Research scaffold for research-valuation, pages-manifest.
+
+LINKS:
+- https://govinfo.gov/
+
+
+
+EQUATIONS:
+- EQ036: Schrödinger equation -> iħ∂ψ/∂t = Hψ
+- EQ027: Entropy -> -Σ p log p
+- EQ008: Observability -> rank([C; CA; CA^2; ...; CA^{n-1}]) = n
+
+VALUATION:
+- Score: 0.485
+- Tier: bronze

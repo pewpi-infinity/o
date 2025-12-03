@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/logs-loud-model-explanations-trend-detection-p2016
+[ANCHOR] clarity #00C8FF link://clarity/logs-loud-model-explanations-trend-detection-p2016
+[ANCHOR] alignment #33CCCC link://alignment/logs-loud-model-explanations-trend-detection-p2016
+
+TITLE: logs-loud-model-explanations-trend-detection-p2016
+SUMMARY: Research scaffold for logs-loud, model-explanations, trend-detection.
+
+LINKS:
+- https://europa.eu/european-union/documents-publications_en
+- https://jneuroengrehab.biomedcentral.com/
+- https://psychedelics.ucsf.edu/research
+
+EQUATIONS:
+- EQ047: Chebyshev inequality -> P(|X-μ|≥kσ) ≤ 1/k²
+- ...
+
+
+VALUATION:
+- Score: 0.571
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/solar-irradiance-iterative-updates-education-access-adaptive-ui-p4486
+[ANCHOR] clarity #00C8FF link://clarity/solar-irradiance-iterative-updates-education-access-adaptive-ui-p4486
+[ANCHOR] alignment #33CCCC link://alignment/solar-irradiance-iterative-updates-education-access-adaptive-ui-p4486
+
+TITLE: solar-irradiance-iterative-updates-education-access-adaptive-ui-p4486
+SUMMARY: Research scaffold for solar-irradiance, iterative-updates, education-access, adaptive-ui.
+
+LINKS:
+- https://oi.uchicago.edu/research
+- https://ncbi.nlm.nih.gov/books/
+- https://scopus.com/
+
+EQUATIONS:
+- EQ040: Rank-nullity -> dim(V)=rank+nullity
+
+
+
+VALUATION:
+- Score: 0.588
+- Tier: bronze

@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/tier-silver-provenance-signing-context-windows-p1674
+[ANCHOR] clarity #00C8FF link://clarity/tier-silver-provenance-signing-context-windows-p1674
+[ANCHOR] learning #E6B800 link://learning/tier-silver-provenance-signing-context-windows-p1674
+[ANCHOR] alignment #33CCCC link://alignment/tier-silver-provenance-signing-context-windows-p1674
+
+TITLE: tier-silver-provenance-signing-context-windows-p1674
+SUMMARY: Research scaffold for tier-silver, provenance-signing, context-windows.
+
+LINKS:
+- https://clinicaltrials.gov/
+- https://agu.org/Publish-with-AGU/Journals
+- https://ideas.repec.org/
+
+EQUATIONS:
+- EQ033: Wave equation -> ∂²u/∂t² = c²∇²u
+- EQ017: L1 regularization -> minimize ||y-Xβ||² + λ||β||₁
+- EQ023: Cross entropy -> -Σ y log p
+
+VALUATION:
+- Score: 0.611
+- Tier: silver

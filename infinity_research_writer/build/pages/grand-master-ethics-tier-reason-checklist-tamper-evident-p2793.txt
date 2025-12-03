@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/grand-master-ethics-tier-reason-checklist-tamper-evident-p2793
+[ANCHOR] ethics #FF6A00 link://ethics/grand-master-ethics-tier-reason-checklist-tamper-evident-p2793
+[ANCHOR] clarity #00C8FF link://clarity/grand-master-ethics-tier-reason-checklist-tamper-evident-p2793
+[ANCHOR] provenance #7D4DF2 link://provenance/grand-master-ethics-tier-reason-checklist-tamper-evident-p2793
+[ANCHOR] scope #6066FF link://scope/grand-master-ethics-tier-reason-checklist-tamper-evident-p2793
+
+TITLE: grand-master-ethics-tier-reason-checklist-tamper-evident-p2793
+SUMMARY: Research scaffold for grand-master, ethics-tier, reason-checklist, tamper-evident.
+
+LINKS:
+- https://cochranelibrary.com/
+- https://neuroscience.ox.ac.uk/research
+
+
+EQUATIONS:
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+- EQ039: Matrix invertibility -> det(A) ≠ 0
+
+
+VALUATION:
+- Score: 0.669
+- Tier: silver

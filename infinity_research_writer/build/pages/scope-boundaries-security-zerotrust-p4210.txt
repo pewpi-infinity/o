@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scope-boundaries-security-zerotrust-p4210
+[ANCHOR] clarity #00C8FF link://clarity/scope-boundaries-security-zerotrust-p4210
+[ANCHOR] alignment #33CCCC link://alignment/scope-boundaries-security-zerotrust-p4210
+
+TITLE: scope-boundaries-security-zerotrust-p4210
+SUMMARY: Research scaffold for scope-boundaries, security-zerotrust.
+
+LINKS:
+- https://arpa-e.energy.gov/
+
+
+
+EQUATIONS:
+- EQ001: Linear program objective -> maximize c^T x subject to Ax <= b, x >= 0
+- EQ004: KKT conditions -> ∇f(x*) + A^T λ* = 0, Ax* <= b, λ* >= 0, λ*^T (Ax* - b) = 0
+- EQ023: Cross entropy -> -Σ y log p
+
+VALUATION:
+- Score: 0.532
+- Tier: bronze

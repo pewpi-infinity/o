@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/artifact-visibility-scholar-ledger-p5721
+[ANCHOR] clarity #00C8FF link://clarity/artifact-visibility-scholar-ledger-p5721
+[ANCHOR] alignment #33CCCC link://alignment/artifact-visibility-scholar-ledger-p5721
+
+TITLE: artifact-visibility-scholar-ledger-p5721
+SUMMARY: Research scaffold for artifact-visibility, scholar-ledger.
+
+LINKS:
+- https://cambridge.org/core/what-we-publish/journals
+- https://perseus.tufts.edu/
+- https://link.springer.com/journal/10896
+
+EQUATIONS:
+- EQ004: KKT conditions -> ∇f(x*) + A^T λ* = 0, Ax* <= b, λ* >= 0, λ*^T (Ax* - b) = 0
+- EQ043: Chi-square distribution -> special gamma
+- EQ025: Softmax -> exp(z_i) / Σ exp(z)
+
+VALUATION:
+- Score: 0.601
+- Tier: silver

@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/evidence-priority-ethics-alignment-p5558
+[ANCHOR] ethics #FF6A00 link://ethics/evidence-priority-ethics-alignment-p5558
+[ANCHOR] clarity #00C8FF link://clarity/evidence-priority-ethics-alignment-p5558
+[ANCHOR] provenance #7D4DF2 link://provenance/evidence-priority-ethics-alignment-p5558
+[ANCHOR] scope #6066FF link://scope/evidence-priority-ethics-alignment-p5558
+
+TITLE: evidence-priority-ethics-alignment-p5558
+SUMMARY: Research scaffold for evidence-priority, ethics-alignment.
+
+LINKS:
+- https://link.springer.com/journal/10896
+
+
+
+EQUATIONS:
+- EQ044: Law of large numbers -> sample mean→μ
+
+
+
+VALUATION:
+- Score: 0.485
+- Tier: bronze

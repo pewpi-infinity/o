@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/links-index-semantic-color-provenance-learning-health-registry-method-rigor-p1499
+[ANCHOR] clarity #00C8FF link://clarity/links-index-semantic-color-provenance-learning-health-registry-method-rigor-p1499
+[ANCHOR] learning #E6B800 link://learning/links-index-semantic-color-provenance-learning-health-registry-method-rigor-p1499
+[ANCHOR] alignment #33CCCC link://alignment/links-index-semantic-color-provenance-learning-health-registry-method-rigor-p1499
+
+TITLE: links-index-semantic-color-provenance-learning-health-registry-method-rigor-p1499
+SUMMARY: Research scaffold for links-index, semantic-color, provenance-learning, health-registry, method-rigor.
+
+LINKS:
+- https://climate.nasa.gov/
+- https://maa.org/press/periodicals
+
+
+EQUATIONS:
+- EQ008: Observability -> rank([C; CA; CA^2; ...; CA^{n-1}]) = n
+- EQ032: Heat equation -> ∂u/∂t = α∇²u
+
+
+VALUATION:
+- Score: 0.642
+- Tier: silver

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/health-outcomes-tree-decomposition-decision-criteria-pareto-front-p6221
+[ANCHOR] clarity #00C8FF link://clarity/health-outcomes-tree-decomposition-decision-criteria-pareto-front-p6221
+[ANCHOR] alignment #33CCCC link://alignment/health-outcomes-tree-decomposition-decision-criteria-pareto-front-p6221
+
+TITLE: health-outcomes-tree-decomposition-decision-criteria-pareto-front-p6221
+SUMMARY: Research scaffold for health-outcomes, tree-decomposition, decision-criteria, pareto-front.
+
+LINKS:
+- https://coursera.org/browse/math-and-logic
+- https://princeton.edu/research
+
+
+EQUATIONS:
+- EQ036: Schrödinger equation -> iħ∂ψ/∂t = Hψ
+- EQ043: Chi-square distribution -> special gamma
+- EQ050: Characteristic function -> E[e^{itX}]
+
+VALUATION:
+- Score: 0.597
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/economy-tradeoffs-links-ledger-epidemic-models-master-hash-change-point-p3126
+[ANCHOR] clarity #00C8FF link://clarity/economy-tradeoffs-links-ledger-epidemic-models-master-hash-change-point-p3126
+[ANCHOR] alignment #33CCCC link://alignment/economy-tradeoffs-links-ledger-epidemic-models-master-hash-change-point-p3126
+
+TITLE: economy-tradeoffs-links-ledger-epidemic-models-master-hash-change-point-p3126
+SUMMARY: Research scaffold for economy-tradeoffs, links-ledger, epidemic-models, master-hash, change-point.
+
+LINKS:
+- https://mlr.press/
+- https://darpa.mil/our-research
+
+
+EQUATIONS:
+- EQ005: Spectral radius -> ρ(A) = max |λ_i(A)|
+- EQ015: Power of hypothesis test -> 1 - β
+- EQ006: Stability -> Re(λ_i(A)) < 0 for continuous systems
+
+VALUATION:
+- Score: 0.670
+- Tier: silver

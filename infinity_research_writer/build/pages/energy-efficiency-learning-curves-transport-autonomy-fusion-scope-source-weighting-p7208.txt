@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/energy-efficiency-learning-curves-transport-autonomy-fusion-scope-source-weighting-p7208
+[ANCHOR] capacity #00D67D link://capacity/energy-efficiency-learning-curves-transport-autonomy-fusion-scope-source-weighting-p7208
+[ANCHOR] clarity #00C8FF link://clarity/energy-efficiency-learning-curves-transport-autonomy-fusion-scope-source-weighting-p7208
+[ANCHOR] provenance #7D4DF2 link://provenance/energy-efficiency-learning-curves-transport-autonomy-fusion-scope-source-weighting-p7208
+[ANCHOR] risk #FF3B3B link://risk/energy-efficiency-learning-curves-transport-autonomy-fusion-scope-source-weighting-p7208
+
+TITLE: energy-efficiency-learning-curves-transport-autonomy-fusion-scope-source-weighting-p7208
+SUMMARY: Research scaffold for energy-efficiency, learning-curves, transport-autonomy, fusion-scope, source-weighting.
+
+LINKS:
+- https://intechopen.com/
+- https://theoi.com/
+
+
+EQUATIONS:
+- EQ027: Entropy -> -Σ p log p
+
+
+
+VALUATION:
+- Score: 0.642
+- Tier: silver

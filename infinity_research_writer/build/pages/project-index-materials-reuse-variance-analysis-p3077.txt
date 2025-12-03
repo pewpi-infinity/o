@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/project-index-materials-reuse-variance-analysis-p3077
+[ANCHOR] clarity #00C8FF link://clarity/project-index-materials-reuse-variance-analysis-p3077
+[ANCHOR] alignment #33CCCC link://alignment/project-index-materials-reuse-variance-analysis-p3077
+
+TITLE: project-index-materials-reuse-variance-analysis-p3077
+SUMMARY: Research scaffold for project-index, materials-reuse, variance-analysis.
+
+LINKS:
+- https://bonekey-ibms.mdc-berlin.de/
+- https://salk.edu/research
+
+
+EQUATIONS:
+- EQ040: Rank-nullity -> dim(V)=rank+nullity
+- EQ041: Gaussian distribution -> (1/√2πσ²)e^{-(x-μ)²/2σ²}
+- EQ005: Spectral radius -> ρ(A) = max |λ_i(A)|
+
+VALUATION:
+- Score: 0.560
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/controllability-co2-sequestration-p5705
+[ANCHOR] clarity #00C8FF link://clarity/controllability-co2-sequestration-p5705
+[ANCHOR] alignment #33CCCC link://alignment/controllability-co2-sequestration-p5705
+
+TITLE: controllability-co2-sequestration-p5705
+SUMMARY: Research scaffold for controllability, co2-sequestration.
+
+LINKS:
+- https://unsw.edu.au/research
+- https://alleninstitute.org/what-we-do/brain-science/
+- https://alleninstitute.org/
+
+EQUATIONS:
+- EQ049: Moment generating function -> M(t)=E[e^{tX}]
+
+
+
+VALUATION:
+- Score: 0.509
+- Tier: bronze

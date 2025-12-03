@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/bayes-inference-meta-analysis-project-value-p9545
+[ANCHOR] clarity #00C8FF link://clarity/bayes-inference-meta-analysis-project-value-p9545
+[ANCHOR] alignment #33CCCC link://alignment/bayes-inference-meta-analysis-project-value-p9545
+
+TITLE: bayes-inference-meta-analysis-project-value-p9545
+SUMMARY: Research scaffold for bayes-inference, meta-analysis, project-value.
+
+LINKS:
+- https://uchicago.edu/research
+- https://thelancet.com/
+
+
+EQUATIONS:
+- EQ006: Stability -> Re(λ_i(A)) < 0 for continuous systems
+
+
+
+VALUATION:
+- Score: 0.550
+- Tier: bronze

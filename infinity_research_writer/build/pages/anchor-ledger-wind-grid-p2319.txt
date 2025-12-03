@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/anchor-ledger-wind-grid-p2319
+[ANCHOR] clarity #00C8FF link://clarity/anchor-ledger-wind-grid-p2319
+[ANCHOR] alignment #33CCCC link://alignment/anchor-ledger-wind-grid-p2319
+
+TITLE: anchor-ledger-wind-grid-p2319
+SUMMARY: Research scaffold for anchor-ledger, wind-grid.
+
+LINKS:
+- https://unep.org/resources/publications
+- https://ieeexplore.ieee.org/
+- https://bloodjournal.org/
+
+EQUATIONS:
+- EQ040: Rank-nullity -> dim(V)=rank+nullity
+- EQ028: Mutual information -> I(X;Y) = H(X)+H(Y)-H(X,Y)
+- ...
+
+VALUATION:
+- Score: 0.545
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scope-boundaries-security-zerotrust-p9110
+[ANCHOR] clarity #00C8FF link://clarity/scope-boundaries-security-zerotrust-p9110
+[ANCHOR] alignment #33CCCC link://alignment/scope-boundaries-security-zerotrust-p9110
+
+TITLE: scope-boundaries-security-zerotrust-p9110
+SUMMARY: Research scaffold for scope-boundaries, security-zerotrust.
+
+LINKS:
+- https://cochranelibrary.com/
+
+
+
+EQUATIONS:
+- EQ033: Wave equation -> ∂²u/∂t² = c²∇²u
+- EQ006: Stability -> Re(λ_i(A)) < 0 for continuous systems
+- EQ021: SVD -> A = UΣVᵀ
+
+VALUATION:
+- Score: 0.512
+- Tier: bronze

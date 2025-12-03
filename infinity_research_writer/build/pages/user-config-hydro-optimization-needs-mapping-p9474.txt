@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/user-config-hydro-optimization-needs-mapping-p9474
+[ANCHOR] clarity #00C8FF link://clarity/user-config-hydro-optimization-needs-mapping-p9474
+[ANCHOR] alignment #33CCCC link://alignment/user-config-hydro-optimization-needs-mapping-p9474
+
+TITLE: user-config-hydro-optimization-needs-mapping-p9474
+SUMMARY: Research scaffold for user-config, hydro-optimization, needs-mapping.
+
+LINKS:
+- https://jamanetwork.com/journals/jamaoncology
+- https://warwick.ac.uk/research
+
+
+EQUATIONS:
+- EQ024: Gradient descent -> θ ← θ - α∇J(θ)
+- EQ021: SVD -> A = UΣVᵀ
+
+
+VALUATION:
+- Score: 0.540
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/source-diversity-seasonality-ensembles-p6646
+[ANCHOR] clarity #00C8FF link://clarity/source-diversity-seasonality-ensembles-p6646
+[ANCHOR] alignment #33CCCC link://alignment/source-diversity-seasonality-ensembles-p6646
+
+TITLE: source-diversity-seasonality-ensembles-p6646
+SUMMARY: Research scaffold for source-diversity, seasonality, ensembles.
+
+LINKS:
+- https://nature.com/subjects/atmospheric-science
+- https://openalex.org/
+- https://drugabuse.gov/publications
+
+EQUATIONS:
+- EQ013: Markov chain stationary distribution -> π = πP
+
+
+
+VALUATION:
+- Score: 0.581
+- Tier: bronze

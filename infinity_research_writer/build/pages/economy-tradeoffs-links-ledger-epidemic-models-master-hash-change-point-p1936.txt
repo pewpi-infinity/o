@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/economy-tradeoffs-links-ledger-epidemic-models-master-hash-change-point-p1936
+[ANCHOR] clarity #00C8FF link://clarity/economy-tradeoffs-links-ledger-epidemic-models-master-hash-change-point-p1936
+[ANCHOR] alignment #33CCCC link://alignment/economy-tradeoffs-links-ledger-epidemic-models-master-hash-change-point-p1936
+
+TITLE: economy-tradeoffs-links-ledger-epidemic-models-master-hash-change-point-p1936
+SUMMARY: Research scaffold for economy-tradeoffs, links-ledger, epidemic-models, master-hash, change-point.
+
+LINKS:
+- https://tudelft.nl/en/research
+- https://iop.org/journals
+
+
+EQUATIONS:
+- EQ250: Robust optimization -> minimize max loss over uncertainty set U
+- EQ018: Ridge regression -> minimize ||y-Xβ||² + λ||β||²
+- EQ007: Controllability -> rank([B, AB, A^2B, ..., A^{n-1}B]) = n
+
+VALUATION:
+- Score: 0.740
+- Tier: silver

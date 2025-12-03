@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/project-index-materials-reuse-variance-analysis-p4127
+[ANCHOR] clarity #00C8FF link://clarity/project-index-materials-reuse-variance-analysis-p4127
+[ANCHOR] alignment #33CCCC link://alignment/project-index-materials-reuse-variance-analysis-p4127
+
+TITLE: project-index-materials-reuse-variance-analysis-p4127
+SUMMARY: Research scaffold for project-index, materials-reuse, variance-analysis.
+
+LINKS:
+- https://manchester.ac.uk/research
+- https://journals.sagepub.com/home/his
+
+
+EQUATIONS:
+- EQ030: Convolution -> (f*g)(t)=∫f(τ)g(t-τ)dτ
+
+
+
+VALUATION:
+- Score: 0.520
+- Tier: bronze

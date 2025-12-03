@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scope-boundaries-security-zerotrust-p2180
+[ANCHOR] clarity #00C8FF link://clarity/scope-boundaries-security-zerotrust-p2180
+[ANCHOR] alignment #33CCCC link://alignment/scope-boundaries-security-zerotrust-p2180
+
+TITLE: scope-boundaries-security-zerotrust-p2180
+SUMMARY: Research scaffold for scope-boundaries, security-zerotrust.
+
+LINKS:
+- https://anthrosource.onlinelibrary.wiley.com/
+
+
+
+EQUATIONS:
+- EQ030: Convolution -> (f*g)(t)=∫f(τ)g(t-τ)dτ
+
+
+
+VALUATION:
+- Score: 0.442
+- Tier: bronze

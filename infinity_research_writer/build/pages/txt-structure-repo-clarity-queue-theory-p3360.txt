@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/txt-structure-repo-clarity-queue-theory-p3360
+[ANCHOR] clarity #00C8FF link://clarity/txt-structure-repo-clarity-queue-theory-p3360
+[ANCHOR] learning #E6B800 link://learning/txt-structure-repo-clarity-queue-theory-p3360
+[ANCHOR] alignment #33CCCC link://alignment/txt-structure-repo-clarity-queue-theory-p3360
+
+TITLE: txt-structure-repo-clarity-queue-theory-p3360
+SUMMARY: Research scaffold for txt-structure, repo-clarity, queue-theory.
+
+LINKS:
+- https://rsc.org/
+
+
+
+EQUATIONS:
+- EQ043: Chi-square distribution -> special gamma
+
+
+
+VALUATION:
+- Score: 0.502
+- Tier: bronze

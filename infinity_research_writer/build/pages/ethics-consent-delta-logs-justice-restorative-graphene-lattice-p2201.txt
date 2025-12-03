@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p2201
+[ANCHOR] ethics #FF6A00 link://ethics/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p2201
+[ANCHOR] capacity #00D67D link://capacity/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p2201
+[ANCHOR] clarity #00C8FF link://clarity/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p2201
+[ANCHOR] provenance #7D4DF2 link://provenance/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p2201
+
+TITLE: ethics-consent-delta-logs-justice-restorative-graphene-lattice-p2201
+SUMMARY: Research scaffold for ethics-consent, delta-logs, justice-restorative, graphene-lattice.
+
+LINKS:
+- https://oxfordacademic.com/
+- https://evolution.berkeley.edu/
+- https://neuroscience.ox.ac.uk/research
+
+EQUATIONS:
+- EQ011: Mechanism incentive compatibility -> truth-telling maximizes utility
+- EQ049: Moment generating function -> M(t)=E[e^{tX}]
+- EQ010: Nash equilibrium -> best response mappings intersect
+
+VALUATION:
+- Score: 0.672
+- Tier: silver

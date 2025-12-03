@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/materials-circularity-concept-families-zip-inner-resources-p7692
+[ANCHOR] clarity #00C8FF link://clarity/materials-circularity-concept-families-zip-inner-resources-p7692
+[ANCHOR] alignment #33CCCC link://alignment/materials-circularity-concept-families-zip-inner-resources-p7692
+
+TITLE: materials-circularity-concept-families-zip-inner-resources-p7692
+SUMMARY: Research scaffold for materials-circularity, concept-families, zip-inner-resources.
+
+LINKS:
+- https://jamanetwork.com/journals/jamaneurology
+- https://ssrn.com/
+- https://fda.gov/science-research
+
+EQUATIONS:
+- EQ044: Law of large numbers -> sample mean→μ
+- EQ043: Chi-square distribution -> special gamma
+- EQ020: PCA -> eigenvectors of covariance Σ
+
+VALUATION:
+- Score: 0.611
+- Tier: silver

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/color-links-term-filters-evidence-chains-p6972
+[ANCHOR] clarity #00C8FF link://clarity/color-links-term-filters-evidence-chains-p6972
+[ANCHOR] alignment #33CCCC link://alignment/color-links-term-filters-evidence-chains-p6972
+
+TITLE: color-links-term-filters-evidence-chains-p6972
+SUMMARY: Research scaffold for color-links, term-filters, evidence-chains.
+
+LINKS:
+- https://biochemj.org/
+- https://ukdataservice.ac.uk/
+
+
+EQUATIONS:
+- EQ032: Heat equation -> ∂u/∂t = α∇²u
+
+
+
+VALUATION:
+- Score: 0.517
+- Tier: bronze

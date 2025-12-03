@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/governance-debate-valuation-report-p1449
+[ANCHOR] ethics #FF6A00 link://ethics/governance-debate-valuation-report-p1449
+[ANCHOR] clarity #00C8FF link://clarity/governance-debate-valuation-report-p1449
+[ANCHOR] provenance #7D4DF2 link://provenance/governance-debate-valuation-report-p1449
+[ANCHOR] scope #6066FF link://scope/governance-debate-valuation-report-p1449
+
+TITLE: governance-debate-valuation-report-p1449
+SUMMARY: Research scaffold for governance-debate, valuation-report.
+
+LINKS:
+- https://ourworldindata.org/
+- https://zenodo.org/
+- https://re3data.org/
+
+EQUATIONS:
+- EQ038: Determinant expansion -> Σ permutations
+- EQ050: Characteristic function -> E[e^{itX}]
+- EQ034: Poisson equation -> ∇²u = -ρ/ε
+
+VALUATION:
+- Score: 0.589
+- Tier: bronze

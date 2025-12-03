@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/multiobjective-token-provenance-causal-maps-p8203
+[ANCHOR] clarity #00C8FF link://clarity/multiobjective-token-provenance-causal-maps-p8203
+[ANCHOR] learning #E6B800 link://learning/multiobjective-token-provenance-causal-maps-p8203
+[ANCHOR] alignment #33CCCC link://alignment/multiobjective-token-provenance-causal-maps-p8203
+
+TITLE: multiobjective-token-provenance-causal-maps-p8203
+SUMMARY: Research scaffold for multiobjective, token-provenance, causal-maps.
+
+LINKS:
+- https://evolution.berkeley.edu/
+- https://nih.gov/
+- https://bl.uk/catalogues-and-collections
+
+EQUATIONS:
+- EQ030: Convolution -> (f*g)(t)=∫f(τ)g(t-τ)dτ
+
+
+
+VALUATION:
+- Score: 0.572
+- Tier: bronze

@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/governance-debate-valuation-report-p3339
+[ANCHOR] ethics #FF6A00 link://ethics/governance-debate-valuation-report-p3339
+[ANCHOR] clarity #00C8FF link://clarity/governance-debate-valuation-report-p3339
+[ANCHOR] provenance #7D4DF2 link://provenance/governance-debate-valuation-report-p3339
+[ANCHOR] scope #6066FF link://scope/governance-debate-valuation-report-p3339
+
+TITLE: governance-debate-valuation-report-p3339
+SUMMARY: Research scaffold for governance-debate, valuation-report.
+
+LINKS:
+- https://gazzaleylab.ucsf.edu/publications
+- https://sagepub.com/en-us/nam/journals
+- https://math.mit.edu/research/
+
+EQUATIONS:
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+- EQ038: Determinant expansion -> Σ permutations
+
+
+VALUATION:
+- Score: 0.569
+- Tier: bronze

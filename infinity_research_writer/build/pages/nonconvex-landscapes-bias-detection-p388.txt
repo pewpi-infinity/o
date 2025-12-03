@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/nonconvex-landscapes-bias-detection-p388
+[ANCHOR] clarity #00C8FF link://clarity/nonconvex-landscapes-bias-detection-p388
+[ANCHOR] alignment #33CCCC link://alignment/nonconvex-landscapes-bias-detection-p388
+
+TITLE: nonconvex-landscapes-bias-detection-p388
+SUMMARY: Research scaffold for nonconvex-landscapes, bias-detection.
+
+LINKS:
+- https://jneuroengrehab.biomedcentral.com/
+- https://climate.nasa.gov/
+- https://drugabuse.gov/publications
+
+EQUATIONS:
+- EQ048: Jensen's inequality -> φ(E[X]) ≤ E[φ(X)]
+- EQ020: PCA -> eigenvectors of covariance Σ
+- EQ038: Determinant expansion -> Σ permutations
+
+VALUATION:
+- Score: 0.568
+- Tier: bronze

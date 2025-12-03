@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/compare-versions-transport-risk-alignment-tier-capacity-headroom-tier-bronze-p4878
+[ANCHOR] capacity #00D67D link://capacity/compare-versions-transport-risk-alignment-tier-capacity-headroom-tier-bronze-p4878
+[ANCHOR] clarity #00C8FF link://clarity/compare-versions-transport-risk-alignment-tier-capacity-headroom-tier-bronze-p4878
+[ANCHOR] provenance #7D4DF2 link://provenance/compare-versions-transport-risk-alignment-tier-capacity-headroom-tier-bronze-p4878
+[ANCHOR] risk #FF3B3B link://risk/compare-versions-transport-risk-alignment-tier-capacity-headroom-tier-bronze-p4878
+
+TITLE: compare-versions-transport-risk-alignment-tier-capacity-headroom-tier-bronze-p4878
+SUMMARY: Research scaffold for compare-versions, transport-risk, alignment-tier, capacity-headroom, tier-bronze.
+
+LINKS:
+- https://diabetesjournals.org/
+- https://mit.edu/research/
+- https://intechopen.com/
+
+EQUATIONS:
+- EQ001: Linear program objective -> maximize c^T x subject to Ax <= b, x >= 0
+
+
+
+VALUATION:
+- Score: 0.677
+- Tier: silver

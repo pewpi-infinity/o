@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/materials-circularity-concept-families-zip-inner-resources-p3002
+[ANCHOR] clarity #00C8FF link://clarity/materials-circularity-concept-families-zip-inner-resources-p3002
+[ANCHOR] alignment #33CCCC link://alignment/materials-circularity-concept-families-zip-inner-resources-p3002
+
+TITLE: materials-circularity-concept-families-zip-inner-resources-p3002
+SUMMARY: Research scaffold for materials-circularity, concept-families, zip-inner-resources.
+
+LINKS:
+- https://nature.com/subjects/cardiology
+- https://doaj.org/
+
+
+EQUATIONS:
+- EQ032: Heat equation -> ∂u/∂t = α∇²u
+
+
+
+VALUATION:
+- Score: 0.517
+- Tier: bronze

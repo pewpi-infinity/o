@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/boosting-zip-ledger-token-index-economy-resilience-inference-graphs-p7656
+[ANCHOR] clarity #00C8FF link://clarity/boosting-zip-ledger-token-index-economy-resilience-inference-graphs-p7656
+[ANCHOR] alignment #33CCCC link://alignment/boosting-zip-ledger-token-index-economy-resilience-inference-graphs-p7656
+
+TITLE: boosting-zip-ledger-token-index-economy-resilience-inference-graphs-p7656
+SUMMARY: Research scaffold for boosting, zip-ledger, token-index, economy-resilience, inference-graphs.
+
+LINKS:
+- https://asa3.org/
+- https://elsevier.com/catalog?producttype=journal
+
+
+EQUATIONS:
+- EQ030: Convolution -> (f*g)(t)=∫f(τ)g(t-τ)dτ
+- EQ043: Chi-square distribution -> special gamma
+
+
+VALUATION:
+- Score: 0.625
+- Tier: silver

@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/multiobjective-token-provenance-causal-maps-p7923
+[ANCHOR] clarity #00C8FF link://clarity/multiobjective-token-provenance-causal-maps-p7923
+[ANCHOR] learning #E6B800 link://learning/multiobjective-token-provenance-causal-maps-p7923
+[ANCHOR] alignment #33CCCC link://alignment/multiobjective-token-provenance-causal-maps-p7923
+
+TITLE: multiobjective-token-provenance-causal-maps-p7923
+SUMMARY: Research scaffold for multiobjective, token-provenance, causal-maps.
+
+LINKS:
+- https://springer.com/gp/biomedicine
+- https://data.cdc.gov/
+- https://sciencedirect.com/journal/earth-and-planetary-science-letters
+
+EQUATIONS:
+- EQ030: Convolution -> (f*g)(t)=∫f(τ)g(t-τ)dτ
+- EQ050: Characteristic function -> E[e^{itX}]
+
+
+VALUATION:
+- Score: 0.592
+- Tier: bronze

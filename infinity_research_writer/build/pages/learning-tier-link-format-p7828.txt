@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/learning-tier-link-format-p7828
+[ANCHOR] clarity #00C8FF link://clarity/learning-tier-link-format-p7828
+[ANCHOR] learning #E6B800 link://learning/learning-tier-link-format-p7828
+[ANCHOR] alignment #33CCCC link://alignment/learning-tier-link-format-p7828
+
+TITLE: learning-tier-link-format-p7828
+SUMMARY: Research scaffold for learning-tier, link-format.
+
+LINKS:
+- https://humanbrainproject.eu/en/
+- https://agu.org/learn-and-develop/learn/earth-and-space-science-news
+
+
+EQUATIONS:
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+
+
+
+VALUATION:
+- Score: 0.541
+- Tier: bronze

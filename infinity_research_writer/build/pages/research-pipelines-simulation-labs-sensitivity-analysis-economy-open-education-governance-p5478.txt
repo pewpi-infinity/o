@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p5478
+[ANCHOR] ethics #FF6A00 link://ethics/research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p5478
+[ANCHOR] clarity #00C8FF link://clarity/research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p5478
+[ANCHOR] provenance #7D4DF2 link://provenance/research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p5478
+[ANCHOR] scope #6066FF link://scope/research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p5478
+
+TITLE: research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p5478
+SUMMARY: Research scaffold for research-pipelines, simulation-labs, sensitivity-analysis, economy-open, education-governance.
+
+LINKS:
+- https://neuromorphicsystems.org/
+- https://stats.stackexchange.com/questions/tagged/crossvalidated
+
+
+EQUATIONS:
+- EQ038: Determinant expansion -> Σ permutations
+- EQ013: Markov chain stationary distribution -> π = πP
+- EQ037: Eigenvalue problem -> Ax = λx
+
+VALUATION:
+- Score: 0.732
+- Tier: silver

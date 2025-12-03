@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/health-outcomes-tree-decomposition-decision-criteria-pareto-front-p9721
+[ANCHOR] clarity #00C8FF link://clarity/health-outcomes-tree-decomposition-decision-criteria-pareto-front-p9721
+[ANCHOR] alignment #33CCCC link://alignment/health-outcomes-tree-decomposition-decision-criteria-pareto-front-p9721
+
+TITLE: health-outcomes-tree-decomposition-decision-criteria-pareto-front-p9721
+SUMMARY: Research scaffold for health-outcomes, tree-decomposition, decision-criteria, pareto-front.
+
+LINKS:
+- https://jstor.org/
+
+
+
+EQUATIONS:
+- EQ001: Linear program objective -> maximize c^T x subject to Ax <= b, x >= 0
+- EQ024: Gradient descent -> θ ← θ - α∇J(θ)
+- EQ038: Determinant expansion -> Σ permutations
+
+VALUATION:
+- Score: 0.564
+- Tier: bronze

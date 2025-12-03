@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scope-boundaries-security-zerotrust-p6870
+[ANCHOR] clarity #00C8FF link://clarity/scope-boundaries-security-zerotrust-p6870
+[ANCHOR] alignment #33CCCC link://alignment/scope-boundaries-security-zerotrust-p6870
+
+TITLE: scope-boundaries-security-zerotrust-p6870
+SUMMARY: Research scaffold for scope-boundaries, security-zerotrust.
+
+LINKS:
+- https://link.springer.com/journal/10896
+- https://nejm.org/
+
+
+EQUATIONS:
+- EQ045: Central limit theorem -> normalized sums→normal
+- EQ005: Spectral radius -> ρ(A) = max |λ_i(A)|
+- EQ040: Rank-nullity -> dim(V)=rank+nullity
+
+VALUATION:
+- Score: 0.516
+- Tier: bronze

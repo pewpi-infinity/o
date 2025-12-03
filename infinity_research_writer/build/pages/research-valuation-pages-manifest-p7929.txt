@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/research-valuation-pages-manifest-p7929
+[ANCHOR] clarity #00C8FF link://clarity/research-valuation-pages-manifest-p7929
+[ANCHOR] alignment #33CCCC link://alignment/research-valuation-pages-manifest-p7929
+
+TITLE: research-valuation-pages-manifest-p7929
+SUMMARY: Research scaffold for research-valuation, pages-manifest.
+
+LINKS:
+- https://paleobiology.si.edu/
+
+
+
+EQUATIONS:
+- EQ001: Linear program objective -> maximize c^T x subject to Ax <= b, x >= 0
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+- EQ017: L1 regularization -> minimize ||y-Xβ||² + λ||β||₁
+
+VALUATION:
+- Score: 0.535
+- Tier: bronze

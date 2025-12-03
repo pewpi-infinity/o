@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/agent-based-capacity-planning-provenance-ledger-alignment-checks-p5739
+[ANCHOR] capacity #00D67D link://capacity/agent-based-capacity-planning-provenance-ledger-alignment-checks-p5739
+[ANCHOR] clarity #00C8FF link://clarity/agent-based-capacity-planning-provenance-ledger-alignment-checks-p5739
+[ANCHOR] provenance #7D4DF2 link://provenance/agent-based-capacity-planning-provenance-ledger-alignment-checks-p5739
+[ANCHOR] risk #FF3B3B link://risk/agent-based-capacity-planning-provenance-ledger-alignment-checks-p5739
+
+TITLE: agent-based-capacity-planning-provenance-ledger-alignment-checks-p5739
+SUMMARY: Research scaffold for agent-based, capacity-planning, provenance-ledger, alignment-checks.
+
+LINKS:
+- https://jamanetwork.com/journals/jamaoncology
+- https://hathitrust.org/
+
+
+EQUATIONS:
+- EQ019: Lasso sparsity -> many β_j = 0
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+
+VALUATION:
+- Score: 0.692
+- Tier: silver

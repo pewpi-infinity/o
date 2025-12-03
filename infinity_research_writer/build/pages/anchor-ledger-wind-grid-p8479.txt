@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/anchor-ledger-wind-grid-p8479
+[ANCHOR] clarity #00C8FF link://clarity/anchor-ledger-wind-grid-p8479
+[ANCHOR] alignment #33CCCC link://alignment/anchor-ledger-wind-grid-p8479
+
+TITLE: anchor-ledger-wind-grid-p8479
+SUMMARY: Research scaffold for anchor-ledger, wind-grid.
+
+LINKS:
+- https://nature.com/subjects/chemistry
+
+
+
+EQUATIONS:
+- EQ027: Entropy -> -Σ p log p
+
+
+
+VALUATION:
+- Score: 0.438
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/user-config-hydro-optimization-needs-mapping-p4294
+[ANCHOR] clarity #00C8FF link://clarity/user-config-hydro-optimization-needs-mapping-p4294
+[ANCHOR] alignment #33CCCC link://alignment/user-config-hydro-optimization-needs-mapping-p4294
+
+TITLE: user-config-hydro-optimization-needs-mapping-p4294
+SUMMARY: Research scaffold for user-config, hydro-optimization, needs-mapping.
+
+LINKS:
+- https://emmadata.europa.eu/
+- https://numismatics.org/
+- https://warwick.ac.uk/research
+
+EQUATIONS:
+- EQ020: PCA -> eigenvectors of covariance Σ
+- EQ018: Ridge regression -> minimize ||y-Xβ||² + λ||β||²
+
+
+VALUATION:
+- Score: 0.614
+- Tier: silver

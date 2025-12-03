@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/effect-sizes-clarity-tables-user-needs-p8262
+[ANCHOR] clarity #00C8FF link://clarity/effect-sizes-clarity-tables-user-needs-p8262
+[ANCHOR] learning #E6B800 link://learning/effect-sizes-clarity-tables-user-needs-p8262
+[ANCHOR] alignment #33CCCC link://alignment/effect-sizes-clarity-tables-user-needs-p8262
+
+TITLE: effect-sizes-clarity-tables-user-needs-p8262
+SUMMARY: Research scaffold for effect-sizes, clarity-tables, user-needs.
+
+LINKS:
+- https://agu.org/Share-and-Advocate/Share/Eos
+- https://digital.library.yale.edu/
+
+
+EQUATIONS:
+- EQ250: Robust optimization -> minimize max loss over uncertainty set U
+- EQ022: Logistic regression -> σ(wᵀx)
+
+
+VALUATION:
+- Score: 0.606
+- Tier: silver

@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/energy-efficiency-learning-curves-transport-autonomy-fusion-scope-source-weighting-p7068
+[ANCHOR] capacity #00D67D link://capacity/energy-efficiency-learning-curves-transport-autonomy-fusion-scope-source-weighting-p7068
+[ANCHOR] clarity #00C8FF link://clarity/energy-efficiency-learning-curves-transport-autonomy-fusion-scope-source-weighting-p7068
+[ANCHOR] provenance #7D4DF2 link://provenance/energy-efficiency-learning-curves-transport-autonomy-fusion-scope-source-weighting-p7068
+[ANCHOR] risk #FF3B3B link://risk/energy-efficiency-learning-curves-transport-autonomy-fusion-scope-source-weighting-p7068
+
+TITLE: energy-efficiency-learning-curves-transport-autonomy-fusion-scope-source-weighting-p7068
+SUMMARY: Research scaffold for energy-efficiency, learning-curves, transport-autonomy, fusion-scope, source-weighting.
+
+LINKS:
+- https://synapse.org/
+- https://stanford.edu/research/
+- https://scholar.google.com/
+
+EQUATIONS:
+- EQ009: Queue M/M/1 -> ρ = λ/μ, W = 1/(μ - λ)
+- EQ013: Markov chain stationary distribution -> π = πP
+
+
+VALUATION:
+- Score: 0.725
+- Tier: silver

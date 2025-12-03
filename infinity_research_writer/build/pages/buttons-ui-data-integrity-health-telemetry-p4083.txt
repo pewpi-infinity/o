@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/buttons-ui-data-integrity-health-telemetry-p4083
+[ANCHOR] clarity #00C8FF link://clarity/buttons-ui-data-integrity-health-telemetry-p4083
+[ANCHOR] alignment #33CCCC link://alignment/buttons-ui-data-integrity-health-telemetry-p4083
+
+TITLE: buttons-ui-data-integrity-health-telemetry-p4083
+SUMMARY: Research scaffold for buttons-ui, data-integrity, health-telemetry.
+
+LINKS:
+- https://epfl.ch/en/research/
+- https://onlinelibrary.wiley.com/
+
+
+EQUATIONS:
+- EQ022: Logistic regression -> σ(wᵀx)
+- EQ003: Lagrangian -> L(x, λ) = f(x) + λ^T (Ax - b)
+
+
+VALUATION:
+- Score: 0.587
+- Tier: bronze

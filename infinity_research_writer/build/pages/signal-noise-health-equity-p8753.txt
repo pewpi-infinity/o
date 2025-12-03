@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/signal-noise-health-equity-p8753
+[ANCHOR] clarity #00C8FF link://clarity/signal-noise-health-equity-p8753
+[ANCHOR] alignment #33CCCC link://alignment/signal-noise-health-equity-p8753
+
+TITLE: signal-noise-health-equity-p8753
+SUMMARY: Research scaffold for signal-noise, health-equity.
+
+LINKS:
+- https://medrxiv.org/
+- https://tokyo-u.ac.jp/en/research
+- https://emmadata.europa.eu/
+
+EQUATIONS:
+- EQ038: Determinant expansion -> Σ permutations
+
+
+
+VALUATION:
+- Score: 0.506
+- Tier: bronze

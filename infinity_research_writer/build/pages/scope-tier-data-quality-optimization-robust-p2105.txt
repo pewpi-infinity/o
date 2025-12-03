@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scope-tier-data-quality-optimization-robust-p2105
+[ANCHOR] clarity #00C8FF link://clarity/scope-tier-data-quality-optimization-robust-p2105
+[ANCHOR] alignment #33CCCC link://alignment/scope-tier-data-quality-optimization-robust-p2105
+
+TITLE: scope-tier-data-quality-optimization-robust-p2105
+SUMMARY: Research scaffold for scope-tier, data-quality, optimization-robust.
+
+LINKS:
+- https://drugpolicy.org/resource-library
+- https://ox.ac.uk/research
+- https://jamanetwork.com/journals/jamaoncology
+
+EQUATIONS:
+- EQ033: Wave equation -> ∂²u/∂t² = c²∇²u
+
+
+
+VALUATION:
+- Score: 0.553
+- Tier: bronze

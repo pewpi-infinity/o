@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p4302
+[ANCHOR] clarity #00C8FF link://clarity/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p4302
+[ANCHOR] learning #E6B800 link://learning/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p4302
+[ANCHOR] alignment #33CCCC link://alignment/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p4302
+
+TITLE: trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p4302
+SUMMARY: Research scaffold for trial-evidence, clarity-tier, tier-gold, sparsity, security-threats.
+
+LINKS:
+- https://humanorigins.si.edu/
+
+
+
+EQUATIONS:
+- EQ034: Poisson equation -> ∇²u = -ρ/ε
+- EQ039: Matrix invertibility -> det(A) ≠ 0
+- EQ012: Auction revenue equivalence -> symmetric independent private values
+
+VALUATION:
+- Score: 0.625
+- Tier: silver

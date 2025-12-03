@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/effect-sizes-clarity-tables-user-needs-p5112
+[ANCHOR] clarity #00C8FF link://clarity/effect-sizes-clarity-tables-user-needs-p5112
+[ANCHOR] learning #E6B800 link://learning/effect-sizes-clarity-tables-user-needs-p5112
+[ANCHOR] alignment #33CCCC link://alignment/effect-sizes-clarity-tables-user-needs-p5112
+
+TITLE: effect-sizes-clarity-tables-user-needs-p5112
+SUMMARY: Research scaffold for effect-sizes, clarity-tables, user-needs.
+
+LINKS:
+- https://cambridge.org/core/what-we-publish/journals
+- https://louvre.fr/en/archives-and-documentation
+
+
+EQUATIONS:
+- EQ026: KL divergence -> Σ p log(p/q)
+- EQ031: Laplace transform -> ∫f(t)e^{-st}dt
+- EQ010: Nash equilibrium -> best response mappings intersect
+
+VALUATION:
+- Score: 0.576
+- Tier: bronze

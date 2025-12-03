@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/concept-anchors-learning-pathways-p1541
+[ANCHOR] clarity #00C8FF link://clarity/concept-anchors-learning-pathways-p1541
+[ANCHOR] learning #E6B800 link://learning/concept-anchors-learning-pathways-p1541
+[ANCHOR] alignment #33CCCC link://alignment/concept-anchors-learning-pathways-p1541
+
+TITLE: concept-anchors-learning-pathways-p1541
+SUMMARY: Research scaffold for concept-anchors, learning-pathways.
+
+LINKS:
+- https://scholar.google.com/
+- https://osf.io/
+
+
+EQUATIONS:
+- EQ010: Nash equilibrium -> best response mappings intersect
+
+
+
+VALUATION:
+- Score: 0.496
+- Tier: bronze

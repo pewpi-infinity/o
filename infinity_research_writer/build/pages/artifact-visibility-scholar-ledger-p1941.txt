@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/artifact-visibility-scholar-ledger-p1941
+[ANCHOR] clarity #00C8FF link://clarity/artifact-visibility-scholar-ledger-p1941
+[ANCHOR] alignment #33CCCC link://alignment/artifact-visibility-scholar-ledger-p1941
+
+TITLE: artifact-visibility-scholar-ledger-p1941
+SUMMARY: Research scaffold for artifact-visibility, scholar-ledger.
+
+LINKS:
+- https://openalex.org/
+- https://columbia.edu/research
+
+
+EQUATIONS:
+- EQ036: Schrödinger equation -> iħ∂ψ/∂t = Hψ
+- EQ032: Heat equation -> ∂u/∂t = α∇²u
+
+
+VALUATION:
+- Score: 0.497
+- Tier: bronze

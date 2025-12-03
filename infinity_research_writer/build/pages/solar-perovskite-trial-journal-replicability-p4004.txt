@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/solar-perovskite-trial-journal-replicability-p4004
+[ANCHOR] clarity #00C8FF link://clarity/solar-perovskite-trial-journal-replicability-p4004
+[ANCHOR] alignment #33CCCC link://alignment/solar-perovskite-trial-journal-replicability-p4004
+
+TITLE: solar-perovskite-trial-journal-replicability-p4004
+SUMMARY: Research scaffold for solar-perovskite, trial-journal, replicability.
+
+LINKS:
+- https://harvard.edu/research
+- https://conservation.org/research
+- https://mathworld.wolfram.com/
+
+EQUATIONS:
+- EQ007: Controllability -> rank([B, AB, A^2B, ..., A^{n-1}B]) = n
+
+
+
+VALUATION:
+- Score: 0.582
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/bagging-adaptive-links-p9642
+[ANCHOR] clarity #00C8FF link://clarity/bagging-adaptive-links-p9642
+[ANCHOR] alignment #33CCCC link://alignment/bagging-adaptive-links-p9642
+
+TITLE: bagging-adaptive-links-p9642
+SUMMARY: Research scaffold for bagging, adaptive-links.
+
+LINKS:
+- https://heinonline.org/
+- https://usgs.gov/products/publications
+
+
+EQUATIONS:
+- EQ013: Markov chain stationary distribution -> π = πP
+
+
+
+VALUATION:
+- Score: 0.503
+- Tier: bronze

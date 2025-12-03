@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/project-index-materials-reuse-variance-analysis-p1257
+[ANCHOR] clarity #00C8FF link://clarity/project-index-materials-reuse-variance-analysis-p1257
+[ANCHOR] alignment #33CCCC link://alignment/project-index-materials-reuse-variance-analysis-p1257
+
+TITLE: project-index-materials-reuse-variance-analysis-p1257
+SUMMARY: Research scaffold for project-index, materials-reuse, variance-analysis.
+
+LINKS:
+- https://heinonline.org/
+- https://brill.com/browse?level=research
+- https://sciencedirect.com/
+
+EQUATIONS:
+- EQ040: Rank-nullity -> dim(V)=rank+nullity
+- EQ003: Lagrangian -> L(x, λ) = f(x) + λ^T (Ax - b)
+
+
+VALUATION:
+- Score: 0.624
+- Tier: silver

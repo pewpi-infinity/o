@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/transport-routing-scope-limits-query-intent-citation-style-p1281
+[ANCHOR] clarity #00C8FF link://clarity/transport-routing-scope-limits-query-intent-citation-style-p1281
+[ANCHOR] alignment #33CCCC link://alignment/transport-routing-scope-limits-query-intent-citation-style-p1281
+
+TITLE: transport-routing-scope-limits-query-intent-citation-style-p1281
+SUMMARY: Research scaffold for transport-routing, scope-limits, query-intent, citation-style.
+
+LINKS:
+- https://qmul.ac.uk/research
+- https://humanbrainproject.eu/en/
+- https://uchicago.edu/research
+
+EQUATIONS:
+- EQ048: Jensen's inequality -> φ(E[X]) ≤ E[φ(X)]
+
+
+
+VALUATION:
+- Score: 0.591
+- Tier: bronze

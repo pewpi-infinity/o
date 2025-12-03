@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/economy-tradeoffs-links-ledger-epidemic-models-master-hash-change-point-p816
+[ANCHOR] clarity #00C8FF link://clarity/economy-tradeoffs-links-ledger-epidemic-models-master-hash-change-point-p816
+[ANCHOR] alignment #33CCCC link://alignment/economy-tradeoffs-links-ledger-epidemic-models-master-hash-change-point-p816
+
+TITLE: economy-tradeoffs-links-ledger-epidemic-models-master-hash-change-point-p816
+SUMMARY: Research scaffold for economy-tradeoffs, links-ledger, epidemic-models, master-hash, change-point.
+
+LINKS:
+- https://iucn.org/resources/publications
+- https://geoscienceworld.org/
+- https://agu.org/learn-and-develop/learn/atmospheric-science
+
+EQUATIONS:
+- EQ046: Markov inequality -> P(X≥a) ≤ E[X]/a
+- EQ019: Lasso sparsity -> many β_j = 0
+- EQ044: Law of large numbers -> sample mean→μ
+
+VALUATION:
+- Score: 0.724
+- Tier: silver

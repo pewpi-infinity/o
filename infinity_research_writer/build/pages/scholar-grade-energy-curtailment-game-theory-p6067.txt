@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scholar-grade-energy-curtailment-game-theory-p6067
+[ANCHOR] clarity #00C8FF link://clarity/scholar-grade-energy-curtailment-game-theory-p6067
+[ANCHOR] alignment #33CCCC link://alignment/scholar-grade-energy-curtailment-game-theory-p6067
+
+TITLE: scholar-grade-energy-curtailment-game-theory-p6067
+SUMMARY: Research scaffold for scholar-grade, energy-curtailment, game-theory.
+
+LINKS:
+- https://directory.doabooks.org/
+- https://unep.org/resources/publications
+- https://ncbi.nlm.nih.gov/pmc/
+
+EQUATIONS:
+- EQ046: Markov inequality -> P(X≥a) ≤ E[X]/a
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+- EQ001: Linear program objective -> maximize c^T x subject to Ax <= b, x >= 0
+
+VALUATION:
+- Score: 0.621
+- Tier: silver

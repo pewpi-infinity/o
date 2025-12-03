@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/energy-efficiency-learning-curves-transport-autonomy-fusion-scope-source-weighting-p3288
+[ANCHOR] capacity #00D67D link://capacity/energy-efficiency-learning-curves-transport-autonomy-fusion-scope-source-weighting-p3288
+[ANCHOR] clarity #00C8FF link://clarity/energy-efficiency-learning-curves-transport-autonomy-fusion-scope-source-weighting-p3288
+[ANCHOR] provenance #7D4DF2 link://provenance/energy-efficiency-learning-curves-transport-autonomy-fusion-scope-source-weighting-p3288
+[ANCHOR] risk #FF3B3B link://risk/energy-efficiency-learning-curves-transport-autonomy-fusion-scope-source-weighting-p3288
+
+TITLE: energy-efficiency-learning-curves-transport-autonomy-fusion-scope-source-weighting-p3288
+SUMMARY: Research scaffold for energy-efficiency, learning-curves, transport-autonomy, fusion-scope, source-weighting.
+
+LINKS:
+- https://rsc.org/
+- https://britishmuseum.org/collection
+
+
+EQUATIONS:
+- EQ028: Mutual information -> I(X;Y) = H(X)+H(Y)-H(X,Y)
+
+
+
+VALUATION:
+- Score: 0.642
+- Tier: silver

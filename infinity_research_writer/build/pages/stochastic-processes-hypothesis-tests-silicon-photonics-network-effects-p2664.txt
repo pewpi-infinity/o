@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/stochastic-processes-hypothesis-tests-silicon-photonics-network-effects-p2664
+[ANCHOR] clarity #00C8FF link://clarity/stochastic-processes-hypothesis-tests-silicon-photonics-network-effects-p2664
+[ANCHOR] alignment #33CCCC link://alignment/stochastic-processes-hypothesis-tests-silicon-photonics-network-effects-p2664
+
+TITLE: stochastic-processes-hypothesis-tests-silicon-photonics-network-effects-p2664
+SUMMARY: Research scaffold for stochastic-processes, hypothesis-tests, silicon-photonics, network-effects.
+
+LINKS:
+- https://neuron.yale.edu/neuron/
+
+
+
+EQUATIONS:
+- EQ010: Nash equilibrium -> best response mappings intersect
+- EQ017: L1 regularization -> minimize ||y-Xβ||² + λ||β||₁
+
+
+VALUATION:
+- Score: 0.544
+- Tier: bronze

@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/multiobjective-token-provenance-causal-maps-p2953
+[ANCHOR] clarity #00C8FF link://clarity/multiobjective-token-provenance-causal-maps-p2953
+[ANCHOR] learning #E6B800 link://learning/multiobjective-token-provenance-causal-maps-p2953
+[ANCHOR] alignment #33CCCC link://alignment/multiobjective-token-provenance-causal-maps-p2953
+
+TITLE: multiobjective-token-provenance-causal-maps-p2953
+SUMMARY: Research scaffold for multiobjective, token-provenance, causal-maps.
+
+LINKS:
+- https://nyu.edu/research
+- https://arxiv.org/
+
+
+EQUATIONS:
+- EQ017: L1 regularization -> minimize ||y-Xβ||² + λ||β||₁
+- EQ014: Bayesian update -> p(θ|D) ∝ p(D|θ)p(θ)
+
+
+VALUATION:
+- Score: 0.589
+- Tier: bronze

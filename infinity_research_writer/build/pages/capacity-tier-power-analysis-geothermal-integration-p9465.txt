@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/capacity-tier-power-analysis-geothermal-integration-p9465
+[ANCHOR] capacity #00D67D link://capacity/capacity-tier-power-analysis-geothermal-integration-p9465
+[ANCHOR] clarity #00C8FF link://clarity/capacity-tier-power-analysis-geothermal-integration-p9465
+[ANCHOR] provenance #7D4DF2 link://provenance/capacity-tier-power-analysis-geothermal-integration-p9465
+[ANCHOR] risk #FF3B3B link://risk/capacity-tier-power-analysis-geothermal-integration-p9465
+
+TITLE: capacity-tier-power-analysis-geothermal-integration-p9465
+SUMMARY: Research scaffold for capacity-tier, power-analysis, geothermal-integration.
+
+LINKS:
+- https://mit.edu/research/
+
+
+
+EQUATIONS:
+- EQ029: Fourier transform -> F(ω)=∫ f(t)e^{-iωt}dt
+
+
+
+VALUATION:
+- Score: 0.524
+- Tier: bronze

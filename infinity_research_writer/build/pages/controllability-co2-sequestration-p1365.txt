@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/controllability-co2-sequestration-p1365
+[ANCHOR] clarity #00C8FF link://clarity/controllability-co2-sequestration-p1365
+[ANCHOR] alignment #33CCCC link://alignment/controllability-co2-sequestration-p1365
+
+TITLE: controllability-co2-sequestration-p1365
+SUMMARY: Research scaffold for controllability, co2-sequestration.
+
+LINKS:
+- https://berkeley.edu/research
+- https://bloodjournal.org/
+
+
+EQUATIONS:
+- EQ007: Controllability -> rank([B, AB, A^2B, ..., A^{n-1}B]) = n
+
+
+
+VALUATION:
+- Score: 0.506
+- Tier: bronze

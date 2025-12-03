@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/silicon-capacity-grid-stability-links-catalog-adjacency-discovery-p453
+[ANCHOR] capacity #00D67D link://capacity/silicon-capacity-grid-stability-links-catalog-adjacency-discovery-p453
+[ANCHOR] clarity #00C8FF link://clarity/silicon-capacity-grid-stability-links-catalog-adjacency-discovery-p453
+[ANCHOR] provenance #7D4DF2 link://provenance/silicon-capacity-grid-stability-links-catalog-adjacency-discovery-p453
+[ANCHOR] risk #FF3B3B link://risk/silicon-capacity-grid-stability-links-catalog-adjacency-discovery-p453
+
+TITLE: silicon-capacity-grid-stability-links-catalog-adjacency-discovery-p453
+SUMMARY: Research scaffold for silicon-capacity, grid-stability, links-catalog, adjacency-discovery.
+
+LINKS:
+- https://wwf.panda.org/discover/our_focus/
+- https://harvard.edu/research
+- https://oi.uchicago.edu/research
+
+EQUATIONS:
+- EQ004: KKT conditions -> ∇f(x*) + A^T λ* = 0, Ax* <= b, λ* >= 0, λ*^T (Ax* - b) = 0
+- EQ036: Schrödinger equation -> iħ∂ψ/∂t = Hψ
+
+
+VALUATION:
+- Score: 0.704
+- Tier: silver

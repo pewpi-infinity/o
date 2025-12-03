@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/research-valuation-pages-manifest-p1069
+[ANCHOR] clarity #00C8FF link://clarity/research-valuation-pages-manifest-p1069
+[ANCHOR] alignment #33CCCC link://alignment/research-valuation-pages-manifest-p1069
+
+TITLE: research-valuation-pages-manifest-p1069
+SUMMARY: Research scaffold for research-valuation, pages-manifest.
+
+LINKS:
+- https://re3data.org/
+- https://numismatics.org/
+- https://sciencedirect.com/book-series
+
+EQUATIONS:
+- EQ040: Rank-nullity -> dim(V)=rank+nullity
+- EQ047: Chebyshev inequality -> P(|X-μ|≥kσ) ≤ 1/k²
+
+
+VALUATION:
+- Score: 0.532
+- Tier: bronze

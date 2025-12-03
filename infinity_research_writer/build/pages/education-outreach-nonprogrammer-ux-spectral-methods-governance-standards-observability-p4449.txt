@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/education-outreach-nonprogrammer-ux-spectral-methods-governance-standards-observability-p4449
+[ANCHOR] ethics #FF6A00 link://ethics/education-outreach-nonprogrammer-ux-spectral-methods-governance-standards-observability-p4449
+[ANCHOR] clarity #00C8FF link://clarity/education-outreach-nonprogrammer-ux-spectral-methods-governance-standards-observability-p4449
+[ANCHOR] provenance #7D4DF2 link://provenance/education-outreach-nonprogrammer-ux-spectral-methods-governance-standards-observability-p4449
+[ANCHOR] scope #6066FF link://scope/education-outreach-nonprogrammer-ux-spectral-methods-governance-standards-observability-p4449
+
+TITLE: education-outreach-nonprogrammer-ux-spectral-methods-governance-standards-observability-p4449
+SUMMARY: Research scaffold for education-outreach, nonprogrammer-ux, spectral-methods, governance-standards, observability.
+
+LINKS:
+- https://salk.edu/research
+- https://wolframalpha.com/examples/mathematics
+- https://pnas.org/
+
+EQUATIONS:
+- EQ001: Linear program objective -> maximize c^T x subject to Ax <= b, x >= 0
+- EQ035: Maxwell equations (set of 4)
+
+
+VALUATION:
+- Score: 0.697
+- Tier: silver

@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/diff-hashes-publish-gates-clarity-visuals-batch-hash-streaming-research-p5406
+[ANCHOR] clarity #00C8FF link://clarity/diff-hashes-publish-gates-clarity-visuals-batch-hash-streaming-research-p5406
+[ANCHOR] learning #E6B800 link://learning/diff-hashes-publish-gates-clarity-visuals-batch-hash-streaming-research-p5406
+[ANCHOR] alignment #33CCCC link://alignment/diff-hashes-publish-gates-clarity-visuals-batch-hash-streaming-research-p5406
+
+TITLE: diff-hashes-publish-gates-clarity-visuals-batch-hash-streaming-research-p5406
+SUMMARY: Research scaffold for diff-hashes, publish-gates, clarity-visuals, batch-hash, streaming-research.
+
+LINKS:
+- https://darpa.mil/our-research
+- https://stats.stackexchange.com/questions/tagged/crossvalidated
+- https://linear.ups.edu/
+
+EQUATIONS:
+- EQ030: Convolution -> (f*g)(t)=∫f(τ)g(t-τ)dτ
+- EQ048: Jensen's inequality -> φ(E[X]) ≤ E[φ(X)]
+
+
+VALUATION:
+- Score: 0.675
+- Tier: silver

@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/reason-metrics-governance-participation-hydrogen-co2-graphene-composites-federated-learning-p246
+[ANCHOR] ethics #FF6A00 link://ethics/reason-metrics-governance-participation-hydrogen-co2-graphene-composites-federated-learning-p246
+[ANCHOR] capacity #00D67D link://capacity/reason-metrics-governance-participation-hydrogen-co2-graphene-composites-federated-learning-p246
+[ANCHOR] clarity #00C8FF link://clarity/reason-metrics-governance-participation-hydrogen-co2-graphene-composites-federated-learning-p246
+[ANCHOR] provenance #7D4DF2 link://provenance/reason-metrics-governance-participation-hydrogen-co2-graphene-composites-federated-learning-p246
+
+TITLE: reason-metrics-governance-participation-hydrogen-co2-graphene-composites-federated-learning-p246
+SUMMARY: Research scaffold for reason-metrics, governance-participation, hydrogen-co2, graphene-composites, federated-learning.
+
+LINKS:
+- https://unep.org/resources/publications
+- https://tokyo-u.ac.jp/en/research
+- https://durham.ac.uk/research
+
+EQUATIONS:
+- EQ027: Entropy -> -Σ p log p
+
+
+
+VALUATION:
+- Score: 0.675
+- Tier: silver

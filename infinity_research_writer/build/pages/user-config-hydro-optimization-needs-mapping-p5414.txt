@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/user-config-hydro-optimization-needs-mapping-p5414
+[ANCHOR] clarity #00C8FF link://clarity/user-config-hydro-optimization-needs-mapping-p5414
+[ANCHOR] alignment #33CCCC link://alignment/user-config-hydro-optimization-needs-mapping-p5414
+
+TITLE: user-config-hydro-optimization-needs-mapping-p5414
+SUMMARY: Research scaffold for user-config, hydro-optimization, needs-mapping.
+
+LINKS:
+- https://ucl.ac.uk/research
+- https://siam.org/journals
+- https://cochranelibrary.com/
+
+EQUATIONS:
+- ...
+- EQ046: Markov inequality -> P(X≥a) ≤ E[X]/a
+- EQ028: Mutual information -> I(X;Y) = H(X)+H(Y)-H(X,Y)
+
+VALUATION:
+- Score: 0.624
+- Tier: silver

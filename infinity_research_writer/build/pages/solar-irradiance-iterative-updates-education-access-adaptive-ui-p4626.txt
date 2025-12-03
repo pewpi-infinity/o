@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/solar-irradiance-iterative-updates-education-access-adaptive-ui-p4626
+[ANCHOR] clarity #00C8FF link://clarity/solar-irradiance-iterative-updates-education-access-adaptive-ui-p4626
+[ANCHOR] alignment #33CCCC link://alignment/solar-irradiance-iterative-updates-education-access-adaptive-ui-p4626
+
+TITLE: solar-irradiance-iterative-updates-education-access-adaptive-ui-p4626
+SUMMARY: Research scaffold for solar-irradiance, iterative-updates, education-access, adaptive-ui.
+
+LINKS:
+- https://arxiv.org/
+- https://jamanetwork.com/
+- https://nasa.gov/
+
+EQUATIONS:
+- EQ003: Lagrangian -> L(x, λ) = f(x) + λ^T (Ax - b)
+- EQ011: Mechanism incentive compatibility -> truth-telling maximizes utility
+- EQ012: Auction revenue equivalence -> symmetric independent private values
+
+VALUATION:
+- Score: 0.677
+- Tier: silver

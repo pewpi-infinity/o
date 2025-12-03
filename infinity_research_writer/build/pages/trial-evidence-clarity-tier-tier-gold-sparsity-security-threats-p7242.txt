@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p7242
+[ANCHOR] clarity #00C8FF link://clarity/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p7242
+[ANCHOR] learning #E6B800 link://learning/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p7242
+[ANCHOR] alignment #33CCCC link://alignment/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p7242
+
+TITLE: trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p7242
+SUMMARY: Research scaffold for trial-evidence, clarity-tier, tier-gold, sparsity, security-threats.
+
+LINKS:
+- https://wolframalpha.com/examples/mathematics
+- https://vellum.sas.ac.uk/
+- https://yale.edu/research/neuroscience
+
+EQUATIONS:
+- EQ040: Rank-nullity -> dim(V)=rank+nullity
+- EQ012: Auction revenue equivalence -> symmetric independent private values
+- EQ023: Cross entropy -> -Σ y log p
+
+VALUATION:
+- Score: 0.692
+- Tier: silver

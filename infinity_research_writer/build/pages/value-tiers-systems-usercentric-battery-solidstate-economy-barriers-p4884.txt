@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/value-tiers-systems-usercentric-battery-solidstate-economy-barriers-p4884
+[ANCHOR] capacity #00D67D link://capacity/value-tiers-systems-usercentric-battery-solidstate-economy-barriers-p4884
+[ANCHOR] clarity #00C8FF link://clarity/value-tiers-systems-usercentric-battery-solidstate-economy-barriers-p4884
+[ANCHOR] provenance #7D4DF2 link://provenance/value-tiers-systems-usercentric-battery-solidstate-economy-barriers-p4884
+[ANCHOR] risk #FF3B3B link://risk/value-tiers-systems-usercentric-battery-solidstate-economy-barriers-p4884
+
+TITLE: value-tiers-systems-usercentric-battery-solidstate-economy-barriers-p4884
+SUMMARY: Research scaffold for value-tiers, systems-usercentric, battery-solidstate, economy-barriers.
+
+LINKS:
+- https://cam.ac.uk/research
+- https://jamanetwork.com/journals/jamaneurology
+
+
+EQUATIONS:
+- EQ009: Queue M/M/1 -> ρ = λ/μ, W = 1/(μ - λ)
+
+
+
+VALUATION:
+- Score: 0.597
+- Tier: bronze

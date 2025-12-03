@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scope-boundaries-security-zerotrust-p6520
+[ANCHOR] clarity #00C8FF link://clarity/scope-boundaries-security-zerotrust-p6520
+[ANCHOR] alignment #33CCCC link://alignment/scope-boundaries-security-zerotrust-p6520
+
+TITLE: scope-boundaries-security-zerotrust-p6520
+SUMMARY: Research scaffold for scope-boundaries, security-zerotrust.
+
+LINKS:
+- https://nber.org/
+- https://cam.ac.uk/research
+- https://jbc.org/
+
+EQUATIONS:
+- EQ019: Lasso sparsity -> many β_j = 0
+- EQ035: Maxwell equations (set of 4)
+
+
+VALUATION:
+- Score: 0.549
+- Tier: bronze

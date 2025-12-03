@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/controllability-co2-sequestration-p1645
+[ANCHOR] clarity #00C8FF link://clarity/controllability-co2-sequestration-p1645
+[ANCHOR] alignment #33CCCC link://alignment/controllability-co2-sequestration-p1645
+
+TITLE: controllability-co2-sequestration-p1645
+SUMMARY: Research scaffold for controllability, co2-sequestration.
+
+LINKS:
+- https://cam.ac.uk/research
+- https://repec.org/
+- https://planetmath.org/
+
+EQUATIONS:
+- EQ013: Markov chain stationary distribution -> π = πP
+- EQ029: Fourier transform -> F(ω)=∫ f(t)e^{-iωt}dt
+
+
+VALUATION:
+- Score: 0.559
+- Tier: bronze

@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/tier-silver-provenance-signing-context-windows-p4824
+[ANCHOR] clarity #00C8FF link://clarity/tier-silver-provenance-signing-context-windows-p4824
+[ANCHOR] learning #E6B800 link://learning/tier-silver-provenance-signing-context-windows-p4824
+[ANCHOR] alignment #33CCCC link://alignment/tier-silver-provenance-signing-context-windows-p4824
+
+TITLE: tier-silver-provenance-signing-context-windows-p4824
+SUMMARY: Research scaffold for tier-silver, provenance-signing, context-windows.
+
+LINKS:
+- https://nih.gov/brain-initiative
+
+
+
+EQUATIONS:
+- EQ043: Chi-square distribution -> special gamma
+- EQ024: Gradient descent -> θ ← θ - α∇J(θ)
+
+
+VALUATION:
+- Score: 0.524
+- Tier: bronze

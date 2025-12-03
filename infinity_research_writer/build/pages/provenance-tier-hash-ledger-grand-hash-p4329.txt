@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/provenance-tier-hash-ledger-grand-hash-p4329
+[ANCHOR] clarity #00C8FF link://clarity/provenance-tier-hash-ledger-grand-hash-p4329
+[ANCHOR] learning #E6B800 link://learning/provenance-tier-hash-ledger-grand-hash-p4329
+[ANCHOR] alignment #33CCCC link://alignment/provenance-tier-hash-ledger-grand-hash-p4329
+
+TITLE: provenance-tier-hash-ledger-grand-hash-p4329
+SUMMARY: Research scaffold for provenance-tier, hash-ledger, grand-hash.
+
+LINKS:
+- https://sciencedirect.com/journal/earth-and-planetary-science-letters
+- https://ethz.ch/en/research.html
+
+
+EQUATIONS:
+- EQ049: Moment generating function -> M(t)=E[e^{tX}]
+- EQ011: Mechanism incentive compatibility -> truth-telling maximizes utility
+
+
+VALUATION:
+- Score: 0.556
+- Tier: bronze

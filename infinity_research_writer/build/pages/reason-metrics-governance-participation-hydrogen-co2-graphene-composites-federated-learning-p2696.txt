@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/reason-metrics-governance-participation-hydrogen-co2-graphene-composites-federated-learning-p2696
+[ANCHOR] ethics #FF6A00 link://ethics/reason-metrics-governance-participation-hydrogen-co2-graphene-composites-federated-learning-p2696
+[ANCHOR] capacity #00D67D link://capacity/reason-metrics-governance-participation-hydrogen-co2-graphene-composites-federated-learning-p2696
+[ANCHOR] clarity #00C8FF link://clarity/reason-metrics-governance-participation-hydrogen-co2-graphene-composites-federated-learning-p2696
+[ANCHOR] provenance #7D4DF2 link://provenance/reason-metrics-governance-participation-hydrogen-co2-graphene-composites-federated-learning-p2696
+
+TITLE: reason-metrics-governance-participation-hydrogen-co2-graphene-composites-federated-learning-p2696
+SUMMARY: Research scaffold for reason-metrics, governance-participation, hydrogen-co2, graphene-composites, federated-learning.
+
+LINKS:
+- https://unsw.edu.au/research
+- https://nber.org/
+- https://scholar.harvard.edu/
+
+EQUATIONS:
+- EQ031: Laplace transform -> ∫f(t)e^{-st}dt
+- EQ017: L1 regularization -> minimize ||y-Xβ||² + λ||β||₁
+
+
+VALUATION:
+- Score: 0.695
+- Tier: silver

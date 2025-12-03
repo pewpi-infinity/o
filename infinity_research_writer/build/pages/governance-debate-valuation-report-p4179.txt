@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/governance-debate-valuation-report-p4179
+[ANCHOR] ethics #FF6A00 link://ethics/governance-debate-valuation-report-p4179
+[ANCHOR] clarity #00C8FF link://clarity/governance-debate-valuation-report-p4179
+[ANCHOR] provenance #7D4DF2 link://provenance/governance-debate-valuation-report-p4179
+[ANCHOR] scope #6066FF link://scope/governance-debate-valuation-report-p4179
+
+TITLE: governance-debate-valuation-report-p4179
+SUMMARY: Research scaffold for governance-debate, valuation-report.
+
+LINKS:
+- https://elifesciences.org/
+- https://alleninstitute.org/what-we-do/brain-science/
+
+
+EQUATIONS:
+- EQ250: Robust optimization -> minimize max loss over uncertainty set U
+
+
+
+VALUATION:
+- Score: 0.566
+- Tier: bronze

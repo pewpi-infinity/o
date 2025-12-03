@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scope-boundaries-security-zerotrust-p3580
+[ANCHOR] clarity #00C8FF link://clarity/scope-boundaries-security-zerotrust-p3580
+[ANCHOR] alignment #33CCCC link://alignment/scope-boundaries-security-zerotrust-p3580
+
+TITLE: scope-boundaries-security-zerotrust-p3580
+SUMMARY: Research scaffold for scope-boundaries, security-zerotrust.
+
+LINKS:
+- https://anu.edu.au/research
+
+
+
+EQUATIONS:
+- EQ047: Chebyshev inequality -> P(|X-μ|≥kσ) ≤ 1/k²
+- EQ014: Bayesian update -> p(θ|D) ∝ p(D|θ)p(θ)
+- EQ037: Eigenvalue problem -> Ax = λx
+
+VALUATION:
+- Score: 0.532
+- Tier: bronze

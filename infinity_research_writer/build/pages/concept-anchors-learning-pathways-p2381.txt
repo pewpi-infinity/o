@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/concept-anchors-learning-pathways-p2381
+[ANCHOR] clarity #00C8FF link://clarity/concept-anchors-learning-pathways-p2381
+[ANCHOR] learning #E6B800 link://learning/concept-anchors-learning-pathways-p2381
+[ANCHOR] alignment #33CCCC link://alignment/concept-anchors-learning-pathways-p2381
+
+TITLE: concept-anchors-learning-pathways-p2381
+SUMMARY: Research scaffold for concept-anchors, learning-pathways.
+
+LINKS:
+- https://pubs.acs.org/journal/jacsat
+
+
+
+EQUATIONS:
+- EQ048: Jensen's inequality -> φ(E[X]) ≤ E[φ(X)]
+
+
+
+VALUATION:
+- Score: 0.462
+- Tier: bronze

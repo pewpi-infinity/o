@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p7032
+[ANCHOR] clarity #00C8FF link://clarity/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p7032
+[ANCHOR] learning #E6B800 link://learning/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p7032
+[ANCHOR] alignment #33CCCC link://alignment/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p7032
+
+TITLE: trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p7032
+SUMMARY: Research scaffold for trial-evidence, clarity-tier, tier-gold, sparsity, security-threats.
+
+LINKS:
+- https://siam.org/journals
+- https://usgs.gov/products/publications
+- https://osti.gov/
+
+EQUATIONS:
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+
+
+
+VALUATION:
+- Score: 0.682
+- Tier: silver

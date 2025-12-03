@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/provenance-tier-hash-ledger-grand-hash-p8529
+[ANCHOR] clarity #00C8FF link://clarity/provenance-tier-hash-ledger-grand-hash-p8529
+[ANCHOR] learning #E6B800 link://learning/provenance-tier-hash-ledger-grand-hash-p8529
+[ANCHOR] alignment #33CCCC link://alignment/provenance-tier-hash-ledger-grand-hash-p8529
+
+TITLE: provenance-tier-hash-ledger-grand-hash-p8529
+SUMMARY: Research scaffold for provenance-tier, hash-ledger, grand-hash.
+
+LINKS:
+- https://uscourts.gov/statistics-reports
+
+
+
+EQUATIONS:
+- EQ015: Power of hypothesis test -> 1 - β
+- EQ027: Entropy -> -Σ p log p
+
+
+VALUATION:
+- Score: 0.522
+- Tier: bronze

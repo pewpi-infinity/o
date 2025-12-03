@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/research-valuation-pages-manifest-p4779
+[ANCHOR] clarity #00C8FF link://clarity/research-valuation-pages-manifest-p4779
+[ANCHOR] alignment #33CCCC link://alignment/research-valuation-pages-manifest-p4779
+
+TITLE: research-valuation-pages-manifest-p4779
+SUMMARY: Research scaffold for research-valuation, pages-manifest.
+
+LINKS:
+- https://ssrn.com/
+- https://yale.edu/research/neuroscience
+- https://nber.org/
+
+EQUATIONS:
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+
+
+
+VALUATION:
+- Score: 0.542
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/anchor-ledger-wind-grid-p8059
+[ANCHOR] clarity #00C8FF link://clarity/anchor-ledger-wind-grid-p8059
+[ANCHOR] alignment #33CCCC link://alignment/anchor-ledger-wind-grid-p8059
+
+TITLE: anchor-ledger-wind-grid-p8059
+SUMMARY: Research scaffold for anchor-ledger, wind-grid.
+
+LINKS:
+- https://paleobiology.si.edu/
+
+
+
+EQUATIONS:
+- EQ001: Linear program objective -> maximize c^T x subject to Ax <= b, x >= 0
+- EQ014: Bayesian update -> p(θ|D) ∝ p(D|θ)p(θ)
+- EQ027: Entropy -> -Σ p log p
+
+VALUATION:
+- Score: 0.508
+- Tier: bronze

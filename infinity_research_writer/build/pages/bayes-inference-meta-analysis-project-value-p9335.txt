@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/bayes-inference-meta-analysis-project-value-p9335
+[ANCHOR] clarity #00C8FF link://clarity/bayes-inference-meta-analysis-project-value-p9335
+[ANCHOR] alignment #33CCCC link://alignment/bayes-inference-meta-analysis-project-value-p9335
+
+TITLE: bayes-inference-meta-analysis-project-value-p9335
+SUMMARY: Research scaffold for bayes-inference, meta-analysis, project-value.
+
+LINKS:
+- https://manchester.ac.uk/research
+- https://ancient.eu/
+- https://biochemj.org/
+
+EQUATIONS:
+- EQ005: Spectral radius -> ρ(A) = max |λ_i(A)|
+
+
+
+VALUATION:
+- Score: 0.553
+- Tier: bronze

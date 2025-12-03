@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/controllability-co2-sequestration-p8505
+[ANCHOR] clarity #00C8FF link://clarity/controllability-co2-sequestration-p8505
+[ANCHOR] alignment #33CCCC link://alignment/controllability-co2-sequestration-p8505
+
+TITLE: controllability-co2-sequestration-p8505
+SUMMARY: Research scaffold for controllability, co2-sequestration.
+
+LINKS:
+- https://digital-scriptorium.org/
+- https://nature.com/
+- https://digital.bodleian.ox.ac.uk/
+
+EQUATIONS:
+- EQ043: Chi-square distribution -> special gamma
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+
+
+VALUATION:
+- Score: 0.529
+- Tier: bronze

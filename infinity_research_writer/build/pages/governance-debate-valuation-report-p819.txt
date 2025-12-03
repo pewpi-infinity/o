@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/governance-debate-valuation-report-p819
+[ANCHOR] ethics #FF6A00 link://ethics/governance-debate-valuation-report-p819
+[ANCHOR] clarity #00C8FF link://clarity/governance-debate-valuation-report-p819
+[ANCHOR] provenance #7D4DF2 link://provenance/governance-debate-valuation-report-p819
+[ANCHOR] scope #6066FF link://scope/governance-debate-valuation-report-p819
+
+TITLE: governance-debate-valuation-report-p819
+SUMMARY: Research scaffold for governance-debate, valuation-report.
+
+LINKS:
+- https://ucla.edu/research
+- https://gazzaleylab.ucsf.edu/publications
+- https://journals.sagepub.com/home/his
+
+EQUATIONS:
+- EQ250: Robust optimization -> minimize max loss over uncertainty set U
+- EQ001: Linear program objective -> maximize c^T x subject to Ax <= b, x >= 0
+
+
+VALUATION:
+- Score: 0.619
+- Tier: silver

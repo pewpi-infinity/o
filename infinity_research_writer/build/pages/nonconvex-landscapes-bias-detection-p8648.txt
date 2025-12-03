@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/nonconvex-landscapes-bias-detection-p8648
+[ANCHOR] clarity #00C8FF link://clarity/nonconvex-landscapes-bias-detection-p8648
+[ANCHOR] alignment #33CCCC link://alignment/nonconvex-landscapes-bias-detection-p8648
+
+TITLE: nonconvex-landscapes-bias-detection-p8648
+SUMMARY: Research scaffold for nonconvex-landscapes, bias-detection.
+
+LINKS:
+- https://osf.io/
+- https://un.org/sustainabledevelopment/climate-change/
+
+
+EQUATIONS:
+- EQ045: Central limit theorem -> normalized sums→normal
+- EQ250: Robust optimization -> minimize max loss over uncertainty set U
+
+
+VALUATION:
+- Score: 0.544
+- Tier: bronze

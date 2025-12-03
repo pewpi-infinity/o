@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/user-config-hydro-optimization-needs-mapping-p5064
+[ANCHOR] clarity #00C8FF link://clarity/user-config-hydro-optimization-needs-mapping-p5064
+[ANCHOR] alignment #33CCCC link://alignment/user-config-hydro-optimization-needs-mapping-p5064
+
+TITLE: user-config-hydro-optimization-needs-mapping-p5064
+SUMMARY: Research scaffold for user-config, hydro-optimization, needs-mapping.
+
+LINKS:
+- https://apa.org/research
+
+
+
+EQUATIONS:
+- EQ029: Fourier transform -> F(ω)=∫ f(t)e^{-iωt}dt
+- EQ008: Observability -> rank([C; CA; CA^2; ...; CA^{n-1}]) = n
+- EQ021: SVD -> A = UΣVᵀ
+
+VALUATION:
+- Score: 0.527
+- Tier: bronze

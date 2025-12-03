@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/artifact-visibility-scholar-ledger-p9641
+[ANCHOR] clarity #00C8FF link://clarity/artifact-visibility-scholar-ledger-p9641
+[ANCHOR] alignment #33CCCC link://alignment/artifact-visibility-scholar-ledger-p9641
+
+TITLE: artifact-visibility-scholar-ledger-p9641
+SUMMARY: Research scaffold for artifact-visibility, scholar-ledger.
+
+LINKS:
+- https://bloodjournal.org/
+
+
+
+EQUATIONS:
+- EQ007: Controllability -> rank([B, AB, A^2B, ..., A^{n-1}B]) = n
+
+
+
+VALUATION:
+- Score: 0.474
+- Tier: bronze

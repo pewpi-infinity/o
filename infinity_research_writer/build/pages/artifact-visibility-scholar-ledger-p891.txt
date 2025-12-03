@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/artifact-visibility-scholar-ledger-p891
+[ANCHOR] clarity #00C8FF link://clarity/artifact-visibility-scholar-ledger-p891
+[ANCHOR] alignment #33CCCC link://alignment/artifact-visibility-scholar-ledger-p891
+
+TITLE: artifact-visibility-scholar-ledger-p891
+SUMMARY: Research scaffold for artifact-visibility, scholar-ledger.
+
+LINKS:
+- https://tandfonline.com/
+- https://math.berkeley.edu/research
+- https://math.mit.edu/research/
+
+EQUATIONS:
+- EQ014: Bayesian update -> p(θ|D) ∝ p(D|θ)p(θ)
+- EQ038: Determinant expansion -> Σ permutations
+
+
+VALUATION:
+- Score: 0.560
+- Tier: bronze

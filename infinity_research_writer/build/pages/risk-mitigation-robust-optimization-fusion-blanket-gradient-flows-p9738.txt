@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/risk-mitigation-robust-optimization-fusion-blanket-gradient-flows-p9738
+[ANCHOR] capacity #00D67D link://capacity/risk-mitigation-robust-optimization-fusion-blanket-gradient-flows-p9738
+[ANCHOR] clarity #00C8FF link://clarity/risk-mitigation-robust-optimization-fusion-blanket-gradient-flows-p9738
+[ANCHOR] provenance #7D4DF2 link://provenance/risk-mitigation-robust-optimization-fusion-blanket-gradient-flows-p9738
+[ANCHOR] risk #FF3B3B link://risk/risk-mitigation-robust-optimization-fusion-blanket-gradient-flows-p9738
+
+TITLE: risk-mitigation-robust-optimization-fusion-blanket-gradient-flows-p9738
+SUMMARY: Research scaffold for risk-mitigation, robust-optimization, fusion-blanket, gradient-flows.
+
+LINKS:
+- https://health.harvard.edu/
+- https://kcl.ac.uk/research
+- https://alleninstitute.org/
+
+EQUATIONS:
+- EQ039: Matrix invertibility -> det(A) ≠ 0
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+- EQ023: Cross entropy -> -Σ y log p
+
+VALUATION:
+- Score: 0.725
+- Tier: silver

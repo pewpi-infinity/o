@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/tier-silver-provenance-signing-context-windows-p5874
+[ANCHOR] clarity #00C8FF link://clarity/tier-silver-provenance-signing-context-windows-p5874
+[ANCHOR] learning #E6B800 link://learning/tier-silver-provenance-signing-context-windows-p5874
+[ANCHOR] alignment #33CCCC link://alignment/tier-silver-provenance-signing-context-windows-p5874
+
+TITLE: tier-silver-provenance-signing-context-windows-p5874
+SUMMARY: Research scaffold for tier-silver, provenance-signing, context-windows.
+
+LINKS:
+- https://bmj.com/
+- https://radiopaedia.org/
+
+
+EQUATIONS:
+- EQ017: L1 regularization -> minimize ||y-Xβ||² + λ||β||₁
+- EQ018: Ridge regression -> minimize ||y-Xβ||² + λ||β||²
+
+
+VALUATION:
+- Score: 0.577
+- Tier: bronze

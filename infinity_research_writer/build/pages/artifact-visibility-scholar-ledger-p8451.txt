@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/artifact-visibility-scholar-ledger-p8451
+[ANCHOR] clarity #00C8FF link://clarity/artifact-visibility-scholar-ledger-p8451
+[ANCHOR] alignment #33CCCC link://alignment/artifact-visibility-scholar-ledger-p8451
+
+TITLE: artifact-visibility-scholar-ledger-p8451
+SUMMARY: Research scaffold for artifact-visibility, scholar-ledger.
+
+LINKS:
+- https://jstor.org/open/
+- https://intechopen.com/
+
+
+EQUATIONS:
+- EQ003: Lagrangian -> L(x, λ) = f(x) + λ^T (Ax - b)
+- EQ021: SVD -> A = UΣVᵀ
+
+
+VALUATION:
+- Score: 0.547
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/boosting-zip-ledger-token-index-economy-resilience-inference-graphs-p1426
+[ANCHOR] clarity #00C8FF link://clarity/boosting-zip-ledger-token-index-economy-resilience-inference-graphs-p1426
+[ANCHOR] alignment #33CCCC link://alignment/boosting-zip-ledger-token-index-economy-resilience-inference-graphs-p1426
+
+TITLE: boosting-zip-ledger-token-index-economy-resilience-inference-graphs-p1426
+SUMMARY: Research scaffold for boosting, zip-ledger, token-index, economy-resilience, inference-graphs.
+
+LINKS:
+- https://darpa.mil/our-research
+- https://oi.uchicago.edu/research
+
+
+EQUATIONS:
+- EQ028: Mutual information -> I(X;Y) = H(X)+H(Y)-H(X,Y)
+- EQ013: Markov chain stationary distribution -> π = πP
+
+
+VALUATION:
+- Score: 0.655
+- Tier: silver

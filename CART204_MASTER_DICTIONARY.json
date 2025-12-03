@@ -1,0 +1,774 @@
+{
+    "terms": [
+        "3d reconstruction",
+        "access control",
+        "acoustics",
+        "actor-critic methods",
+        "additive synthesis",
+        "adversarial ml",
+        "aerodynamic modeling",
+        "affective computing",
+        "alignment methods",
+        "am synthesis",
+        "antenna design",
+        "artificial intelligence",
+        "asic optimization",
+        "astrochemistry",
+        "attack graph analysis",
+        "attention matrices",
+        "attention systems",
+        "audio synthesis",
+        "authentication systems",
+        "autonomous navigation",
+        "autonomous systems",
+        "battery density optimization",
+        "bayesian inference",
+        "behavioral science",
+        "big data pipelines",
+        "bio-inspired algorithms",
+        "bioinformatics",
+        "biophysics",
+        "black hole thermodynamics",
+        "blockchain consensus",
+        "brain-computer interfaces",
+        "camera calibration",
+        "carbon nanotubes",
+        "causal graphs",
+        "causal inference",
+        "chaos theory",
+        "chemical kinetics",
+        "climate simulation",
+        "cloud infrastructure",
+        "cluster analysis",
+        "cognitive architectures",
+        "cognitive modeling",
+        "collaboration networks",
+        "computational linguistics",
+        "computational physics",
+        "computer vision",
+        "continual learning",
+        "convolution kernels",
+        "cosmology",
+        "cryptographic systems",
+        "crystallography",
+        "cybersecurity strategies",
+        "dark energy",
+        "dark matter",
+        "data mining",
+        "database indexing",
+        "ddpg algorithms",
+        "deep learning",
+        "defense strategies",
+        "differential equations",
+        "diffusion models",
+        "digital identity",
+        "distributed computing",
+        "distributed inference",
+        "distributed ledgers",
+        "distributed search",
+        "drone mapping",
+        "earth observation",
+        "economic forecasting",
+        "economic systems",
+        "ecosystem dynamics",
+        "edge computing",
+        "embedded hardware",
+        "embedding systems",
+        "emotional modeling",
+        "energy harvesting",
+        "entropy gradient",
+        "entropy reduction",
+        "epidemiology models",
+        "ethics in ai",
+        "evolutionary algorithms",
+        "feature importance",
+        "federated learning",
+        "fission chain reactions",
+        "fluid simulation",
+        "fm synthesis",
+        "fourier transforms",
+        "fpga design",
+        "fractal geometry",
+        "frequency modulation",
+        "fusion energy",
+        "galactic rotation",
+        "game simulations",
+        "game theory",
+        "gan architectures",
+        "genetic programming",
+        "genomics",
+        "geospatial analysis",
+        "graph databases",
+        "graphene sheets",
+        "gravitational waves",
+        "higgs field",
+        "holography",
+        "homomorphic encryption",
+        "humanoid locomotion",
+        "hydrodynamics",
+        "hydrogen storage",
+        "identity verification",
+        "image segmentation",
+        "image upscaling",
+        "imu systems",
+        "information theory",
+        "inverse kinematics",
+        "inverse transforms",
+        "iot systems",
+        "knowledge distillation",
+        "knowledge representation",
+        "large language models",
+        "laser physics",
+        "latent spaces",
+        "lidar processing",
+        "lifelong learning",
+        "linear algebra",
+        "m-theory",
+        "machine learning",
+        "marine biology",
+        "market simulations",
+        "materials science",
+        "memory networks",
+        "meta-learning",
+        "metaheuristics",
+        "microwave engineering",
+        "model compression",
+        "model interpretability",
+        "molecular dynamics",
+        "motion planning",
+        "motion tracking",
+        "multi-agent systems",
+        "multi-head attention",
+        "nanotechnology",
+        "network defense",
+        "network topology",
+        "neural encoding",
+        "neural networks",
+        "neural style transfer",
+        "neuroscience",
+        "numerical methods",
+        "object detection",
+        "oceanography",
+        "optical fiber networks",
+        "optimization theory",
+        "phonon interactions",
+        "photon scattering",
+        "photonics",
+        "plasma confinement",
+        "policy gradients",
+        "policy modeling",
+        "position encodings",
+        "post-quantum encryption",
+        "ppo algorithms",
+        "privacy preserving ml",
+        "probabilistic models",
+        "proteomics",
+        "pruning systems",
+        "public health systems",
+        "quantization",
+        "quantum coherence",
+        "quantum computing",
+        "quantum decoherence",
+        "quantum entanglement",
+        "quantum tunneling",
+        "radar signals",
+        "reaction diffusion",
+        "reinforcement control",
+        "reinforcement learning",
+        "rf systems",
+        "risk scoring",
+        "robot arms",
+        "robotics",
+        "safety engineering",
+        "satellite imaging",
+        "scientific visualization",
+        "secure multiparty computation",
+        "seismology",
+        "semantic graphs",
+        "semantic indexing",
+        "sensor arrays",
+        "sensor fusion",
+        "signal processing",
+        "signal reconstruction",
+        "simulation engines",
+        "slam algorithms",
+        "smart contracts",
+        "solar cell efficiency",
+        "space-time curvature",
+        "spectral analysis",
+        "speech recognition",
+        "stellar evolution",
+        "stochastic processes",
+        "string theory",
+        "subtractive synthesis",
+        "superconductors",
+        "superresolution",
+        "swarm intelligence",
+        "symbolic reasoning",
+        "synaptic plasticity",
+        "tectonic plate modeling",
+        "tensor fields",
+        "threat modeling",
+        "tokamak reactor",
+        "topic modeling",
+        "topological insulators",
+        "trajectory prediction",
+        "transfer learning",
+        "transformer models",
+        "trust metrics",
+        "vector calculus",
+        "vector databases",
+        "virtualization",
+        "volcanology",
+        "wavelet analysis",
+        "weather prediction",
+        "wind turbine dynamics",
+        "wireless power transfer",
+        "zero-knowledge proofs"
+    ],
+    "equations": {
+        "E=mc^2": {
+            "normalized": "E=mc^{2}",
+            "tokens": [
+                "E",
+                "=",
+                "mc",
+                "^",
+                "2"
+            ]
+        },
+        "F=ma": {
+            "normalized": "F=ma",
+            "tokens": [
+                "F",
+                "=",
+                "ma"
+            ]
+        },
+        "PV=nRT": {
+            "normalized": "PV=nRT",
+            "tokens": [
+                "PV",
+                "=",
+                "nRT"
+            ]
+        },
+        "V=IR": {
+            "normalized": "V=IR",
+            "tokens": [
+                "V",
+                "=",
+                "IR"
+            ]
+        },
+        "P=IV": {
+            "normalized": "P=IV",
+            "tokens": [
+                "P",
+                "=",
+                "IV"
+            ]
+        },
+        "a=(v_f - v_i)/t": {
+            "normalized": "a=(v_f-v_i)/t",
+            "tokens": [
+                "a",
+                "=",
+                "(",
+                "v",
+                "f",
+                "-",
+                "v",
+                "i",
+                ")",
+                "/",
+                "t"
+            ]
+        },
+        "s=ut + 1/2at^2": {
+            "normalized": "s=ut+1/2at^{2}",
+            "tokens": [
+                "s",
+                "=",
+                "ut",
+                "+",
+                "1",
+                "/",
+                "2",
+                "at",
+                "^",
+                "2"
+            ]
+        },
+        "KE=1/2mv^2": {
+            "normalized": "KE=1/2mv^{2}",
+            "tokens": [
+                "KE",
+                "=",
+                "1",
+                "/",
+                "2",
+                "mv",
+                "^",
+                "2"
+            ]
+        },
+        "PE=mgh": {
+            "normalized": "PE=mgh",
+            "tokens": [
+                "PE",
+                "=",
+                "mgh"
+            ]
+        },
+        "F=G(m1*m2)/r^2": {
+            "normalized": "F=G(m1*m2)/r^{2}",
+            "tokens": [
+                "F",
+                "=",
+                "G",
+                "(",
+                "m",
+                "1",
+                "*",
+                "m",
+                "2",
+                ")",
+                "/",
+                "r",
+                "^",
+                "2"
+            ]
+        },
+        "\u03bb=h/p": {
+            "normalized": "\u03bb=h/p",
+            "tokens": [
+                "=",
+                "h",
+                "/",
+                "p"
+            ]
+        },
+        "E=hf": {
+            "normalized": "E=hf",
+            "tokens": [
+                "E",
+                "=",
+                "hf"
+            ]
+        },
+        "c=\u03bbf": {
+            "normalized": "c=\u03bbf",
+            "tokens": [
+                "c",
+                "=",
+                "f"
+            ]
+        },
+        "\u0394E=mc^2": {
+            "normalized": "\u0394E=mc^{2}",
+            "tokens": [
+                "E",
+                "=",
+                "mc",
+                "^",
+                "2"
+            ]
+        },
+        "p=mv": {
+            "normalized": "p=mv",
+            "tokens": [
+                "p",
+                "=",
+                "mv"
+            ]
+        },
+        "I=\u222bF dt": {
+            "normalized": "I=\u222bFdt",
+            "tokens": [
+                "I",
+                "=",
+                "Fdt"
+            ]
+        },
+        "W=Fd": {
+            "normalized": "W=Fd",
+            "tokens": [
+                "W",
+                "=",
+                "Fd"
+            ]
+        },
+        "T=2\u03c0\u221a(l/g)": {
+            "normalized": "T=2\u03c0\u221a(l/g)",
+            "tokens": [
+                "T",
+                "=",
+                "2",
+                "(",
+                "l",
+                "/",
+                "g",
+                ")"
+            ]
+        },
+        "v=\u03bbf": {
+            "normalized": "v=\u03bbf",
+            "tokens": [
+                "v",
+                "=",
+                "f"
+            ]
+        },
+        "F=qE": {
+            "normalized": "F=qE",
+            "tokens": [
+                "F",
+                "=",
+                "qE"
+            ]
+        },
+        "F=qvB": {
+            "normalized": "F=qvB",
+            "tokens": [
+                "F",
+                "=",
+                "qvB"
+            ]
+        },
+        "\u2207\u00b7E=\u03c1/\u03b50": {
+            "normalized": "\u2207\u00b7E=\u03c1/\u03b50",
+            "tokens": [
+                "E",
+                "=",
+                "/",
+                "0"
+            ]
+        },
+        "\u2207\u00b7B=0": {
+            "normalized": "\u2207\u00b7B=0",
+            "tokens": [
+                "B",
+                "=",
+                "0"
+            ]
+        },
+        "\u2207\u00d7E=-\u2202B/\u2202t": {
+            "normalized": "\u2207\u00d7E=-\u2202B/\u2202t",
+            "tokens": [
+                "E",
+                "=",
+                "-",
+                "B",
+                "/",
+                "t"
+            ]
+        },
+        "\u2207\u00d7B=\u03bc0J + \u03bc0\u03b50\u2202E/\u2202t": {
+            "normalized": "\u2207\u00d7B=\u03bc0J+\u03bc0\u03b50\u2202E/\u2202t",
+            "tokens": [
+                "B",
+                "=",
+                "0",
+                "J",
+                "+",
+                "0",
+                "0",
+                "E",
+                "/",
+                "t"
+            ]
+        },
+        "\u03c8(x)=A e^{ikx}": {
+            "normalized": "\u03c8(x)=Ae^{{ikx}}",
+            "tokens": [
+                "(",
+                "x",
+                ")",
+                "=",
+                "Ae",
+                "^",
+                "ikx"
+            ]
+        },
+        "\u2202\u03c8/\u2202t = i\u0127\u2207^2 \u03c8": {
+            "normalized": "\u2202\u03c8/\u2202t=i\u0127\u2207^{2\u03c8}",
+            "tokens": [
+                "/",
+                "t",
+                "=",
+                "i",
+                "^",
+                "2"
+            ]
+        },
+        "E_n = -13.6 eV / n^2": {
+            "normalized": "E_n=-13.6eV/n^{2}",
+            "tokens": [
+                "E",
+                "n",
+                "=",
+                "-",
+                "13",
+                "6",
+                "eV",
+                "/",
+                "n",
+                "^",
+                "2"
+            ]
+        },
+        "\u03c3 = F/A": {
+            "normalized": "\u03c3=F/A",
+            "tokens": [
+                "=",
+                "F",
+                "/",
+                "A"
+            ]
+        },
+        "\u03c4 = r\u00d7F": {
+            "normalized": "\u03c4=r\u00d7F",
+            "tokens": [
+                "=",
+                "r",
+                "F"
+            ]
+        },
+        "I = \u03a3mr^2": {
+            "normalized": "I=\u03a3mr^{2}",
+            "tokens": [
+                "I",
+                "=",
+                "mr",
+                "^",
+                "2"
+            ]
+        },
+        "\u03c9 = \u03b8/t": {
+            "normalized": "\u03c9=\u03b8/t",
+            "tokens": [
+                "=",
+                "/",
+                "t"
+            ]
+        },
+        "v = r\u03c9": {
+            "normalized": "v=r\u03c9",
+            "tokens": [
+                "v",
+                "=",
+                "r"
+            ]
+        },
+        "a = r\u03c9^2": {
+            "normalized": "a=r\u03c9^{2}",
+            "tokens": [
+                "a",
+                "=",
+                "r",
+                "^",
+                "2"
+            ]
+        },
+        "PE_spring = 1/2 kx^2": {
+            "normalized": "PE_spring=1/2kx^{2}",
+            "tokens": [
+                "PE",
+                "spring",
+                "=",
+                "1",
+                "/",
+                "2",
+                "kx",
+                "^",
+                "2"
+            ]
+        },
+        "\u0394S \u2265 0": {
+            "normalized": "\u0394S\u22650",
+            "tokens": [
+                "S",
+                "0"
+            ]
+        },
+        "S = k ln \u03a9": {
+            "normalized": "S=kln\u03a9",
+            "tokens": [
+                "S",
+                "=",
+                "kln"
+            ]
+        },
+        "pV^\u03b3 = constant": {
+            "normalized": "pV^{\u03b3=constant}",
+            "tokens": [
+                "pV",
+                "^",
+                "=",
+                "constant"
+            ]
+        },
+        "Q = mc\u0394T": {
+            "normalized": "Q=mc\u0394T",
+            "tokens": [
+                "Q",
+                "=",
+                "mc",
+                "T"
+            ]
+        },
+        "\u0394G = \u0394H - T\u0394S": {
+            "normalized": "\u0394G=\u0394H-T\u0394S",
+            "tokens": [
+                "G",
+                "=",
+                "H",
+                "-",
+                "T",
+                "S"
+            ]
+        },
+        "H = U + pV": {
+            "normalized": "H=U+pV",
+            "tokens": [
+                "H",
+                "=",
+                "U",
+                "+",
+                "pV"
+            ]
+        },
+        "Z = \u03a3 e^{-\u03b2E}": {
+            "normalized": "Z=\u03a3e^{{-\u03b2E}}",
+            "tokens": [
+                "Z",
+                "=",
+                "e",
+                "^",
+                "-",
+                "E"
+            ]
+        },
+        "\u03c8 = R(r)Y(l,m)": {
+            "normalized": "\u03c8=R(r)Y(l,m)",
+            "tokens": [
+                "=",
+                "R",
+                "(",
+                "r",
+                ")",
+                "Y",
+                "(",
+                "l",
+                "m",
+                ")"
+            ]
+        },
+        "R_nl(r) = normalization \u00d7 e^{-r/na}": {
+            "normalized": "R_nl(r)=normalization\u00d7e^{{-r/na}}",
+            "tokens": [
+                "R",
+                "nl",
+                "(",
+                "r",
+                ")",
+                "=",
+                "normalization",
+                "e",
+                "^",
+                "-",
+                "r",
+                "/",
+                "na"
+            ]
+        },
+        "\u0393(a) = \u222b_0^\u221e t^{a-1} e^{-t} dt": {
+            "normalized": "\u0393(a)=\u222b_0^{\u221et^{{a-1}e^{{-t}dt}",
+            "tokens": [
+                "(",
+                "a",
+                ")",
+                "=",
+                "0",
+                "^",
+                "t",
+                "^",
+                "a",
+                "-",
+                "1",
+                "e",
+                "^",
+                "-",
+                "t",
+                "dt"
+            ]
+        },
+        "B = \u03bc0 (I / 2\u03c0r)": {
+            "normalized": "B=\u03bc0(I/2\u03c0r)",
+            "tokens": [
+                "B",
+                "=",
+                "0",
+                "(",
+                "I",
+                "/",
+                "2",
+                "r",
+                ")"
+            ]
+        },
+        "\u2207^2\u03c6 = -\u03c1/\u03b50": {
+            "normalized": "\u2207^{2\u03c6=-\u03c1/\u03b50}",
+            "tokens": [
+                "^",
+                "2",
+                "=",
+                "-",
+                "/",
+                "0"
+            ]
+        },
+        "\u03c6 = kq/r": {
+            "normalized": "\u03c6=kq/r",
+            "tokens": [
+                "=",
+                "kq",
+                "/",
+                "r"
+            ]
+        },
+        "...": {
+            "normalized": "...",
+            "tokens": []
+        },
+        "(continues with 200+ standard physics, math, and engineering equations)": {
+            "normalized": "(continueswith200+standardphysics,math,andengineeringequations)",
+            "tokens": [
+                "(",
+                "continueswith",
+                "200",
+                "+",
+                "standardphysics",
+                "math",
+                "andengineeringequations",
+                ")"
+            ]
+        }
+    },
+    "websites": [
+        "https://arxiv.org",
+        "https://nature.com",
+        "https://nasa.gov",
+        "https://esa.int",
+        "https://nist.gov",
+        "https://mit.edu",
+        "https://stanford.edu",
+        "https://caltech.edu"
+    ],
+    "metadata": {
+        "total_terms": 225,
+        "total_equations": 50,
+        "total_sites": 8
+    }
+}

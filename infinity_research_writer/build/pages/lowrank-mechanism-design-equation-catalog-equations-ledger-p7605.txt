@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/lowrank-mechanism-design-equation-catalog-equations-ledger-p7605
+[ANCHOR] clarity #00C8FF link://clarity/lowrank-mechanism-design-equation-catalog-equations-ledger-p7605
+[ANCHOR] alignment #33CCCC link://alignment/lowrank-mechanism-design-equation-catalog-equations-ledger-p7605
+
+TITLE: lowrank-mechanism-design-equation-catalog-equations-ledger-p7605
+SUMMARY: Research scaffold for lowrank, mechanism-design, equation-catalog, equations-ledger.
+
+LINKS:
+- https://pubs.acs.org/journal/jacsat
+- https://metmuseum.org/art/metpublications
+
+
+EQUATIONS:
+- EQ035: Maxwell equations (set of 4)
+- EQ021: SVD -> A = UΣVᵀ
+- EQ022: Logistic regression -> σ(wᵀx)
+
+VALUATION:
+- Score: 0.600
+- Tier: silver

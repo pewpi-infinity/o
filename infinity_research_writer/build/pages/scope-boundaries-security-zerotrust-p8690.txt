@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scope-boundaries-security-zerotrust-p8690
+[ANCHOR] clarity #00C8FF link://clarity/scope-boundaries-security-zerotrust-p8690
+[ANCHOR] alignment #33CCCC link://alignment/scope-boundaries-security-zerotrust-p8690
+
+TITLE: scope-boundaries-security-zerotrust-p8690
+SUMMARY: Research scaffold for scope-boundaries, security-zerotrust.
+
+LINKS:
+- https://warwick.ac.uk/research
+- https://gutenberg.org/
+- https://sciencedirect.com/
+
+EQUATIONS:
+- EQ040: Rank-nullity -> dim(V)=rank+nullity
+- EQ023: Cross entropy -> -Σ y log p
+- EQ011: Mechanism incentive compatibility -> truth-telling maximizes utility
+
+VALUATION:
+- Score: 0.549
+- Tier: bronze

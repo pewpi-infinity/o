@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/bagging-adaptive-links-p3622
+[ANCHOR] clarity #00C8FF link://clarity/bagging-adaptive-links-p3622
+[ANCHOR] alignment #33CCCC link://alignment/bagging-adaptive-links-p3622
+
+TITLE: bagging-adaptive-links-p3622
+SUMMARY: Research scaffold for bagging, adaptive-links.
+
+LINKS:
+- https://drugpolicy.org/resource-library
+- https://neuroscience.ox.ac.uk/research
+- https://ssrn.com/en/index.cfm/lsn-legal-studies/
+
+EQUATIONS:
+- EQ001: Linear program objective -> maximize c^T x subject to Ax <= b, x >= 0
+- EQ037: Eigenvalue problem -> Ax = λx
+
+
+VALUATION:
+- Score: 0.546
+- Tier: bronze

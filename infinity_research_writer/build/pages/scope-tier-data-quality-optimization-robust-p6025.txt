@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scope-tier-data-quality-optimization-robust-p6025
+[ANCHOR] clarity #00C8FF link://clarity/scope-tier-data-quality-optimization-robust-p6025
+[ANCHOR] alignment #33CCCC link://alignment/scope-tier-data-quality-optimization-robust-p6025
+
+TITLE: scope-tier-data-quality-optimization-robust-p6025
+SUMMARY: Research scaffold for scope-tier, data-quality, optimization-robust.
+
+LINKS:
+- https://qmul.ac.uk/research
+- https://medrxiv.org/
+- https://nih.gov/brain-initiative
+
+EQUATIONS:
+- EQ029: Fourier transform -> F(ω)=∫ f(t)e^{-iωt}dt
+
+
+
+VALUATION:
+- Score: 0.553
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/controllability-co2-sequestration-p5355
+[ANCHOR] clarity #00C8FF link://clarity/controllability-co2-sequestration-p5355
+[ANCHOR] alignment #33CCCC link://alignment/controllability-co2-sequestration-p5355
+
+TITLE: controllability-co2-sequestration-p5355
+SUMMARY: Research scaffold for controllability, co2-sequestration.
+
+LINKS:
+- https://durham.ac.uk/research
+- https://directory.doabooks.org/
+
+
+EQUATIONS:
+- EQ010: Nash equilibrium -> best response mappings intersect
+- EQ050: Characteristic function -> E[e^{itX}]
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+
+VALUATION:
+- Score: 0.546
+- Tier: bronze

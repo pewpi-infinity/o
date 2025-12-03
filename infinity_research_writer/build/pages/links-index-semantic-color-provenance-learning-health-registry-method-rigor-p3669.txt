@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/links-index-semantic-color-provenance-learning-health-registry-method-rigor-p3669
+[ANCHOR] clarity #00C8FF link://clarity/links-index-semantic-color-provenance-learning-health-registry-method-rigor-p3669
+[ANCHOR] learning #E6B800 link://learning/links-index-semantic-color-provenance-learning-health-registry-method-rigor-p3669
+[ANCHOR] alignment #33CCCC link://alignment/links-index-semantic-color-provenance-learning-health-registry-method-rigor-p3669
+
+TITLE: links-index-semantic-color-provenance-learning-health-registry-method-rigor-p3669
+SUMMARY: Research scaffold for links-index, semantic-color, provenance-learning, health-registry, method-rigor.
+
+LINKS:
+- https://royalsocietypublishing.org/
+
+
+
+EQUATIONS:
+- EQ005: Spectral radius -> ρ(A) = max |λ_i(A)|
+- EQ046: Markov inequality -> P(X≥a) ≤ E[X]/a
+- EQ037: Eigenvalue problem -> Ax = λx
+
+VALUATION:
+- Score: 0.678
+- Tier: silver

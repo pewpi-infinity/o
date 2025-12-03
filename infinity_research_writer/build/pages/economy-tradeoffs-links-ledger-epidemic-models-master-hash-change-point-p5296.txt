@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/economy-tradeoffs-links-ledger-epidemic-models-master-hash-change-point-p5296
+[ANCHOR] clarity #00C8FF link://clarity/economy-tradeoffs-links-ledger-epidemic-models-master-hash-change-point-p5296
+[ANCHOR] alignment #33CCCC link://alignment/economy-tradeoffs-links-ledger-epidemic-models-master-hash-change-point-p5296
+
+TITLE: economy-tradeoffs-links-ledger-epidemic-models-master-hash-change-point-p5296
+SUMMARY: Research scaffold for economy-tradeoffs, links-ledger, epidemic-models, master-hash, change-point.
+
+LINKS:
+- https://un.org/sustainabledevelopment/climate-change/
+- https://ourworldindata.org/
+- https://science.org/
+
+EQUATIONS:
+- EQ035: Maxwell equations (set of 4)
+- EQ050: Characteristic function -> E[e^{itX}]
+
+
+VALUATION:
+- Score: 0.654
+- Tier: silver

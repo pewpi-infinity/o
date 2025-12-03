@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/multiobjective-token-provenance-causal-maps-p5963
+[ANCHOR] clarity #00C8FF link://clarity/multiobjective-token-provenance-causal-maps-p5963
+[ANCHOR] learning #E6B800 link://learning/multiobjective-token-provenance-causal-maps-p5963
+[ANCHOR] alignment #33CCCC link://alignment/multiobjective-token-provenance-causal-maps-p5963
+
+TITLE: multiobjective-token-provenance-causal-maps-p5963
+SUMMARY: Research scaffold for multiobjective, token-provenance, causal-maps.
+
+LINKS:
+- https://maa.org/press/periodicals
+- https://stats.stackexchange.com/questions/tagged/crossvalidated
+
+
+EQUATIONS:
+- EQ047: Chebyshev inequality -> P(|X-μ|≥kσ) ≤ 1/k²
+
+
+
+VALUATION:
+- Score: 0.539
+- Tier: bronze

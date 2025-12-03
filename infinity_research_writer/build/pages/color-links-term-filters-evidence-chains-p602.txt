@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/color-links-term-filters-evidence-chains-p602
+[ANCHOR] clarity #00C8FF link://clarity/color-links-term-filters-evidence-chains-p602
+[ANCHOR] alignment #33CCCC link://alignment/color-links-term-filters-evidence-chains-p602
+
+TITLE: color-links-term-filters-evidence-chains-p602
+SUMMARY: Research scaffold for color-links, term-filters, evidence-chains.
+
+LINKS:
+- https://frontiersin.org/journals/neuromorphic-engineering
+- https://congress.gov/
+- https://bl.uk/catalogues-and-collections
+
+EQUATIONS:
+- EQ020: PCA -> eigenvectors of covariance Σ
+
+
+
+VALUATION:
+- Score: 0.571
+- Tier: bronze

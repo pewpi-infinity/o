@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/solar-irradiance-iterative-updates-education-access-adaptive-ui-p5326
+[ANCHOR] clarity #00C8FF link://clarity/solar-irradiance-iterative-updates-education-access-adaptive-ui-p5326
+[ANCHOR] alignment #33CCCC link://alignment/solar-irradiance-iterative-updates-education-access-adaptive-ui-p5326
+
+TITLE: solar-irradiance-iterative-updates-education-access-adaptive-ui-p5326
+SUMMARY: Research scaffold for solar-irradiance, iterative-updates, education-access, adaptive-ui.
+
+LINKS:
+- https://perseus.tufts.edu/
+- https://soton.ac.uk/research
+- https://biochemj.org/
+
+EQUATIONS:
+- EQ037: Eigenvalue problem -> Ax = λx
+
+
+
+VALUATION:
+- Score: 0.608
+- Tier: silver

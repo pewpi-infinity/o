@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/systems-interoperability-termux-android-market-design-p10000
+[ANCHOR] clarity #00C8FF link://clarity/systems-interoperability-termux-android-market-design-p10000
+[ANCHOR] alignment #33CCCC link://alignment/systems-interoperability-termux-android-market-design-p10000
+
+TITLE: systems-interoperability-termux-android-market-design-p10000
+SUMMARY: Research scaffold for systems-interoperability, termux-android, market-design.
+
+LINKS:
+- https://health.harvard.edu/
+- https://journals.sagepub.com/home/jfm
+
+
+EQUATIONS:
+- EQ039: Matrix invertibility -> det(A) ≠ 0
+
+
+
+VALUATION:
+- Score: 0.520
+- Tier: bronze

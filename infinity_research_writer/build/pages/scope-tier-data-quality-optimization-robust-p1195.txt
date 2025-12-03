@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scope-tier-data-quality-optimization-robust-p1195
+[ANCHOR] clarity #00C8FF link://clarity/scope-tier-data-quality-optimization-robust-p1195
+[ANCHOR] alignment #33CCCC link://alignment/scope-tier-data-quality-optimization-robust-p1195
+
+TITLE: scope-tier-data-quality-optimization-robust-p1195
+SUMMARY: Research scaffold for scope-tier, data-quality, optimization-robust.
+
+LINKS:
+- https://openlibrary.org/
+- https://reading.ac.uk/research
+
+
+EQUATIONS:
+- EQ023: Cross entropy -> -Σ y log p
+- EQ015: Power of hypothesis test -> 1 - β
+
+
+VALUATION:
+- Score: 0.540
+- Tier: bronze

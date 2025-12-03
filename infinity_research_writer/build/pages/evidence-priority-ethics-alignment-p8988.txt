@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/evidence-priority-ethics-alignment-p8988
+[ANCHOR] ethics #FF6A00 link://ethics/evidence-priority-ethics-alignment-p8988
+[ANCHOR] clarity #00C8FF link://clarity/evidence-priority-ethics-alignment-p8988
+[ANCHOR] provenance #7D4DF2 link://provenance/evidence-priority-ethics-alignment-p8988
+[ANCHOR] scope #6066FF link://scope/evidence-priority-ethics-alignment-p8988
+
+TITLE: evidence-priority-ethics-alignment-p8988
+SUMMARY: Research scaffold for evidence-priority, ethics-alignment.
+
+LINKS:
+- https://acs.org/
+- https://diabetesjournals.org/
+- https://pubchem.ncbi.nlm.nih.gov/
+
+EQUATIONS:
+- EQ027: Entropy -> -Σ p log p
+- EQ013: Markov chain stationary distribution -> π = πP
+
+
+VALUATION:
+- Score: 0.602
+- Tier: silver

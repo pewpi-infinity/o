@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/logs-loud-model-explanations-trend-detection-p3416
+[ANCHOR] clarity #00C8FF link://clarity/logs-loud-model-explanations-trend-detection-p3416
+[ANCHOR] alignment #33CCCC link://alignment/logs-loud-model-explanations-trend-detection-p3416
+
+TITLE: logs-loud-model-explanations-trend-detection-p3416
+SUMMARY: Research scaffold for logs-loud, model-explanations, trend-detection.
+
+LINKS:
+- https://science.org/
+- https://osti.gov/
+- https://health.harvard.edu/
+
+EQUATIONS:
+- EQ048: Jensen's inequality -> φ(E[X]) ≤ E[φ(X)]
+
+
+
+VALUATION:
+- Score: 0.550
+- Tier: bronze

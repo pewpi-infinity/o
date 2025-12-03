@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/logs-loud-model-explanations-trend-detection-p9226
+[ANCHOR] clarity #00C8FF link://clarity/logs-loud-model-explanations-trend-detection-p9226
+[ANCHOR] alignment #33CCCC link://alignment/logs-loud-model-explanations-trend-detection-p9226
+
+TITLE: logs-loud-model-explanations-trend-detection-p9226
+SUMMARY: Research scaffold for logs-loud, model-explanations, trend-detection.
+
+LINKS:
+- https://stoa.org/
+- https://un.org/sustainabledevelopment/climate-change/
+
+
+EQUATIONS:
+- EQ031: Laplace transform -> ∫f(t)e^{-st}dt
+
+
+
+VALUATION:
+- Score: 0.517
+- Tier: bronze

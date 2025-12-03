@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scope-tier-data-quality-optimization-robust-p7635
+[ANCHOR] clarity #00C8FF link://clarity/scope-tier-data-quality-optimization-robust-p7635
+[ANCHOR] alignment #33CCCC link://alignment/scope-tier-data-quality-optimization-robust-p7635
+
+TITLE: scope-tier-data-quality-optimization-robust-p7635
+SUMMARY: Research scaffold for scope-tier, data-quality, optimization-robust.
+
+LINKS:
+- https://egyptology.yale.edu/research
+- https://nature.com/subjects/chemistry
+- https://radiopaedia.org/
+
+EQUATIONS:
+- EQ032: Heat equation -> ∂u/∂t = α∇²u
+
+
+
+VALUATION:
+- Score: 0.553
+- Tier: bronze

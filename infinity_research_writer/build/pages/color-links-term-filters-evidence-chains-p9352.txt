@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/color-links-term-filters-evidence-chains-p9352
+[ANCHOR] clarity #00C8FF link://clarity/color-links-term-filters-evidence-chains-p9352
+[ANCHOR] alignment #33CCCC link://alignment/color-links-term-filters-evidence-chains-p9352
+
+TITLE: color-links-term-filters-evidence-chains-p9352
+SUMMARY: Research scaffold for color-links, term-filters, evidence-chains.
+
+LINKS:
+- https://link.springer.com/
+- https://sciencemag.org/journals/science-signaling
+- https://jstor.org/open/
+
+EQUATIONS:
+- EQ036: Schrödinger equation -> iħ∂ψ/∂t = Hψ
+- EQ011: Mechanism incentive compatibility -> truth-telling maximizes utility
+
+
+VALUATION:
+- Score: 0.571
+- Tier: bronze

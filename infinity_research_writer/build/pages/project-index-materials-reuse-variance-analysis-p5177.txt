@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/project-index-materials-reuse-variance-analysis-p5177
+[ANCHOR] clarity #00C8FF link://clarity/project-index-materials-reuse-variance-analysis-p5177
+[ANCHOR] alignment #33CCCC link://alignment/project-index-materials-reuse-variance-analysis-p5177
+
+TITLE: project-index-materials-reuse-variance-analysis-p5177
+SUMMARY: Research scaffold for project-index, materials-reuse, variance-analysis.
+
+LINKS:
+- https://math.berkeley.edu/research
+- https://doabooks.org/
+
+
+EQUATIONS:
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+- EQ036: Schrödinger equation -> iħ∂ψ/∂t = Hψ
+- EQ009: Queue M/M/1 -> ρ = λ/μ, W = 1/(μ - λ)
+
+VALUATION:
+- Score: 0.610
+- Tier: silver

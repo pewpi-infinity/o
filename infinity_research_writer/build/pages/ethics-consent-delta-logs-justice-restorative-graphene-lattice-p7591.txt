@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p7591
+[ANCHOR] ethics #FF6A00 link://ethics/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p7591
+[ANCHOR] capacity #00D67D link://capacity/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p7591
+[ANCHOR] clarity #00C8FF link://clarity/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p7591
+[ANCHOR] provenance #7D4DF2 link://provenance/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p7591
+
+TITLE: ethics-consent-delta-logs-justice-restorative-graphene-lattice-p7591
+SUMMARY: Research scaffold for ethics-consent, delta-logs, justice-restorative, graphene-lattice.
+
+LINKS:
+- https://ssrn.com/en/index.cfm/lsn-legal-studies/
+- https://edinburgh.ac.uk/research
+- https://mlr.press/
+
+EQUATIONS:
+- EQ021: SVD -> A = UΣVᵀ
+- EQ012: Auction revenue equivalence -> symmetric independent private values
+
+
+VALUATION:
+- Score: 0.652
+- Tier: silver

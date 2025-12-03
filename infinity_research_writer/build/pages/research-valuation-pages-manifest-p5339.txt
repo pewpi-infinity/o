@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/research-valuation-pages-manifest-p5339
+[ANCHOR] clarity #00C8FF link://clarity/research-valuation-pages-manifest-p5339
+[ANCHOR] alignment #33CCCC link://alignment/research-valuation-pages-manifest-p5339
+
+TITLE: research-valuation-pages-manifest-p5339
+SUMMARY: Research scaffold for research-valuation, pages-manifest.
+
+LINKS:
+- https://bnum.euu-bnum.org/
+- https://stanford.edu/group/brainscience/
+
+
+EQUATIONS:
+- EQ033: Wave equation -> ∂²u/∂t² = c²∇²u
+- EQ019: Lasso sparsity -> many β_j = 0
+
+
+VALUATION:
+- Score: 0.519
+- Tier: bronze

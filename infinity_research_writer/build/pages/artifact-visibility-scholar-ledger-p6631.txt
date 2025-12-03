@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/artifact-visibility-scholar-ledger-p6631
+[ANCHOR] clarity #00C8FF link://clarity/artifact-visibility-scholar-ledger-p6631
+[ANCHOR] alignment #33CCCC link://alignment/artifact-visibility-scholar-ledger-p6631
+
+TITLE: artifact-visibility-scholar-ledger-p6631
+SUMMARY: Research scaffold for artifact-visibility, scholar-ledger.
+
+LINKS:
+- https://stanford.edu/group/brainscience/
+- https://medrxiv.org/
+- https://nature.com/subjects/oncology
+
+EQUATIONS:
+- EQ027: Entropy -> -Σ p log p
+- EQ020: PCA -> eigenvectors of covariance Σ
+- EQ250: Robust optimization -> minimize max loss over uncertainty set U
+
+VALUATION:
+- Score: 0.621
+- Tier: silver

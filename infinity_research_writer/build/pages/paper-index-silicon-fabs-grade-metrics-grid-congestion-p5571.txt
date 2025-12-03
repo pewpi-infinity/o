@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/paper-index-silicon-fabs-grade-metrics-grid-congestion-p5571
+[ANCHOR] clarity #00C8FF link://clarity/paper-index-silicon-fabs-grade-metrics-grid-congestion-p5571
+[ANCHOR] alignment #33CCCC link://alignment/paper-index-silicon-fabs-grade-metrics-grid-congestion-p5571
+
+TITLE: paper-index-silicon-fabs-grade-metrics-grid-congestion-p5571
+SUMMARY: Research scaffold for paper-index, silicon-fabs, grade-metrics, grid-congestion.
+
+LINKS:
+- https://nature.com/subjects/cardiology
+- https://openknowledge.worldbank.org/
+- https://asa3.org/
+
+EQUATIONS:
+- EQ032: Heat equation -> ∂u/∂t = α∇²u
+- EQ036: Schrödinger equation -> iħ∂ψ/∂t = Hψ
+- EQ040: Rank-nullity -> dim(V)=rank+nullity
+
+VALUATION:
+- Score: 0.632
+- Tier: silver

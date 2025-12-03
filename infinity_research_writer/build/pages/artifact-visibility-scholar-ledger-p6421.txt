@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/artifact-visibility-scholar-ledger-p6421
+[ANCHOR] clarity #00C8FF link://clarity/artifact-visibility-scholar-ledger-p6421
+[ANCHOR] alignment #33CCCC link://alignment/artifact-visibility-scholar-ledger-p6421
+
+TITLE: artifact-visibility-scholar-ledger-p6421
+SUMMARY: Research scaffold for artifact-visibility, scholar-ledger.
+
+LINKS:
+- https://neuromorphicsystems.org/
+- https://onlinelibrary.wiley.com/
+
+
+EQUATIONS:
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+- EQ046: Markov inequality -> P(X≥a) ≤ E[X]/a
+- EQ023: Cross entropy -> -Σ y log p
+
+VALUATION:
+- Score: 0.577
+- Tier: bronze

@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p4232
+[ANCHOR] clarity #00C8FF link://clarity/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p4232
+[ANCHOR] learning #E6B800 link://learning/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p4232
+[ANCHOR] alignment #33CCCC link://alignment/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p4232
+
+TITLE: trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p4232
+SUMMARY: Research scaffold for trial-evidence, clarity-tier, tier-gold, sparsity, security-threats.
+
+LINKS:
+- https://sciencemag.org/journals/science-advances
+
+
+
+EQUATIONS:
+- EQ027: Entropy -> -Σ p log p
+- EQ038: Determinant expansion -> Σ permutations
+- EQ035: Maxwell equations (set of 4)
+
+VALUATION:
+- Score: 0.625
+- Tier: silver

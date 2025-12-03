@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/ethics-audit-scope-forecasting-reasoning-paths-p7730
+[ANCHOR] ethics #FF6A00 link://ethics/ethics-audit-scope-forecasting-reasoning-paths-p7730
+[ANCHOR] clarity #00C8FF link://clarity/ethics-audit-scope-forecasting-reasoning-paths-p7730
+[ANCHOR] provenance #7D4DF2 link://provenance/ethics-audit-scope-forecasting-reasoning-paths-p7730
+[ANCHOR] scope #6066FF link://scope/ethics-audit-scope-forecasting-reasoning-paths-p7730
+
+TITLE: ethics-audit-scope-forecasting-reasoning-paths-p7730
+SUMMARY: Research scaffold for ethics-audit, scope-forecasting, reasoning-paths.
+
+LINKS:
+- https://orthopaedicresearchsociety.org/
+- https://sciencedirect.com/
+- https://perseus.tufts.edu/
+
+EQUATIONS:
+- EQ043: Chi-square distribution -> special gamma
+
+
+
+VALUATION:
+- Score: 0.589
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/privacy-preserving-scholar-synthesis-reference-quality-p3683
+[ANCHOR] clarity #00C8FF link://clarity/privacy-preserving-scholar-synthesis-reference-quality-p3683
+[ANCHOR] alignment #33CCCC link://alignment/privacy-preserving-scholar-synthesis-reference-quality-p3683
+
+TITLE: privacy-preserving-scholar-synthesis-reference-quality-p3683
+SUMMARY: Research scaffold for privacy-preserving, scholar-synthesis, reference-quality.
+
+LINKS:
+- https://iupac.org/
+- https://ipcc.ch/
+
+
+EQUATIONS:
+- EQ043: Chi-square distribution -> special gamma
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+- EQ041: Gaussian distribution -> (1/√2πσ²)e^{-(x-μ)²/2σ²}
+
+VALUATION:
+- Score: 0.610
+- Tier: silver

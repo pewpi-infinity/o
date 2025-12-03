@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/artifact-visibility-scholar-ledger-p3271
+[ANCHOR] clarity #00C8FF link://clarity/artifact-visibility-scholar-ledger-p3271
+[ANCHOR] alignment #33CCCC link://alignment/artifact-visibility-scholar-ledger-p3271
+
+TITLE: artifact-visibility-scholar-ledger-p3271
+SUMMARY: Research scaffold for artifact-visibility, scholar-ledger.
+
+LINKS:
+- https://ideas.repec.org/
+- https://arpa-e.energy.gov/
+- https://data.europa.eu/
+
+EQUATIONS:
+- EQ027: Entropy -> -Σ p log p
+
+
+
+VALUATION:
+- Score: 0.511
+- Tier: bronze

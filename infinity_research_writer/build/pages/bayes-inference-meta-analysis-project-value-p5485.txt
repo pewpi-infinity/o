@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/bayes-inference-meta-analysis-project-value-p5485
+[ANCHOR] clarity #00C8FF link://clarity/bayes-inference-meta-analysis-project-value-p5485
+[ANCHOR] alignment #33CCCC link://alignment/bayes-inference-meta-analysis-project-value-p5485
+
+TITLE: bayes-inference-meta-analysis-project-value-p5485
+SUMMARY: Research scaffold for bayes-inference, meta-analysis, project-value.
+
+LINKS:
+- https://agu.org/learn-and-develop/learn/earth-and-space-science-news
+
+
+
+EQUATIONS:
+- EQ008: Observability -> rank([C; CA; CA^2; ...; CA^{n-1}]) = n
+
+
+
+VALUATION:
+- Score: 0.487
+- Tier: bronze

@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/provenance-tier-hash-ledger-grand-hash-p4749
+[ANCHOR] clarity #00C8FF link://clarity/provenance-tier-hash-ledger-grand-hash-p4749
+[ANCHOR] learning #E6B800 link://learning/provenance-tier-hash-ledger-grand-hash-p4749
+[ANCHOR] alignment #33CCCC link://alignment/provenance-tier-hash-ledger-grand-hash-p4749
+
+TITLE: provenance-tier-hash-ledger-grand-hash-p4749
+SUMMARY: Research scaffold for provenance-tier, hash-ledger, grand-hash.
+
+LINKS:
+- https://springer.com/
+- https://springer.com/gp/mathematics
+- https://nature.com/subjects/earth-sciences
+
+EQUATIONS:
+- EQ038: Determinant expansion -> Σ permutations
+- EQ012: Auction revenue equivalence -> symmetric independent private values
+- EQ050: Characteristic function -> E[e^{itX}]
+
+VALUATION:
+- Score: 0.609
+- Tier: silver

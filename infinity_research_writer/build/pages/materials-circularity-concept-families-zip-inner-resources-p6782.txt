@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/materials-circularity-concept-families-zip-inner-resources-p6782
+[ANCHOR] clarity #00C8FF link://clarity/materials-circularity-concept-families-zip-inner-resources-p6782
+[ANCHOR] alignment #33CCCC link://alignment/materials-circularity-concept-families-zip-inner-resources-p6782
+
+TITLE: materials-circularity-concept-families-zip-inner-resources-p6782
+SUMMARY: Research scaffold for materials-circularity, concept-families, zip-inner-resources.
+
+LINKS:
+- https://drugpolicy.org/resource-library
+
+
+
+EQUATIONS:
+- EQ028: Mutual information -> I(X;Y) = H(X)+H(Y)-H(X,Y)
+- EQ048: Jensen's inequality -> φ(E[X]) ≤ E[φ(X)]
+
+
+VALUATION:
+- Score: 0.504
+- Tier: bronze

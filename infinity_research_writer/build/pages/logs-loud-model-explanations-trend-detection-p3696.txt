@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/logs-loud-model-explanations-trend-detection-p3696
+[ANCHOR] clarity #00C8FF link://clarity/logs-loud-model-explanations-trend-detection-p3696
+[ANCHOR] alignment #33CCCC link://alignment/logs-loud-model-explanations-trend-detection-p3696
+
+TITLE: logs-loud-model-explanations-trend-detection-p3696
+SUMMARY: Research scaffold for logs-loud, model-explanations, trend-detection.
+
+LINKS:
+- https://govinfo.gov/
+- https://arxiv.org/archive/math
+- https://maps.org/research/
+
+EQUATIONS:
+- EQ043: Chi-square distribution -> special gamma
+- EQ031: Laplace transform -> ∫f(t)e^{-st}dt
+- EQ041: Gaussian distribution -> (1/√2πσ²)e^{-(x-μ)²/2σ²}
+
+VALUATION:
+- Score: 0.591
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/anchor-ledger-wind-grid-p79
+[ANCHOR] clarity #00C8FF link://clarity/anchor-ledger-wind-grid-p79
+[ANCHOR] alignment #33CCCC link://alignment/anchor-ledger-wind-grid-p79
+
+TITLE: anchor-ledger-wind-grid-p79
+SUMMARY: Research scaffold for anchor-ledger, wind-grid.
+
+LINKS:
+- https://frontiersin.org/
+- https://who.int/health-topics
+- https://cell.com/
+
+EQUATIONS:
+- EQ015: Power of hypothesis test -> 1 - β
+- EQ013: Markov chain stationary distribution -> π = πP
+
+
+VALUATION:
+- Score: 0.554
+- Tier: bronze

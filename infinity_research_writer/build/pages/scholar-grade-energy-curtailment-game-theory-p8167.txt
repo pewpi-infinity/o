@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scholar-grade-energy-curtailment-game-theory-p8167
+[ANCHOR] clarity #00C8FF link://clarity/scholar-grade-energy-curtailment-game-theory-p8167
+[ANCHOR] alignment #33CCCC link://alignment/scholar-grade-energy-curtailment-game-theory-p8167
+
+TITLE: scholar-grade-energy-curtailment-game-theory-p8167
+SUMMARY: Research scaffold for scholar-grade, energy-curtailment, game-theory.
+
+LINKS:
+- https://royalsocietypublishing.org/
+
+
+
+EQUATIONS:
+- EQ013: Markov chain stationary distribution -> π = πP
+
+
+
+VALUATION:
+- Score: 0.514
+- Tier: bronze

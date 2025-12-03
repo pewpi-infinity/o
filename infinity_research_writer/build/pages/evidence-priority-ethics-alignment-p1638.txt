@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/evidence-priority-ethics-alignment-p1638
+[ANCHOR] ethics #FF6A00 link://ethics/evidence-priority-ethics-alignment-p1638
+[ANCHOR] clarity #00C8FF link://clarity/evidence-priority-ethics-alignment-p1638
+[ANCHOR] provenance #7D4DF2 link://provenance/evidence-priority-ethics-alignment-p1638
+[ANCHOR] scope #6066FF link://scope/evidence-priority-ethics-alignment-p1638
+
+TITLE: evidence-priority-ethics-alignment-p1638
+SUMMARY: Research scaffold for evidence-priority, ethics-alignment.
+
+LINKS:
+- https://data.un.org/
+- https://brain.oxfordjournals.org/
+- https://bonekey-ibms.mdc-berlin.de/
+
+EQUATIONS:
+- EQ017: L1 regularization -> minimize ||y-Xβ||² + λ||β||₁
+- EQ049: Moment generating function -> M(t)=E[e^{tX}]
+- EQ046: Markov inequality -> P(X≥a) ≤ E[X]/a
+
+VALUATION:
+- Score: 0.622
+- Tier: silver

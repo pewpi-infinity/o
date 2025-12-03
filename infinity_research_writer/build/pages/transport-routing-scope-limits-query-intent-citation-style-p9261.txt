@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/transport-routing-scope-limits-query-intent-citation-style-p9261
+[ANCHOR] clarity #00C8FF link://clarity/transport-routing-scope-limits-query-intent-citation-style-p9261
+[ANCHOR] alignment #33CCCC link://alignment/transport-routing-scope-limits-query-intent-citation-style-p9261
+
+TITLE: transport-routing-scope-limits-query-intent-citation-style-p9261
+SUMMARY: Research scaffold for transport-routing, scope-limits, query-intent, citation-style.
+
+LINKS:
+- https://biorxiv.org/
+
+
+
+EQUATIONS:
+- EQ010: Nash equilibrium -> best response mappings intersect
+- EQ038: Determinant expansion -> Σ permutations
+
+
+VALUATION:
+- Score: 0.544
+- Tier: bronze

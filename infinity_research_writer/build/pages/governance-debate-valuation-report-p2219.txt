@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/governance-debate-valuation-report-p2219
+[ANCHOR] ethics #FF6A00 link://ethics/governance-debate-valuation-report-p2219
+[ANCHOR] clarity #00C8FF link://clarity/governance-debate-valuation-report-p2219
+[ANCHOR] provenance #7D4DF2 link://provenance/governance-debate-valuation-report-p2219
+[ANCHOR] scope #6066FF link://scope/governance-debate-valuation-report-p2219
+
+TITLE: governance-debate-valuation-report-p2219
+SUMMARY: Research scaffold for governance-debate, valuation-report.
+
+LINKS:
+- https://sciencemag.org/journals/science-advances
+- https://scholar.harvard.edu/
+
+
+EQUATIONS:
+- EQ017: L1 regularization -> minimize ||y-Xβ||² + λ||β||₁
+
+
+
+VALUATION:
+- Score: 0.516
+- Tier: bronze

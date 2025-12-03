@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/privacy-preserving-scholar-synthesis-reference-quality-p883
+[ANCHOR] clarity #00C8FF link://clarity/privacy-preserving-scholar-synthesis-reference-quality-p883
+[ANCHOR] alignment #33CCCC link://alignment/privacy-preserving-scholar-synthesis-reference-quality-p883
+
+TITLE: privacy-preserving-scholar-synthesis-reference-quality-p883
+SUMMARY: Research scaffold for privacy-preserving, scholar-synthesis, reference-quality.
+
+LINKS:
+- https://jamanetwork.com/
+- https://openknowledge.worldbank.org/
+
+
+EQUATIONS:
+- EQ018: Ridge regression -> minimize ||y-Xβ||² + λ||β||²
+- EQ048: Jensen's inequality -> φ(E[X]) ≤ E[φ(X)]
+- EQ017: L1 regularization -> minimize ||y-Xβ||² + λ||β||₁
+
+VALUATION:
+- Score: 0.580
+- Tier: bronze

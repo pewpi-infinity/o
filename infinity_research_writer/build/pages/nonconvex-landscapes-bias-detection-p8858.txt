@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/nonconvex-landscapes-bias-detection-p8858
+[ANCHOR] clarity #00C8FF link://clarity/nonconvex-landscapes-bias-detection-p8858
+[ANCHOR] alignment #33CCCC link://alignment/nonconvex-landscapes-bias-detection-p8858
+
+TITLE: nonconvex-landscapes-bias-detection-p8858
+SUMMARY: Research scaffold for nonconvex-landscapes, bias-detection.
+
+LINKS:
+- https://ieeexplore.ieee.org/
+
+
+
+EQUATIONS:
+- EQ015: Power of hypothesis test -> 1 - β
+
+
+
+VALUATION:
+- Score: 0.441
+- Tier: bronze

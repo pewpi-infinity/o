@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/systems-interoperability-termux-android-market-design-p5170
+[ANCHOR] clarity #00C8FF link://clarity/systems-interoperability-termux-android-market-design-p5170
+[ANCHOR] alignment #33CCCC link://alignment/systems-interoperability-termux-android-market-design-p5170
+
+TITLE: systems-interoperability-termux-android-market-design-p5170
+SUMMARY: Research scaffold for systems-interoperability, termux-android, market-design.
+
+LINKS:
+- https://frontiersin.org/journals/neuromorphic-engineering
+- https://europa.eu/european-union/documents-publications_en
+
+
+EQUATIONS:
+- EQ037: Eigenvalue problem -> Ax = λx
+- EQ031: Laplace transform -> ∫f(t)e^{-st}dt
+
+
+VALUATION:
+- Score: 0.560
+- Tier: bronze

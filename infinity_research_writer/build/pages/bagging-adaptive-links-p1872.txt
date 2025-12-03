@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/bagging-adaptive-links-p1872
+[ANCHOR] clarity #00C8FF link://clarity/bagging-adaptive-links-p1872
+[ANCHOR] alignment #33CCCC link://alignment/bagging-adaptive-links-p1872
+
+TITLE: bagging-adaptive-links-p1872
+SUMMARY: Research scaffold for bagging, adaptive-links.
+
+LINKS:
+- https://legifrance.gouv.fr/
+- https://loveandscience.com/
+
+
+EQUATIONS:
+- EQ003: Lagrangian -> L(x, λ) = f(x) + λ^T (Ax - b)
+
+
+
+VALUATION:
+- Score: 0.523
+- Tier: bronze

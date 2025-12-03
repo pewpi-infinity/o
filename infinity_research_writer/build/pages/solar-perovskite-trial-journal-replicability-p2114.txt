@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/solar-perovskite-trial-journal-replicability-p2114
+[ANCHOR] clarity #00C8FF link://clarity/solar-perovskite-trial-journal-replicability-p2114
+[ANCHOR] alignment #33CCCC link://alignment/solar-perovskite-trial-journal-replicability-p2114
+
+TITLE: solar-perovskite-trial-journal-replicability-p2114
+SUMMARY: Research scaffold for solar-perovskite, trial-journal, replicability.
+
+LINKS:
+- https://maps.org/research/
+- https://bnum.euu-bnum.org/
+- https://doabooks.org/
+
+EQUATIONS:
+- EQ021: SVD -> A = UΣVᵀ
+
+
+
+VALUATION:
+- Score: 0.552
+- Tier: bronze

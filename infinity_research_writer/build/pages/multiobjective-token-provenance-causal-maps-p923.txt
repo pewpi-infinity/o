@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/multiobjective-token-provenance-causal-maps-p923
+[ANCHOR] clarity #00C8FF link://clarity/multiobjective-token-provenance-causal-maps-p923
+[ANCHOR] learning #E6B800 link://learning/multiobjective-token-provenance-causal-maps-p923
+[ANCHOR] alignment #33CCCC link://alignment/multiobjective-token-provenance-causal-maps-p923
+
+TITLE: multiobjective-token-provenance-causal-maps-p923
+SUMMARY: Research scaffold for multiobjective, token-provenance, causal-maps.
+
+LINKS:
+- https://opendata.nasa.gov/
+- https://nsidc.org/data
+- https://royalsocietypublishing.org/journal/rspb
+
+EQUATIONS:
+- EQ011: Mechanism incentive compatibility -> truth-telling maximizes utility
+- EQ044: Law of large numbers -> sample mean→μ
+- EQ003: Lagrangian -> L(x, λ) = f(x) + λ^T (Ax - b)
+
+VALUATION:
+- Score: 0.662
+- Tier: silver

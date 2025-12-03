@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/evidence-priority-ethics-alignment-p168
+[ANCHOR] ethics #FF6A00 link://ethics/evidence-priority-ethics-alignment-p168
+[ANCHOR] clarity #00C8FF link://clarity/evidence-priority-ethics-alignment-p168
+[ANCHOR] provenance #7D4DF2 link://provenance/evidence-priority-ethics-alignment-p168
+[ANCHOR] scope #6066FF link://scope/evidence-priority-ethics-alignment-p168
+
+TITLE: evidence-priority-ethics-alignment-p168
+SUMMARY: Research scaffold for evidence-priority, ethics-alignment.
+
+LINKS:
+- https://loveandscience.com/
+- https://hathitrust.org/
+- https://ourworldindata.org/
+
+EQUATIONS:
+- EQ032: Heat equation -> ∂u/∂t = α∇²u
+- EQ029: Fourier transform -> F(ω)=∫ f(t)e^{-iωt}dt
+- EQ006: Stability -> Re(λ_i(A)) < 0 for continuous systems
+
+VALUATION:
+- Score: 0.622
+- Tier: silver

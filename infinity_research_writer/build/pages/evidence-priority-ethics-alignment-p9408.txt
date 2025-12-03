@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/evidence-priority-ethics-alignment-p9408
+[ANCHOR] ethics #FF6A00 link://ethics/evidence-priority-ethics-alignment-p9408
+[ANCHOR] clarity #00C8FF link://clarity/evidence-priority-ethics-alignment-p9408
+[ANCHOR] provenance #7D4DF2 link://provenance/evidence-priority-ethics-alignment-p9408
+[ANCHOR] scope #6066FF link://scope/evidence-priority-ethics-alignment-p9408
+
+TITLE: evidence-priority-ethics-alignment-p9408
+SUMMARY: Research scaffold for evidence-priority, ethics-alignment.
+
+LINKS:
+- https://worldbank.org/en/research
+- https://vellum.sas.ac.uk/
+- https://digital-scriptorium.org/
+
+EQUATIONS:
+- EQ250: Robust optimization -> minimize max loss over uncertainty set U
+- EQ046: Markov inequality -> P(X≥a) ≤ E[X]/a
+
+
+VALUATION:
+- Score: 0.652
+- Tier: silver

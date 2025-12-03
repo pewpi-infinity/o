@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/artifact-visibility-scholar-ledger-p2711
+[ANCHOR] clarity #00C8FF link://clarity/artifact-visibility-scholar-ledger-p2711
+[ANCHOR] alignment #33CCCC link://alignment/artifact-visibility-scholar-ledger-p2711
+
+TITLE: artifact-visibility-scholar-ledger-p2711
+SUMMARY: Research scaffold for artifact-visibility, scholar-ledger.
+
+LINKS:
+- https://poker.srv.ualberta.ca/publications/
+- https://health.harvard.edu/
+- https://bonekey-ibms.mdc-berlin.de/
+
+EQUATIONS:
+- EQ017: L1 regularization -> minimize ||y-Xβ||² + λ||β||₁
+- EQ005: Spectral radius -> ρ(A) = max |λ_i(A)|
+- ...
+
+VALUATION:
+- Score: 0.551
+- Tier: bronze

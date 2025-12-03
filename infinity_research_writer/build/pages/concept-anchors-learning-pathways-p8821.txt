@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/concept-anchors-learning-pathways-p8821
+[ANCHOR] clarity #00C8FF link://clarity/concept-anchors-learning-pathways-p8821
+[ANCHOR] learning #E6B800 link://learning/concept-anchors-learning-pathways-p8821
+[ANCHOR] alignment #33CCCC link://alignment/concept-anchors-learning-pathways-p8821
+
+TITLE: concept-anchors-learning-pathways-p8821
+SUMMARY: Research scaffold for concept-anchors, learning-pathways.
+
+LINKS:
+- https://coursera.org/browse/math-and-logic
+- https://science.org/
+
+
+EQUATIONS:
+- EQ020: PCA -> eigenvectors of covariance Σ
+- EQ018: Ridge regression -> minimize ||y-Xβ||² + λ||β||²
+- ...
+
+VALUATION:
+- Score: 0.576
+- Tier: bronze

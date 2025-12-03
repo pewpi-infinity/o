@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/controllability-co2-sequestration-p9135
+[ANCHOR] clarity #00C8FF link://clarity/controllability-co2-sequestration-p9135
+[ANCHOR] alignment #33CCCC link://alignment/controllability-co2-sequestration-p9135
+
+TITLE: controllability-co2-sequestration-p9135
+SUMMARY: Research scaffold for controllability, co2-sequestration.
+
+LINKS:
+- https://pubs.acs.org/journal/jpccck
+- https://re3data.org/
+- https://arxiv.org/archive/math
+
+EQUATIONS:
+- EQ050: Characteristic function -> E[e^{itX}]
+
+
+
+VALUATION:
+- Score: 0.509
+- Tier: bronze

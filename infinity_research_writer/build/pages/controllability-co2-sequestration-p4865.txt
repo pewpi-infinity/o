@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/controllability-co2-sequestration-p4865
+[ANCHOR] clarity #00C8FF link://clarity/controllability-co2-sequestration-p4865
+[ANCHOR] alignment #33CCCC link://alignment/controllability-co2-sequestration-p4865
+
+TITLE: controllability-co2-sequestration-p4865
+SUMMARY: Research scaffold for controllability, co2-sequestration.
+
+LINKS:
+- https://humanconnectome.org/
+
+
+
+EQUATIONS:
+- EQ013: Markov chain stationary distribution -> π = πP
+
+
+
+VALUATION:
+- Score: 0.472
+- Tier: bronze

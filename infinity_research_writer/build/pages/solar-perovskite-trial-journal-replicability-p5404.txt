@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/solar-perovskite-trial-journal-replicability-p5404
+[ANCHOR] clarity #00C8FF link://clarity/solar-perovskite-trial-journal-replicability-p5404
+[ANCHOR] alignment #33CCCC link://alignment/solar-perovskite-trial-journal-replicability-p5404
+
+TITLE: solar-perovskite-trial-journal-replicability-p5404
+SUMMARY: Research scaffold for solar-perovskite, trial-journal, replicability.
+
+LINKS:
+- https://royalsocietypublishing.org/
+
+
+
+EQUATIONS:
+- EQ013: Markov chain stationary distribution -> π = πP
+- EQ001: Linear program objective -> maximize c^T x subject to Ax <= b, x >= 0
+
+
+VALUATION:
+- Score: 0.535
+- Tier: bronze

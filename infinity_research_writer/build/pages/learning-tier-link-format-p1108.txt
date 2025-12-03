@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/learning-tier-link-format-p1108
+[ANCHOR] clarity #00C8FF link://clarity/learning-tier-link-format-p1108
+[ANCHOR] learning #E6B800 link://learning/learning-tier-link-format-p1108
+[ANCHOR] alignment #33CCCC link://alignment/learning-tier-link-format-p1108
+
+TITLE: learning-tier-link-format-p1108
+SUMMARY: Research scaffold for learning-tier, link-format.
+
+LINKS:
+- https://nature.com/collections
+- https://beckerfreidman.uchicago.edu/research/
+- https://drugabuse.gov/publications
+
+EQUATIONS:
+- EQ021: SVD -> A = UΣVᵀ
+- EQ029: Fourier transform -> F(ω)=∫ f(t)e^{-iωt}dt
+
+
+VALUATION:
+- Score: 0.544
+- Tier: bronze

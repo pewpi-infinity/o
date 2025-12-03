@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/education-outreach-nonprogrammer-ux-spectral-methods-governance-standards-observability-p3329
+[ANCHOR] ethics #FF6A00 link://ethics/education-outreach-nonprogrammer-ux-spectral-methods-governance-standards-observability-p3329
+[ANCHOR] clarity #00C8FF link://clarity/education-outreach-nonprogrammer-ux-spectral-methods-governance-standards-observability-p3329
+[ANCHOR] provenance #7D4DF2 link://provenance/education-outreach-nonprogrammer-ux-spectral-methods-governance-standards-observability-p3329
+[ANCHOR] scope #6066FF link://scope/education-outreach-nonprogrammer-ux-spectral-methods-governance-standards-observability-p3329
+
+TITLE: education-outreach-nonprogrammer-ux-spectral-methods-governance-standards-observability-p3329
+SUMMARY: Research scaffold for education-outreach, nonprogrammer-ux, spectral-methods, governance-standards, observability.
+
+LINKS:
+- https://jamanetwork.com/journals/jamaoncology
+
+
+
+EQUATIONS:
+- EQ035: Maxwell equations (set of 4)
+
+
+
+VALUATION:
+- Score: 0.610
+- Tier: silver

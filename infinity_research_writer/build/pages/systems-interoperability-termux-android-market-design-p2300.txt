@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/systems-interoperability-termux-android-market-design-p2300
+[ANCHOR] clarity #00C8FF link://clarity/systems-interoperability-termux-android-market-design-p2300
+[ANCHOR] alignment #33CCCC link://alignment/systems-interoperability-termux-android-market-design-p2300
+
+TITLE: systems-interoperability-termux-android-market-design-p2300
+SUMMARY: Research scaffold for systems-interoperability, termux-android, market-design.
+
+LINKS:
+- https://science.org/
+- https://springer.com/
+- https://stoa.org/
+
+EQUATIONS:
+- EQ005: Spectral radius -> ρ(A) = max |λ_i(A)|
+
+
+
+VALUATION:
+- Score: 0.553
+- Tier: bronze

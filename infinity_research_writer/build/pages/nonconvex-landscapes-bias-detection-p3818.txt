@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/nonconvex-landscapes-bias-detection-p3818
+[ANCHOR] clarity #00C8FF link://clarity/nonconvex-landscapes-bias-detection-p3818
+[ANCHOR] alignment #33CCCC link://alignment/nonconvex-landscapes-bias-detection-p3818
+
+TITLE: nonconvex-landscapes-bias-detection-p3818
+SUMMARY: Research scaffold for nonconvex-landscapes, bias-detection.
+
+LINKS:
+- https://bl.uk/catalogues-and-collections
+- https://neuromorphicsystems.org/
+
+
+EQUATIONS:
+- EQ038: Determinant expansion -> Σ permutations
+- EQ025: Softmax -> exp(z_i) / Σ exp(z)
+- EQ029: Fourier transform -> F(ω)=∫ f(t)e^{-iωt}dt
+
+VALUATION:
+- Score: 0.514
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/signal-noise-health-equity-p7773
+[ANCHOR] clarity #00C8FF link://clarity/signal-noise-health-equity-p7773
+[ANCHOR] alignment #33CCCC link://alignment/signal-noise-health-equity-p7773
+
+TITLE: signal-noise-health-equity-p7773
+SUMMARY: Research scaffold for signal-noise, health-equity.
+
+LINKS:
+- https://epfl.ch/en/research/
+
+
+
+EQUATIONS:
+- EQ025: Softmax -> exp(z_i) / Σ exp(z)
+
+
+
+VALUATION:
+- Score: 0.439
+- Tier: bronze

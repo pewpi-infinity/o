@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/source-diversity-seasonality-ensembles-p3356
+[ANCHOR] clarity #00C8FF link://clarity/source-diversity-seasonality-ensembles-p3356
+[ANCHOR] alignment #33CCCC link://alignment/source-diversity-seasonality-ensembles-p3356
+
+TITLE: source-diversity-seasonality-ensembles-p3356
+SUMMARY: Research scaffold for source-diversity, seasonality, ensembles.
+
+LINKS:
+- https://computational-neuroscience.org/publications/
+- https://terrytao.wordpress.com/
+- https://cambridge.org/core/what-we-publish/journals
+
+EQUATIONS:
+- EQ034: Poisson equation -> ∇²u = -ρ/ε
+- EQ050: Characteristic function -> E[e^{itX}]
+
+
+VALUATION:
+- Score: 0.571
+- Tier: bronze

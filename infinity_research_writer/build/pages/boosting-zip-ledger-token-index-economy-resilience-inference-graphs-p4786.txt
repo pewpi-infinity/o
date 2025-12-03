@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/boosting-zip-ledger-token-index-economy-resilience-inference-graphs-p4786
+[ANCHOR] clarity #00C8FF link://clarity/boosting-zip-ledger-token-index-economy-resilience-inference-graphs-p4786
+[ANCHOR] alignment #33CCCC link://alignment/boosting-zip-ledger-token-index-economy-resilience-inference-graphs-p4786
+
+TITLE: boosting-zip-ledger-token-index-economy-resilience-inference-graphs-p4786
+SUMMARY: Research scaffold for boosting, zip-ledger, token-index, economy-resilience, inference-graphs.
+
+LINKS:
+- https://eol.org/
+
+
+
+EQUATIONS:
+- EQ024: Gradient descent -> θ ← θ - α∇J(θ)
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+
+
+VALUATION:
+- Score: 0.621
+- Tier: silver

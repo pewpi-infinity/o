@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/paper-index-silicon-fabs-grade-metrics-grid-congestion-p9631
+[ANCHOR] clarity #00C8FF link://clarity/paper-index-silicon-fabs-grade-metrics-grid-congestion-p9631
+[ANCHOR] alignment #33CCCC link://alignment/paper-index-silicon-fabs-grade-metrics-grid-congestion-p9631
+
+TITLE: paper-index-silicon-fabs-grade-metrics-grid-congestion-p9631
+SUMMARY: Research scaffold for paper-index, silicon-fabs, grade-metrics, grid-congestion.
+
+LINKS:
+- https://scriptorium.columbia.edu/
+- https://brill.com/browse?level=research
+- https://alleninstitute.org/what-we-do/brain-science/
+
+EQUATIONS:
+- EQ038: Determinant expansion -> Σ permutations
+
+
+
+VALUATION:
+- Score: 0.592
+- Tier: bronze

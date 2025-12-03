@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/lowrank-mechanism-design-equation-catalog-equations-ledger-p5365
+[ANCHOR] clarity #00C8FF link://clarity/lowrank-mechanism-design-equation-catalog-equations-ledger-p5365
+[ANCHOR] alignment #33CCCC link://alignment/lowrank-mechanism-design-equation-catalog-equations-ledger-p5365
+
+TITLE: lowrank-mechanism-design-equation-catalog-equations-ledger-p5365
+SUMMARY: Research scaffold for lowrank, mechanism-design, equation-catalog, equations-ledger.
+
+LINKS:
+- https://scholar.google.com/
+- https://data.europa.eu/
+
+
+EQUATIONS:
+- EQ045: Central limit theorem -> normalized sums→normal
+
+
+
+VALUATION:
+- Score: 0.560
+- Tier: bronze

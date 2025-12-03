@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scholar-grade-energy-curtailment-game-theory-p1727
+[ANCHOR] clarity #00C8FF link://clarity/scholar-grade-energy-curtailment-game-theory-p1727
+[ANCHOR] alignment #33CCCC link://alignment/scholar-grade-energy-curtailment-game-theory-p1727
+
+TITLE: scholar-grade-energy-curtailment-game-theory-p1727
+SUMMARY: Research scaffold for scholar-grade, energy-curtailment, game-theory.
+
+LINKS:
+- https://pubs.acs.org/journal/jacsat
+- https://cell.com/trends/biochemical-sciences
+- https://gbif.org/
+
+EQUATIONS:
+- EQ028: Mutual information -> I(X;Y) = H(X)+H(Y)-H(X,Y)
+- EQ044: Law of large numbers -> sample mean→μ
+
+
+VALUATION:
+- Score: 0.571
+- Tier: bronze

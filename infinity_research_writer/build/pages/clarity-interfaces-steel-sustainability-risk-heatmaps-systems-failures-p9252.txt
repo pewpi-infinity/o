@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/clarity-interfaces-steel-sustainability-risk-heatmaps-systems-failures-p9252
+[ANCHOR] clarity #00C8FF link://clarity/clarity-interfaces-steel-sustainability-risk-heatmaps-systems-failures-p9252
+[ANCHOR] learning #E6B800 link://learning/clarity-interfaces-steel-sustainability-risk-heatmaps-systems-failures-p9252
+[ANCHOR] alignment #33CCCC link://alignment/clarity-interfaces-steel-sustainability-risk-heatmaps-systems-failures-p9252
+
+TITLE: clarity-interfaces-steel-sustainability-risk-heatmaps-systems-failures-p9252
+SUMMARY: Research scaffold for clarity-interfaces, steel-sustainability, risk-heatmaps, systems-failures.
+
+LINKS:
+- https://psychedelics.ucsf.edu/research
+- https://spinnaker.cs.manchester.ac.uk/publications
+- https://durham.ac.uk/research
+
+EQUATIONS:
+- EQ048: Jensen's inequality -> φ(E[X]) ≤ E[φ(X)]
+- EQ024: Gradient descent -> θ ← θ - α∇J(θ)
+- EQ013: Markov chain stationary distribution -> π = πP
+
+VALUATION:
+- Score: 0.682
+- Tier: silver

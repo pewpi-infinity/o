@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/signal-noise-health-equity-p283
+[ANCHOR] clarity #00C8FF link://clarity/signal-noise-health-equity-p283
+[ANCHOR] alignment #33CCCC link://alignment/signal-noise-health-equity-p283
+
+TITLE: signal-noise-health-equity-p283
+SUMMARY: Research scaffold for signal-noise, health-equity.
+
+LINKS:
+- https://iupac.org/
+- https://sciencemag.org/journals/science-advances
+
+
+EQUATIONS:
+- EQ005: Spectral radius -> ρ(A) = max |λ_i(A)|
+- EQ020: PCA -> eigenvectors of covariance Σ
+- EQ030: Convolution -> (f*g)(t)=∫f(τ)g(t-τ)dτ
+
+VALUATION:
+- Score: 0.533
+- Tier: bronze

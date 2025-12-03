@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/systems-interoperability-termux-android-market-design-p1320
+[ANCHOR] clarity #00C8FF link://clarity/systems-interoperability-termux-android-market-design-p1320
+[ANCHOR] alignment #33CCCC link://alignment/systems-interoperability-termux-android-market-design-p1320
+
+TITLE: systems-interoperability-termux-android-market-design-p1320
+SUMMARY: Research scaffold for systems-interoperability, termux-android, market-design.
+
+LINKS:
+- https://openknowledge.worldbank.org/
+
+
+
+EQUATIONS:
+- EQ022: Logistic regression -> σ(wᵀx)
+- EQ027: Entropy -> -Σ p log p
+- EQ038: Determinant expansion -> Σ permutations
+
+VALUATION:
+- Score: 0.527
+- Tier: bronze

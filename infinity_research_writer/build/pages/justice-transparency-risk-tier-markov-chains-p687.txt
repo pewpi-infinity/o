@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/justice-transparency-risk-tier-markov-chains-p687
+[ANCHOR] ethics #FF6A00 link://ethics/justice-transparency-risk-tier-markov-chains-p687
+[ANCHOR] clarity #00C8FF link://clarity/justice-transparency-risk-tier-markov-chains-p687
+[ANCHOR] provenance #7D4DF2 link://provenance/justice-transparency-risk-tier-markov-chains-p687
+[ANCHOR] scope #6066FF link://scope/justice-transparency-risk-tier-markov-chains-p687
+
+TITLE: justice-transparency-risk-tier-markov-chains-p687
+SUMMARY: Research scaffold for justice-transparency, risk-tier, markov-chains.
+
+LINKS:
+- https://computational-neuroscience.org/publications/
+- https://ancientcoins.ca/
+- https://vellum.sas.ac.uk/
+
+EQUATIONS:
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+- EQ007: Controllability -> rank([B, AB, A^2B, ..., A^{n-1}B]) = n
+
+
+VALUATION:
+- Score: 0.672
+- Tier: silver

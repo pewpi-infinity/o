@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/nonconvex-landscapes-bias-detection-p6268
+[ANCHOR] clarity #00C8FF link://clarity/nonconvex-landscapes-bias-detection-p6268
+[ANCHOR] alignment #33CCCC link://alignment/nonconvex-landscapes-bias-detection-p6268
+
+TITLE: nonconvex-landscapes-bias-detection-p6268
+SUMMARY: Research scaffold for nonconvex-landscapes, bias-detection.
+
+LINKS:
+- https://orthopaedicresearchsociety.org/
+- https://mit.edu/research/brain-and-cognitive-sciences
+- https://diabetesjournals.org/
+
+EQUATIONS:
+- EQ043: Chi-square distribution -> special gamma
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+
+
+VALUATION:
+- Score: 0.557
+- Tier: bronze

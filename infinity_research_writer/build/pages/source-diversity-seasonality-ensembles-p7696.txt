@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/source-diversity-seasonality-ensembles-p7696
+[ANCHOR] clarity #00C8FF link://clarity/source-diversity-seasonality-ensembles-p7696
+[ANCHOR] alignment #33CCCC link://alignment/source-diversity-seasonality-ensembles-p7696
+
+TITLE: source-diversity-seasonality-ensembles-p7696
+SUMMARY: Research scaffold for source-diversity, seasonality, ensembles.
+
+LINKS:
+- https://scopus.com/
+- https://rsc.org/
+- https://manchester.ac.uk/research
+
+EQUATIONS:
+- EQ010: Nash equilibrium -> best response mappings intersect
+- EQ020: PCA -> eigenvectors of covariance Σ
+- EQ026: KL divergence -> Σ p log(p/q)
+
+VALUATION:
+- Score: 0.611
+- Tier: silver

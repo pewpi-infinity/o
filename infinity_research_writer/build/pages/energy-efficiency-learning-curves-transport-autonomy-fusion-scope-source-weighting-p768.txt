@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/energy-efficiency-learning-curves-transport-autonomy-fusion-scope-source-weighting-p768
+[ANCHOR] capacity #00D67D link://capacity/energy-efficiency-learning-curves-transport-autonomy-fusion-scope-source-weighting-p768
+[ANCHOR] clarity #00C8FF link://clarity/energy-efficiency-learning-curves-transport-autonomy-fusion-scope-source-weighting-p768
+[ANCHOR] provenance #7D4DF2 link://provenance/energy-efficiency-learning-curves-transport-autonomy-fusion-scope-source-weighting-p768
+[ANCHOR] risk #FF3B3B link://risk/energy-efficiency-learning-curves-transport-autonomy-fusion-scope-source-weighting-p768
+
+TITLE: energy-efficiency-learning-curves-transport-autonomy-fusion-scope-source-weighting-p768
+SUMMARY: Research scaffold for energy-efficiency, learning-curves, transport-autonomy, fusion-scope, source-weighting.
+
+LINKS:
+- https://cam.ac.uk/research
+- https://archeology.uiowa.edu/
+- https://columbia.edu/research
+
+EQUATIONS:
+- EQ007: Controllability -> rank([B, AB, A^2B, ..., A^{n-1}B]) = n
+- EQ043: Chi-square distribution -> special gamma
+- EQ034: Poisson equation -> ∇²u = -ρ/ε
+
+VALUATION:
+- Score: 0.745
+- Tier: silver

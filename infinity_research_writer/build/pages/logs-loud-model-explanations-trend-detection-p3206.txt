@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/logs-loud-model-explanations-trend-detection-p3206
+[ANCHOR] clarity #00C8FF link://clarity/logs-loud-model-explanations-trend-detection-p3206
+[ANCHOR] alignment #33CCCC link://alignment/logs-loud-model-explanations-trend-detection-p3206
+
+TITLE: logs-loud-model-explanations-trend-detection-p3206
+SUMMARY: Research scaffold for logs-loud, model-explanations, trend-detection.
+
+LINKS:
+- https://openlibrary.org/
+- https://archeology.uiowa.edu/
+- https://agu.org/learn-and-develop/learn/atmospheric-science
+
+EQUATIONS:
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+- EQ003: Lagrangian -> L(x, λ) = f(x) + λ^T (Ax - b)
+
+
+VALUATION:
+- Score: 0.621
+- Tier: silver

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/research-valuation-pages-manifest-p4849
+[ANCHOR] clarity #00C8FF link://clarity/research-valuation-pages-manifest-p4849
+[ANCHOR] alignment #33CCCC link://alignment/research-valuation-pages-manifest-p4849
+
+TITLE: research-valuation-pages-manifest-p4849
+SUMMARY: Research scaffold for research-valuation, pages-manifest.
+
+LINKS:
+- https://cambridge.org/core/what-we-publish/textbooks
+
+
+
+EQUATIONS:
+- EQ001: Linear program objective -> maximize c^T x subject to Ax <= b, x >= 0
+- EQ004: KKT conditions -> ∇f(x*) + A^T λ* = 0, Ax* <= b, λ* >= 0, λ*^T (Ax* - b) = 0
+
+
+VALUATION:
+- Score: 0.515
+- Tier: bronze

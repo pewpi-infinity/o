@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/paper-index-silicon-fabs-grade-metrics-grid-congestion-p3891
+[ANCHOR] clarity #00C8FF link://clarity/paper-index-silicon-fabs-grade-metrics-grid-congestion-p3891
+[ANCHOR] alignment #33CCCC link://alignment/paper-index-silicon-fabs-grade-metrics-grid-congestion-p3891
+
+TITLE: paper-index-silicon-fabs-grade-metrics-grid-congestion-p3891
+SUMMARY: Research scaffold for paper-index, silicon-fabs, grade-metrics, grid-congestion.
+
+LINKS:
+- https://darwin-online.org.uk/
+- https://jneurosci.org/
+
+
+EQUATIONS:
+- EQ045: Central limit theorem -> normalized sums→normal
+- EQ006: Stability -> Re(λ_i(A)) < 0 for continuous systems
+
+
+VALUATION:
+- Score: 0.609
+- Tier: silver

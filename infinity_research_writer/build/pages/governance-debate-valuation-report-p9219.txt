@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/governance-debate-valuation-report-p9219
+[ANCHOR] ethics #FF6A00 link://ethics/governance-debate-valuation-report-p9219
+[ANCHOR] clarity #00C8FF link://clarity/governance-debate-valuation-report-p9219
+[ANCHOR] provenance #7D4DF2 link://provenance/governance-debate-valuation-report-p9219
+[ANCHOR] scope #6066FF link://scope/governance-debate-valuation-report-p9219
+
+TITLE: governance-debate-valuation-report-p9219
+SUMMARY: Research scaffold for governance-debate, valuation-report.
+
+LINKS:
+- https://iupac.org/
+- https://salk.edu/research
+
+
+EQUATIONS:
+- EQ037: Eigenvalue problem -> Ax = λx
+- EQ020: PCA -> eigenvectors of covariance Σ
+
+
+VALUATION:
+- Score: 0.576
+- Tier: bronze

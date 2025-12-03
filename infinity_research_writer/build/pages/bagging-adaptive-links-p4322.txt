@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/bagging-adaptive-links-p4322
+[ANCHOR] clarity #00C8FF link://clarity/bagging-adaptive-links-p4322
+[ANCHOR] alignment #33CCCC link://alignment/bagging-adaptive-links-p4322
+
+TITLE: bagging-adaptive-links-p4322
+SUMMARY: Research scaffold for bagging, adaptive-links.
+
+LINKS:
+- https://mathworld.wolfram.com/
+- https://jamanetwork.com/journals/jamaneurology
+
+
+EQUATIONS:
+- EQ011: Mechanism incentive compatibility -> truth-telling maximizes utility
+- EQ036: Schrödinger equation -> iħ∂ψ/∂t = Hψ
+
+
+VALUATION:
+- Score: 0.493
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/artifact-visibility-scholar-ledger-p2781
+[ANCHOR] clarity #00C8FF link://clarity/artifact-visibility-scholar-ledger-p2781
+[ANCHOR] alignment #33CCCC link://alignment/artifact-visibility-scholar-ledger-p2781
+
+TITLE: artifact-visibility-scholar-ledger-p2781
+SUMMARY: Research scaffold for artifact-visibility, scholar-ledger.
+
+LINKS:
+- https://nber.org/
+- https://drugpolicy.org/resource-library
+- https://unep.org/resources/publications
+
+EQUATIONS:
+- EQ029: Fourier transform -> F(ω)=∫ f(t)e^{-iωt}dt
+- EQ020: PCA -> eigenvectors of covariance Σ
+- EQ035: Maxwell equations (set of 4)
+
+VALUATION:
+- Score: 0.571
+- Tier: bronze

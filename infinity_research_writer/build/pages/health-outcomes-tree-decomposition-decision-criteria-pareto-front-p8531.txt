@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/health-outcomes-tree-decomposition-decision-criteria-pareto-front-p8531
+[ANCHOR] clarity #00C8FF link://clarity/health-outcomes-tree-decomposition-decision-criteria-pareto-front-p8531
+[ANCHOR] alignment #33CCCC link://alignment/health-outcomes-tree-decomposition-decision-criteria-pareto-front-p8531
+
+TITLE: health-outcomes-tree-decomposition-decision-criteria-pareto-front-p8531
+SUMMARY: Research scaffold for health-outcomes, tree-decomposition, decision-criteria, pareto-front.
+
+LINKS:
+- https://durham.ac.uk/research
+- https://drugpolicy.org/resource-library
+- https://esa.int/
+
+EQUATIONS:
+- ...
+
+
+
+VALUATION:
+- Score: 0.591
+- Tier: bronze

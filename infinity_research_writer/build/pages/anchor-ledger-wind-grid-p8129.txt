@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/anchor-ledger-wind-grid-p8129
+[ANCHOR] clarity #00C8FF link://clarity/anchor-ledger-wind-grid-p8129
+[ANCHOR] alignment #33CCCC link://alignment/anchor-ledger-wind-grid-p8129
+
+TITLE: anchor-ledger-wind-grid-p8129
+SUMMARY: Research scaffold for anchor-ledger, wind-grid.
+
+LINKS:
+- https://loc.gov/collections/
+- https://congress.gov/
+- https://ionosphere.meteoromania.ro/
+
+EQUATIONS:
+- EQ037: Eigenvalue problem -> Ax = λx
+- EQ013: Markov chain stationary distribution -> π = πP
+- EQ023: Cross entropy -> -Σ y log p
+
+VALUATION:
+- Score: 0.595
+- Tier: bronze

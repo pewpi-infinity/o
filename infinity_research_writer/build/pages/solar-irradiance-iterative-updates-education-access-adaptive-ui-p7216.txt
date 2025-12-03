@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/solar-irradiance-iterative-updates-education-access-adaptive-ui-p7216
+[ANCHOR] clarity #00C8FF link://clarity/solar-irradiance-iterative-updates-education-access-adaptive-ui-p7216
+[ANCHOR] alignment #33CCCC link://alignment/solar-irradiance-iterative-updates-education-access-adaptive-ui-p7216
+
+TITLE: solar-irradiance-iterative-updates-education-access-adaptive-ui-p7216
+SUMMARY: Research scaffold for solar-irradiance, iterative-updates, education-access, adaptive-ui.
+
+LINKS:
+- https://siam.org/journals
+- https://emmadata.europa.eu/
+- https://warwick.ac.uk/research
+
+EQUATIONS:
+- EQ035: Maxwell equations (set of 4)
+- EQ024: Gradient descent -> θ ← θ - α∇J(θ)
+- EQ025: Softmax -> exp(z_i) / Σ exp(z)
+
+VALUATION:
+- Score: 0.628
+- Tier: silver

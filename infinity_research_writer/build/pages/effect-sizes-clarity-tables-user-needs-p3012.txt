@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/effect-sizes-clarity-tables-user-needs-p3012
+[ANCHOR] clarity #00C8FF link://clarity/effect-sizes-clarity-tables-user-needs-p3012
+[ANCHOR] learning #E6B800 link://learning/effect-sizes-clarity-tables-user-needs-p3012
+[ANCHOR] alignment #33CCCC link://alignment/effect-sizes-clarity-tables-user-needs-p3012
+
+TITLE: effect-sizes-clarity-tables-user-needs-p3012
+SUMMARY: Research scaffold for effect-sizes, clarity-tables, user-needs.
+
+LINKS:
+- https://oxfordhandbooks.com/
+- https://europa.eu/european-union/documents-publications_en
+
+
+EQUATIONS:
+- EQ049: Moment generating function -> M(t)=E[e^{tX}]
+- EQ032: Heat equation -> ∂u/∂t = α∇²u
+- EQ044: Law of large numbers -> sample mean→μ
+
+VALUATION:
+- Score: 0.576
+- Tier: bronze

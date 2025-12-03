@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/research-valuation-pages-manifest-p7649
+[ANCHOR] clarity #00C8FF link://clarity/research-valuation-pages-manifest-p7649
+[ANCHOR] alignment #33CCCC link://alignment/research-valuation-pages-manifest-p7649
+
+TITLE: research-valuation-pages-manifest-p7649
+SUMMARY: Research scaffold for research-valuation, pages-manifest.
+
+LINKS:
+- https://medrxiv.org/
+
+
+
+EQUATIONS:
+- EQ004: KKT conditions -> ∇f(x*) + A^T λ* = 0, Ax* <= b, λ* >= 0, λ*^T (Ax* - b) = 0
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+
+
+VALUATION:
+- Score: 0.515
+- Tier: bronze

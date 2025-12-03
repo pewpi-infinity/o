@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/paper-index-silicon-fabs-grade-metrics-grid-congestion-p5011
+[ANCHOR] clarity #00C8FF link://clarity/paper-index-silicon-fabs-grade-metrics-grid-congestion-p5011
+[ANCHOR] alignment #33CCCC link://alignment/paper-index-silicon-fabs-grade-metrics-grid-congestion-p5011
+
+TITLE: paper-index-silicon-fabs-grade-metrics-grid-congestion-p5011
+SUMMARY: Research scaffold for paper-index, silicon-fabs, grade-metrics, grid-congestion.
+
+LINKS:
+- https://scholar.harvard.edu/
+- https://arpa-e.energy.gov/
+
+
+EQUATIONS:
+- EQ040: Rank-nullity -> dim(V)=rank+nullity
+- EQ017: L1 regularization -> minimize ||y-Xβ||² + λ||β||₁
+- EQ018: Ridge regression -> minimize ||y-Xβ||² + λ||β||²
+
+VALUATION:
+- Score: 0.619
+- Tier: silver

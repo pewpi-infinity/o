@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/learning-tier-link-format-p408
+[ANCHOR] clarity #00C8FF link://clarity/learning-tier-link-format-p408
+[ANCHOR] learning #E6B800 link://learning/learning-tier-link-format-p408
+[ANCHOR] alignment #33CCCC link://alignment/learning-tier-link-format-p408
+
+TITLE: learning-tier-link-format-p408
+SUMMARY: Research scaffold for learning-tier, link-format.
+
+LINKS:
+- https://rsc.org/
+
+
+
+EQUATIONS:
+- EQ034: Poisson equation -> ∇²u = -ρ/ε
+- EQ015: Power of hypothesis test -> 1 - β
+- EQ041: Gaussian distribution -> (1/√2πσ²)e^{-(x-μ)²/2σ²}
+
+VALUATION:
+- Score: 0.498
+- Tier: bronze

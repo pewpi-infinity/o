@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/grand-master-ethics-tier-reason-checklist-tamper-evident-p2653
+[ANCHOR] ethics #FF6A00 link://ethics/grand-master-ethics-tier-reason-checklist-tamper-evident-p2653
+[ANCHOR] clarity #00C8FF link://clarity/grand-master-ethics-tier-reason-checklist-tamper-evident-p2653
+[ANCHOR] provenance #7D4DF2 link://provenance/grand-master-ethics-tier-reason-checklist-tamper-evident-p2653
+[ANCHOR] scope #6066FF link://scope/grand-master-ethics-tier-reason-checklist-tamper-evident-p2653
+
+TITLE: grand-master-ethics-tier-reason-checklist-tamper-evident-p2653
+SUMMARY: Research scaffold for grand-master, ethics-tier, reason-checklist, tamper-evident.
+
+LINKS:
+- https://numismatics.org/
+- https://louvre.fr/en/archives-and-documentation
+- https://scholar.google.com/
+
+EQUATIONS:
+- EQ008: Observability -> rank([C; CA; CA^2; ...; CA^{n-1}]) = n
+
+
+
+VALUATION:
+- Score: 0.632
+- Tier: silver

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/research-valuation-pages-manifest-p9749
+[ANCHOR] clarity #00C8FF link://clarity/research-valuation-pages-manifest-p9749
+[ANCHOR] alignment #33CCCC link://alignment/research-valuation-pages-manifest-p9749
+
+TITLE: research-valuation-pages-manifest-p9749
+SUMMARY: Research scaffold for research-valuation, pages-manifest.
+
+LINKS:
+- https://acs.org/content/acs/en/journals.html
+- https://pubmed.ncbi.nlm.nih.gov/
+- https://iupac.org/
+
+EQUATIONS:
+- EQ041: Gaussian distribution -> (1/√2πσ²)e^{-(x-μ)²/2σ²}
+- EQ043: Chi-square distribution -> special gamma
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+
+VALUATION:
+- Score: 0.602
+- Tier: silver

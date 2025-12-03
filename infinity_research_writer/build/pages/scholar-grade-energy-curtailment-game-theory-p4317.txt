@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scholar-grade-energy-curtailment-game-theory-p4317
+[ANCHOR] clarity #00C8FF link://clarity/scholar-grade-energy-curtailment-game-theory-p4317
+[ANCHOR] alignment #33CCCC link://alignment/scholar-grade-energy-curtailment-game-theory-p4317
+
+TITLE: scholar-grade-energy-curtailment-game-theory-p4317
+SUMMARY: Research scaffold for scholar-grade, energy-curtailment, game-theory.
+
+LINKS:
+- https://doabooks.org/
+- https://bloodjournal.org/
+- https://math.mit.edu/research/
+
+EQUATIONS:
+- EQ037: Eigenvalue problem -> Ax = λx
+
+
+
+VALUATION:
+- Score: 0.571
+- Tier: bronze

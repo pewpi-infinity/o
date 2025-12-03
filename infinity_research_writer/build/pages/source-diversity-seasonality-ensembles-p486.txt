@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/source-diversity-seasonality-ensembles-p486
+[ANCHOR] clarity #00C8FF link://clarity/source-diversity-seasonality-ensembles-p486
+[ANCHOR] alignment #33CCCC link://alignment/source-diversity-seasonality-ensembles-p486
+
+TITLE: source-diversity-seasonality-ensembles-p486
+SUMMARY: Research scaffold for source-diversity, seasonality, ensembles.
+
+LINKS:
+- https://nature.com/subjects/cardiology
+- https://openlibrary.org/
+
+
+EQUATIONS:
+- EQ004: KKT conditions -> ∇f(x*) + A^T λ* = 0, Ax* <= b, λ* >= 0, λ*^T (Ax* - b) = 0
+- EQ041: Gaussian distribution -> (1/√2πσ²)e^{-(x-μ)²/2σ²}
+
+
+VALUATION:
+- Score: 0.587
+- Tier: bronze

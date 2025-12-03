@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/compare-versions-transport-risk-alignment-tier-capacity-headroom-tier-bronze-p2568
+[ANCHOR] capacity #00D67D link://capacity/compare-versions-transport-risk-alignment-tier-capacity-headroom-tier-bronze-p2568
+[ANCHOR] clarity #00C8FF link://clarity/compare-versions-transport-risk-alignment-tier-capacity-headroom-tier-bronze-p2568
+[ANCHOR] provenance #7D4DF2 link://provenance/compare-versions-transport-risk-alignment-tier-capacity-headroom-tier-bronze-p2568
+[ANCHOR] risk #FF3B3B link://risk/compare-versions-transport-risk-alignment-tier-capacity-headroom-tier-bronze-p2568
+
+TITLE: compare-versions-transport-risk-alignment-tier-capacity-headroom-tier-bronze-p2568
+SUMMARY: Research scaffold for compare-versions, transport-risk, alignment-tier, capacity-headroom, tier-bronze.
+
+LINKS:
+- https://ionosphere.meteoromania.ro/
+
+
+
+EQUATIONS:
+- EQ037: Eigenvalue problem -> Ax = λx
+
+
+
+VALUATION:
+- Score: 0.630
+- Tier: silver

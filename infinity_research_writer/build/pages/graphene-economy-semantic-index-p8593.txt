@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/graphene-economy-semantic-index-p8593
+[ANCHOR] capacity #00D67D link://capacity/graphene-economy-semantic-index-p8593
+[ANCHOR] clarity #00C8FF link://clarity/graphene-economy-semantic-index-p8593
+[ANCHOR] provenance #7D4DF2 link://provenance/graphene-economy-semantic-index-p8593
+[ANCHOR] risk #FF3B3B link://risk/graphene-economy-semantic-index-p8593
+
+TITLE: graphene-economy-semantic-index-p8593
+SUMMARY: Research scaffold for graphene-economy, semantic-index.
+
+LINKS:
+- https://emmadata.europa.eu/
+- https://maps.org/research/
+- https://oapen.org/
+
+EQUATIONS:
+- EQ011: Mechanism incentive compatibility -> truth-telling maximizes utility
+- EQ008: Observability -> rank([C; CA; CA^2; ...; CA^{n-1}]) = n
+- EQ019: Lasso sparsity -> many β_j = 0
+
+VALUATION:
+- Score: 0.611
+- Tier: silver

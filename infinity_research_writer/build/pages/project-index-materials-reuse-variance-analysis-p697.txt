@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/project-index-materials-reuse-variance-analysis-p697
+[ANCHOR] clarity #00C8FF link://clarity/project-index-materials-reuse-variance-analysis-p697
+[ANCHOR] alignment #33CCCC link://alignment/project-index-materials-reuse-variance-analysis-p697
+
+TITLE: project-index-materials-reuse-variance-analysis-p697
+SUMMARY: Research scaffold for project-index, materials-reuse, variance-analysis.
+
+LINKS:
+- https://nih.gov/
+- https://govinfo.gov/
+- https://health.harvard.edu/
+
+EQUATIONS:
+- EQ043: Chi-square distribution -> special gamma
+
+
+
+VALUATION:
+- Score: 0.553
+- Tier: bronze

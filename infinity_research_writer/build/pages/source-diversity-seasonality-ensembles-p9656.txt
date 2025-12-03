@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/source-diversity-seasonality-ensembles-p9656
+[ANCHOR] clarity #00C8FF link://clarity/source-diversity-seasonality-ensembles-p9656
+[ANCHOR] alignment #33CCCC link://alignment/source-diversity-seasonality-ensembles-p9656
+
+TITLE: source-diversity-seasonality-ensembles-p9656
+SUMMARY: Research scaffold for source-diversity, seasonality, ensembles.
+
+LINKS:
+- https://durham.ac.uk/research
+
+
+
+EQUATIONS:
+- EQ026: KL divergence -> Σ p log(p/q)
+
+
+
+VALUATION:
+- Score: 0.484
+- Tier: bronze

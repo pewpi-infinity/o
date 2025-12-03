@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/bagging-adaptive-links-p1032
+[ANCHOR] clarity #00C8FF link://clarity/bagging-adaptive-links-p1032
+[ANCHOR] alignment #33CCCC link://alignment/bagging-adaptive-links-p1032
+
+TITLE: bagging-adaptive-links-p1032
+SUMMARY: Research scaffold for bagging, adaptive-links.
+
+LINKS:
+- https://iuphar.org/
+- https://digital.library.yale.edu/
+- https://stanford.edu/group/brainscience/
+
+EQUATIONS:
+- EQ047: Chebyshev inequality -> P(|X-μ|≥kσ) ≤ 1/k²
+
+
+
+VALUATION:
+- Score: 0.506
+- Tier: bronze

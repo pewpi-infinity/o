@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/solar-perovskite-trial-journal-replicability-p6804
+[ANCHOR] clarity #00C8FF link://clarity/solar-perovskite-trial-journal-replicability-p6804
+[ANCHOR] alignment #33CCCC link://alignment/solar-perovskite-trial-journal-replicability-p6804
+
+TITLE: solar-perovskite-trial-journal-replicability-p6804
+SUMMARY: Research scaffold for solar-perovskite, trial-journal, replicability.
+
+LINKS:
+- https://warwick.ac.uk/research
+- https://oapen.org/
+
+
+EQUATIONS:
+- EQ041: Gaussian distribution -> (1/√2πσ²)e^{-(x-μ)²/2σ²}
+- EQ045: Central limit theorem -> normalized sums→normal
+- EQ013: Markov chain stationary distribution -> π = πP
+
+VALUATION:
+- Score: 0.589
+- Tier: bronze

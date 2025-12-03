@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/diff-hashes-publish-gates-clarity-visuals-batch-hash-streaming-research-p3446
+[ANCHOR] clarity #00C8FF link://clarity/diff-hashes-publish-gates-clarity-visuals-batch-hash-streaming-research-p3446
+[ANCHOR] learning #E6B800 link://learning/diff-hashes-publish-gates-clarity-visuals-batch-hash-streaming-research-p3446
+[ANCHOR] alignment #33CCCC link://alignment/diff-hashes-publish-gates-clarity-visuals-batch-hash-streaming-research-p3446
+
+TITLE: diff-hashes-publish-gates-clarity-visuals-batch-hash-streaming-research-p3446
+SUMMARY: Research scaffold for diff-hashes, publish-gates, clarity-visuals, batch-hash, streaming-research.
+
+LINKS:
+- https://nature.com/
+- https://digital-scriptorium.org/
+- https://mit.edu/research/
+
+EQUATIONS:
+- EQ027: Entropy -> -Σ p log p
+- EQ043: Chi-square distribution -> special gamma
+
+
+VALUATION:
+- Score: 0.675
+- Tier: silver

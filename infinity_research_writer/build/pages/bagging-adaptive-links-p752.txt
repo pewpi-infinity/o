@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/bagging-adaptive-links-p752
+[ANCHOR] clarity #00C8FF link://clarity/bagging-adaptive-links-p752
+[ANCHOR] alignment #33CCCC link://alignment/bagging-adaptive-links-p752
+
+TITLE: bagging-adaptive-links-p752
+SUMMARY: Research scaffold for bagging, adaptive-links.
+
+LINKS:
+- https://worldbank.org/en/research
+
+
+
+EQUATIONS:
+- EQ028: Mutual information -> I(X;Y) = H(X)+H(Y)-H(X,Y)
+- EQ041: Gaussian distribution -> (1/√2πσ²)e^{-(x-μ)²/2σ²}
+- EQ026: KL divergence -> Σ p log(p/q)
+
+VALUATION:
+- Score: 0.479
+- Tier: bronze

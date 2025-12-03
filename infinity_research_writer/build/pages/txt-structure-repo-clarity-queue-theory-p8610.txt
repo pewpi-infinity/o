@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/txt-structure-repo-clarity-queue-theory-p8610
+[ANCHOR] clarity #00C8FF link://clarity/txt-structure-repo-clarity-queue-theory-p8610
+[ANCHOR] learning #E6B800 link://learning/txt-structure-repo-clarity-queue-theory-p8610
+[ANCHOR] alignment #33CCCC link://alignment/txt-structure-repo-clarity-queue-theory-p8610
+
+TITLE: txt-structure-repo-clarity-queue-theory-p8610
+SUMMARY: Research scaffold for txt-structure, repo-clarity, queue-theory.
+
+LINKS:
+- https://tudelft.nl/en/research
+- https://unep.org/resources/publications
+
+
+EQUATIONS:
+- EQ027: Entropy -> -Σ p log p
+- EQ039: Matrix invertibility -> det(A) ≠ 0
+
+
+VALUATION:
+- Score: 0.556
+- Tier: bronze

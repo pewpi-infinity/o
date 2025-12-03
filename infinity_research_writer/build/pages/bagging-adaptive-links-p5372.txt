@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/bagging-adaptive-links-p5372
+[ANCHOR] clarity #00C8FF link://clarity/bagging-adaptive-links-p5372
+[ANCHOR] alignment #33CCCC link://alignment/bagging-adaptive-links-p5372
+
+TITLE: bagging-adaptive-links-p5372
+SUMMARY: Research scaffold for bagging, adaptive-links.
+
+LINKS:
+- https://maps.org/research/
+- https://plos.org/
+
+
+EQUATIONS:
+- EQ023: Cross entropy -> -Σ y log p
+- ...
+
+
+VALUATION:
+- Score: 0.493
+- Tier: bronze

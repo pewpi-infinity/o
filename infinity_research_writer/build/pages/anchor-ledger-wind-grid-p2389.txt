@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/anchor-ledger-wind-grid-p2389
+[ANCHOR] clarity #00C8FF link://clarity/anchor-ledger-wind-grid-p2389
+[ANCHOR] alignment #33CCCC link://alignment/anchor-ledger-wind-grid-p2389
+
+TITLE: anchor-ledger-wind-grid-p2389
+SUMMARY: Research scaffold for anchor-ledger, wind-grid.
+
+LINKS:
+- https://nida.nih.gov/research
+- https://nsidc.org/data
+- https://esa.int/Applications/Observing_the_Earth
+
+EQUATIONS:
+- EQ028: Mutual information -> I(X;Y) = H(X)+H(Y)-H(X,Y)
+
+
+
+VALUATION:
+- Score: 0.505
+- Tier: bronze

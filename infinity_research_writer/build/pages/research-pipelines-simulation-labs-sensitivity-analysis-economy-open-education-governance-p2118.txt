@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p2118
+[ANCHOR] ethics #FF6A00 link://ethics/research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p2118
+[ANCHOR] clarity #00C8FF link://clarity/research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p2118
+[ANCHOR] provenance #7D4DF2 link://provenance/research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p2118
+[ANCHOR] scope #6066FF link://scope/research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p2118
+
+TITLE: research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p2118
+SUMMARY: Research scaffold for research-pipelines, simulation-labs, sensitivity-analysis, economy-open, education-governance.
+
+LINKS:
+- https://worldbank.org/en/research
+- https://soton.ac.uk/research
+- https://rsc.org/journals-books-databases/
+
+EQUATIONS:
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+
+
+
+VALUATION:
+- Score: 0.705
+- Tier: silver

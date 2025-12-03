@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/provenance-tier-hash-ledger-grand-hash-p6639
+[ANCHOR] clarity #00C8FF link://clarity/provenance-tier-hash-ledger-grand-hash-p6639
+[ANCHOR] learning #E6B800 link://learning/provenance-tier-hash-ledger-grand-hash-p6639
+[ANCHOR] alignment #33CCCC link://alignment/provenance-tier-hash-ledger-grand-hash-p6639
+
+TITLE: provenance-tier-hash-ledger-grand-hash-p6639
+SUMMARY: Research scaffold for provenance-tier, hash-ledger, grand-hash.
+
+LINKS:
+- https://math.mit.edu/research/
+- https://oxfordacademic.com/
+- https://link.springer.com/
+
+EQUATIONS:
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+- EQ008: Observability -> rank([C; CA; CA^2; ...; CA^{n-1}]) = n
+
+
+VALUATION:
+- Score: 0.639
+- Tier: silver

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/project-index-materials-reuse-variance-analysis-p7207
+[ANCHOR] clarity #00C8FF link://clarity/project-index-materials-reuse-variance-analysis-p7207
+[ANCHOR] alignment #33CCCC link://alignment/project-index-materials-reuse-variance-analysis-p7207
+
+TITLE: project-index-materials-reuse-variance-analysis-p7207
+SUMMARY: Research scaffold for project-index, materials-reuse, variance-analysis.
+
+LINKS:
+- https://mayoclinic.org/
+- https://rsc.org/
+
+
+EQUATIONS:
+- EQ015: Power of hypothesis test -> 1 - β
+- EQ013: Markov chain stationary distribution -> π = πP
+- EQ019: Lasso sparsity -> many β_j = 0
+
+VALUATION:
+- Score: 0.610
+- Tier: silver

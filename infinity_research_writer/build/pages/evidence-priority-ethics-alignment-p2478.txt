@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/evidence-priority-ethics-alignment-p2478
+[ANCHOR] ethics #FF6A00 link://ethics/evidence-priority-ethics-alignment-p2478
+[ANCHOR] clarity #00C8FF link://clarity/evidence-priority-ethics-alignment-p2478
+[ANCHOR] provenance #7D4DF2 link://provenance/evidence-priority-ethics-alignment-p2478
+[ANCHOR] scope #6066FF link://scope/evidence-priority-ethics-alignment-p2478
+
+TITLE: evidence-priority-ethics-alignment-p2478
+SUMMARY: Research scaffold for evidence-priority, ethics-alignment.
+
+LINKS:
+- https://europa.eu/european-union/documents-publications_en
+- https://digital.library.yale.edu/
+- https://alleninstitute.org/what-we-do/brain-science/
+
+EQUATIONS:
+- EQ029: Fourier transform -> F(ω)=∫ f(t)e^{-iωt}dt
+
+
+
+VALUATION:
+- Score: 0.552
+- Tier: bronze

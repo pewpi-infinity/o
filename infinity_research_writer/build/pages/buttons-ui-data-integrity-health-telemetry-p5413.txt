@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/buttons-ui-data-integrity-health-telemetry-p5413
+[ANCHOR] clarity #00C8FF link://clarity/buttons-ui-data-integrity-health-telemetry-p5413
+[ANCHOR] alignment #33CCCC link://alignment/buttons-ui-data-integrity-health-telemetry-p5413
+
+TITLE: buttons-ui-data-integrity-health-telemetry-p5413
+SUMMARY: Research scaffold for buttons-ui, data-integrity, health-telemetry.
+
+LINKS:
+- https://orthopaedicresearchsociety.org/
+
+
+
+EQUATIONS:
+- EQ043: Chi-square distribution -> special gamma
+- EQ031: Laplace transform -> ∫f(t)e^{-st}dt
+- EQ045: Central limit theorem -> normalized sums→normal
+
+VALUATION:
+- Score: 0.524
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/artifact-visibility-scholar-ledger-p331
+[ANCHOR] clarity #00C8FF link://clarity/artifact-visibility-scholar-ledger-p331
+[ANCHOR] alignment #33CCCC link://alignment/artifact-visibility-scholar-ledger-p331
+
+TITLE: artifact-visibility-scholar-ledger-p331
+SUMMARY: Research scaffold for artifact-visibility, scholar-ledger.
+
+LINKS:
+- https://spinnaker.cs.manchester.ac.uk/publications
+
+
+
+EQUATIONS:
+- EQ008: Observability -> rank([C; CA; CA^2; ...; CA^{n-1}]) = n
+- EQ250: Robust optimization -> minimize max loss over uncertainty set U
+
+
+VALUATION:
+- Score: 0.514
+- Tier: bronze

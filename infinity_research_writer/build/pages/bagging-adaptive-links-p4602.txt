@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/bagging-adaptive-links-p4602
+[ANCHOR] clarity #00C8FF link://clarity/bagging-adaptive-links-p4602
+[ANCHOR] alignment #33CCCC link://alignment/bagging-adaptive-links-p4602
+
+TITLE: bagging-adaptive-links-p4602
+SUMMARY: Research scaffold for bagging, adaptive-links.
+
+LINKS:
+- https://cam.ac.uk/research
+- https://nature.com/subjects/atmospheric-science
+
+
+EQUATIONS:
+- EQ250: Robust optimization -> minimize max loss over uncertainty set U
+- EQ012: Auction revenue equivalence -> symmetric independent private values
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+
+VALUATION:
+- Score: 0.613
+- Tier: silver

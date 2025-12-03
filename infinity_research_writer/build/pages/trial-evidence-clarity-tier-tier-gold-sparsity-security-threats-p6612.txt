@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p6612
+[ANCHOR] clarity #00C8FF link://clarity/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p6612
+[ANCHOR] learning #E6B800 link://learning/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p6612
+[ANCHOR] alignment #33CCCC link://alignment/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p6612
+
+TITLE: trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p6612
+SUMMARY: Research scaffold for trial-evidence, clarity-tier, tier-gold, sparsity, security-threats.
+
+LINKS:
+- https://elsevier.com/catalog?producttype=journal
+- https://anthrosource.onlinelibrary.wiley.com/
+- https://esa.int/
+
+EQUATIONS:
+- EQ006: Stability -> Re(λ_i(A)) < 0 for continuous systems
+- ...
+- EQ011: Mechanism incentive compatibility -> truth-telling maximizes utility
+
+VALUATION:
+- Score: 0.722
+- Tier: silver

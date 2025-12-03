@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/signal-noise-health-equity-p913
+[ANCHOR] clarity #00C8FF link://clarity/signal-noise-health-equity-p913
+[ANCHOR] alignment #33CCCC link://alignment/signal-noise-health-equity-p913
+
+TITLE: signal-noise-health-equity-p913
+SUMMARY: Research scaffold for signal-noise, health-equity.
+
+LINKS:
+- https://openlibrary.org/
+- https://oapen.org/
+
+
+EQUATIONS:
+- EQ012: Auction revenue equivalence -> symmetric independent private values
+- EQ024: Gradient descent -> θ ← θ - α∇J(θ)
+
+
+VALUATION:
+- Score: 0.493
+- Tier: bronze

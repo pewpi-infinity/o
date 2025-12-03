@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p382
+[ANCHOR] clarity #00C8FF link://clarity/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p382
+[ANCHOR] learning #E6B800 link://learning/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p382
+[ANCHOR] alignment #33CCCC link://alignment/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p382
+
+TITLE: trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p382
+SUMMARY: Research scaffold for trial-evidence, clarity-tier, tier-gold, sparsity, security-threats.
+
+LINKS:
+- https://reading.ac.uk/research
+- https://jstor.org/open/
+- https://scriptorium.columbia.edu/
+
+EQUATIONS:
+- EQ044: Law of large numbers -> sample mean→μ
+- EQ040: Rank-nullity -> dim(V)=rank+nullity
+- EQ008: Observability -> rank([C; CA; CA^2; ...; CA^{n-1}]) = n
+
+VALUATION:
+- Score: 0.692
+- Tier: silver

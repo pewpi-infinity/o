@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/tier-silver-provenance-signing-context-windows-p6504
+[ANCHOR] clarity #00C8FF link://clarity/tier-silver-provenance-signing-context-windows-p6504
+[ANCHOR] learning #E6B800 link://learning/tier-silver-provenance-signing-context-windows-p6504
+[ANCHOR] alignment #33CCCC link://alignment/tier-silver-provenance-signing-context-windows-p6504
+
+TITLE: tier-silver-provenance-signing-context-windows-p6504
+SUMMARY: Research scaffold for tier-silver, provenance-signing, context-windows.
+
+LINKS:
+- https://elsevier.com/catalog?producttype=journal
+
+
+
+EQUATIONS:
+- EQ020: PCA -> eigenvectors of covariance Σ
+- EQ040: Rank-nullity -> dim(V)=rank+nullity
+- EQ047: Chebyshev inequality -> P(|X-μ|≥kσ) ≤ 1/k²
+
+VALUATION:
+- Score: 0.564
+- Tier: bronze

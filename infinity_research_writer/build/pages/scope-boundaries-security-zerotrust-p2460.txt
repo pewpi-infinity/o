@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scope-boundaries-security-zerotrust-p2460
+[ANCHOR] clarity #00C8FF link://clarity/scope-boundaries-security-zerotrust-p2460
+[ANCHOR] alignment #33CCCC link://alignment/scope-boundaries-security-zerotrust-p2460
+
+TITLE: scope-boundaries-security-zerotrust-p2460
+SUMMARY: Research scaffold for scope-boundaries, security-zerotrust.
+
+LINKS:
+- https://anu.edu.au/research
+- https://brill.com/browse?level=research
+
+
+EQUATIONS:
+- ...
+- EQ017: L1 regularization -> minimize ||y-Xβ||² + λ||β||₁
+- EQ044: Law of large numbers -> sample mean→μ
+
+VALUATION:
+- Score: 0.516
+- Tier: bronze

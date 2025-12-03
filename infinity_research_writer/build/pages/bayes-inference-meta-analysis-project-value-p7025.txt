@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/bayes-inference-meta-analysis-project-value-p7025
+[ANCHOR] clarity #00C8FF link://clarity/bayes-inference-meta-analysis-project-value-p7025
+[ANCHOR] alignment #33CCCC link://alignment/bayes-inference-meta-analysis-project-value-p7025
+
+TITLE: bayes-inference-meta-analysis-project-value-p7025
+SUMMARY: Research scaffold for bayes-inference, meta-analysis, project-value.
+
+LINKS:
+- https://cell.com/
+- https://theoi.com/
+- https://iucn.org/resources/publications
+
+EQUATIONS:
+- EQ032: Heat equation -> ∂u/∂t = α∇²u
+
+
+
+VALUATION:
+- Score: 0.553
+- Tier: bronze

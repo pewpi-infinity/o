@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/nonconvex-landscapes-bias-detection-p5358
+[ANCHOR] clarity #00C8FF link://clarity/nonconvex-landscapes-bias-detection-p5358
+[ANCHOR] alignment #33CCCC link://alignment/nonconvex-landscapes-bias-detection-p5358
+
+TITLE: nonconvex-landscapes-bias-detection-p5358
+SUMMARY: Research scaffold for nonconvex-landscapes, bias-detection.
+
+LINKS:
+- https://khanacademy.org/math
+- https://openpsych.net/
+
+
+EQUATIONS:
+- EQ029: Fourier transform -> F(ω)=∫ f(t)e^{-iωt}dt
+- EQ001: Linear program objective -> maximize c^T x subject to Ax <= b, x >= 0
+- EQ026: KL divergence -> Σ p log(p/q)
+
+VALUATION:
+- Score: 0.514
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/lowrank-mechanism-design-equation-catalog-equations-ledger-p2425
+[ANCHOR] clarity #00C8FF link://clarity/lowrank-mechanism-design-equation-catalog-equations-ledger-p2425
+[ANCHOR] alignment #33CCCC link://alignment/lowrank-mechanism-design-equation-catalog-equations-ledger-p2425
+
+TITLE: lowrank-mechanism-design-equation-catalog-equations-ledger-p2425
+SUMMARY: Research scaffold for lowrank, mechanism-design, equation-catalog, equations-ledger.
+
+LINKS:
+- https://terrytao.wordpress.com/
+- https://frontiersin.org/
+
+
+EQUATIONS:
+- EQ020: PCA -> eigenvectors of covariance Σ
+- EQ022: Logistic regression -> σ(wᵀx)
+- EQ010: Nash equilibrium -> best response mappings intersect
+
+VALUATION:
+- Score: 0.620
+- Tier: silver

@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/learning-tier-link-format-p5238
+[ANCHOR] clarity #00C8FF link://clarity/learning-tier-link-format-p5238
+[ANCHOR] learning #E6B800 link://learning/learning-tier-link-format-p5238
+[ANCHOR] alignment #33CCCC link://alignment/learning-tier-link-format-p5238
+
+TITLE: learning-tier-link-format-p5238
+SUMMARY: Research scaffold for learning-tier, link-format.
+
+LINKS:
+- https://coursera.org/browse/math-and-logic
+
+
+
+EQUATIONS:
+- EQ035: Maxwell equations (set of 4)
+
+
+
+VALUATION:
+- Score: 0.458
+- Tier: bronze

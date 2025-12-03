@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/privacy-preserving-scholar-synthesis-reference-quality-p7533
+[ANCHOR] clarity #00C8FF link://clarity/privacy-preserving-scholar-synthesis-reference-quality-p7533
+[ANCHOR] alignment #33CCCC link://alignment/privacy-preserving-scholar-synthesis-reference-quality-p7533
+
+TITLE: privacy-preserving-scholar-synthesis-reference-quality-p7533
+SUMMARY: Research scaffold for privacy-preserving, scholar-synthesis, reference-quality.
+
+LINKS:
+- https://nyu.edu/research
+- https://crcpress.com/mathematics
+- https://orthopaedicresearchsociety.org/
+
+EQUATIONS:
+- EQ045: Central limit theorem -> normalized sums→normal
+- ...
+- EQ032: Heat equation -> ∂u/∂t = α∇²u
+
+VALUATION:
+- Score: 0.594
+- Tier: bronze

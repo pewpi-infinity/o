@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/boosting-zip-ledger-token-index-economy-resilience-inference-graphs-p8846
+[ANCHOR] clarity #00C8FF link://clarity/boosting-zip-ledger-token-index-economy-resilience-inference-graphs-p8846
+[ANCHOR] alignment #33CCCC link://alignment/boosting-zip-ledger-token-index-economy-resilience-inference-graphs-p8846
+
+TITLE: boosting-zip-ledger-token-index-economy-resilience-inference-graphs-p8846
+SUMMARY: Research scaffold for boosting, zip-ledger, token-index, economy-resilience, inference-graphs.
+
+LINKS:
+- https://fermilab.org/
+- https://nature.com/subjects/blood
+- https://link.springer.com/
+
+EQUATIONS:
+- EQ025: Softmax -> exp(z_i) / Σ exp(z)
+
+
+
+VALUATION:
+- Score: 0.638
+- Tier: silver

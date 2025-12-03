@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/signal-noise-health-equity-p6093
+[ANCHOR] clarity #00C8FF link://clarity/signal-noise-health-equity-p6093
+[ANCHOR] alignment #33CCCC link://alignment/signal-noise-health-equity-p6093
+
+TITLE: signal-noise-health-equity-p6093
+SUMMARY: Research scaffold for signal-noise, health-equity.
+
+LINKS:
+- https://sciencedirect.com/
+- https://ancient.eu/
+- https://ideas.repec.org/
+
+EQUATIONS:
+- EQ031: Laplace transform -> ∫f(t)e^{-st}dt
+- EQ038: Determinant expansion -> Σ permutations
+
+
+VALUATION:
+- Score: 0.526
+- Tier: bronze

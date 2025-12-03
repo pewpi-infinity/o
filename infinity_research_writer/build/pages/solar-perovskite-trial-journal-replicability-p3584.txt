@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/solar-perovskite-trial-journal-replicability-p3584
+[ANCHOR] clarity #00C8FF link://clarity/solar-perovskite-trial-journal-replicability-p3584
+[ANCHOR] alignment #33CCCC link://alignment/solar-perovskite-trial-journal-replicability-p3584
+
+TITLE: solar-perovskite-trial-journal-replicability-p3584
+SUMMARY: Research scaffold for solar-perovskite, trial-journal, replicability.
+
+LINKS:
+- https://un.org/en/research
+- https://paleobiology.si.edu/
+- https://darpa.mil/our-research
+
+EQUATIONS:
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+- EQ024: Gradient descent -> θ ← θ - α∇J(θ)
+
+
+VALUATION:
+- Score: 0.572
+- Tier: bronze

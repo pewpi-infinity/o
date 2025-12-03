@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/research-valuation-pages-manifest-p7579
+[ANCHOR] clarity #00C8FF link://clarity/research-valuation-pages-manifest-p7579
+[ANCHOR] alignment #33CCCC link://alignment/research-valuation-pages-manifest-p7579
+
+TITLE: research-valuation-pages-manifest-p7579
+SUMMARY: Research scaffold for research-valuation, pages-manifest.
+
+LINKS:
+- https://noaa.gov/
+- https://beckerfreidman.uchicago.edu/research/
+- https://agu.org/learn-and-develop/learn/eos
+
+EQUATIONS:
+- EQ015: Power of hypothesis test -> 1 - β
+- EQ037: Eigenvalue problem -> Ax = λx
+- EQ038: Determinant expansion -> Σ permutations
+
+VALUATION:
+- Score: 0.572
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/transport-routing-scope-limits-query-intent-citation-style-p9471
+[ANCHOR] clarity #00C8FF link://clarity/transport-routing-scope-limits-query-intent-citation-style-p9471
+[ANCHOR] alignment #33CCCC link://alignment/transport-routing-scope-limits-query-intent-citation-style-p9471
+
+TITLE: transport-routing-scope-limits-query-intent-citation-style-p9471
+SUMMARY: Research scaffold for transport-routing, scope-limits, query-intent, citation-style.
+
+LINKS:
+- https://data.worldbank.org/
+- https://sciencedirect.com/journal/earth-and-planetary-science-letters
+- https://humanconnectome.org/
+
+EQUATIONS:
+- EQ009: Queue M/M/1 -> ρ = λ/μ, W = 1/(μ - λ)
+
+
+
+VALUATION:
+- Score: 0.591
+- Tier: bronze

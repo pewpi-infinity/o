@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/confidence-bands-fusion-plasma-regularization-carbon-accounting-diffusion-models-p1757
+[ANCHOR] capacity #00D67D link://capacity/confidence-bands-fusion-plasma-regularization-carbon-accounting-diffusion-models-p1757
+[ANCHOR] clarity #00C8FF link://clarity/confidence-bands-fusion-plasma-regularization-carbon-accounting-diffusion-models-p1757
+[ANCHOR] provenance #7D4DF2 link://provenance/confidence-bands-fusion-plasma-regularization-carbon-accounting-diffusion-models-p1757
+[ANCHOR] risk #FF3B3B link://risk/confidence-bands-fusion-plasma-regularization-carbon-accounting-diffusion-models-p1757
+
+TITLE: confidence-bands-fusion-plasma-regularization-carbon-accounting-diffusion-models-p1757
+SUMMARY: Research scaffold for confidence-bands, fusion-plasma, regularization, carbon-accounting, diffusion-models.
+
+LINKS:
+- https://clinicaltrials.gov/
+- https://alleninstitute.org/what-we-do/brain-science/
+
+
+EQUATIONS:
+- EQ043: Chi-square distribution -> special gamma
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+- EQ046: Markov inequality -> P(X≥a) ≤ E[X]/a
+
+VALUATION:
+- Score: 0.740
+- Tier: silver

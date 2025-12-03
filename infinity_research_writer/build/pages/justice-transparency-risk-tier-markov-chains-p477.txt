@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/justice-transparency-risk-tier-markov-chains-p477
+[ANCHOR] ethics #FF6A00 link://ethics/justice-transparency-risk-tier-markov-chains-p477
+[ANCHOR] clarity #00C8FF link://clarity/justice-transparency-risk-tier-markov-chains-p477
+[ANCHOR] provenance #7D4DF2 link://provenance/justice-transparency-risk-tier-markov-chains-p477
+[ANCHOR] scope #6066FF link://scope/justice-transparency-risk-tier-markov-chains-p477
+
+TITLE: justice-transparency-risk-tier-markov-chains-p477
+SUMMARY: Research scaffold for justice-transparency, risk-tier, markov-chains.
+
+LINKS:
+- https://poker.srv.ualberta.ca/publications/
+- https://jamanetwork.com/journals/jamaoncology
+- https://who.int/research
+
+EQUATIONS:
+- EQ041: Gaussian distribution -> (1/√2πσ²)e^{-(x-μ)²/2σ²}
+- EQ043: Chi-square distribution -> special gamma
+- EQ040: Rank-nullity -> dim(V)=rank+nullity
+
+VALUATION:
+- Score: 0.632
+- Tier: silver

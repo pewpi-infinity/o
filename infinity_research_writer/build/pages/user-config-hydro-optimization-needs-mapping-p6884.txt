@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/user-config-hydro-optimization-needs-mapping-p6884
+[ANCHOR] clarity #00C8FF link://clarity/user-config-hydro-optimization-needs-mapping-p6884
+[ANCHOR] alignment #33CCCC link://alignment/user-config-hydro-optimization-needs-mapping-p6884
+
+TITLE: user-config-hydro-optimization-needs-mapping-p6884
+SUMMARY: Research scaffold for user-config, hydro-optimization, needs-mapping.
+
+LINKS:
+- https://osti.gov/
+- https://jneuroengrehab.biomedcentral.com/
+
+
+EQUATIONS:
+- EQ001: Linear program objective -> maximize c^T x subject to Ax <= b, x >= 0
+- EQ009: Queue M/M/1 -> ρ = λ/μ, W = 1/(μ - λ)
+- ...
+
+VALUATION:
+- Score: 0.560
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/transport-routing-scope-limits-query-intent-citation-style-p161
+[ANCHOR] clarity #00C8FF link://clarity/transport-routing-scope-limits-query-intent-citation-style-p161
+[ANCHOR] alignment #33CCCC link://alignment/transport-routing-scope-limits-query-intent-citation-style-p161
+
+TITLE: transport-routing-scope-limits-query-intent-citation-style-p161
+SUMMARY: Research scaffold for transport-routing, scope-limits, query-intent, citation-style.
+
+LINKS:
+- https://siam.org/journals
+- https://oxfordhandbooks.com/
+
+
+EQUATIONS:
+- EQ015: Power of hypothesis test -> 1 - β
+
+
+
+VALUATION:
+- Score: 0.557
+- Tier: bronze

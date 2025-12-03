@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/effect-sizes-clarity-tables-user-needs-p6092
+[ANCHOR] clarity #00C8FF link://clarity/effect-sizes-clarity-tables-user-needs-p6092
+[ANCHOR] learning #E6B800 link://learning/effect-sizes-clarity-tables-user-needs-p6092
+[ANCHOR] alignment #33CCCC link://alignment/effect-sizes-clarity-tables-user-needs-p6092
+
+TITLE: effect-sizes-clarity-tables-user-needs-p6092
+SUMMARY: Research scaffold for effect-sizes, clarity-tables, user-needs.
+
+LINKS:
+- https://pnas.org/
+- https://un.org/sustainabledevelopment/climate-change/
+- https://acs.org/
+
+EQUATIONS:
+- EQ018: Ridge regression -> minimize ||y-Xβ||² + λ||β||²
+
+
+
+VALUATION:
+- Score: 0.589
+- Tier: bronze

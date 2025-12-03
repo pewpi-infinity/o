@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/multiobjective-token-provenance-causal-maps-p993
+[ANCHOR] clarity #00C8FF link://clarity/multiobjective-token-provenance-causal-maps-p993
+[ANCHOR] learning #E6B800 link://learning/multiobjective-token-provenance-causal-maps-p993
+[ANCHOR] alignment #33CCCC link://alignment/multiobjective-token-provenance-causal-maps-p993
+
+TITLE: multiobjective-token-provenance-causal-maps-p993
+SUMMARY: Research scaffold for multiobjective, token-provenance, causal-maps.
+
+LINKS:
+- https://vellum.sas.ac.uk/
+
+
+
+EQUATIONS:
+- EQ009: Queue M/M/1 -> ρ = λ/μ, W = 1/(μ - λ)
+- EQ046: Markov inequality -> P(X≥a) ≤ E[X]/a
+
+
+VALUATION:
+- Score: 0.555
+- Tier: bronze

@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/confidence-bands-fusion-plasma-regularization-carbon-accounting-diffusion-models-p4067
+[ANCHOR] capacity #00D67D link://capacity/confidence-bands-fusion-plasma-regularization-carbon-accounting-diffusion-models-p4067
+[ANCHOR] clarity #00C8FF link://clarity/confidence-bands-fusion-plasma-regularization-carbon-accounting-diffusion-models-p4067
+[ANCHOR] provenance #7D4DF2 link://provenance/confidence-bands-fusion-plasma-regularization-carbon-accounting-diffusion-models-p4067
+[ANCHOR] risk #FF3B3B link://risk/confidence-bands-fusion-plasma-regularization-carbon-accounting-diffusion-models-p4067
+
+TITLE: confidence-bands-fusion-plasma-regularization-carbon-accounting-diffusion-models-p4067
+SUMMARY: Research scaffold for confidence-bands, fusion-plasma, regularization, carbon-accounting, diffusion-models.
+
+LINKS:
+- https://epfl.ch/en/research/
+
+
+
+EQUATIONS:
+- EQ031: Laplace transform -> ∫f(t)e^{-st}dt
+- EQ015: Power of hypothesis test -> 1 - β
+
+
+VALUATION:
+- Score: 0.627
+- Tier: silver

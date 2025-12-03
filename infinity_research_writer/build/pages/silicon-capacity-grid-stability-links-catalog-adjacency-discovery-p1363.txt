@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/silicon-capacity-grid-stability-links-catalog-adjacency-discovery-p1363
+[ANCHOR] capacity #00D67D link://capacity/silicon-capacity-grid-stability-links-catalog-adjacency-discovery-p1363
+[ANCHOR] clarity #00C8FF link://clarity/silicon-capacity-grid-stability-links-catalog-adjacency-discovery-p1363
+[ANCHOR] provenance #7D4DF2 link://provenance/silicon-capacity-grid-stability-links-catalog-adjacency-discovery-p1363
+[ANCHOR] risk #FF3B3B link://risk/silicon-capacity-grid-stability-links-catalog-adjacency-discovery-p1363
+
+TITLE: silicon-capacity-grid-stability-links-catalog-adjacency-discovery-p1363
+SUMMARY: Research scaffold for silicon-capacity, grid-stability, links-catalog, adjacency-discovery.
+
+LINKS:
+- https://elsevier.com/catalog?producttype=journal
+- https://health.harvard.edu/
+- https://gazzaleylab.ucsf.edu/publications
+
+EQUATIONS:
+- EQ023: Cross entropy -> -Σ y log p
+- EQ010: Nash equilibrium -> best response mappings intersect
+- EQ001: Linear program objective -> maximize c^T x subject to Ax <= b, x >= 0
+
+VALUATION:
+- Score: 0.674
+- Tier: silver

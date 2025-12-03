@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/policy-impact-convexity-checks-p2627
+[ANCHOR] clarity #00C8FF link://clarity/policy-impact-convexity-checks-p2627
+[ANCHOR] alignment #33CCCC link://alignment/policy-impact-convexity-checks-p2627
+
+TITLE: policy-impact-convexity-checks-p2627
+SUMMARY: Research scaffold for policy-impact, convexity-checks.
+
+LINKS:
+- https://aaas.org/
+- https://cochranelibrary.com/
+
+
+EQUATIONS:
+- EQ022: Logistic regression -> σ(wᵀx)
+- EQ041: Gaussian distribution -> (1/√2πσ²)e^{-(x-μ)²/2σ²}
+
+
+VALUATION:
+- Score: 0.497
+- Tier: bronze

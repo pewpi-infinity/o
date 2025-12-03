@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/source-diversity-seasonality-ensembles-p6926
+[ANCHOR] clarity #00C8FF link://clarity/source-diversity-seasonality-ensembles-p6926
+[ANCHOR] alignment #33CCCC link://alignment/source-diversity-seasonality-ensembles-p6926
+
+TITLE: source-diversity-seasonality-ensembles-p6926
+SUMMARY: Research scaffold for source-diversity, seasonality, ensembles.
+
+LINKS:
+- https://projecteuclid.org/
+- https://nature.com/subjects/neuroscience
+- https://nature.com/subjects/atmospheric-science
+
+EQUATIONS:
+- EQ044: Law of large numbers -> sample mean→μ
+
+
+
+VALUATION:
+- Score: 0.550
+- Tier: bronze

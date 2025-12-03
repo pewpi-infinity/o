@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/boosting-zip-ledger-token-index-economy-resilience-inference-graphs-p3946
+[ANCHOR] clarity #00C8FF link://clarity/boosting-zip-ledger-token-index-economy-resilience-inference-graphs-p3946
+[ANCHOR] alignment #33CCCC link://alignment/boosting-zip-ledger-token-index-economy-resilience-inference-graphs-p3946
+
+TITLE: boosting-zip-ledger-token-index-economy-resilience-inference-graphs-p3946
+SUMMARY: Research scaffold for boosting, zip-ledger, token-index, economy-resilience, inference-graphs.
+
+LINKS:
+- https://math.mit.edu/research/
+- https://esa.int/
+- https://data.europa.eu/
+
+EQUATIONS:
+- EQ022: Logistic regression -> σ(wᵀx)
+- EQ020: PCA -> eigenvectors of covariance Σ
+
+
+VALUATION:
+- Score: 0.678
+- Tier: silver

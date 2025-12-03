@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/provenance-tier-hash-ledger-grand-hash-p9999
+[ANCHOR] clarity #00C8FF link://clarity/provenance-tier-hash-ledger-grand-hash-p9999
+[ANCHOR] learning #E6B800 link://learning/provenance-tier-hash-ledger-grand-hash-p9999
+[ANCHOR] alignment #33CCCC link://alignment/provenance-tier-hash-ledger-grand-hash-p9999
+
+TITLE: provenance-tier-hash-ledger-grand-hash-p9999
+SUMMARY: Research scaffold for provenance-tier, hash-ledger, grand-hash.
+
+LINKS:
+- https://un.org/en/research
+- https://stanford.edu/research/
+- https://data.worldbank.org/
+
+EQUATIONS:
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+
+
+
+VALUATION:
+- Score: 0.599
+- Tier: bronze

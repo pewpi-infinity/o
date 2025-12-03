@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/health-outcomes-tree-decomposition-decision-criteria-pareto-front-p3491
+[ANCHOR] clarity #00C8FF link://clarity/health-outcomes-tree-decomposition-decision-criteria-pareto-front-p3491
+[ANCHOR] alignment #33CCCC link://alignment/health-outcomes-tree-decomposition-decision-criteria-pareto-front-p3491
+
+TITLE: health-outcomes-tree-decomposition-decision-criteria-pareto-front-p3491
+SUMMARY: Research scaffold for health-outcomes, tree-decomposition, decision-criteria, pareto-front.
+
+LINKS:
+- https://fermilab.org/
+- https://royalsocietypublishing.org/
+- https://jneuroengrehab.biomedcentral.com/
+
+EQUATIONS:
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+- EQ022: Logistic regression -> σ(wᵀx)
+
+
+VALUATION:
+- Score: 0.661
+- Tier: silver

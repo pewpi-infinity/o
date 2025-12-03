@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/project-index-materials-reuse-variance-analysis-p347
+[ANCHOR] clarity #00C8FF link://clarity/project-index-materials-reuse-variance-analysis-p347
+[ANCHOR] alignment #33CCCC link://alignment/project-index-materials-reuse-variance-analysis-p347
+
+TITLE: project-index-materials-reuse-variance-analysis-p347
+SUMMARY: Research scaffold for project-index, materials-reuse, variance-analysis.
+
+LINKS:
+- https://cambridge.org/core/what-we-publish/textbooks
+- https://geoscienceworld.org/
+
+
+EQUATIONS:
+- EQ009: Queue M/M/1 -> ρ = λ/μ, W = 1/(μ - λ)
+
+
+
+VALUATION:
+- Score: 0.520
+- Tier: bronze

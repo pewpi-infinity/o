@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/txt-structure-repo-clarity-queue-theory-p8050
+[ANCHOR] clarity #00C8FF link://clarity/txt-structure-repo-clarity-queue-theory-p8050
+[ANCHOR] learning #E6B800 link://learning/txt-structure-repo-clarity-queue-theory-p8050
+[ANCHOR] alignment #33CCCC link://alignment/txt-structure-repo-clarity-queue-theory-p8050
+
+TITLE: txt-structure-repo-clarity-queue-theory-p8050
+SUMMARY: Research scaffold for txt-structure, repo-clarity, queue-theory.
+
+LINKS:
+- https://agu.org/learn-and-develop/learn/eos
+- https://warwick.ac.uk/research
+- https://cam.ac.uk/research
+
+EQUATIONS:
+- EQ025: Softmax -> exp(z_i) / Σ exp(z)
+
+
+
+VALUATION:
+- Score: 0.569
+- Tier: bronze

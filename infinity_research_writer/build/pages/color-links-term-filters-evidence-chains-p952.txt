@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/color-links-term-filters-evidence-chains-p952
+[ANCHOR] clarity #00C8FF link://clarity/color-links-term-filters-evidence-chains-p952
+[ANCHOR] alignment #33CCCC link://alignment/color-links-term-filters-evidence-chains-p952
+
+TITLE: color-links-term-filters-evidence-chains-p952
+SUMMARY: Research scaffold for color-links, term-filters, evidence-chains.
+
+LINKS:
+- https://reading.ac.uk/research
+- https://aip.org/
+
+
+EQUATIONS:
+- EQ009: Queue M/M/1 -> ρ = λ/μ, W = 1/(μ - λ)
+- EQ037: Eigenvalue problem -> Ax = λx
+- EQ044: Law of large numbers -> sample mean→μ
+
+VALUATION:
+- Score: 0.577
+- Tier: bronze

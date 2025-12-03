@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/materials-circularity-concept-families-zip-inner-resources-p342
+[ANCHOR] clarity #00C8FF link://clarity/materials-circularity-concept-families-zip-inner-resources-p342
+[ANCHOR] alignment #33CCCC link://alignment/materials-circularity-concept-families-zip-inner-resources-p342
+
+TITLE: materials-circularity-concept-families-zip-inner-resources-p342
+SUMMARY: Research scaffold for materials-circularity, concept-families, zip-inner-resources.
+
+LINKS:
+- https://congress.gov/
+
+
+
+EQUATIONS:
+- EQ029: Fourier transform -> F(ω)=∫ f(t)e^{-iωt}dt
+- EQ024: Gradient descent -> θ ← θ - α∇J(θ)
+- EQ049: Moment generating function -> M(t)=E[e^{tX}]
+
+VALUATION:
+- Score: 0.524
+- Tier: bronze

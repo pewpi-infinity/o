@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/bayes-inference-meta-analysis-project-value-p3735
+[ANCHOR] clarity #00C8FF link://clarity/bayes-inference-meta-analysis-project-value-p3735
+[ANCHOR] alignment #33CCCC link://alignment/bayes-inference-meta-analysis-project-value-p3735
+
+TITLE: bayes-inference-meta-analysis-project-value-p3735
+SUMMARY: Research scaffold for bayes-inference, meta-analysis, project-value.
+
+LINKS:
+- https://beckerfreidman.uchicago.edu/research/
+- https://aip.org/
+- https://iuphar.org/
+
+EQUATIONS:
+- EQ050: Characteristic function -> E[e^{itX}]
+- EQ031: Laplace transform -> ∫f(t)e^{-st}dt
+- EQ024: Gradient descent -> θ ← θ - α∇J(θ)
+
+VALUATION:
+- Score: 0.594
+- Tier: bronze

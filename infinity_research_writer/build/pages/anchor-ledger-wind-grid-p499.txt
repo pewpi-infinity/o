@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/anchor-ledger-wind-grid-p499
+[ANCHOR] clarity #00C8FF link://clarity/anchor-ledger-wind-grid-p499
+[ANCHOR] alignment #33CCCC link://alignment/anchor-ledger-wind-grid-p499
+
+TITLE: anchor-ledger-wind-grid-p499
+SUMMARY: Research scaffold for anchor-ledger, wind-grid.
+
+LINKS:
+- https://alleninstitute.org/what-we-do/brain-science/
+
+
+
+EQUATIONS:
+- EQ010: Nash equilibrium -> best response mappings intersect
+- EQ025: Softmax -> exp(z_i) / Σ exp(z)
+
+
+VALUATION:
+- Score: 0.458
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/controllability-co2-sequestration-p3955
+[ANCHOR] clarity #00C8FF link://clarity/controllability-co2-sequestration-p3955
+[ANCHOR] alignment #33CCCC link://alignment/controllability-co2-sequestration-p3955
+
+TITLE: controllability-co2-sequestration-p3955
+SUMMARY: Research scaffold for controllability, co2-sequestration.
+
+LINKS:
+- https://legifrance.gouv.fr/
+- https://conservation.org/research
+- https://oecd.org/statistics/
+
+EQUATIONS:
+- EQ046: Markov inequality -> P(X≥a) ≤ E[X]/a
+
+
+
+VALUATION:
+- Score: 0.539
+- Tier: bronze

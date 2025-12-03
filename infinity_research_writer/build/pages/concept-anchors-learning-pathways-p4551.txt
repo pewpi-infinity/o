@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/concept-anchors-learning-pathways-p4551
+[ANCHOR] clarity #00C8FF link://clarity/concept-anchors-learning-pathways-p4551
+[ANCHOR] learning #E6B800 link://learning/concept-anchors-learning-pathways-p4551
+[ANCHOR] alignment #33CCCC link://alignment/concept-anchors-learning-pathways-p4551
+
+TITLE: concept-anchors-learning-pathways-p4551
+SUMMARY: Research scaffold for concept-anchors, learning-pathways.
+
+LINKS:
+- https://archeology.uiowa.edu/
+
+
+
+EQUATIONS:
+- EQ048: Jensen's inequality -> φ(E[X]) ≤ E[φ(X)]
+
+
+
+VALUATION:
+- Score: 0.462
+- Tier: bronze

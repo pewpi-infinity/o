@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/anchor-ledger-wind-grid-p4769
+[ANCHOR] clarity #00C8FF link://clarity/anchor-ledger-wind-grid-p4769
+[ANCHOR] alignment #33CCCC link://alignment/anchor-ledger-wind-grid-p4769
+
+TITLE: anchor-ledger-wind-grid-p4769
+SUMMARY: Research scaffold for anchor-ledger, wind-grid.
+
+LINKS:
+- https://harvard.edu/research
+
+
+
+EQUATIONS:
+- EQ020: PCA -> eigenvectors of covariance Σ
+- EQ003: Lagrangian -> L(x, λ) = f(x) + λ^T (Ax - b)
+- EQ029: Fourier transform -> F(ω)=∫ f(t)e^{-iωt}dt
+
+VALUATION:
+- Score: 0.548
+- Tier: bronze

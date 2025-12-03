@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/lowrank-mechanism-design-equation-catalog-equations-ledger-p885
+[ANCHOR] clarity #00C8FF link://clarity/lowrank-mechanism-design-equation-catalog-equations-ledger-p885
+[ANCHOR] alignment #33CCCC link://alignment/lowrank-mechanism-design-equation-catalog-equations-ledger-p885
+
+TITLE: lowrank-mechanism-design-equation-catalog-equations-ledger-p885
+SUMMARY: Research scaffold for lowrank, mechanism-design, equation-catalog, equations-ledger.
+
+LINKS:
+- https://brainfacts.org/
+- https://nsidc.org/data
+- https://metmuseum.org/art/metpublications
+
+EQUATIONS:
+- EQ015: Power of hypothesis test -> 1 - β
+- EQ034: Poisson equation -> ∇²u = -ρ/ε
+
+
+VALUATION:
+- Score: 0.614
+- Tier: silver

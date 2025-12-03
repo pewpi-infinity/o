@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/battery-capacity-security-privacy-ceramics-durability-p9025
+[ANCHOR] capacity #00D67D link://capacity/battery-capacity-security-privacy-ceramics-durability-p9025
+[ANCHOR] clarity #00C8FF link://clarity/battery-capacity-security-privacy-ceramics-durability-p9025
+[ANCHOR] provenance #7D4DF2 link://provenance/battery-capacity-security-privacy-ceramics-durability-p9025
+[ANCHOR] risk #FF3B3B link://risk/battery-capacity-security-privacy-ceramics-durability-p9025
+
+TITLE: battery-capacity-security-privacy-ceramics-durability-p9025
+SUMMARY: Research scaffold for battery-capacity, security-privacy, ceramics-durability.
+
+LINKS:
+- https://gazzaleylab.ucsf.edu/publications
+- https://theoi.com/
+
+
+EQUATIONS:
+- EQ017: L1 regularization -> minimize ||y-Xβ||² + λ||β||₁
+
+
+
+VALUATION:
+- Score: 0.556
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/research-valuation-pages-manifest-p9189
+[ANCHOR] clarity #00C8FF link://clarity/research-valuation-pages-manifest-p9189
+[ANCHOR] alignment #33CCCC link://alignment/research-valuation-pages-manifest-p9189
+
+TITLE: research-valuation-pages-manifest-p9189
+SUMMARY: Research scaffold for research-valuation, pages-manifest.
+
+LINKS:
+- https://re3data.org/
+- https://cdc.gov/
+- https://digital.bodleian.ox.ac.uk/
+
+EQUATIONS:
+- EQ035: Maxwell equations (set of 4)
+
+
+
+VALUATION:
+- Score: 0.512
+- Tier: bronze

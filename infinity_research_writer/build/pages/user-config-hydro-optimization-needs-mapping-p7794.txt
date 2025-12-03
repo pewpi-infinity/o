@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/user-config-hydro-optimization-needs-mapping-p7794
+[ANCHOR] clarity #00C8FF link://clarity/user-config-hydro-optimization-needs-mapping-p7794
+[ANCHOR] alignment #33CCCC link://alignment/user-config-hydro-optimization-needs-mapping-p7794
+
+TITLE: user-config-hydro-optimization-needs-mapping-p7794
+SUMMARY: Research scaffold for user-config, hydro-optimization, needs-mapping.
+
+LINKS:
+- https://iop.org/journals
+- https://salk.edu/research
+- https://gutenberg.org/
+
+EQUATIONS:
+- EQ037: Eigenvalue problem -> Ax = λx
+- EQ036: Schrödinger equation -> iħ∂ψ/∂t = Hψ
+- EQ031: Laplace transform -> ∫f(t)e^{-st}dt
+
+VALUATION:
+- Score: 0.614
+- Tier: silver

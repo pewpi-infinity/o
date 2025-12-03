@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/nonconvex-landscapes-bias-detection-p6688
+[ANCHOR] clarity #00C8FF link://clarity/nonconvex-landscapes-bias-detection-p6688
+[ANCHOR] alignment #33CCCC link://alignment/nonconvex-landscapes-bias-detection-p6688
+
+TITLE: nonconvex-landscapes-bias-detection-p6688
+SUMMARY: Research scaffold for nonconvex-landscapes, bias-detection.
+
+LINKS:
+- https://digital.library.yale.edu/
+- https://ideas.repec.org/
+
+
+EQUATIONS:
+- EQ007: Controllability -> rank([B, AB, A^2B, ..., A^{n-1}B]) = n
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+- EQ047: Chebyshev inequality -> P(|X-μ|≥kσ) ≤ 1/k²
+
+VALUATION:
+- Score: 0.544
+- Tier: bronze

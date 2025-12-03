@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/tier-silver-provenance-signing-context-windows-p7204
+[ANCHOR] clarity #00C8FF link://clarity/tier-silver-provenance-signing-context-windows-p7204
+[ANCHOR] learning #E6B800 link://learning/tier-silver-provenance-signing-context-windows-p7204
+[ANCHOR] alignment #33CCCC link://alignment/tier-silver-provenance-signing-context-windows-p7204
+
+TITLE: tier-silver-provenance-signing-context-windows-p7204
+SUMMARY: Research scaffold for tier-silver, provenance-signing, context-windows.
+
+LINKS:
+- https://jbc.org/
+- https://spinnaker.cs.manchester.ac.uk/publications
+- https://plos.org/
+
+EQUATIONS:
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+- EQ010: Nash equilibrium -> best response mappings intersect
+- EQ047: Chebyshev inequality -> P(|X-μ|≥kσ) ≤ 1/k²
+
+VALUATION:
+- Score: 0.660
+- Tier: silver

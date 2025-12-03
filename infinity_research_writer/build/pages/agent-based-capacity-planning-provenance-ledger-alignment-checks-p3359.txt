@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/agent-based-capacity-planning-provenance-ledger-alignment-checks-p3359
+[ANCHOR] capacity #00D67D link://capacity/agent-based-capacity-planning-provenance-ledger-alignment-checks-p3359
+[ANCHOR] clarity #00C8FF link://clarity/agent-based-capacity-planning-provenance-ledger-alignment-checks-p3359
+[ANCHOR] provenance #7D4DF2 link://provenance/agent-based-capacity-planning-provenance-ledger-alignment-checks-p3359
+[ANCHOR] risk #FF3B3B link://risk/agent-based-capacity-planning-provenance-ledger-alignment-checks-p3359
+
+TITLE: agent-based-capacity-planning-provenance-ledger-alignment-checks-p3359
+SUMMARY: Research scaffold for agent-based, capacity-planning, provenance-ledger, alignment-checks.
+
+LINKS:
+- https://data.cdc.gov/
+
+
+
+EQUATIONS:
+- EQ030: Convolution -> (f*g)(t)=∫f(τ)g(t-τ)dτ
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+
+
+VALUATION:
+- Score: 0.638
+- Tier: silver

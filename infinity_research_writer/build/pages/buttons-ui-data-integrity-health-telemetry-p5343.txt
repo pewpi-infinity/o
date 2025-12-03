@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/buttons-ui-data-integrity-health-telemetry-p5343
+[ANCHOR] clarity #00C8FF link://clarity/buttons-ui-data-integrity-health-telemetry-p5343
+[ANCHOR] alignment #33CCCC link://alignment/buttons-ui-data-integrity-health-telemetry-p5343
+
+TITLE: buttons-ui-data-integrity-health-telemetry-p5343
+SUMMARY: Research scaffold for buttons-ui, data-integrity, health-telemetry.
+
+LINKS:
+- https://worldbank.org/en/research
+- https://uchicago.edu/research
+- https://synapse.org/
+
+EQUATIONS:
+- EQ035: Maxwell equations (set of 4)
+- EQ022: Logistic regression -> σ(wᵀx)
+
+
+VALUATION:
+- Score: 0.571
+- Tier: bronze

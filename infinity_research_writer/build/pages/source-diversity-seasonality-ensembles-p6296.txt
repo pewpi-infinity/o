@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/source-diversity-seasonality-ensembles-p6296
+[ANCHOR] clarity #00C8FF link://clarity/source-diversity-seasonality-ensembles-p6296
+[ANCHOR] alignment #33CCCC link://alignment/source-diversity-seasonality-ensembles-p6296
+
+TITLE: source-diversity-seasonality-ensembles-p6296
+SUMMARY: Research scaffold for source-diversity, seasonality, ensembles.
+
+LINKS:
+- https://sciencedirect.com/book-series
+- https://beckerfreidman.uchicago.edu/research/
+- https://ssrn.com/en/index.cfm/lsn-legal-studies/
+
+EQUATIONS:
+- EQ027: Entropy -> -Σ p log p
+
+
+
+VALUATION:
+- Score: 0.550
+- Tier: bronze

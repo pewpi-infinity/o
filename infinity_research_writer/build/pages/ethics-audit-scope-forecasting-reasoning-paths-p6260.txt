@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/ethics-audit-scope-forecasting-reasoning-paths-p6260
+[ANCHOR] ethics #FF6A00 link://ethics/ethics-audit-scope-forecasting-reasoning-paths-p6260
+[ANCHOR] clarity #00C8FF link://clarity/ethics-audit-scope-forecasting-reasoning-paths-p6260
+[ANCHOR] provenance #7D4DF2 link://provenance/ethics-audit-scope-forecasting-reasoning-paths-p6260
+[ANCHOR] scope #6066FF link://scope/ethics-audit-scope-forecasting-reasoning-paths-p6260
+
+TITLE: ethics-audit-scope-forecasting-reasoning-paths-p6260
+SUMMARY: Research scaffold for ethics-audit, scope-forecasting, reasoning-paths.
+
+LINKS:
+- https://link.springer.com/journal/10896
+- https://bonekey-ibms.mdc-berlin.de/
+- https://jamanetwork.com/journals/jamaoncology
+
+EQUATIONS:
+- EQ015: Power of hypothesis test -> 1 - β
+
+
+
+VALUATION:
+- Score: 0.589
+- Tier: bronze

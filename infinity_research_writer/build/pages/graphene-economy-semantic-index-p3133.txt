@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/graphene-economy-semantic-index-p3133
+[ANCHOR] capacity #00D67D link://capacity/graphene-economy-semantic-index-p3133
+[ANCHOR] clarity #00C8FF link://clarity/graphene-economy-semantic-index-p3133
+[ANCHOR] provenance #7D4DF2 link://provenance/graphene-economy-semantic-index-p3133
+[ANCHOR] risk #FF3B3B link://risk/graphene-economy-semantic-index-p3133
+
+TITLE: graphene-economy-semantic-index-p3133
+SUMMARY: Research scaffold for graphene-economy, semantic-index.
+
+LINKS:
+- https://openei.org/
+- https://pubmed.ncbi.nlm.nih.gov/
+
+
+EQUATIONS:
+- EQ033: Wave equation -> ∂²u/∂t² = c²∇²u
+- EQ004: KKT conditions -> ∇f(x*) + A^T λ* = 0, Ax* <= b, λ* >= 0, λ*^T (Ax* - b) = 0
+- EQ026: KL divergence -> Σ p log(p/q)
+
+VALUATION:
+- Score: 0.607
+- Tier: silver

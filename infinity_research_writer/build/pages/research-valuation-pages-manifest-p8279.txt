@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/research-valuation-pages-manifest-p8279
+[ANCHOR] clarity #00C8FF link://clarity/research-valuation-pages-manifest-p8279
+[ANCHOR] alignment #33CCCC link://alignment/research-valuation-pages-manifest-p8279
+
+TITLE: research-valuation-pages-manifest-p8279
+SUMMARY: Research scaffold for research-valuation, pages-manifest.
+
+LINKS:
+- https://osti.gov/
+- https://nus.edu.sg/research
+
+
+EQUATIONS:
+- EQ038: Determinant expansion -> Σ permutations
+- EQ003: Lagrangian -> L(x, λ) = f(x) + λ^T (Ax - b)
+- EQ041: Gaussian distribution -> (1/√2πσ²)e^{-(x-μ)²/2σ²}
+
+VALUATION:
+- Score: 0.569
+- Tier: bronze

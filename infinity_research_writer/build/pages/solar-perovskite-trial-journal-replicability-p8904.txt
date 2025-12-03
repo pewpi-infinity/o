@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/solar-perovskite-trial-journal-replicability-p8904
+[ANCHOR] clarity #00C8FF link://clarity/solar-perovskite-trial-journal-replicability-p8904
+[ANCHOR] alignment #33CCCC link://alignment/solar-perovskite-trial-journal-replicability-p8904
+
+TITLE: solar-perovskite-trial-journal-replicability-p8904
+SUMMARY: Research scaffold for solar-perovskite, trial-journal, replicability.
+
+LINKS:
+- https://diabetesjournals.org/
+- https://legifrance.gouv.fr/
+
+
+EQUATIONS:
+- EQ031: Laplace transform -> ∫f(t)e^{-st}dt
+- EQ023: Cross entropy -> -Σ y log p
+
+
+VALUATION:
+- Score: 0.539
+- Tier: bronze

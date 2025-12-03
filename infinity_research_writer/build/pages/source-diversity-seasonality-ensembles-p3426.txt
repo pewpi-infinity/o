@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/source-diversity-seasonality-ensembles-p3426
+[ANCHOR] clarity #00C8FF link://clarity/source-diversity-seasonality-ensembles-p3426
+[ANCHOR] alignment #33CCCC link://alignment/source-diversity-seasonality-ensembles-p3426
+
+TITLE: source-diversity-seasonality-ensembles-p3426
+SUMMARY: Research scaffold for source-diversity, seasonality, ensembles.
+
+LINKS:
+- https://stanford.edu/research/
+- https://stanford.edu/group/brainscience/
+- https://warwick.ac.uk/research
+
+EQUATIONS:
+- EQ022: Logistic regression -> σ(wᵀx)
+
+
+
+VALUATION:
+- Score: 0.550
+- Tier: bronze

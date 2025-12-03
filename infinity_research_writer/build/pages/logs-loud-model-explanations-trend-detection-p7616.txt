@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/logs-loud-model-explanations-trend-detection-p7616
+[ANCHOR] clarity #00C8FF link://clarity/logs-loud-model-explanations-trend-detection-p7616
+[ANCHOR] alignment #33CCCC link://alignment/logs-loud-model-explanations-trend-detection-p7616
+
+TITLE: logs-loud-model-explanations-trend-detection-p7616
+SUMMARY: Research scaffold for logs-loud, model-explanations, trend-detection.
+
+LINKS:
+- https://plos.org/
+
+
+
+EQUATIONS:
+- EQ028: Mutual information -> I(X;Y) = H(X)+H(Y)-H(X,Y)
+- EQ009: Queue M/M/1 -> ρ = λ/μ, W = 1/(μ - λ)
+- EQ017: L1 regularization -> minimize ||y-Xβ||² + λ||β||₁
+
+VALUATION:
+- Score: 0.524
+- Tier: bronze

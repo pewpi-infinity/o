@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/energy-storage-auction-theory-ledger-proof-review-cycle-anomaly-detection-p4502
+[ANCHOR] clarity #00C8FF link://clarity/energy-storage-auction-theory-ledger-proof-review-cycle-anomaly-detection-p4502
+[ANCHOR] alignment #33CCCC link://alignment/energy-storage-auction-theory-ledger-proof-review-cycle-anomaly-detection-p4502
+
+TITLE: energy-storage-auction-theory-ledger-proof-review-cycle-anomaly-detection-p4502
+SUMMARY: Research scaffold for energy-storage, auction-theory, ledger-proof, review-cycle, anomaly-detection.
+
+LINKS:
+- https://biochemj.org/
+
+
+
+EQUATIONS:
+- EQ028: Mutual information -> I(X;Y) = H(X)+H(Y)-H(X,Y)
+- EQ017: L1 regularization -> minimize ||y-Xβ||² + λ||β||₁
+- EQ039: Matrix invertibility -> det(A) ≠ 0
+
+VALUATION:
+- Score: 0.610
+- Tier: silver

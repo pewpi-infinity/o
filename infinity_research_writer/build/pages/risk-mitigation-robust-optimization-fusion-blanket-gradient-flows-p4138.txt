@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/risk-mitigation-robust-optimization-fusion-blanket-gradient-flows-p4138
+[ANCHOR] capacity #00D67D link://capacity/risk-mitigation-robust-optimization-fusion-blanket-gradient-flows-p4138
+[ANCHOR] clarity #00C8FF link://clarity/risk-mitigation-robust-optimization-fusion-blanket-gradient-flows-p4138
+[ANCHOR] provenance #7D4DF2 link://provenance/risk-mitigation-robust-optimization-fusion-blanket-gradient-flows-p4138
+[ANCHOR] risk #FF3B3B link://risk/risk-mitigation-robust-optimization-fusion-blanket-gradient-flows-p4138
+
+TITLE: risk-mitigation-robust-optimization-fusion-blanket-gradient-flows-p4138
+SUMMARY: Research scaffold for risk-mitigation, robust-optimization, fusion-blanket, gradient-flows.
+
+LINKS:
+- https://figshare.com/
+- https://tudelft.nl/en/research
+- https://poker.srv.ualberta.ca/publications/
+
+EQUATIONS:
+- EQ001: Linear program objective -> maximize c^T x subject to Ax <= b, x >= 0
+- EQ029: Fourier transform -> F(ω)=∫ f(t)e^{-iωt}dt
+
+
+VALUATION:
+- Score: 0.655
+- Tier: silver

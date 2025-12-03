@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/bagging-adaptive-links-p3692
+[ANCHOR] clarity #00C8FF link://clarity/bagging-adaptive-links-p3692
+[ANCHOR] alignment #33CCCC link://alignment/bagging-adaptive-links-p3692
+
+TITLE: bagging-adaptive-links-p3692
+SUMMARY: Research scaffold for bagging, adaptive-links.
+
+LINKS:
+- https://springer.com/gp/mathematics
+- https://jneuroengrehab.biomedcentral.com/
+
+
+EQUATIONS:
+- EQ043: Chi-square distribution -> special gamma
+- EQ006: Stability -> Re(λ_i(A)) < 0 for continuous systems
+
+
+VALUATION:
+- Score: 0.523
+- Tier: bronze

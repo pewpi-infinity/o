@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/effect-sizes-clarity-tables-user-needs-p6372
+[ANCHOR] clarity #00C8FF link://clarity/effect-sizes-clarity-tables-user-needs-p6372
+[ANCHOR] learning #E6B800 link://learning/effect-sizes-clarity-tables-user-needs-p6372
+[ANCHOR] alignment #33CCCC link://alignment/effect-sizes-clarity-tables-user-needs-p6372
+
+TITLE: effect-sizes-clarity-tables-user-needs-p6372
+SUMMARY: Research scaffold for effect-sizes, clarity-tables, user-needs.
+
+LINKS:
+- https://data.cdc.gov/
+- https://kcl.ac.uk/research
+
+
+EQUATIONS:
+- EQ030: Convolution -> (f*g)(t)=∫f(τ)g(t-τ)dτ
+
+
+
+VALUATION:
+- Score: 0.536
+- Tier: bronze

@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/graphene-economy-semantic-index-p7193
+[ANCHOR] capacity #00D67D link://capacity/graphene-economy-semantic-index-p7193
+[ANCHOR] clarity #00C8FF link://clarity/graphene-economy-semantic-index-p7193
+[ANCHOR] provenance #7D4DF2 link://provenance/graphene-economy-semantic-index-p7193
+[ANCHOR] risk #FF3B3B link://risk/graphene-economy-semantic-index-p7193
+
+TITLE: graphene-economy-semantic-index-p7193
+SUMMARY: Research scaffold for graphene-economy, semantic-index.
+
+LINKS:
+- https://edinburgh.ac.uk/research
+- https://jstor.org/open/
+- https://khanacademy.org/math
+
+EQUATIONS:
+- EQ028: Mutual information -> I(X;Y) = H(X)+H(Y)-H(X,Y)
+
+
+
+VALUATION:
+- Score: 0.551
+- Tier: bronze

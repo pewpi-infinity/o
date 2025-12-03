@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/color-links-term-filters-evidence-chains-p5922
+[ANCHOR] clarity #00C8FF link://clarity/color-links-term-filters-evidence-chains-p5922
+[ANCHOR] alignment #33CCCC link://alignment/color-links-term-filters-evidence-chains-p5922
+
+TITLE: color-links-term-filters-evidence-chains-p5922
+SUMMARY: Research scaffold for color-links, term-filters, evidence-chains.
+
+LINKS:
+- https://doaj.org/
+- https://thelancet.com/
+
+
+EQUATIONS:
+- EQ029: Fourier transform -> F(ω)=∫ f(t)e^{-iωt}dt
+
+
+
+VALUATION:
+- Score: 0.517
+- Tier: bronze

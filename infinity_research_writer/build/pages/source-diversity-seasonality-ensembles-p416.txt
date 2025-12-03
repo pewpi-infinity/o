@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/source-diversity-seasonality-ensembles-p416
+[ANCHOR] clarity #00C8FF link://clarity/source-diversity-seasonality-ensembles-p416
+[ANCHOR] alignment #33CCCC link://alignment/source-diversity-seasonality-ensembles-p416
+
+TITLE: source-diversity-seasonality-ensembles-p416
+SUMMARY: Research scaffold for source-diversity, seasonality, ensembles.
+
+LINKS:
+- https://thelancet.com/journals/lancet/issue/current
+- https://jbc.org/
+
+
+EQUATIONS:
+- EQ030: Convolution -> (f*g)(t)=∫f(τ)g(t-τ)dτ
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+
+
+VALUATION:
+- Score: 0.537
+- Tier: bronze

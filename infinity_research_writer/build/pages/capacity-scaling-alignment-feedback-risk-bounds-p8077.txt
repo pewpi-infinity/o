@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/capacity-scaling-alignment-feedback-risk-bounds-p8077
+[ANCHOR] capacity #00D67D link://capacity/capacity-scaling-alignment-feedback-risk-bounds-p8077
+[ANCHOR] clarity #00C8FF link://clarity/capacity-scaling-alignment-feedback-risk-bounds-p8077
+[ANCHOR] provenance #7D4DF2 link://provenance/capacity-scaling-alignment-feedback-risk-bounds-p8077
+[ANCHOR] risk #FF3B3B link://risk/capacity-scaling-alignment-feedback-risk-bounds-p8077
+
+TITLE: capacity-scaling-alignment-feedback-risk-bounds-p8077
+SUMMARY: Research scaffold for capacity-scaling, alignment-feedback, risk-bounds.
+
+LINKS:
+- https://pubchem.ncbi.nlm.nih.gov/
+- https://stoa.org/
+
+
+EQUATIONS:
+- EQ020: PCA -> eigenvectors of covariance Σ
+- EQ048: Jensen's inequality -> φ(E[X]) ≤ E[φ(X)]
+- EQ023: Cross entropy -> -Σ y log p
+
+VALUATION:
+- Score: 0.622
+- Tier: silver

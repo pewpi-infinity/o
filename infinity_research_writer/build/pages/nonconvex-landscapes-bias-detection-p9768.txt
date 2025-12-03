@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/nonconvex-landscapes-bias-detection-p9768
+[ANCHOR] clarity #00C8FF link://clarity/nonconvex-landscapes-bias-detection-p9768
+[ANCHOR] alignment #33CCCC link://alignment/nonconvex-landscapes-bias-detection-p9768
+
+TITLE: nonconvex-landscapes-bias-detection-p9768
+SUMMARY: Research scaffold for nonconvex-landscapes, bias-detection.
+
+LINKS:
+- https://jneurosci.org/
+
+
+
+EQUATIONS:
+- EQ031: Laplace transform -> ∫f(t)e^{-st}dt
+- EQ023: Cross entropy -> -Σ y log p
+- EQ030: Convolution -> (f*g)(t)=∫f(τ)g(t-τ)dτ
+
+VALUATION:
+- Score: 0.481
+- Tier: bronze

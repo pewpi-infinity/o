@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/justice-transparency-risk-tier-markov-chains-p1737
+[ANCHOR] ethics #FF6A00 link://ethics/justice-transparency-risk-tier-markov-chains-p1737
+[ANCHOR] clarity #00C8FF link://clarity/justice-transparency-risk-tier-markov-chains-p1737
+[ANCHOR] provenance #7D4DF2 link://provenance/justice-transparency-risk-tier-markov-chains-p1737
+[ANCHOR] scope #6066FF link://scope/justice-transparency-risk-tier-markov-chains-p1737
+
+TITLE: justice-transparency-risk-tier-markov-chains-p1737
+SUMMARY: Research scaffold for justice-transparency, risk-tier, markov-chains.
+
+LINKS:
+- https://arxiv.org/
+- https://nasa.gov/
+- https://synapse.org/
+
+EQUATIONS:
+- EQ026: KL divergence -> Σ p log(p/q)
+- EQ011: Mechanism incentive compatibility -> truth-telling maximizes utility
+
+
+VALUATION:
+- Score: 0.612
+- Tier: silver

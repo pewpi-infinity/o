@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/controllability-co2-sequestration-p9485
+[ANCHOR] clarity #00C8FF link://clarity/controllability-co2-sequestration-p9485
+[ANCHOR] alignment #33CCCC link://alignment/controllability-co2-sequestration-p9485
+
+TITLE: controllability-co2-sequestration-p9485
+SUMMARY: Research scaffold for controllability, co2-sequestration.
+
+LINKS:
+- https://erowid.org/chemicals/
+- https://durham.ac.uk/research
+- https://neuromorphicsystems.org/
+
+EQUATIONS:
+- EQ022: Logistic regression -> σ(wᵀx)
+- ...
+
+
+VALUATION:
+- Score: 0.529
+- Tier: bronze

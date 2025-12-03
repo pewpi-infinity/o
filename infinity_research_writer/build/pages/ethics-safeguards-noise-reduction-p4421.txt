@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/ethics-safeguards-noise-reduction-p4421
+[ANCHOR] ethics #FF6A00 link://ethics/ethics-safeguards-noise-reduction-p4421
+[ANCHOR] clarity #00C8FF link://clarity/ethics-safeguards-noise-reduction-p4421
+[ANCHOR] provenance #7D4DF2 link://provenance/ethics-safeguards-noise-reduction-p4421
+[ANCHOR] scope #6066FF link://scope/ethics-safeguards-noise-reduction-p4421
+
+TITLE: ethics-safeguards-noise-reduction-p4421
+SUMMARY: Research scaffold for ethics-safeguards, noise-reduction.
+
+LINKS:
+- https://jneurosci.org/
+- https://cochranelibrary.com/
+
+
+EQUATIONS:
+- EQ009: Queue M/M/1 -> ρ = λ/μ, W = 1/(μ - λ)
+
+
+
+VALUATION:
+- Score: 0.514
+- Tier: bronze

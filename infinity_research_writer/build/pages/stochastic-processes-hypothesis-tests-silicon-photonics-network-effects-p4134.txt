@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/stochastic-processes-hypothesis-tests-silicon-photonics-network-effects-p4134
+[ANCHOR] clarity #00C8FF link://clarity/stochastic-processes-hypothesis-tests-silicon-photonics-network-effects-p4134
+[ANCHOR] alignment #33CCCC link://alignment/stochastic-processes-hypothesis-tests-silicon-photonics-network-effects-p4134
+
+TITLE: stochastic-processes-hypothesis-tests-silicon-photonics-network-effects-p4134
+SUMMARY: Research scaffold for stochastic-processes, hypothesis-tests, silicon-photonics, network-effects.
+
+LINKS:
+- https://spinnaker.cs.manchester.ac.uk/publications
+
+
+
+EQUATIONS:
+- EQ037: Eigenvalue problem -> Ax = λx
+- EQ007: Controllability -> rank([B, AB, A^2B, ..., A^{n-1}B]) = n
+
+
+VALUATION:
+- Score: 0.594
+- Tier: bronze

@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/txt-structure-repo-clarity-queue-theory-p7560
+[ANCHOR] clarity #00C8FF link://clarity/txt-structure-repo-clarity-queue-theory-p7560
+[ANCHOR] learning #E6B800 link://learning/txt-structure-repo-clarity-queue-theory-p7560
+[ANCHOR] alignment #33CCCC link://alignment/txt-structure-repo-clarity-queue-theory-p7560
+
+TITLE: txt-structure-repo-clarity-queue-theory-p7560
+SUMMARY: Research scaffold for txt-structure, repo-clarity, queue-theory.
+
+LINKS:
+- https://aaai.org/Library/
+- https://aip.org/
+- https://bloodjournal.org/
+
+EQUATIONS:
+- EQ025: Softmax -> exp(z_i) / Σ exp(z)
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+
+
+VALUATION:
+- Score: 0.639
+- Tier: silver

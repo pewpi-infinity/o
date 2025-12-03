@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/effect-sizes-clarity-tables-user-needs-p352
+[ANCHOR] clarity #00C8FF link://clarity/effect-sizes-clarity-tables-user-needs-p352
+[ANCHOR] learning #E6B800 link://learning/effect-sizes-clarity-tables-user-needs-p352
+[ANCHOR] alignment #33CCCC link://alignment/effect-sizes-clarity-tables-user-needs-p352
+
+TITLE: effect-sizes-clarity-tables-user-needs-p352
+SUMMARY: Research scaffold for effect-sizes, clarity-tables, user-needs.
+
+LINKS:
+- https://ssrn.com/en/index.cfm/lsn-legal-studies/
+
+
+
+EQUATIONS:
+- ...
+
+
+
+VALUATION:
+- Score: 0.502
+- Tier: bronze

@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/links-index-semantic-color-provenance-learning-health-registry-method-rigor-p659
+[ANCHOR] clarity #00C8FF link://clarity/links-index-semantic-color-provenance-learning-health-registry-method-rigor-p659
+[ANCHOR] learning #E6B800 link://learning/links-index-semantic-color-provenance-learning-health-registry-method-rigor-p659
+[ANCHOR] alignment #33CCCC link://alignment/links-index-semantic-color-provenance-learning-health-registry-method-rigor-p659
+
+TITLE: links-index-semantic-color-provenance-learning-health-registry-method-rigor-p659
+SUMMARY: Research scaffold for links-index, semantic-color, provenance-learning, health-registry, method-rigor.
+
+LINKS:
+- https://iupac.org/
+- https://conservation.org/research
+- https://erowid.org/chemicals/
+
+EQUATIONS:
+- EQ012: Auction revenue equivalence -> symmetric independent private values
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+
+
+VALUATION:
+- Score: 0.705
+- Tier: silver

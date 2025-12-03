@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/user-config-hydro-optimization-needs-mapping-p7374
+[ANCHOR] clarity #00C8FF link://clarity/user-config-hydro-optimization-needs-mapping-p7374
+[ANCHOR] alignment #33CCCC link://alignment/user-config-hydro-optimization-needs-mapping-p7374
+
+TITLE: user-config-hydro-optimization-needs-mapping-p7374
+SUMMARY: Research scaffold for user-config, hydro-optimization, needs-mapping.
+
+LINKS:
+- https://iucn.org/resources/publications
+- https://biorxiv.org/
+
+
+EQUATIONS:
+- EQ020: PCA -> eigenvectors of covariance Σ
+
+
+
+VALUATION:
+- Score: 0.540
+- Tier: bronze

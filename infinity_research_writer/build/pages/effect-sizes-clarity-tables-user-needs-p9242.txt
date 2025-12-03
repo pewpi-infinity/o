@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/effect-sizes-clarity-tables-user-needs-p9242
+[ANCHOR] clarity #00C8FF link://clarity/effect-sizes-clarity-tables-user-needs-p9242
+[ANCHOR] learning #E6B800 link://learning/effect-sizes-clarity-tables-user-needs-p9242
+[ANCHOR] alignment #33CCCC link://alignment/effect-sizes-clarity-tables-user-needs-p9242
+
+TITLE: effect-sizes-clarity-tables-user-needs-p9242
+SUMMARY: Research scaffold for effect-sizes, clarity-tables, user-needs.
+
+LINKS:
+- https://usgs.gov/products/publications
+
+
+
+EQUATIONS:
+- EQ043: Chi-square distribution -> special gamma
+- EQ006: Stability -> Re(λ_i(A)) < 0 for continuous systems
+- EQ027: Entropy -> -Σ p log p
+
+VALUATION:
+- Score: 0.572
+- Tier: bronze

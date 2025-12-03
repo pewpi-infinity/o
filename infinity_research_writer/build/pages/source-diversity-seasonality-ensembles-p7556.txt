@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/source-diversity-seasonality-ensembles-p7556
+[ANCHOR] clarity #00C8FF link://clarity/source-diversity-seasonality-ensembles-p7556
+[ANCHOR] alignment #33CCCC link://alignment/source-diversity-seasonality-ensembles-p7556
+
+TITLE: source-diversity-seasonality-ensembles-p7556
+SUMMARY: Research scaffold for source-diversity, seasonality, ensembles.
+
+LINKS:
+- https://openalex.org/
+- https://heinonline.org/
+
+
+EQUATIONS:
+- EQ025: Softmax -> exp(z_i) / Σ exp(z)
+- EQ031: Laplace transform -> ∫f(t)e^{-st}dt
+
+
+VALUATION:
+- Score: 0.537
+- Tier: bronze

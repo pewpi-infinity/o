@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/multiobjective-token-provenance-causal-maps-p9183
+[ANCHOR] clarity #00C8FF link://clarity/multiobjective-token-provenance-causal-maps-p9183
+[ANCHOR] learning #E6B800 link://learning/multiobjective-token-provenance-causal-maps-p9183
+[ANCHOR] alignment #33CCCC link://alignment/multiobjective-token-provenance-causal-maps-p9183
+
+TITLE: multiobjective-token-provenance-causal-maps-p9183
+SUMMARY: Research scaffold for multiobjective, token-provenance, causal-maps.
+
+LINKS:
+- https://maps.org/research/
+- https://frontiersin.org/journals/neuromorphic-engineering
+- https://tokyo-u.ac.jp/en/research
+
+EQUATIONS:
+- EQ029: Fourier transform -> F(ω)=∫ f(t)e^{-iωt}dt
+
+
+
+VALUATION:
+- Score: 0.572
+- Tier: bronze

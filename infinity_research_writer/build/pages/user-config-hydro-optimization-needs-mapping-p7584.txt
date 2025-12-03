@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/user-config-hydro-optimization-needs-mapping-p7584
+[ANCHOR] clarity #00C8FF link://clarity/user-config-hydro-optimization-needs-mapping-p7584
+[ANCHOR] alignment #33CCCC link://alignment/user-config-hydro-optimization-needs-mapping-p7584
+
+TITLE: user-config-hydro-optimization-needs-mapping-p7584
+SUMMARY: Research scaffold for user-config, hydro-optimization, needs-mapping.
+
+LINKS:
+- https://digital.library.yale.edu/
+- https://plos.org/
+- https://arxiv.org/archive/math
+
+EQUATIONS:
+- EQ045: Central limit theorem -> normalized sums→normal
+- EQ025: Softmax -> exp(z_i) / Σ exp(z)
+- EQ001: Linear program objective -> maximize c^T x subject to Ax <= b, x >= 0
+
+VALUATION:
+- Score: 0.594
+- Tier: bronze

@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/multiobjective-token-provenance-causal-maps-p3933
+[ANCHOR] clarity #00C8FF link://clarity/multiobjective-token-provenance-causal-maps-p3933
+[ANCHOR] learning #E6B800 link://learning/multiobjective-token-provenance-causal-maps-p3933
+[ANCHOR] alignment #33CCCC link://alignment/multiobjective-token-provenance-causal-maps-p3933
+
+TITLE: multiobjective-token-provenance-causal-maps-p3933
+SUMMARY: Research scaffold for multiobjective, token-provenance, causal-maps.
+
+LINKS:
+- https://heinonline.org/
+- https://mathworld.wolfram.com/
+- https://jamanetwork.com/journals/jamaneurology
+
+EQUATIONS:
+- EQ034: Poisson equation -> ∇²u = -ρ/ε
+- EQ012: Auction revenue equivalence -> symmetric independent private values
+
+
+VALUATION:
+- Score: 0.592
+- Tier: bronze

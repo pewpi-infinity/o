@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p3742
+[ANCHOR] clarity #00C8FF link://clarity/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p3742
+[ANCHOR] learning #E6B800 link://learning/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p3742
+[ANCHOR] alignment #33CCCC link://alignment/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p3742
+
+TITLE: trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p3742
+SUMMARY: Research scaffold for trial-evidence, clarity-tier, tier-gold, sparsity, security-threats.
+
+LINKS:
+- https://archeology.uiowa.edu/
+
+
+
+EQUATIONS:
+- EQ020: PCA -> eigenvectors of covariance Σ
+
+
+
+VALUATION:
+- Score: 0.605
+- Tier: silver

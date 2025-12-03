@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/battery-capacity-security-privacy-ceramics-durability-p9375
+[ANCHOR] capacity #00D67D link://capacity/battery-capacity-security-privacy-ceramics-durability-p9375
+[ANCHOR] clarity #00C8FF link://clarity/battery-capacity-security-privacy-ceramics-durability-p9375
+[ANCHOR] provenance #7D4DF2 link://provenance/battery-capacity-security-privacy-ceramics-durability-p9375
+[ANCHOR] risk #FF3B3B link://risk/battery-capacity-security-privacy-ceramics-durability-p9375
+
+TITLE: battery-capacity-security-privacy-ceramics-durability-p9375
+SUMMARY: Research scaffold for battery-capacity, security-privacy, ceramics-durability.
+
+LINKS:
+- https://coursera.org/browse/math-and-logic
+- https://uclpress.co.uk/
+
+
+EQUATIONS:
+- EQ023: Cross entropy -> -Σ y log p
+- EQ046: Markov inequality -> P(X≥a) ≤ E[X]/a
+
+
+VALUATION:
+- Score: 0.606
+- Tier: silver

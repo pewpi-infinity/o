@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/evidence-priority-ethics-alignment-p8218
+[ANCHOR] ethics #FF6A00 link://ethics/evidence-priority-ethics-alignment-p8218
+[ANCHOR] clarity #00C8FF link://clarity/evidence-priority-ethics-alignment-p8218
+[ANCHOR] provenance #7D4DF2 link://provenance/evidence-priority-ethics-alignment-p8218
+[ANCHOR] scope #6066FF link://scope/evidence-priority-ethics-alignment-p8218
+
+TITLE: evidence-priority-ethics-alignment-p8218
+SUMMARY: Research scaffold for evidence-priority, ethics-alignment.
+
+LINKS:
+- https://nature.com/subjects/physics
+- https://un.org/en/research
+
+
+EQUATIONS:
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+- EQ046: Markov inequality -> P(X≥a) ≤ E[X]/a
+
+
+VALUATION:
+- Score: 0.569
+- Tier: bronze

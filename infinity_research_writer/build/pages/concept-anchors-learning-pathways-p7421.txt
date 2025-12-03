@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/concept-anchors-learning-pathways-p7421
+[ANCHOR] clarity #00C8FF link://clarity/concept-anchors-learning-pathways-p7421
+[ANCHOR] learning #E6B800 link://learning/concept-anchors-learning-pathways-p7421
+[ANCHOR] alignment #33CCCC link://alignment/concept-anchors-learning-pathways-p7421
+
+TITLE: concept-anchors-learning-pathways-p7421
+SUMMARY: Research scaffold for concept-anchors, learning-pathways.
+
+LINKS:
+- https://cam.ac.uk/research
+- https://digital.bodleian.ox.ac.uk/
+- https://scholar.google.com/
+
+EQUATIONS:
+- EQ020: PCA -> eigenvectors of covariance Σ
+- EQ032: Heat equation -> ∂u/∂t = α∇²u
+- EQ049: Moment generating function -> M(t)=E[e^{tX}]
+
+VALUATION:
+- Score: 0.589
+- Tier: bronze

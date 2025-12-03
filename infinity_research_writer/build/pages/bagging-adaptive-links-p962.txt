@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/bagging-adaptive-links-p962
+[ANCHOR] clarity #00C8FF link://clarity/bagging-adaptive-links-p962
+[ANCHOR] alignment #33CCCC link://alignment/bagging-adaptive-links-p962
+
+TITLE: bagging-adaptive-links-p962
+SUMMARY: Research scaffold for bagging, adaptive-links.
+
+LINKS:
+- https://frontiersin.org/journals/neuromorphic-engineering
+- https://cern.ch/
+- https://digital-scriptorium.org/
+
+EQUATIONS:
+- EQ021: SVD -> A = UΣVᵀ
+- EQ044: Law of large numbers -> sample mean→μ
+
+
+VALUATION:
+- Score: 0.526
+- Tier: bronze

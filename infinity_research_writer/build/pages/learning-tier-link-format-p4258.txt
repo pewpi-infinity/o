@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/learning-tier-link-format-p4258
+[ANCHOR] clarity #00C8FF link://clarity/learning-tier-link-format-p4258
+[ANCHOR] learning #E6B800 link://learning/learning-tier-link-format-p4258
+[ANCHOR] alignment #33CCCC link://alignment/learning-tier-link-format-p4258
+
+TITLE: learning-tier-link-format-p4258
+SUMMARY: Research scaffold for learning-tier, link-format.
+
+LINKS:
+- https://computational-neuroscience.org/publications/
+- https://openlibrary.org/
+- https://paleobiology.si.edu/
+
+EQUATIONS:
+- EQ039: Matrix invertibility -> det(A) ≠ 0
+- EQ048: Jensen's inequality -> φ(E[X]) ≤ E[φ(X)]
+- EQ031: Laplace transform -> ∫f(t)e^{-st}dt
+
+VALUATION:
+- Score: 0.565
+- Tier: bronze

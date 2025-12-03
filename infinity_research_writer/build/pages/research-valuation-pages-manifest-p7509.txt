@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/research-valuation-pages-manifest-p7509
+[ANCHOR] clarity #00C8FF link://clarity/research-valuation-pages-manifest-p7509
+[ANCHOR] alignment #33CCCC link://alignment/research-valuation-pages-manifest-p7509
+
+TITLE: research-valuation-pages-manifest-p7509
+SUMMARY: Research scaffold for research-valuation, pages-manifest.
+
+LINKS:
+- https://nsf.gov/
+- https://clinicaltrials.gov/
+
+
+EQUATIONS:
+- EQ013: Markov chain stationary distribution -> π = πP
+- EQ041: Gaussian distribution -> (1/√2πσ²)e^{-(x-μ)²/2σ²}
+
+
+VALUATION:
+- Score: 0.529
+- Tier: bronze

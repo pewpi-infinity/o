@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/transport-routing-scope-limits-query-intent-citation-style-p9401
+[ANCHOR] clarity #00C8FF link://clarity/transport-routing-scope-limits-query-intent-citation-style-p9401
+[ANCHOR] alignment #33CCCC link://alignment/transport-routing-scope-limits-query-intent-citation-style-p9401
+
+TITLE: transport-routing-scope-limits-query-intent-citation-style-p9401
+SUMMARY: Research scaffold for transport-routing, scope-limits, query-intent, citation-style.
+
+LINKS:
+- https://mayoclinic.org/
+- https://drugpolicy.org/resource-library
+- https://openei.org/
+
+EQUATIONS:
+- EQ021: SVD -> A = UΣVᵀ
+- EQ038: Determinant expansion -> Σ permutations
+- EQ012: Auction revenue equivalence -> symmetric independent private values
+
+VALUATION:
+- Score: 0.631
+- Tier: silver

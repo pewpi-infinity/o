@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/nonconvex-landscapes-bias-detection-p7668
+[ANCHOR] clarity #00C8FF link://clarity/nonconvex-landscapes-bias-detection-p7668
+[ANCHOR] alignment #33CCCC link://alignment/nonconvex-landscapes-bias-detection-p7668
+
+TITLE: nonconvex-landscapes-bias-detection-p7668
+SUMMARY: Research scaffold for nonconvex-landscapes, bias-detection.
+
+LINKS:
+- https://pnas.org/
+- https://who.int/research
+- https://nyu.edu/research
+
+EQUATIONS:
+- EQ041: Gaussian distribution -> (1/√2πσ²)e^{-(x-μ)²/2σ²}
+
+
+
+VALUATION:
+- Score: 0.508
+- Tier: bronze

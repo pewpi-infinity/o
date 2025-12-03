@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Backup Capsule</title>
+    <script src="../js/ipfs_init.js"></script>
+    <script src="../js/ipfs_capsule_upload.js"></script>
+</head>
+<body>
+
+<h2>Backup Infinity Capsule</h2>
+<input type="file" id="capFile">
+<button onclick="backupCapsule()">Upload</button>
+
+<script>
+async function backupCapsule(){
+    let f = document.getElementById("capFile").files[0];
+    if (!f){ alert("Select a capsule file first."); return; }
+    await uploadCapsuleIPFS(f);
+}
+</script>
+
+</body>
+</html>

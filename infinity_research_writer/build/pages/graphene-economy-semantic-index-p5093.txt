@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/graphene-economy-semantic-index-p5093
+[ANCHOR] capacity #00D67D link://capacity/graphene-economy-semantic-index-p5093
+[ANCHOR] clarity #00C8FF link://clarity/graphene-economy-semantic-index-p5093
+[ANCHOR] provenance #7D4DF2 link://provenance/graphene-economy-semantic-index-p5093
+[ANCHOR] risk #FF3B3B link://risk/graphene-economy-semantic-index-p5093
+
+TITLE: graphene-economy-semantic-index-p5093
+SUMMARY: Research scaffold for graphene-economy, semantic-index.
+
+LINKS:
+- https://nature.com/subjects/cardiology
+
+
+
+EQUATIONS:
+- EQ027: Entropy -> -Σ p log p
+- EQ028: Mutual information -> I(X;Y) = H(X)+H(Y)-H(X,Y)
+
+
+VALUATION:
+- Score: 0.504
+- Tier: bronze

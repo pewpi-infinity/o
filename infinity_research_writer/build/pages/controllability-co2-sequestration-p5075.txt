@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/controllability-co2-sequestration-p5075
+[ANCHOR] clarity #00C8FF link://clarity/controllability-co2-sequestration-p5075
+[ANCHOR] alignment #33CCCC link://alignment/controllability-co2-sequestration-p5075
+
+TITLE: controllability-co2-sequestration-p5075
+SUMMARY: Research scaffold for controllability, co2-sequestration.
+
+LINKS:
+- https://nature.com/subjects/atmospheric-science
+- https://cell.com/
+- https://beckerfreidman.uchicago.edu/research/
+
+EQUATIONS:
+- EQ006: Stability -> Re(λ_i(A)) < 0 for continuous systems
+- EQ022: Logistic regression -> σ(wᵀx)
+- EQ036: Schrödinger equation -> iħ∂ψ/∂t = Hψ
+
+VALUATION:
+- Score: 0.579
+- Tier: bronze

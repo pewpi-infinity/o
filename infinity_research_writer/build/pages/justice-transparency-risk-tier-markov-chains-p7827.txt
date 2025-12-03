@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/justice-transparency-risk-tier-markov-chains-p7827
+[ANCHOR] ethics #FF6A00 link://ethics/justice-transparency-risk-tier-markov-chains-p7827
+[ANCHOR] clarity #00C8FF link://clarity/justice-transparency-risk-tier-markov-chains-p7827
+[ANCHOR] provenance #7D4DF2 link://provenance/justice-transparency-risk-tier-markov-chains-p7827
+[ANCHOR] scope #6066FF link://scope/justice-transparency-risk-tier-markov-chains-p7827
+
+TITLE: justice-transparency-risk-tier-markov-chains-p7827
+SUMMARY: Research scaffold for justice-transparency, risk-tier, markov-chains.
+
+LINKS:
+- https://cell.com/trends/biochemical-sciences
+
+
+
+EQUATIONS:
+- EQ036: Schrödinger equation -> iħ∂ψ/∂t = Hψ
+- EQ011: Mechanism incentive compatibility -> truth-telling maximizes utility
+
+
+VALUATION:
+- Score: 0.545
+- Tier: bronze

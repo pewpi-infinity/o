@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scope-boundaries-security-zerotrust-p1690
+[ANCHOR] clarity #00C8FF link://clarity/scope-boundaries-security-zerotrust-p1690
+[ANCHOR] alignment #33CCCC link://alignment/scope-boundaries-security-zerotrust-p1690
+
+TITLE: scope-boundaries-security-zerotrust-p1690
+SUMMARY: Research scaffold for scope-boundaries, security-zerotrust.
+
+LINKS:
+- https://springer.com/gp/biomedicine
+- https://pnas.org/
+- https://doaj.org/
+
+EQUATIONS:
+- EQ013: Markov chain stationary distribution -> π = πP
+
+
+
+VALUATION:
+- Score: 0.539
+- Tier: bronze

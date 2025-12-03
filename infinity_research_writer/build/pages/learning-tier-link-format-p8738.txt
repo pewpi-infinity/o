@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/learning-tier-link-format-p8738
+[ANCHOR] clarity #00C8FF link://clarity/learning-tier-link-format-p8738
+[ANCHOR] learning #E6B800 link://learning/learning-tier-link-format-p8738
+[ANCHOR] alignment #33CCCC link://alignment/learning-tier-link-format-p8738
+
+TITLE: learning-tier-link-format-p8738
+SUMMARY: Research scaffold for learning-tier, link-format.
+
+LINKS:
+- https://ucl.ac.uk/research
+
+
+
+EQUATIONS:
+- EQ043: Chi-square distribution -> special gamma
+
+
+
+VALUATION:
+- Score: 0.458
+- Tier: bronze

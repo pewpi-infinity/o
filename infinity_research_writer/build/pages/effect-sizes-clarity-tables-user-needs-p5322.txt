@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/effect-sizes-clarity-tables-user-needs-p5322
+[ANCHOR] clarity #00C8FF link://clarity/effect-sizes-clarity-tables-user-needs-p5322
+[ANCHOR] learning #E6B800 link://learning/effect-sizes-clarity-tables-user-needs-p5322
+[ANCHOR] alignment #33CCCC link://alignment/effect-sizes-clarity-tables-user-needs-p5322
+
+TITLE: effect-sizes-clarity-tables-user-needs-p5322
+SUMMARY: Research scaffold for effect-sizes, clarity-tables, user-needs.
+
+LINKS:
+- https://uscourts.gov/statistics-reports
+- https://biorxiv.org/
+
+
+EQUATIONS:
+- EQ025: Softmax -> exp(z_i) / Σ exp(z)
+
+
+
+VALUATION:
+- Score: 0.536
+- Tier: bronze

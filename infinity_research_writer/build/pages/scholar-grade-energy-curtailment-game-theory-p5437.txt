@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scholar-grade-energy-curtailment-game-theory-p5437
+[ANCHOR] clarity #00C8FF link://clarity/scholar-grade-energy-curtailment-game-theory-p5437
+[ANCHOR] alignment #33CCCC link://alignment/scholar-grade-energy-curtailment-game-theory-p5437
+
+TITLE: scholar-grade-energy-curtailment-game-theory-p5437
+SUMMARY: Research scaffold for scholar-grade, energy-curtailment, game-theory.
+
+LINKS:
+- https://heinonline.org/
+- https://openreview.net/
+- https://drugabuse.gov/publications
+
+EQUATIONS:
+- EQ022: Logistic regression -> σ(wᵀx)
+- EQ017: L1 regularization -> minimize ||y-Xβ||² + λ||β||₁
+- EQ038: Determinant expansion -> Σ permutations
+
+VALUATION:
+- Score: 0.591
+- Tier: bronze

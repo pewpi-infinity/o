@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/anchor-ledger-wind-grid-p4069
+[ANCHOR] clarity #00C8FF link://clarity/anchor-ledger-wind-grid-p4069
+[ANCHOR] alignment #33CCCC link://alignment/anchor-ledger-wind-grid-p4069
+
+TITLE: anchor-ledger-wind-grid-p4069
+SUMMARY: Research scaffold for anchor-ledger, wind-grid.
+
+LINKS:
+- https://psychedelics.ucsf.edu/research
+- https://ieeexplore.ieee.org/
+- https://wolframalpha.com/examples/mathematics
+
+EQUATIONS:
+- EQ045: Central limit theorem -> normalized sums→normal
+- EQ037: Eigenvalue problem -> Ax = λx
+
+
+VALUATION:
+- Score: 0.545
+- Tier: bronze

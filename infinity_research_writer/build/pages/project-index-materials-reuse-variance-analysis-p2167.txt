@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/project-index-materials-reuse-variance-analysis-p2167
+[ANCHOR] clarity #00C8FF link://clarity/project-index-materials-reuse-variance-analysis-p2167
+[ANCHOR] alignment #33CCCC link://alignment/project-index-materials-reuse-variance-analysis-p2167
+
+TITLE: project-index-materials-reuse-variance-analysis-p2167
+SUMMARY: Research scaffold for project-index, materials-reuse, variance-analysis.
+
+LINKS:
+- https://zenodo.org/
+- https://ideas.repec.org/
+
+
+EQUATIONS:
+- EQ010: Nash equilibrium -> best response mappings intersect
+- EQ049: Moment generating function -> M(t)=E[e^{tX}]
+
+
+VALUATION:
+- Score: 0.540
+- Tier: bronze

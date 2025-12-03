@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/paper-index-silicon-fabs-grade-metrics-grid-congestion-p7951
+[ANCHOR] clarity #00C8FF link://clarity/paper-index-silicon-fabs-grade-metrics-grid-congestion-p7951
+[ANCHOR] alignment #33CCCC link://alignment/paper-index-silicon-fabs-grade-metrics-grid-congestion-p7951
+
+TITLE: paper-index-silicon-fabs-grade-metrics-grid-congestion-p7951
+SUMMARY: Research scaffold for paper-index, silicon-fabs, grade-metrics, grid-congestion.
+
+LINKS:
+- https://nature.com/subjects/atmospheric-science
+
+
+
+EQUATIONS:
+- EQ022: Logistic regression -> σ(wᵀx)
+- EQ027: Entropy -> -Σ p log p
+- EQ013: Markov chain stationary distribution -> π = πP
+
+VALUATION:
+- Score: 0.595
+- Tier: bronze

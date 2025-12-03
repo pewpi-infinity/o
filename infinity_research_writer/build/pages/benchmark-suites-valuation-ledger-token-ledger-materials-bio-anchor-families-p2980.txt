@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/benchmark-suites-valuation-ledger-token-ledger-materials-bio-anchor-families-p2980
+[ANCHOR] clarity #00C8FF link://clarity/benchmark-suites-valuation-ledger-token-ledger-materials-bio-anchor-families-p2980
+[ANCHOR] alignment #33CCCC link://alignment/benchmark-suites-valuation-ledger-token-ledger-materials-bio-anchor-families-p2980
+
+TITLE: benchmark-suites-valuation-ledger-token-ledger-materials-bio-anchor-families-p2980
+SUMMARY: Research scaffold for benchmark-suites, valuation-ledger, token-ledger, materials-bio, anchor-families.
+
+LINKS:
+- https://erowid.org/chemicals/
+- https://ipcc.ch/
+- https://usgs.gov/products/publications
+
+EQUATIONS:
+- EQ017: L1 regularization -> minimize ||y-Xβ||² + λ||β||₁
+- EQ022: Logistic regression -> σ(wᵀx)
+- EQ013: Markov chain stationary distribution -> π = πP
+
+VALUATION:
+- Score: 0.705
+- Tier: silver

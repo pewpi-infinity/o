@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/materials-circularity-concept-families-zip-inner-resources-p8672
+[ANCHOR] clarity #00C8FF link://clarity/materials-circularity-concept-families-zip-inner-resources-p8672
+[ANCHOR] alignment #33CCCC link://alignment/materials-circularity-concept-families-zip-inner-resources-p8672
+
+TITLE: materials-circularity-concept-families-zip-inner-resources-p8672
+SUMMARY: Research scaffold for materials-circularity, concept-families, zip-inner-resources.
+
+LINKS:
+- https://journals.sagepub.com/home/his
+- https://ethz.ch/en/research.html
+
+
+EQUATIONS:
+- EQ021: SVD -> A = UΣVᵀ
+- EQ013: Markov chain stationary distribution -> π = πP
+
+
+VALUATION:
+- Score: 0.567
+- Tier: bronze

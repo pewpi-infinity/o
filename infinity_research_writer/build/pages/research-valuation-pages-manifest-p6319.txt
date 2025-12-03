@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/research-valuation-pages-manifest-p6319
+[ANCHOR] clarity #00C8FF link://clarity/research-valuation-pages-manifest-p6319
+[ANCHOR] alignment #33CCCC link://alignment/research-valuation-pages-manifest-p6319
+
+TITLE: research-valuation-pages-manifest-p6319
+SUMMARY: Research scaffold for research-valuation, pages-manifest.
+
+LINKS:
+- https://neuron.yale.edu/neuron/
+
+
+
+EQUATIONS:
+- EQ020: PCA -> eigenvectors of covariance Σ
+- EQ005: Spectral radius -> ρ(A) = max |λ_i(A)|
+- EQ035: Maxwell equations (set of 4)
+
+VALUATION:
+- Score: 0.505
+- Tier: bronze

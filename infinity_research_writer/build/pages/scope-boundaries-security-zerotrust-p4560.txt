@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scope-boundaries-security-zerotrust-p4560
+[ANCHOR] clarity #00C8FF link://clarity/scope-boundaries-security-zerotrust-p4560
+[ANCHOR] alignment #33CCCC link://alignment/scope-boundaries-security-zerotrust-p4560
+
+TITLE: scope-boundaries-security-zerotrust-p4560
+SUMMARY: Research scaffold for scope-boundaries, security-zerotrust.
+
+LINKS:
+- https://frontiersin.org/journals/neuroscience
+- https://plos.org/
+
+
+EQUATIONS:
+- EQ035: Maxwell equations (set of 4)
+
+
+
+VALUATION:
+- Score: 0.476
+- Tier: bronze

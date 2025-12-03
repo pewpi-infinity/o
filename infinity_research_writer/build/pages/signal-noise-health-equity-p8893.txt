@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/signal-noise-health-equity-p8893
+[ANCHOR] clarity #00C8FF link://clarity/signal-noise-health-equity-p8893
+[ANCHOR] alignment #33CCCC link://alignment/signal-noise-health-equity-p8893
+
+TITLE: signal-noise-health-equity-p8893
+SUMMARY: Research scaffold for signal-noise, health-equity.
+
+LINKS:
+- https://nasa.gov/
+- https://harvard.edu/research
+
+
+EQUATIONS:
+- EQ005: Spectral radius -> ρ(A) = max |λ_i(A)|
+
+
+
+VALUATION:
+- Score: 0.473
+- Tier: bronze

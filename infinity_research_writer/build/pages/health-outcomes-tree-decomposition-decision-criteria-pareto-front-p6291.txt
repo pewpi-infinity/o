@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/health-outcomes-tree-decomposition-decision-criteria-pareto-front-p6291
+[ANCHOR] clarity #00C8FF link://clarity/health-outcomes-tree-decomposition-decision-criteria-pareto-front-p6291
+[ANCHOR] alignment #33CCCC link://alignment/health-outcomes-tree-decomposition-decision-criteria-pareto-front-p6291
+
+TITLE: health-outcomes-tree-decomposition-decision-criteria-pareto-front-p6291
+SUMMARY: Research scaffold for health-outcomes, tree-decomposition, decision-criteria, pareto-front.
+
+LINKS:
+- https://terrytao.wordpress.com/
+- https://imf.org/en/Publications
+
+
+EQUATIONS:
+- EQ044: Law of large numbers -> sample mean→μ
+
+
+
+VALUATION:
+- Score: 0.557
+- Tier: bronze

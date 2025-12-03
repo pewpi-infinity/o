@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/nonconvex-landscapes-bias-detection-p2628
+[ANCHOR] clarity #00C8FF link://clarity/nonconvex-landscapes-bias-detection-p2628
+[ANCHOR] alignment #33CCCC link://alignment/nonconvex-landscapes-bias-detection-p2628
+
+TITLE: nonconvex-landscapes-bias-detection-p2628
+SUMMARY: Research scaffold for nonconvex-landscapes, bias-detection.
+
+LINKS:
+- https://frontiersin.org/journals/neuromorphic-engineering
+- https://iop.org/journals
+- https://agu.org/Publish-with-AGU/Journals
+
+EQUATIONS:
+- EQ049: Moment generating function -> M(t)=E[e^{tX}]
+
+
+
+VALUATION:
+- Score: 0.508
+- Tier: bronze

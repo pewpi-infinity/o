@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/source-diversity-seasonality-ensembles-p1466
+[ANCHOR] clarity #00C8FF link://clarity/source-diversity-seasonality-ensembles-p1466
+[ANCHOR] alignment #33CCCC link://alignment/source-diversity-seasonality-ensembles-p1466
+
+TITLE: source-diversity-seasonality-ensembles-p1466
+SUMMARY: Research scaffold for source-diversity, seasonality, ensembles.
+
+LINKS:
+- https://sciencedirect.com/book-series
+- https://synapse.org/
+- https://soton.ac.uk/research
+
+EQUATIONS:
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+- EQ049: Moment generating function -> M(t)=E[e^{tX}]
+- EQ004: KKT conditions -> ∇f(x*) + A^T λ* = 0, Ax* <= b, λ* >= 0, λ*^T (Ax* - b) = 0
+
+VALUATION:
+- Score: 0.691
+- Tier: silver

@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/effect-sizes-clarity-tables-user-needs-p3082
+[ANCHOR] clarity #00C8FF link://clarity/effect-sizes-clarity-tables-user-needs-p3082
+[ANCHOR] learning #E6B800 link://learning/effect-sizes-clarity-tables-user-needs-p3082
+[ANCHOR] alignment #33CCCC link://alignment/effect-sizes-clarity-tables-user-needs-p3082
+
+TITLE: effect-sizes-clarity-tables-user-needs-p3082
+SUMMARY: Research scaffold for effect-sizes, clarity-tables, user-needs.
+
+LINKS:
+- https://ssrn.com/en/index.cfm/lsn-legal-studies/
+- https://ancient.eu/
+- https://nature.com/subjects/chemistry
+
+EQUATIONS:
+- EQ044: Law of large numbers -> sample mean→μ
+- EQ024: Gradient descent -> θ ← θ - α∇J(θ)
+- EQ046: Markov inequality -> P(X≥a) ≤ E[X]/a
+
+VALUATION:
+- Score: 0.639
+- Tier: silver

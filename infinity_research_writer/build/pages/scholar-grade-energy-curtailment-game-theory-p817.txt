@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scholar-grade-energy-curtailment-game-theory-p817
+[ANCHOR] clarity #00C8FF link://clarity/scholar-grade-energy-curtailment-game-theory-p817
+[ANCHOR] alignment #33CCCC link://alignment/scholar-grade-energy-curtailment-game-theory-p817
+
+TITLE: scholar-grade-energy-curtailment-game-theory-p817
+SUMMARY: Research scaffold for scholar-grade, energy-curtailment, game-theory.
+
+LINKS:
+- https://oecd.org/statistics/
+- https://physics.aps.org/
+
+
+EQUATIONS:
+- EQ035: Maxwell equations (set of 4)
+- EQ045: Central limit theorem -> normalized sums→normal
+- EQ041: Gaussian distribution -> (1/√2πσ²)e^{-(x-μ)²/2σ²}
+
+VALUATION:
+- Score: 0.557
+- Tier: bronze

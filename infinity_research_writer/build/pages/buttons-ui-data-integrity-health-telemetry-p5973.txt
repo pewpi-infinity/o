@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/buttons-ui-data-integrity-health-telemetry-p5973
+[ANCHOR] clarity #00C8FF link://clarity/buttons-ui-data-integrity-health-telemetry-p5973
+[ANCHOR] alignment #33CCCC link://alignment/buttons-ui-data-integrity-health-telemetry-p5973
+
+TITLE: buttons-ui-data-integrity-health-telemetry-p5973
+SUMMARY: Research scaffold for buttons-ui, data-integrity, health-telemetry.
+
+LINKS:
+- https://alleninstitute.org/what-we-do/brain-science/
+- https://apa.org/research
+- https://link.springer.com/
+
+EQUATIONS:
+- EQ046: Markov inequality -> P(X≥a) ≤ E[X]/a
+- EQ044: Law of large numbers -> sample mean→μ
+
+
+VALUATION:
+- Score: 0.601
+- Tier: silver

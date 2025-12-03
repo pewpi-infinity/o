@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/color-links-term-filters-evidence-chains-p7322
+[ANCHOR] clarity #00C8FF link://clarity/color-links-term-filters-evidence-chains-p7322
+[ANCHOR] alignment #33CCCC link://alignment/color-links-term-filters-evidence-chains-p7322
+
+TITLE: color-links-term-filters-evidence-chains-p7322
+SUMMARY: Research scaffold for color-links, term-filters, evidence-chains.
+
+LINKS:
+- https://jamanetwork.com/
+- https://ucla.edu/research
+- https://mlr.press/
+
+EQUATIONS:
+- EQ045: Central limit theorem -> normalized sums→normal
+- EQ041: Gaussian distribution -> (1/√2πσ²)e^{-(x-μ)²/2σ²}
+
+
+VALUATION:
+- Score: 0.571
+- Tier: bronze

@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/evidence-priority-ethics-alignment-p3038
+[ANCHOR] ethics #FF6A00 link://ethics/evidence-priority-ethics-alignment-p3038
+[ANCHOR] clarity #00C8FF link://clarity/evidence-priority-ethics-alignment-p3038
+[ANCHOR] provenance #7D4DF2 link://provenance/evidence-priority-ethics-alignment-p3038
+[ANCHOR] scope #6066FF link://scope/evidence-priority-ethics-alignment-p3038
+
+TITLE: evidence-priority-ethics-alignment-p3038
+SUMMARY: Research scaffold for evidence-priority, ethics-alignment.
+
+LINKS:
+- https://onlinelibrary.wiley.com/
+- https://neuron.yale.edu/neuron/
+
+
+EQUATIONS:
+- EQ036: Schrödinger equation -> iħ∂ψ/∂t = Hψ
+- EQ050: Characteristic function -> E[e^{itX}]
+
+
+VALUATION:
+- Score: 0.539
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/bayes-inference-meta-analysis-project-value-p2545
+[ANCHOR] clarity #00C8FF link://clarity/bayes-inference-meta-analysis-project-value-p2545
+[ANCHOR] alignment #33CCCC link://alignment/bayes-inference-meta-analysis-project-value-p2545
+
+TITLE: bayes-inference-meta-analysis-project-value-p2545
+SUMMARY: Research scaffold for bayes-inference, meta-analysis, project-value.
+
+LINKS:
+- https://neuroscience.ox.ac.uk/research
+
+
+
+EQUATIONS:
+- EQ030: Convolution -> (f*g)(t)=∫f(τ)g(t-τ)dτ
+- EQ003: Lagrangian -> L(x, λ) = f(x) + λ^T (Ax - b)
+- EQ005: Spectral radius -> ρ(A) = max |λ_i(A)|
+
+VALUATION:
+- Score: 0.577
+- Tier: bronze

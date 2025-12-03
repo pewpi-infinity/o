@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/color-links-term-filters-evidence-chains-p8652
+[ANCHOR] clarity #00C8FF link://clarity/color-links-term-filters-evidence-chains-p8652
+[ANCHOR] alignment #33CCCC link://alignment/color-links-term-filters-evidence-chains-p8652
+
+TITLE: color-links-term-filters-evidence-chains-p8652
+SUMMARY: Research scaffold for color-links, term-filters, evidence-chains.
+
+LINKS:
+- https://frontiersin.org/journals/neuroscience
+- https://openreview.net/
+
+
+EQUATIONS:
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+- EQ004: KKT conditions -> ∇f(x*) + A^T λ* = 0, Ax* <= b, λ* >= 0, λ*^T (Ax* - b) = 0
+
+
+VALUATION:
+- Score: 0.587
+- Tier: bronze

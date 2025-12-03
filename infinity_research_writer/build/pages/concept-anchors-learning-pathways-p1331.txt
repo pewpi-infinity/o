@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/concept-anchors-learning-pathways-p1331
+[ANCHOR] clarity #00C8FF link://clarity/concept-anchors-learning-pathways-p1331
+[ANCHOR] learning #E6B800 link://learning/concept-anchors-learning-pathways-p1331
+[ANCHOR] alignment #33CCCC link://alignment/concept-anchors-learning-pathways-p1331
+
+TITLE: concept-anchors-learning-pathways-p1331
+SUMMARY: Research scaffold for concept-anchors, learning-pathways.
+
+LINKS:
+- https://gazzaleylab.ucsf.edu/publications
+
+
+
+EQUATIONS:
+- EQ008: Observability -> rank([C; CA; CA^2; ...; CA^{n-1}]) = n
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+
+
+VALUATION:
+- Score: 0.532
+- Tier: bronze

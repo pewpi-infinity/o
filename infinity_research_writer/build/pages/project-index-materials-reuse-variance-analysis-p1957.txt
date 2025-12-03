@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/project-index-materials-reuse-variance-analysis-p1957
+[ANCHOR] clarity #00C8FF link://clarity/project-index-materials-reuse-variance-analysis-p1957
+[ANCHOR] alignment #33CCCC link://alignment/project-index-materials-reuse-variance-analysis-p1957
+
+TITLE: project-index-materials-reuse-variance-analysis-p1957
+SUMMARY: Research scaffold for project-index, materials-reuse, variance-analysis.
+
+LINKS:
+- https://plos.org/
+- https://gutenberg.org/
+
+
+EQUATIONS:
+- EQ018: Ridge regression -> minimize ||y-Xβ||² + λ||β||²
+- EQ023: Cross entropy -> -Σ y log p
+
+
+VALUATION:
+- Score: 0.560
+- Tier: bronze

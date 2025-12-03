@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/research-valuation-pages-manifest-p9399
+[ANCHOR] clarity #00C8FF link://clarity/research-valuation-pages-manifest-p9399
+[ANCHOR] alignment #33CCCC link://alignment/research-valuation-pages-manifest-p9399
+
+TITLE: research-valuation-pages-manifest-p9399
+SUMMARY: Research scaffold for research-valuation, pages-manifest.
+
+LINKS:
+- https://mlr.press/
+- https://zenodo.org/
+
+
+EQUATIONS:
+- EQ021: SVD -> A = UΣVᵀ
+- EQ023: Cross entropy -> -Σ y log p
+
+
+VALUATION:
+- Score: 0.499
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/project-index-materials-reuse-variance-analysis-p7767
+[ANCHOR] clarity #00C8FF link://clarity/project-index-materials-reuse-variance-analysis-p7767
+[ANCHOR] alignment #33CCCC link://alignment/project-index-materials-reuse-variance-analysis-p7767
+
+TITLE: project-index-materials-reuse-variance-analysis-p7767
+SUMMARY: Research scaffold for project-index, materials-reuse, variance-analysis.
+
+LINKS:
+- https://royalsocietypublishing.org/journal/rspb
+- https://frontiersin.org/journals/neuroscience
+- https://synapse.org/
+
+EQUATIONS:
+- EQ001: Linear program objective -> maximize c^T x subject to Ax <= b, x >= 0
+- EQ006: Stability -> Re(λ_i(A)) < 0 for continuous systems
+- EQ032: Heat equation -> ∂u/∂t = α∇²u
+
+VALUATION:
+- Score: 0.624
+- Tier: silver

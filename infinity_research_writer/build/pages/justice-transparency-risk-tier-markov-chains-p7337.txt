@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/justice-transparency-risk-tier-markov-chains-p7337
+[ANCHOR] ethics #FF6A00 link://ethics/justice-transparency-risk-tier-markov-chains-p7337
+[ANCHOR] clarity #00C8FF link://clarity/justice-transparency-risk-tier-markov-chains-p7337
+[ANCHOR] provenance #7D4DF2 link://provenance/justice-transparency-risk-tier-markov-chains-p7337
+[ANCHOR] scope #6066FF link://scope/justice-transparency-risk-tier-markov-chains-p7337
+
+TITLE: justice-transparency-risk-tier-markov-chains-p7337
+SUMMARY: Research scaffold for justice-transparency, risk-tier, markov-chains.
+
+LINKS:
+- https://oxfordhandbooks.com/
+
+
+
+EQUATIONS:
+- EQ004: KKT conditions -> ∇f(x*) + A^T λ* = 0, Ax* <= b, λ* >= 0, λ*^T (Ax* - b) = 0
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+
+VALUATION:
+- Score: 0.695
+- Tier: silver

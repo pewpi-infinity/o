@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/color-links-term-filters-evidence-chains-p8722
+[ANCHOR] clarity #00C8FF link://clarity/color-links-term-filters-evidence-chains-p8722
+[ANCHOR] alignment #33CCCC link://alignment/color-links-term-filters-evidence-chains-p8722
+
+TITLE: color-links-term-filters-evidence-chains-p8722
+SUMMARY: Research scaffold for color-links, term-filters, evidence-chains.
+
+LINKS:
+- https://nature.com/subjects/physics
+- https://jamanetwork.com/journals/jamacardiology
+
+
+EQUATIONS:
+- EQ003: Lagrangian -> L(x, λ) = f(x) + λ^T (Ax - b)
+- EQ012: Auction revenue equivalence -> symmetric independent private values
+- EQ017: L1 regularization -> minimize ||y-Xβ||² + λ||β||₁
+
+VALUATION:
+- Score: 0.607
+- Tier: silver

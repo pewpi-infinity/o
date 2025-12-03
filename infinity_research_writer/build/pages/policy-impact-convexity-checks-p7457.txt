@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/policy-impact-convexity-checks-p7457
+[ANCHOR] clarity #00C8FF link://clarity/policy-impact-convexity-checks-p7457
+[ANCHOR] alignment #33CCCC link://alignment/policy-impact-convexity-checks-p7457
+
+TITLE: policy-impact-convexity-checks-p7457
+SUMMARY: Research scaffold for policy-impact, convexity-checks.
+
+LINKS:
+- https://mlr.press/
+- https://archive.org/
+- https://heinonline.org/
+
+EQUATIONS:
+- ...
+- EQ045: Central limit theorem -> normalized sums→normal
+
+
+VALUATION:
+- Score: 0.531
+- Tier: bronze

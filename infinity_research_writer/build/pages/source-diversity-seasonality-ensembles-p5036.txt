@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/source-diversity-seasonality-ensembles-p5036
+[ANCHOR] clarity #00C8FF link://clarity/source-diversity-seasonality-ensembles-p5036
+[ANCHOR] alignment #33CCCC link://alignment/source-diversity-seasonality-ensembles-p5036
+
+TITLE: source-diversity-seasonality-ensembles-p5036
+SUMMARY: Research scaffold for source-diversity, seasonality, ensembles.
+
+LINKS:
+- https://numismatics.org/
+- https://biorxiv.org/
+- https://qmul.ac.uk/research
+
+EQUATIONS:
+- EQ032: Heat equation -> ∂u/∂t = α∇²u
+- EQ021: SVD -> A = UΣVᵀ
+
+
+VALUATION:
+- Score: 0.571
+- Tier: bronze

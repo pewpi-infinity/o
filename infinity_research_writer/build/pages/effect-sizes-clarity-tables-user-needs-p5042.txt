@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/effect-sizes-clarity-tables-user-needs-p5042
+[ANCHOR] clarity #00C8FF link://clarity/effect-sizes-clarity-tables-user-needs-p5042
+[ANCHOR] learning #E6B800 link://learning/effect-sizes-clarity-tables-user-needs-p5042
+[ANCHOR] alignment #33CCCC link://alignment/effect-sizes-clarity-tables-user-needs-p5042
+
+TITLE: effect-sizes-clarity-tables-user-needs-p5042
+SUMMARY: Research scaffold for effect-sizes, clarity-tables, user-needs.
+
+LINKS:
+- https://openei.org/
+- https://anu.edu.au/research
+- https://berkeley.edu/research
+
+EQUATIONS:
+- EQ034: Poisson equation -> ∇²u = -ρ/ε
+
+
+
+VALUATION:
+- Score: 0.569
+- Tier: bronze

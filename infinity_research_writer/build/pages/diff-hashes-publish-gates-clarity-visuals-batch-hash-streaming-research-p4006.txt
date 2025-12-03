@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/diff-hashes-publish-gates-clarity-visuals-batch-hash-streaming-research-p4006
+[ANCHOR] clarity #00C8FF link://clarity/diff-hashes-publish-gates-clarity-visuals-batch-hash-streaming-research-p4006
+[ANCHOR] learning #E6B800 link://learning/diff-hashes-publish-gates-clarity-visuals-batch-hash-streaming-research-p4006
+[ANCHOR] alignment #33CCCC link://alignment/diff-hashes-publish-gates-clarity-visuals-batch-hash-streaming-research-p4006
+
+TITLE: diff-hashes-publish-gates-clarity-visuals-batch-hash-streaming-research-p4006
+SUMMARY: Research scaffold for diff-hashes, publish-gates, clarity-visuals, batch-hash, streaming-research.
+
+LINKS:
+- https://yale.edu/research/neuroscience
+- https://pubs.acs.org/journal/jpccck
+
+
+EQUATIONS:
+- EQ010: Nash equilibrium -> best response mappings intersect
+
+
+
+VALUATION:
+- Score: 0.622
+- Tier: silver

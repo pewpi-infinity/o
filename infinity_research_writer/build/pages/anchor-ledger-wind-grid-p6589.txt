@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/anchor-ledger-wind-grid-p6589
+[ANCHOR] clarity #00C8FF link://clarity/anchor-ledger-wind-grid-p6589
+[ANCHOR] alignment #33CCCC link://alignment/anchor-ledger-wind-grid-p6589
+
+TITLE: anchor-ledger-wind-grid-p6589
+SUMMARY: Research scaffold for anchor-ledger, wind-grid.
+
+LINKS:
+- https://acs.org/
+- https://gbif.org/
+- https://perseus.tufts.edu/
+
+EQUATIONS:
+- EQ033: Wave equation -> ∂²u/∂t² = c²∇²u
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+- EQ045: Central limit theorem -> normalized sums→normal
+
+VALUATION:
+- Score: 0.595
+- Tier: bronze

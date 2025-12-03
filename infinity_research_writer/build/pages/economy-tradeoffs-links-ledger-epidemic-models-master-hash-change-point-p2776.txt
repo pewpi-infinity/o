@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/economy-tradeoffs-links-ledger-epidemic-models-master-hash-change-point-p2776
+[ANCHOR] clarity #00C8FF link://clarity/economy-tradeoffs-links-ledger-epidemic-models-master-hash-change-point-p2776
+[ANCHOR] alignment #33CCCC link://alignment/economy-tradeoffs-links-ledger-epidemic-models-master-hash-change-point-p2776
+
+TITLE: economy-tradeoffs-links-ledger-epidemic-models-master-hash-change-point-p2776
+SUMMARY: Research scaffold for economy-tradeoffs, links-ledger, epidemic-models, master-hash, change-point.
+
+LINKS:
+- https://doabooks.org/
+- https://eol.org/
+- https://ams.org/journals
+
+EQUATIONS:
+- EQ037: Eigenvalue problem -> Ax = λx
+- EQ004: KKT conditions -> ∇f(x*) + A^T λ* = 0, Ax* <= b, λ* >= 0, λ*^T (Ax* - b) = 0
+
+
+VALUATION:
+- Score: 0.724
+- Tier: silver

@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/justice-transparency-risk-tier-markov-chains-p3907
+[ANCHOR] ethics #FF6A00 link://ethics/justice-transparency-risk-tier-markov-chains-p3907
+[ANCHOR] clarity #00C8FF link://clarity/justice-transparency-risk-tier-markov-chains-p3907
+[ANCHOR] provenance #7D4DF2 link://provenance/justice-transparency-risk-tier-markov-chains-p3907
+[ANCHOR] scope #6066FF link://scope/justice-transparency-risk-tier-markov-chains-p3907
+
+TITLE: justice-transparency-risk-tier-markov-chains-p3907
+SUMMARY: Research scaffold for justice-transparency, risk-tier, markov-chains.
+
+LINKS:
+- https://rsc.org/journals-books-databases/
+- https://radiopaedia.org/
+- https://asa3.org/
+
+EQUATIONS:
+- EQ044: Law of large numbers -> sample mean→μ
+- EQ037: Eigenvalue problem -> Ax = λx
+
+
+VALUATION:
+- Score: 0.632
+- Tier: silver

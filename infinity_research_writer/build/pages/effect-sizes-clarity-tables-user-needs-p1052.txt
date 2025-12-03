@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/effect-sizes-clarity-tables-user-needs-p1052
+[ANCHOR] clarity #00C8FF link://clarity/effect-sizes-clarity-tables-user-needs-p1052
+[ANCHOR] learning #E6B800 link://learning/effect-sizes-clarity-tables-user-needs-p1052
+[ANCHOR] alignment #33CCCC link://alignment/effect-sizes-clarity-tables-user-needs-p1052
+
+TITLE: effect-sizes-clarity-tables-user-needs-p1052
+SUMMARY: Research scaffold for effect-sizes, clarity-tables, user-needs.
+
+LINKS:
+- https://who.int/health-topics
+- https://chemspider.com/
+- https://aaai.org/Library/
+
+EQUATIONS:
+- EQ003: Lagrangian -> L(x, λ) = f(x) + λ^T (Ax - b)
+- EQ021: SVD -> A = UΣVᵀ
+- EQ035: Maxwell equations (set of 4)
+
+VALUATION:
+- Score: 0.659
+- Tier: silver

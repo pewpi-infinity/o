@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/concept-anchors-learning-pathways-p2661
+[ANCHOR] clarity #00C8FF link://clarity/concept-anchors-learning-pathways-p2661
+[ANCHOR] learning #E6B800 link://learning/concept-anchors-learning-pathways-p2661
+[ANCHOR] alignment #33CCCC link://alignment/concept-anchors-learning-pathways-p2661
+
+TITLE: concept-anchors-learning-pathways-p2661
+SUMMARY: Research scaffold for concept-anchors, learning-pathways.
+
+LINKS:
+- https://govinfo.gov/
+- https://spinnaker.cs.manchester.ac.uk/publications
+
+
+EQUATIONS:
+- EQ012: Auction revenue equivalence -> symmetric independent private values
+
+
+
+VALUATION:
+- Score: 0.496
+- Tier: bronze

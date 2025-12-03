@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/provenance-tier-hash-ledger-grand-hash-p7759
+[ANCHOR] clarity #00C8FF link://clarity/provenance-tier-hash-ledger-grand-hash-p7759
+[ANCHOR] learning #E6B800 link://learning/provenance-tier-hash-ledger-grand-hash-p7759
+[ANCHOR] alignment #33CCCC link://alignment/provenance-tier-hash-ledger-grand-hash-p7759
+
+TITLE: provenance-tier-hash-ledger-grand-hash-p7759
+SUMMARY: Research scaffold for provenance-tier, hash-ledger, grand-hash.
+
+LINKS:
+- https://re3data.org/
+
+
+
+EQUATIONS:
+- EQ050: Characteristic function -> E[e^{itX}]
+- EQ005: Spectral radius -> ρ(A) = max |λ_i(A)|
+
+
+VALUATION:
+- Score: 0.522
+- Tier: bronze

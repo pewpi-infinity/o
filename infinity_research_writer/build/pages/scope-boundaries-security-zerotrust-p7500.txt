@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scope-boundaries-security-zerotrust-p7500
+[ANCHOR] clarity #00C8FF link://clarity/scope-boundaries-security-zerotrust-p7500
+[ANCHOR] alignment #33CCCC link://alignment/scope-boundaries-security-zerotrust-p7500
+
+TITLE: scope-boundaries-security-zerotrust-p7500
+SUMMARY: Research scaffold for scope-boundaries, security-zerotrust.
+
+LINKS:
+- https://beckerfreidman.uchicago.edu/research/
+
+
+
+EQUATIONS:
+- EQ250: Robust optimization -> minimize max loss over uncertainty set U
+- EQ009: Queue M/M/1 -> ρ = λ/μ, W = 1/(μ - λ)
+- EQ035: Maxwell equations (set of 4)
+
+VALUATION:
+- Score: 0.532
+- Tier: bronze

@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/learning-tier-link-format-p6358
+[ANCHOR] clarity #00C8FF link://clarity/learning-tier-link-format-p6358
+[ANCHOR] learning #E6B800 link://learning/learning-tier-link-format-p6358
+[ANCHOR] alignment #33CCCC link://alignment/learning-tier-link-format-p6358
+
+TITLE: learning-tier-link-format-p6358
+SUMMARY: Research scaffold for learning-tier, link-format.
+
+LINKS:
+- https://spinnaker.cs.manchester.ac.uk/publications
+- https://openlibrary.org/
+- https://ieeexplore.ieee.org/
+
+EQUATIONS:
+- EQ022: Logistic regression -> σ(wᵀx)
+
+
+
+VALUATION:
+- Score: 0.525
+- Tier: bronze

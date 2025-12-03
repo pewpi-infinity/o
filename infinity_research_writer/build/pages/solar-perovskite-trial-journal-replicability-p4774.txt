@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/solar-perovskite-trial-journal-replicability-p4774
+[ANCHOR] clarity #00C8FF link://clarity/solar-perovskite-trial-journal-replicability-p4774
+[ANCHOR] alignment #33CCCC link://alignment/solar-perovskite-trial-journal-replicability-p4774
+
+TITLE: solar-perovskite-trial-journal-replicability-p4774
+SUMMARY: Research scaffold for solar-perovskite, trial-journal, replicability.
+
+LINKS:
+- https://synapse.org/
+- https://doaj.org/
+- https://sciencedirect.com/
+
+EQUATIONS:
+- EQ010: Nash equilibrium -> best response mappings intersect
+- EQ034: Poisson equation -> ∇²u = -ρ/ε
+
+
+VALUATION:
+- Score: 0.572
+- Tier: bronze

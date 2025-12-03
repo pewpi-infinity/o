@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/logs-loud-model-explanations-trend-detection-p4816
+[ANCHOR] clarity #00C8FF link://clarity/logs-loud-model-explanations-trend-detection-p4816
+[ANCHOR] alignment #33CCCC link://alignment/logs-loud-model-explanations-trend-detection-p4816
+
+TITLE: logs-loud-model-explanations-trend-detection-p4816
+SUMMARY: Research scaffold for logs-loud, model-explanations, trend-detection.
+
+LINKS:
+- https://icpsr.umich.edu/
+- https://frontiersin.org/journals/neuroscience
+- https://govinfo.gov/
+
+EQUATIONS:
+- EQ035: Maxwell equations (set of 4)
+- EQ031: Laplace transform -> ∫f(t)e^{-st}dt
+- EQ009: Queue M/M/1 -> ρ = λ/μ, W = 1/(μ - λ)
+
+VALUATION:
+- Score: 0.591
+- Tier: bronze

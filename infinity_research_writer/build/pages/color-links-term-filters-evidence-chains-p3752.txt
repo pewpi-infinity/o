@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/color-links-term-filters-evidence-chains-p3752
+[ANCHOR] clarity #00C8FF link://clarity/color-links-term-filters-evidence-chains-p3752
+[ANCHOR] alignment #33CCCC link://alignment/color-links-term-filters-evidence-chains-p3752
+
+TITLE: color-links-term-filters-evidence-chains-p3752
+SUMMARY: Research scaffold for color-links, term-filters, evidence-chains.
+
+LINKS:
+- https://jbc.org/
+- https://radiopaedia.org/
+
+
+EQUATIONS:
+- EQ004: KKT conditions -> ∇f(x*) + A^T λ* = 0, Ax* <= b, λ* >= 0, λ*^T (Ax* - b) = 0
+
+
+
+VALUATION:
+- Score: 0.567
+- Tier: bronze

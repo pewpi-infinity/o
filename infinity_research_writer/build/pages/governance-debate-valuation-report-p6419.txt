@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/governance-debate-valuation-report-p6419
+[ANCHOR] ethics #FF6A00 link://ethics/governance-debate-valuation-report-p6419
+[ANCHOR] clarity #00C8FF link://clarity/governance-debate-valuation-report-p6419
+[ANCHOR] provenance #7D4DF2 link://provenance/governance-debate-valuation-report-p6419
+[ANCHOR] scope #6066FF link://scope/governance-debate-valuation-report-p6419
+
+TITLE: governance-debate-valuation-report-p6419
+SUMMARY: Research scaffold for governance-debate, valuation-report.
+
+LINKS:
+- https://chemspider.com/
+- https://nature.com/subjects/physics
+- https://ssrn.com/en/index.cfm/lsn-legal-studies/
+
+EQUATIONS:
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+
+
+
+VALUATION:
+- Score: 0.579
+- Tier: bronze

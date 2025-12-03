@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/project-index-materials-reuse-variance-analysis-p2657
+[ANCHOR] clarity #00C8FF link://clarity/project-index-materials-reuse-variance-analysis-p2657
+[ANCHOR] alignment #33CCCC link://alignment/project-index-materials-reuse-variance-analysis-p2657
+
+TITLE: project-index-materials-reuse-variance-analysis-p2657
+SUMMARY: Research scaffold for project-index, materials-reuse, variance-analysis.
+
+LINKS:
+- https://vellum.sas.ac.uk/
+- https://nature.com/subjects/biochemistry
+
+
+EQUATIONS:
+- EQ005: Spectral radius -> ρ(A) = max |λ_i(A)|
+- EQ048: Jensen's inequality -> φ(E[X]) ≤ E[φ(X)]
+- EQ037: Eigenvalue problem -> Ax = λx
+
+VALUATION:
+- Score: 0.580
+- Tier: bronze

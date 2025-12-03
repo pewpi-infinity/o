@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/multiobjective-token-provenance-causal-maps-p3583
+[ANCHOR] clarity #00C8FF link://clarity/multiobjective-token-provenance-causal-maps-p3583
+[ANCHOR] learning #E6B800 link://learning/multiobjective-token-provenance-causal-maps-p3583
+[ANCHOR] alignment #33CCCC link://alignment/multiobjective-token-provenance-causal-maps-p3583
+
+TITLE: multiobjective-token-provenance-causal-maps-p3583
+SUMMARY: Research scaffold for multiobjective, token-provenance, causal-maps.
+
+LINKS:
+- https://epfl.ch/en/research/
+- https://synapse.org/
+- https://apa.org/pubs/databases
+
+EQUATIONS:
+- EQ020: PCA -> eigenvectors of covariance Σ
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+- EQ036: Schrödinger equation -> iħ∂ψ/∂t = Hψ
+
+VALUATION:
+- Score: 0.662
+- Tier: silver

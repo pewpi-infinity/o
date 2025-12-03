@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p3322
+[ANCHOR] clarity #00C8FF link://clarity/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p3322
+[ANCHOR] learning #E6B800 link://learning/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p3322
+[ANCHOR] alignment #33CCCC link://alignment/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p3322
+
+TITLE: trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p3322
+SUMMARY: Research scaffold for trial-evidence, clarity-tier, tier-gold, sparsity, security-threats.
+
+LINKS:
+- https://nsf.gov/
+- https://webofscience.com/
+- https://health.harvard.edu/
+
+EQUATIONS:
+- EQ037: Eigenvalue problem -> Ax = λx
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+- EQ043: Chi-square distribution -> special gamma
+
+VALUATION:
+- Score: 0.762
+- Tier: silver

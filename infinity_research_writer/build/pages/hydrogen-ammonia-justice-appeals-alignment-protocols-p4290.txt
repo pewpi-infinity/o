@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/hydrogen-ammonia-justice-appeals-alignment-protocols-p4290
+[ANCHOR] ethics #FF6A00 link://ethics/hydrogen-ammonia-justice-appeals-alignment-protocols-p4290
+[ANCHOR] capacity #00D67D link://capacity/hydrogen-ammonia-justice-appeals-alignment-protocols-p4290
+[ANCHOR] clarity #00C8FF link://clarity/hydrogen-ammonia-justice-appeals-alignment-protocols-p4290
+[ANCHOR] provenance #7D4DF2 link://provenance/hydrogen-ammonia-justice-appeals-alignment-protocols-p4290
+
+TITLE: hydrogen-ammonia-justice-appeals-alignment-protocols-p4290
+SUMMARY: Research scaffold for hydrogen-ammonia, justice-appeals, alignment-protocols.
+
+LINKS:
+- https://radiopaedia.org/
+- https://ssrn.com/en/index.cfm/lsn-legal-studies/
+- https://nature.com/subjects/neuroscience
+
+EQUATIONS:
+- EQ026: KL divergence -> Σ p log(p/q)
+
+
+
+VALUATION:
+- Score: 0.594
+- Tier: bronze

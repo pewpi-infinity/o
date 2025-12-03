@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/solar-perovskite-trial-journal-replicability-p1484
+[ANCHOR] clarity #00C8FF link://clarity/solar-perovskite-trial-journal-replicability-p1484
+[ANCHOR] alignment #33CCCC link://alignment/solar-perovskite-trial-journal-replicability-p1484
+
+TITLE: solar-perovskite-trial-journal-replicability-p1484
+SUMMARY: Research scaffold for solar-perovskite, trial-journal, replicability.
+
+LINKS:
+- https://libguides.bodleian.ox.ac.uk/numismatics
+- https://ncbi.nlm.nih.gov/Taxonomy/
+
+
+EQUATIONS:
+- EQ029: Fourier transform -> F(ω)=∫ f(t)e^{-iωt}dt
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+- EQ024: Gradient descent -> θ ← θ - α∇J(θ)
+
+VALUATION:
+- Score: 0.589
+- Tier: bronze

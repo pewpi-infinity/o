@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/justice-transparency-risk-tier-markov-chains-p5237
+[ANCHOR] ethics #FF6A00 link://ethics/justice-transparency-risk-tier-markov-chains-p5237
+[ANCHOR] clarity #00C8FF link://clarity/justice-transparency-risk-tier-markov-chains-p5237
+[ANCHOR] provenance #7D4DF2 link://provenance/justice-transparency-risk-tier-markov-chains-p5237
+[ANCHOR] scope #6066FF link://scope/justice-transparency-risk-tier-markov-chains-p5237
+
+TITLE: justice-transparency-risk-tier-markov-chains-p5237
+SUMMARY: Research scaffold for justice-transparency, risk-tier, markov-chains.
+
+LINKS:
+- https://berkeley.edu/research
+- https://princeton.edu/research
+- https://elifesciences.org/
+
+EQUATIONS:
+- EQ004: KKT conditions -> ∇f(x*) + A^T λ* = 0, Ax* <= b, λ* >= 0, λ*^T (Ax* - b) = 0
+- EQ044: Law of large numbers -> sample mean→μ
+- EQ018: Ridge regression -> minimize ||y-Xβ||² + λ||β||²
+
+VALUATION:
+- Score: 0.702
+- Tier: silver

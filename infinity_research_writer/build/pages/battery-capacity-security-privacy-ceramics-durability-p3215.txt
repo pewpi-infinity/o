@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/battery-capacity-security-privacy-ceramics-durability-p3215
+[ANCHOR] capacity #00D67D link://capacity/battery-capacity-security-privacy-ceramics-durability-p3215
+[ANCHOR] clarity #00C8FF link://clarity/battery-capacity-security-privacy-ceramics-durability-p3215
+[ANCHOR] provenance #7D4DF2 link://provenance/battery-capacity-security-privacy-ceramics-durability-p3215
+[ANCHOR] risk #FF3B3B link://risk/battery-capacity-security-privacy-ceramics-durability-p3215
+
+TITLE: battery-capacity-security-privacy-ceramics-durability-p3215
+SUMMARY: Research scaffold for battery-capacity, security-privacy, ceramics-durability.
+
+LINKS:
+- https://springer.com/gp/biomedicine
+
+
+
+EQUATIONS:
+- EQ022: Logistic regression -> σ(wᵀx)
+- EQ250: Robust optimization -> minimize max loss over uncertainty set U
+- EQ040: Rank-nullity -> dim(V)=rank+nullity
+
+VALUATION:
+- Score: 0.612
+- Tier: silver

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/bagging-adaptive-links-p9992
+[ANCHOR] clarity #00C8FF link://clarity/bagging-adaptive-links-p9992
+[ANCHOR] alignment #33CCCC link://alignment/bagging-adaptive-links-p9992
+
+TITLE: bagging-adaptive-links-p9992
+SUMMARY: Research scaffold for bagging, adaptive-links.
+
+LINKS:
+- https://tudelft.nl/en/research
+- https://anu.edu.au/research
+- https://springer.com/gp/biomedicine
+
+EQUATIONS:
+- EQ031: Laplace transform -> ∫f(t)e^{-st}dt
+- EQ024: Gradient descent -> θ ← θ - α∇J(θ)
+
+
+VALUATION:
+- Score: 0.526
+- Tier: bronze

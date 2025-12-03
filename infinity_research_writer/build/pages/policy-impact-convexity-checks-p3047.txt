@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/policy-impact-convexity-checks-p3047
+[ANCHOR] clarity #00C8FF link://clarity/policy-impact-convexity-checks-p3047
+[ANCHOR] alignment #33CCCC link://alignment/policy-impact-convexity-checks-p3047
+
+TITLE: policy-impact-convexity-checks-p3047
+SUMMARY: Research scaffold for policy-impact, convexity-checks.
+
+LINKS:
+- https://pnas.org/
+- https://archeology.uiowa.edu/
+
+
+EQUATIONS:
+- EQ015: Power of hypothesis test -> 1 - β
+
+
+
+VALUATION:
+- Score: 0.477
+- Tier: bronze

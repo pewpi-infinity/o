@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/graphene-economy-semantic-index-p4113
+[ANCHOR] capacity #00D67D link://capacity/graphene-economy-semantic-index-p4113
+[ANCHOR] clarity #00C8FF link://clarity/graphene-economy-semantic-index-p4113
+[ANCHOR] provenance #7D4DF2 link://provenance/graphene-economy-semantic-index-p4113
+[ANCHOR] risk #FF3B3B link://risk/graphene-economy-semantic-index-p4113
+
+TITLE: graphene-economy-semantic-index-p4113
+SUMMARY: Research scaffold for graphene-economy, semantic-index.
+
+LINKS:
+- https://maps.org/research/
+- https://nature.com/subjects/chemistry
+- https://spinnaker.cs.manchester.ac.uk/publications
+
+EQUATIONS:
+- EQ022: Logistic regression -> σ(wᵀx)
+- EQ041: Gaussian distribution -> (1/√2πσ²)e^{-(x-μ)²/2σ²}
+- EQ044: Law of large numbers -> sample mean→μ
+
+VALUATION:
+- Score: 0.591
+- Tier: bronze

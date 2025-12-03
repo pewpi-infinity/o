@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scope-boundaries-security-zerotrust-p9390
+[ANCHOR] clarity #00C8FF link://clarity/scope-boundaries-security-zerotrust-p9390
+[ANCHOR] alignment #33CCCC link://alignment/scope-boundaries-security-zerotrust-p9390
+
+TITLE: scope-boundaries-security-zerotrust-p9390
+SUMMARY: Research scaffold for scope-boundaries, security-zerotrust.
+
+LINKS:
+- https://gutenberg.org/
+- https://royalsociety.org/journals/
+- https://paleobiology.si.edu/
+
+EQUATIONS:
+- EQ048: Jensen's inequality -> φ(E[X]) ≤ E[φ(X)]
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+
+
+VALUATION:
+- Score: 0.559
+- Tier: bronze

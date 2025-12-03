@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/concept-anchors-learning-pathways-p3641
+[ANCHOR] clarity #00C8FF link://clarity/concept-anchors-learning-pathways-p3641
+[ANCHOR] learning #E6B800 link://learning/concept-anchors-learning-pathways-p3641
+[ANCHOR] alignment #33CCCC link://alignment/concept-anchors-learning-pathways-p3641
+
+TITLE: concept-anchors-learning-pathways-p3641
+SUMMARY: Research scaffold for concept-anchors, learning-pathways.
+
+LINKS:
+- https://nyu.edu/research
+- https://neurips.cc/Conferences/Current
+
+
+EQUATIONS:
+- EQ005: Spectral radius -> ρ(A) = max |λ_i(A)|
+- EQ024: Gradient descent -> θ ← θ - α∇J(θ)
+- EQ029: Fourier transform -> F(ω)=∫ f(t)e^{-iωt}dt
+
+VALUATION:
+- Score: 0.536
+- Tier: bronze

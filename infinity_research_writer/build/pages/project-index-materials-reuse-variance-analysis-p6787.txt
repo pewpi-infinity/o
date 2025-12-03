@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/project-index-materials-reuse-variance-analysis-p6787
+[ANCHOR] clarity #00C8FF link://clarity/project-index-materials-reuse-variance-analysis-p6787
+[ANCHOR] alignment #33CCCC link://alignment/project-index-materials-reuse-variance-analysis-p6787
+
+TITLE: project-index-materials-reuse-variance-analysis-p6787
+SUMMARY: Research scaffold for project-index, materials-reuse, variance-analysis.
+
+LINKS:
+- https://nida.nih.gov/research
+- https://scholar.harvard.edu/
+- https://royalsocietypublishing.org/journal/rspb
+
+EQUATIONS:
+- EQ022: Logistic regression -> σ(wᵀx)
+- EQ012: Auction revenue equivalence -> symmetric independent private values
+- EQ020: PCA -> eigenvectors of covariance Σ
+
+VALUATION:
+- Score: 0.614
+- Tier: silver

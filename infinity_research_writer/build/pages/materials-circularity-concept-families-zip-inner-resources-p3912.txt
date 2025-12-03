@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/materials-circularity-concept-families-zip-inner-resources-p3912
+[ANCHOR] clarity #00C8FF link://clarity/materials-circularity-concept-families-zip-inner-resources-p3912
+[ANCHOR] alignment #33CCCC link://alignment/materials-circularity-concept-families-zip-inner-resources-p3912
+
+TITLE: materials-circularity-concept-families-zip-inner-resources-p3912
+SUMMARY: Research scaffold for materials-circularity, concept-families, zip-inner-resources.
+
+LINKS:
+- https://libguides.bodleian.ox.ac.uk/numismatics
+- https://pnas.org/
+
+
+EQUATIONS:
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+- EQ031: Laplace transform -> ∫f(t)e^{-st}dt
+- EQ033: Wave equation -> ∂²u/∂t² = c²∇²u
+
+VALUATION:
+- Score: 0.587
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/policy-impact-convexity-checks-p3747
+[ANCHOR] clarity #00C8FF link://clarity/policy-impact-convexity-checks-p3747
+[ANCHOR] alignment #33CCCC link://alignment/policy-impact-convexity-checks-p3747
+
+TITLE: policy-impact-convexity-checks-p3747
+SUMMARY: Research scaffold for policy-impact, convexity-checks.
+
+LINKS:
+- https://anu.edu.au/research
+- https://bloodjournal.org/
+
+
+EQUATIONS:
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+- EQ037: Eigenvalue problem -> Ax = λx
+- EQ029: Fourier transform -> F(ω)=∫ f(t)e^{-iωt}dt
+
+VALUATION:
+- Score: 0.587
+- Tier: bronze

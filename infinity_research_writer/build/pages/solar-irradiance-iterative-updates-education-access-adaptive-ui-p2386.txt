@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/solar-irradiance-iterative-updates-education-access-adaptive-ui-p2386
+[ANCHOR] clarity #00C8FF link://clarity/solar-irradiance-iterative-updates-education-access-adaptive-ui-p2386
+[ANCHOR] alignment #33CCCC link://alignment/solar-irradiance-iterative-updates-education-access-adaptive-ui-p2386
+
+TITLE: solar-irradiance-iterative-updates-education-access-adaptive-ui-p2386
+SUMMARY: Research scaffold for solar-irradiance, iterative-updates, education-access, adaptive-ui.
+
+LINKS:
+- https://link.springer.com/
+- https://cam.ac.uk/research
+- https://perseus.tufts.edu/
+
+EQUATIONS:
+- EQ038: Determinant expansion -> Σ permutations
+
+
+
+VALUATION:
+- Score: 0.588
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/color-links-term-filters-evidence-chains-p3472
+[ANCHOR] clarity #00C8FF link://clarity/color-links-term-filters-evidence-chains-p3472
+[ANCHOR] alignment #33CCCC link://alignment/color-links-term-filters-evidence-chains-p3472
+
+TITLE: color-links-term-filters-evidence-chains-p3472
+SUMMARY: Research scaffold for color-links, term-filters, evidence-chains.
+
+LINKS:
+- https://royalsocietypublishing.org/journal/rspb
+- https://nida.nih.gov/research
+
+
+EQUATIONS:
+- EQ021: SVD -> A = UΣVᵀ
+
+
+
+VALUATION:
+- Score: 0.517
+- Tier: bronze

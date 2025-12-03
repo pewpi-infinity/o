@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/capacity-tier-power-analysis-geothermal-integration-p3305
+[ANCHOR] capacity #00D67D link://capacity/capacity-tier-power-analysis-geothermal-integration-p3305
+[ANCHOR] clarity #00C8FF link://clarity/capacity-tier-power-analysis-geothermal-integration-p3305
+[ANCHOR] provenance #7D4DF2 link://provenance/capacity-tier-power-analysis-geothermal-integration-p3305
+[ANCHOR] risk #FF3B3B link://risk/capacity-tier-power-analysis-geothermal-integration-p3305
+
+TITLE: capacity-tier-power-analysis-geothermal-integration-p3305
+SUMMARY: Research scaffold for capacity-tier, power-analysis, geothermal-integration.
+
+LINKS:
+- https://ethz.ch/en/research.html
+- https://metmuseum.org/art/metpublications
+
+
+EQUATIONS:
+- EQ250: Robust optimization -> minimize max loss over uncertainty set U
+- EQ018: Ridge regression -> minimize ||y-Xβ||² + λ||β||²
+- EQ038: Determinant expansion -> Σ permutations
+
+VALUATION:
+- Score: 0.667
+- Tier: silver

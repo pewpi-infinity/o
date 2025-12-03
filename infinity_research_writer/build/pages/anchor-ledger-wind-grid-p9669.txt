@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/anchor-ledger-wind-grid-p9669
+[ANCHOR] clarity #00C8FF link://clarity/anchor-ledger-wind-grid-p9669
+[ANCHOR] alignment #33CCCC link://alignment/anchor-ledger-wind-grid-p9669
+
+TITLE: anchor-ledger-wind-grid-p9669
+SUMMARY: Research scaffold for anchor-ledger, wind-grid.
+
+LINKS:
+- https://uchicago.edu/research
+- https://apa.org/pubs/databases
+
+
+EQUATIONS:
+- EQ006: Stability -> Re(λ_i(A)) < 0 for continuous systems
+- EQ024: Gradient descent -> θ ← θ - α∇J(θ)
+- EQ041: Gaussian distribution -> (1/√2πσ²)e^{-(x-μ)²/2σ²}
+
+VALUATION:
+- Score: 0.541
+- Tier: bronze

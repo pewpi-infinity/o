@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/battery-capacity-security-privacy-ceramics-durability-p4965
+[ANCHOR] capacity #00D67D link://capacity/battery-capacity-security-privacy-ceramics-durability-p4965
+[ANCHOR] clarity #00C8FF link://clarity/battery-capacity-security-privacy-ceramics-durability-p4965
+[ANCHOR] provenance #7D4DF2 link://provenance/battery-capacity-security-privacy-ceramics-durability-p4965
+[ANCHOR] risk #FF3B3B link://risk/battery-capacity-security-privacy-ceramics-durability-p4965
+
+TITLE: battery-capacity-security-privacy-ceramics-durability-p4965
+SUMMARY: Research scaffold for battery-capacity, security-privacy, ceramics-durability.
+
+LINKS:
+- https://apa.org/pubs/databases
+- https://bmj.com/
+- https://neuromorphicsystems.org/
+
+EQUATIONS:
+- EQ019: Lasso sparsity -> many β_j = 0
+- EQ036: Schrödinger equation -> iħ∂ψ/∂t = Hψ
+- EQ022: Logistic regression -> σ(wᵀx)
+
+VALUATION:
+- Score: 0.649
+- Tier: silver

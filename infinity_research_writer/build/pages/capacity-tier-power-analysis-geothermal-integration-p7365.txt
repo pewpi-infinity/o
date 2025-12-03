@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/capacity-tier-power-analysis-geothermal-integration-p7365
+[ANCHOR] capacity #00D67D link://capacity/capacity-tier-power-analysis-geothermal-integration-p7365
+[ANCHOR] clarity #00C8FF link://clarity/capacity-tier-power-analysis-geothermal-integration-p7365
+[ANCHOR] provenance #7D4DF2 link://provenance/capacity-tier-power-analysis-geothermal-integration-p7365
+[ANCHOR] risk #FF3B3B link://risk/capacity-tier-power-analysis-geothermal-integration-p7365
+
+TITLE: capacity-tier-power-analysis-geothermal-integration-p7365
+SUMMARY: Research scaffold for capacity-tier, power-analysis, geothermal-integration.
+
+LINKS:
+- https://paleobiology.si.edu/
+- https://ukdataservice.ac.uk/
+
+
+EQUATIONS:
+- EQ010: Nash equilibrium -> best response mappings intersect
+
+
+
+VALUATION:
+- Score: 0.557
+- Tier: bronze

@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p5562
+[ANCHOR] clarity #00C8FF link://clarity/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p5562
+[ANCHOR] learning #E6B800 link://learning/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p5562
+[ANCHOR] alignment #33CCCC link://alignment/trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p5562
+
+TITLE: trial-evidence-clarity-tier-tier-gold-sparsity-security-threats-p5562
+SUMMARY: Research scaffold for trial-evidence, clarity-tier, tier-gold, sparsity, security-threats.
+
+LINKS:
+- https://data.worldbank.org/
+
+
+
+EQUATIONS:
+- EQ015: Power of hypothesis test -> 1 - β
+- EQ040: Rank-nullity -> dim(V)=rank+nullity
+
+
+VALUATION:
+- Score: 0.605
+- Tier: silver

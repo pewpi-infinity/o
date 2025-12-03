@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/artifact-visibility-scholar-ledger-p7191
+[ANCHOR] clarity #00C8FF link://clarity/artifact-visibility-scholar-ledger-p7191
+[ANCHOR] alignment #33CCCC link://alignment/artifact-visibility-scholar-ledger-p7191
+
+TITLE: artifact-visibility-scholar-ledger-p7191
+SUMMARY: Research scaffold for artifact-visibility, scholar-ledger.
+
+LINKS:
+- https://anthrosource.onlinelibrary.wiley.com/
+- https://journals.sagepub.com/home/jfm
+- https://springer.com/gp/mathematics
+
+EQUATIONS:
+- EQ004: KKT conditions -> ∇f(x*) + A^T λ* = 0, Ax* <= b, λ* >= 0, λ*^T (Ax* - b) = 0
+- EQ010: Nash equilibrium -> best response mappings intersect
+- EQ030: Convolution -> (f*g)(t)=∫f(τ)g(t-τ)dτ
+
+VALUATION:
+- Score: 0.601
+- Tier: silver

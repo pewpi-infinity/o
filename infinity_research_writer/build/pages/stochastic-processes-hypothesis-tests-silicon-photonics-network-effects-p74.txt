@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/stochastic-processes-hypothesis-tests-silicon-photonics-network-effects-p74
+[ANCHOR] clarity #00C8FF link://clarity/stochastic-processes-hypothesis-tests-silicon-photonics-network-effects-p74
+[ANCHOR] alignment #33CCCC link://alignment/stochastic-processes-hypothesis-tests-silicon-photonics-network-effects-p74
+
+TITLE: stochastic-processes-hypothesis-tests-silicon-photonics-network-effects-p74
+SUMMARY: Research scaffold for stochastic-processes, hypothesis-tests, silicon-photonics, network-effects.
+
+LINKS:
+- https://intechopen.com/
+- https://thelancet.com/
+
+
+EQUATIONS:
+- EQ014: Bayesian update -> p(θ|D) ∝ p(D|θ)p(θ)
+- EQ044: Law of large numbers -> sample mean→μ
+
+
+VALUATION:
+- Score: 0.607
+- Tier: silver

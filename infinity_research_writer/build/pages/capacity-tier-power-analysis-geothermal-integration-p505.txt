@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/capacity-tier-power-analysis-geothermal-integration-p505
+[ANCHOR] capacity #00D67D link://capacity/capacity-tier-power-analysis-geothermal-integration-p505
+[ANCHOR] clarity #00C8FF link://clarity/capacity-tier-power-analysis-geothermal-integration-p505
+[ANCHOR] provenance #7D4DF2 link://provenance/capacity-tier-power-analysis-geothermal-integration-p505
+[ANCHOR] risk #FF3B3B link://risk/capacity-tier-power-analysis-geothermal-integration-p505
+
+TITLE: capacity-tier-power-analysis-geothermal-integration-p505
+SUMMARY: Research scaffold for capacity-tier, power-analysis, geothermal-integration.
+
+LINKS:
+- https://humanbrainproject.eu/en/
+- https://toxnet.nlm.nih.gov/
+- https://jstor.org/
+
+EQUATIONS:
+- EQ027: Entropy -> -Σ p log p
+- EQ025: Softmax -> exp(z_i) / Σ exp(z)
+
+
+VALUATION:
+- Score: 0.611
+- Tier: silver

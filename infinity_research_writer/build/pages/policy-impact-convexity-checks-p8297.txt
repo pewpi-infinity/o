@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/policy-impact-convexity-checks-p8297
+[ANCHOR] clarity #00C8FF link://clarity/policy-impact-convexity-checks-p8297
+[ANCHOR] alignment #33CCCC link://alignment/policy-impact-convexity-checks-p8297
+
+TITLE: policy-impact-convexity-checks-p8297
+SUMMARY: Research scaffold for policy-impact, convexity-checks.
+
+LINKS:
+- https://openlibrary.org/
+- https://brill.com/browse?level=research
+- https://toxnet.nlm.nih.gov/
+
+EQUATIONS:
+- EQ007: Controllability -> rank([B, AB, A^2B, ..., A^{n-1}B]) = n
+- EQ012: Auction revenue equivalence -> symmetric independent private values
+
+
+VALUATION:
+- Score: 0.560
+- Tier: bronze

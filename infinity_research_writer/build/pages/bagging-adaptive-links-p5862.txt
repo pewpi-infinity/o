@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/bagging-adaptive-links-p5862
+[ANCHOR] clarity #00C8FF link://clarity/bagging-adaptive-links-p5862
+[ANCHOR] alignment #33CCCC link://alignment/bagging-adaptive-links-p5862
+
+TITLE: bagging-adaptive-links-p5862
+SUMMARY: Research scaffold for bagging, adaptive-links.
+
+LINKS:
+- https://unsw.edu.au/research
+- https://yale.edu/research/neuroscience
+
+
+EQUATIONS:
+- EQ028: Mutual information -> I(X;Y) = H(X)+H(Y)-H(X,Y)
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+- EQ047: Chebyshev inequality -> P(|X-μ|≥kσ) ≤ 1/k²
+
+VALUATION:
+- Score: 0.543
+- Tier: bronze

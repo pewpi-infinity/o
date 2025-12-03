@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/tier-silver-provenance-signing-context-windows-p6574
+[ANCHOR] clarity #00C8FF link://clarity/tier-silver-provenance-signing-context-windows-p6574
+[ANCHOR] learning #E6B800 link://learning/tier-silver-provenance-signing-context-windows-p6574
+[ANCHOR] alignment #33CCCC link://alignment/tier-silver-provenance-signing-context-windows-p6574
+
+TITLE: tier-silver-provenance-signing-context-windows-p6574
+SUMMARY: Research scaffold for tier-silver, provenance-signing, context-windows.
+
+LINKS:
+- https://ideas.repec.org/
+- https://nasa.gov/
+- https://jstor.org/open/
+
+EQUATIONS:
+- EQ250: Robust optimization -> minimize max loss over uncertainty set U
+- EQ029: Fourier transform -> F(ω)=∫ f(t)e^{-iωt}dt
+
+
+VALUATION:
+- Score: 0.640
+- Tier: silver

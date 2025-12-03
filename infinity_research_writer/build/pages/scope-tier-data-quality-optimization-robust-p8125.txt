@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scope-tier-data-quality-optimization-robust-p8125
+[ANCHOR] clarity #00C8FF link://clarity/scope-tier-data-quality-optimization-robust-p8125
+[ANCHOR] alignment #33CCCC link://alignment/scope-tier-data-quality-optimization-robust-p8125
+
+TITLE: scope-tier-data-quality-optimization-robust-p8125
+SUMMARY: Research scaffold for scope-tier, data-quality, optimization-robust.
+
+LINKS:
+- https://thelancet.com/journals/lancet/issue/current
+- https://nature.com/subjects/oncology
+- https://nber.org/
+
+EQUATIONS:
+- EQ018: Ridge regression -> minimize ||y-Xβ||² + λ||β||²
+- EQ005: Spectral radius -> ρ(A) = max |λ_i(A)|
+
+
+VALUATION:
+- Score: 0.594
+- Tier: bronze

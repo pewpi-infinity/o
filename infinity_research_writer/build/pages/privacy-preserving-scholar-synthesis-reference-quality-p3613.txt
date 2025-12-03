@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/privacy-preserving-scholar-synthesis-reference-quality-p3613
+[ANCHOR] clarity #00C8FF link://clarity/privacy-preserving-scholar-synthesis-reference-quality-p3613
+[ANCHOR] alignment #33CCCC link://alignment/privacy-preserving-scholar-synthesis-reference-quality-p3613
+
+TITLE: privacy-preserving-scholar-synthesis-reference-quality-p3613
+SUMMARY: Research scaffold for privacy-preserving, scholar-synthesis, reference-quality.
+
+LINKS:
+- https://nida.nih.gov/research
+- https://osf.io/
+- https://sagepub.com/en-us/nam/journals
+
+EQUATIONS:
+- EQ026: KL divergence -> Σ p log(p/q)
+- EQ007: Controllability -> rank([B, AB, A^2B, ..., A^{n-1}B]) = n
+
+
+VALUATION:
+- Score: 0.604
+- Tier: silver

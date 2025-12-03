@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/signal-noise-health-equity-p143
+[ANCHOR] clarity #00C8FF link://clarity/signal-noise-health-equity-p143
+[ANCHOR] alignment #33CCCC link://alignment/signal-noise-health-equity-p143
+
+TITLE: signal-noise-health-equity-p143
+SUMMARY: Research scaffold for signal-noise, health-equity.
+
+LINKS:
+- https://mdpi.com/
+- https://springer.com/gp/mathematics
+- https://doabooks.org/
+
+EQUATIONS:
+- EQ023: Cross entropy -> -Σ y log p
+- EQ028: Mutual information -> I(X;Y) = H(X)+H(Y)-H(X,Y)
+- EQ048: Jensen's inequality -> φ(E[X]) ≤ E[φ(X)]
+
+VALUATION:
+- Score: 0.546
+- Tier: bronze

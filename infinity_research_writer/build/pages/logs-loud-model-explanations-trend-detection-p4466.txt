@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/logs-loud-model-explanations-trend-detection-p4466
+[ANCHOR] clarity #00C8FF link://clarity/logs-loud-model-explanations-trend-detection-p4466
+[ANCHOR] alignment #33CCCC link://alignment/logs-loud-model-explanations-trend-detection-p4466
+
+TITLE: logs-loud-model-explanations-trend-detection-p4466
+SUMMARY: Research scaffold for logs-loud, model-explanations, trend-detection.
+
+LINKS:
+- https://scholar.harvard.edu/
+- https://legifrance.gouv.fr/
+
+
+EQUATIONS:
+- EQ010: Nash equilibrium -> best response mappings intersect
+- EQ003: Lagrangian -> L(x, λ) = f(x) + λ^T (Ax - b)
+
+
+VALUATION:
+- Score: 0.587
+- Tier: bronze

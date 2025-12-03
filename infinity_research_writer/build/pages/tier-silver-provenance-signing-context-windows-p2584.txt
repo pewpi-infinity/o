@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/tier-silver-provenance-signing-context-windows-p2584
+[ANCHOR] clarity #00C8FF link://clarity/tier-silver-provenance-signing-context-windows-p2584
+[ANCHOR] learning #E6B800 link://learning/tier-silver-provenance-signing-context-windows-p2584
+[ANCHOR] alignment #33CCCC link://alignment/tier-silver-provenance-signing-context-windows-p2584
+
+TITLE: tier-silver-provenance-signing-context-windows-p2584
+SUMMARY: Research scaffold for tier-silver, provenance-signing, context-windows.
+
+LINKS:
+- https://spinnaker.cs.manchester.ac.uk/publications
+
+
+
+EQUATIONS:
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+
+
+
+VALUATION:
+- Score: 0.534
+- Tier: bronze

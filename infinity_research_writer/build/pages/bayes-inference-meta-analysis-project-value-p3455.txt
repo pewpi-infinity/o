@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/bayes-inference-meta-analysis-project-value-p3455
+[ANCHOR] clarity #00C8FF link://clarity/bayes-inference-meta-analysis-project-value-p3455
+[ANCHOR] alignment #33CCCC link://alignment/bayes-inference-meta-analysis-project-value-p3455
+
+TITLE: bayes-inference-meta-analysis-project-value-p3455
+SUMMARY: Research scaffold for bayes-inference, meta-analysis, project-value.
+
+LINKS:
+- https://openpsych.net/
+- https://elifesciences.org/
+
+
+EQUATIONS:
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+
+
+
+VALUATION:
+- Score: 0.550
+- Tier: bronze

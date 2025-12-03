@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/privacy-preserving-scholar-synthesis-reference-quality-p8653
+[ANCHOR] clarity #00C8FF link://clarity/privacy-preserving-scholar-synthesis-reference-quality-p8653
+[ANCHOR] alignment #33CCCC link://alignment/privacy-preserving-scholar-synthesis-reference-quality-p8653
+
+TITLE: privacy-preserving-scholar-synthesis-reference-quality-p8653
+SUMMARY: Research scaffold for privacy-preserving, scholar-synthesis, reference-quality.
+
+LINKS:
+- https://sciencemag.org/journals/science-advances
+- https://linear.ups.edu/
+- https://stanford.edu/research/
+
+EQUATIONS:
+- EQ017: L1 regularization -> minimize ||y-Xβ||² + λ||β||₁
+
+
+
+VALUATION:
+- Score: 0.553
+- Tier: bronze

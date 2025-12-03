@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p6331
+[ANCHOR] ethics #FF6A00 link://ethics/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p6331
+[ANCHOR] capacity #00D67D link://capacity/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p6331
+[ANCHOR] clarity #00C8FF link://clarity/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p6331
+[ANCHOR] provenance #7D4DF2 link://provenance/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p6331
+
+TITLE: ethics-consent-delta-logs-justice-restorative-graphene-lattice-p6331
+SUMMARY: Research scaffold for ethics-consent, delta-logs, justice-restorative, graphene-lattice.
+
+LINKS:
+- https://darpa.mil/our-research
+- https://britishmuseum.org/collection
+- https://ssrn.com/en/index.cfm/lsn-legal-studies/
+
+EQUATIONS:
+- EQ030: Convolution -> (f*g)(t)=∫f(τ)g(t-τ)dτ
+- EQ015: Power of hypothesis test -> 1 - β
+- EQ011: Mechanism incentive compatibility -> truth-telling maximizes utility
+
+VALUATION:
+- Score: 0.672
+- Tier: silver

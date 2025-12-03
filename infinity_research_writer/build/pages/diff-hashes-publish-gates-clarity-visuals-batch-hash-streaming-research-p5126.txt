@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/diff-hashes-publish-gates-clarity-visuals-batch-hash-streaming-research-p5126
+[ANCHOR] clarity #00C8FF link://clarity/diff-hashes-publish-gates-clarity-visuals-batch-hash-streaming-research-p5126
+[ANCHOR] learning #E6B800 link://learning/diff-hashes-publish-gates-clarity-visuals-batch-hash-streaming-research-p5126
+[ANCHOR] alignment #33CCCC link://alignment/diff-hashes-publish-gates-clarity-visuals-batch-hash-streaming-research-p5126
+
+TITLE: diff-hashes-publish-gates-clarity-visuals-batch-hash-streaming-research-p5126
+SUMMARY: Research scaffold for diff-hashes, publish-gates, clarity-visuals, batch-hash, streaming-research.
+
+LINKS:
+- https://nature.com/subjects/evolution
+- https://nus.edu.sg/research
+
+
+EQUATIONS:
+- EQ035: Maxwell equations (set of 4)
+- EQ027: Entropy -> -Σ p log p
+
+
+VALUATION:
+- Score: 0.642
+- Tier: silver

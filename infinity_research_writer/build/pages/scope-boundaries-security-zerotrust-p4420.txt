@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scope-boundaries-security-zerotrust-p4420
+[ANCHOR] clarity #00C8FF link://clarity/scope-boundaries-security-zerotrust-p4420
+[ANCHOR] alignment #33CCCC link://alignment/scope-boundaries-security-zerotrust-p4420
+
+TITLE: scope-boundaries-security-zerotrust-p4420
+SUMMARY: Research scaffold for scope-boundaries, security-zerotrust.
+
+LINKS:
+- https://iop.org/journals
+
+
+
+EQUATIONS:
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+- EQ041: Gaussian distribution -> (1/√2πσ²)e^{-(x-μ)²/2σ²}
+
+
+VALUATION:
+- Score: 0.462
+- Tier: bronze

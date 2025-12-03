@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/user-config-hydro-optimization-needs-mapping-p8844
+[ANCHOR] clarity #00C8FF link://clarity/user-config-hydro-optimization-needs-mapping-p8844
+[ANCHOR] alignment #33CCCC link://alignment/user-config-hydro-optimization-needs-mapping-p8844
+
+TITLE: user-config-hydro-optimization-needs-mapping-p8844
+SUMMARY: Research scaffold for user-config, hydro-optimization, needs-mapping.
+
+LINKS:
+- https://sagepub.com/en-us/nam/journals
+- https://psychedelics.ucsf.edu/research
+- https://nature.com/subjects/earth-sciences
+
+EQUATIONS:
+- EQ028: Mutual information -> I(X;Y) = H(X)+H(Y)-H(X,Y)
+- EQ038: Determinant expansion -> Σ permutations
+- EQ022: Logistic regression -> σ(wᵀx)
+
+VALUATION:
+- Score: 0.594
+- Tier: bronze

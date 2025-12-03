@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/capacity-scaling-alignment-feedback-risk-bounds-p1847
+[ANCHOR] capacity #00D67D link://capacity/capacity-scaling-alignment-feedback-risk-bounds-p1847
+[ANCHOR] clarity #00C8FF link://clarity/capacity-scaling-alignment-feedback-risk-bounds-p1847
+[ANCHOR] provenance #7D4DF2 link://provenance/capacity-scaling-alignment-feedback-risk-bounds-p1847
+[ANCHOR] risk #FF3B3B link://risk/capacity-scaling-alignment-feedback-risk-bounds-p1847
+
+TITLE: capacity-scaling-alignment-feedback-risk-bounds-p1847
+SUMMARY: Research scaffold for capacity-scaling, alignment-feedback, risk-bounds.
+
+LINKS:
+- https://beckerfreidman.uchicago.edu/research/
+- https://gazzaleylab.ucsf.edu/publications
+- https://cambridge.org/core/what-we-publish/textbooks
+
+EQUATIONS:
+- ...
+
+
+
+VALUATION:
+- Score: 0.595
+- Tier: bronze

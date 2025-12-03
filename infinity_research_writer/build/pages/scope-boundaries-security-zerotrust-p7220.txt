@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scope-boundaries-security-zerotrust-p7220
+[ANCHOR] clarity #00C8FF link://clarity/scope-boundaries-security-zerotrust-p7220
+[ANCHOR] alignment #33CCCC link://alignment/scope-boundaries-security-zerotrust-p7220
+
+TITLE: scope-boundaries-security-zerotrust-p7220
+SUMMARY: Research scaffold for scope-boundaries, security-zerotrust.
+
+LINKS:
+- https://elsevier.com/catalog?producttype=journal
+- https://alleninstitute.org/what-we-do/brain-science/
+
+
+EQUATIONS:
+- EQ039: Matrix invertibility -> det(A) ≠ 0
+- EQ050: Characteristic function -> E[e^{itX}]
+
+
+VALUATION:
+- Score: 0.496
+- Tier: bronze

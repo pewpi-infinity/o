@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/solar-perovskite-trial-journal-replicability-p9464
+[ANCHOR] clarity #00C8FF link://clarity/solar-perovskite-trial-journal-replicability-p9464
+[ANCHOR] alignment #33CCCC link://alignment/solar-perovskite-trial-journal-replicability-p9464
+
+TITLE: solar-perovskite-trial-journal-replicability-p9464
+SUMMARY: Research scaffold for solar-perovskite, trial-journal, replicability.
+
+LINKS:
+- https://esa.int/
+- https://nature.com/subjects/biochemistry
+- https://directory.doabooks.org/
+
+EQUATIONS:
+- EQ005: Spectral radius -> ρ(A) = max |λ_i(A)|
+- EQ026: KL divergence -> Σ p log(p/q)
+- EQ049: Moment generating function -> M(t)=E[e^{tX}]
+
+VALUATION:
+- Score: 0.592
+- Tier: bronze

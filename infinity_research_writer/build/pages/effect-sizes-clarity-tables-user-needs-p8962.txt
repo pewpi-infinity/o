@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/effect-sizes-clarity-tables-user-needs-p8962
+[ANCHOR] clarity #00C8FF link://clarity/effect-sizes-clarity-tables-user-needs-p8962
+[ANCHOR] learning #E6B800 link://learning/effect-sizes-clarity-tables-user-needs-p8962
+[ANCHOR] alignment #33CCCC link://alignment/effect-sizes-clarity-tables-user-needs-p8962
+
+TITLE: effect-sizes-clarity-tables-user-needs-p8962
+SUMMARY: Research scaffold for effect-sizes, clarity-tables, user-needs.
+
+LINKS:
+- https://perseus.tufts.edu/
+- https://siam.org/journals
+- https://jamanetwork.com/journals/jamacardiology
+
+EQUATIONS:
+- ...
+- EQ001: Linear program objective -> maximize c^T x subject to Ax <= b, x >= 0
+- EQ019: Lasso sparsity -> many β_j = 0
+
+VALUATION:
+- Score: 0.629
+- Tier: silver

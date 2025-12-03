@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/effect-sizes-clarity-tables-user-needs-p8612
+[ANCHOR] clarity #00C8FF link://clarity/effect-sizes-clarity-tables-user-needs-p8612
+[ANCHOR] learning #E6B800 link://learning/effect-sizes-clarity-tables-user-needs-p8612
+[ANCHOR] alignment #33CCCC link://alignment/effect-sizes-clarity-tables-user-needs-p8612
+
+TITLE: effect-sizes-clarity-tables-user-needs-p8612
+SUMMARY: Research scaffold for effect-sizes, clarity-tables, user-needs.
+
+LINKS:
+- https://nature.com/
+- https://scriptorium.columbia.edu/
+
+
+EQUATIONS:
+- EQ035: Maxwell equations (set of 4)
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+
+
+VALUATION:
+- Score: 0.586
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/anchor-ledger-wind-grid-p9389
+[ANCHOR] clarity #00C8FF link://clarity/anchor-ledger-wind-grid-p9389
+[ANCHOR] alignment #33CCCC link://alignment/anchor-ledger-wind-grid-p9389
+
+TITLE: anchor-ledger-wind-grid-p9389
+SUMMARY: Research scaffold for anchor-ledger, wind-grid.
+
+LINKS:
+- https://projecteuclid.org/
+
+
+
+EQUATIONS:
+- EQ011: Mechanism incentive compatibility -> truth-telling maximizes utility
+
+
+
+VALUATION:
+- Score: 0.438
+- Tier: bronze

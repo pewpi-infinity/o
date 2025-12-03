@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p7928
+[ANCHOR] ethics #FF6A00 link://ethics/research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p7928
+[ANCHOR] clarity #00C8FF link://clarity/research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p7928
+[ANCHOR] provenance #7D4DF2 link://provenance/research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p7928
+[ANCHOR] scope #6066FF link://scope/research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p7928
+
+TITLE: research-pipelines-simulation-labs-sensitivity-analysis-economy-open-education-governance-p7928
+SUMMARY: Research scaffold for research-pipelines, simulation-labs, sensitivity-analysis, economy-open, education-governance.
+
+LINKS:
+- https://egyptology.yale.edu/research
+- https://nus.edu.sg/research
+
+
+EQUATIONS:
+- EQ050: Characteristic function -> E[e^{itX}]
+- EQ021: SVD -> A = UΣVᵀ
+
+
+VALUATION:
+- Score: 0.662
+- Tier: silver

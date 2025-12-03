@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/nonconvex-landscapes-bias-detection-p7108
+[ANCHOR] clarity #00C8FF link://clarity/nonconvex-landscapes-bias-detection-p7108
+[ANCHOR] alignment #33CCCC link://alignment/nonconvex-landscapes-bias-detection-p7108
+
+TITLE: nonconvex-landscapes-bias-detection-p7108
+SUMMARY: Research scaffold for nonconvex-landscapes, bias-detection.
+
+LINKS:
+- https://cell.com/trends/biochemical-sciences
+
+
+
+EQUATIONS:
+- EQ024: Gradient descent -> θ ← θ - α∇J(θ)
+- EQ022: Logistic regression -> σ(wᵀx)
+
+
+VALUATION:
+- Score: 0.461
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/systems-interoperability-termux-android-market-design-p6640
+[ANCHOR] clarity #00C8FF link://clarity/systems-interoperability-termux-android-market-design-p6640
+[ANCHOR] alignment #33CCCC link://alignment/systems-interoperability-termux-android-market-design-p6640
+
+TITLE: systems-interoperability-termux-android-market-design-p6640
+SUMMARY: Research scaffold for systems-interoperability, termux-android, market-design.
+
+LINKS:
+- https://sciencedirect.com/journal/earth-and-planetary-science-letters
+
+
+
+EQUATIONS:
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+
+
+
+VALUATION:
+- Score: 0.537
+- Tier: bronze

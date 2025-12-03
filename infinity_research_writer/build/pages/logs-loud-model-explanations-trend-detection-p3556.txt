@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/logs-loud-model-explanations-trend-detection-p3556
+[ANCHOR] clarity #00C8FF link://clarity/logs-loud-model-explanations-trend-detection-p3556
+[ANCHOR] alignment #33CCCC link://alignment/logs-loud-model-explanations-trend-detection-p3556
+
+TITLE: logs-loud-model-explanations-trend-detection-p3556
+SUMMARY: Research scaffold for logs-loud, model-explanations, trend-detection.
+
+LINKS:
+- https://jamanetwork.com/journals/jamacardiology
+- https://nature.com/subjects/evolution
+
+
+EQUATIONS:
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+- EQ015: Power of hypothesis test -> 1 - β
+- EQ005: Spectral radius -> ρ(A) = max |λ_i(A)|
+
+VALUATION:
+- Score: 0.557
+- Tier: bronze

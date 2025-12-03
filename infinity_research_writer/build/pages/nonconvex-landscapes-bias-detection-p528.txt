@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/nonconvex-landscapes-bias-detection-p528
+[ANCHOR] clarity #00C8FF link://clarity/nonconvex-landscapes-bias-detection-p528
+[ANCHOR] alignment #33CCCC link://alignment/nonconvex-landscapes-bias-detection-p528
+
+TITLE: nonconvex-landscapes-bias-detection-p528
+SUMMARY: Research scaffold for nonconvex-landscapes, bias-detection.
+
+LINKS:
+- https://osti.gov/
+- https://oapen.org/
+- https://wwf.panda.org/discover/our_focus/
+
+EQUATIONS:
+- EQ024: Gradient descent -> θ ← θ - α∇J(θ)
+- EQ026: KL divergence -> Σ p log(p/q)
+
+
+VALUATION:
+- Score: 0.528
+- Tier: bronze

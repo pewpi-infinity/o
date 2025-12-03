@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/research-valuation-pages-manifest-p2259
+[ANCHOR] clarity #00C8FF link://clarity/research-valuation-pages-manifest-p2259
+[ANCHOR] alignment #33CCCC link://alignment/research-valuation-pages-manifest-p2259
+
+TITLE: research-valuation-pages-manifest-p2259
+SUMMARY: Research scaffold for research-valuation, pages-manifest.
+
+LINKS:
+- https://cell.com/trends/biochemical-sciences
+- https://wolframalpha.com/examples/mathematics
+- https://ssrn.com/en/index.cfm/lsn-legal-studies/
+
+EQUATIONS:
+- ...
+- EQ049: Moment generating function -> M(t)=E[e^{tX}]
+
+
+VALUATION:
+- Score: 0.532
+- Tier: bronze

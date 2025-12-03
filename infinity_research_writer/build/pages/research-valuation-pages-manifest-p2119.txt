@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/research-valuation-pages-manifest-p2119
+[ANCHOR] clarity #00C8FF link://clarity/research-valuation-pages-manifest-p2119
+[ANCHOR] alignment #33CCCC link://alignment/research-valuation-pages-manifest-p2119
+
+TITLE: research-valuation-pages-manifest-p2119
+SUMMARY: Research scaffold for research-valuation, pages-manifest.
+
+LINKS:
+- https://wwf.panda.org/discover/our_focus/
+- https://egyptology.yale.edu/research
+- https://agu.org/Publish-with-AGU/Journals
+
+EQUATIONS:
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+- EQ047: Chebyshev inequality -> P(|X-μ|≥kσ) ≤ 1/k²
+- EQ050: Characteristic function -> E[e^{itX}]
+
+VALUATION:
+- Score: 0.582
+- Tier: bronze

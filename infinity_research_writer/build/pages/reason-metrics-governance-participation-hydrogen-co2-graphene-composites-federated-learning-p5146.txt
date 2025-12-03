@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/reason-metrics-governance-participation-hydrogen-co2-graphene-composites-federated-learning-p5146
+[ANCHOR] ethics #FF6A00 link://ethics/reason-metrics-governance-participation-hydrogen-co2-graphene-composites-federated-learning-p5146
+[ANCHOR] capacity #00D67D link://capacity/reason-metrics-governance-participation-hydrogen-co2-graphene-composites-federated-learning-p5146
+[ANCHOR] clarity #00C8FF link://clarity/reason-metrics-governance-participation-hydrogen-co2-graphene-composites-federated-learning-p5146
+[ANCHOR] provenance #7D4DF2 link://provenance/reason-metrics-governance-participation-hydrogen-co2-graphene-composites-federated-learning-p5146
+
+TITLE: reason-metrics-governance-participation-hydrogen-co2-graphene-composites-federated-learning-p5146
+SUMMARY: Research scaffold for reason-metrics, governance-participation, hydrogen-co2, graphene-composites, federated-learning.
+
+LINKS:
+- https://nature.com/nrd/
+- https://nature.com/subjects/earth-sciences
+- https://evolution.berkeley.edu/
+
+EQUATIONS:
+- EQ012: Auction revenue equivalence -> symmetric independent private values
+- EQ024: Gradient descent -> θ ← θ - α∇J(θ)
+- EQ034: Poisson equation -> ∇²u = -ρ/ε
+
+VALUATION:
+- Score: 0.715
+- Tier: silver

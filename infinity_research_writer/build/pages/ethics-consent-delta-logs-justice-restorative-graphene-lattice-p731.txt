@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p731
+[ANCHOR] ethics #FF6A00 link://ethics/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p731
+[ANCHOR] capacity #00D67D link://capacity/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p731
+[ANCHOR] clarity #00C8FF link://clarity/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p731
+[ANCHOR] provenance #7D4DF2 link://provenance/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p731
+
+TITLE: ethics-consent-delta-logs-justice-restorative-graphene-lattice-p731
+SUMMARY: Research scaffold for ethics-consent, delta-logs, justice-restorative, graphene-lattice.
+
+LINKS:
+- https://iucn.org/resources/publications
+- https://ams.org/journals
+
+
+EQUATIONS:
+- EQ044: Law of large numbers -> sample mean→μ
+- EQ034: Poisson equation -> ∇²u = -ρ/ε
+
+
+VALUATION:
+- Score: 0.619
+- Tier: silver

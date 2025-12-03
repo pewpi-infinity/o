@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/signal-noise-health-equity-p2803
+[ANCHOR] clarity #00C8FF link://clarity/signal-noise-health-equity-p2803
+[ANCHOR] alignment #33CCCC link://alignment/signal-noise-health-equity-p2803
+
+TITLE: signal-noise-health-equity-p2803
+SUMMARY: Research scaffold for signal-noise, health-equity.
+
+LINKS:
+- https://oxfordhandbooks.com/
+- https://frontiersin.org/
+
+
+EQUATIONS:
+- EQ044: Law of large numbers -> sample mean→μ
+- EQ012: Auction revenue equivalence -> symmetric independent private values
+
+
+VALUATION:
+- Score: 0.493
+- Tier: bronze

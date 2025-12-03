@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/project-index-materials-reuse-variance-analysis-p9027
+[ANCHOR] clarity #00C8FF link://clarity/project-index-materials-reuse-variance-analysis-p9027
+[ANCHOR] alignment #33CCCC link://alignment/project-index-materials-reuse-variance-analysis-p9027
+
+TITLE: project-index-materials-reuse-variance-analysis-p9027
+SUMMARY: Research scaffold for project-index, materials-reuse, variance-analysis.
+
+LINKS:
+- https://beckerfreidman.uchicago.edu/research/
+- https://erowid.org/chemicals/
+- https://who.int/research
+
+EQUATIONS:
+- EQ007: Controllability -> rank([B, AB, A^2B, ..., A^{n-1}B]) = n
+
+
+
+VALUATION:
+- Score: 0.584
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/transport-routing-scope-limits-query-intent-citation-style-p1141
+[ANCHOR] clarity #00C8FF link://clarity/transport-routing-scope-limits-query-intent-citation-style-p1141
+[ANCHOR] alignment #33CCCC link://alignment/transport-routing-scope-limits-query-intent-citation-style-p1141
+
+TITLE: transport-routing-scope-limits-query-intent-citation-style-p1141
+SUMMARY: Research scaffold for transport-routing, scope-limits, query-intent, citation-style.
+
+LINKS:
+- https://wolframalpha.com/examples/mathematics
+- https://nature.com/subjects/neuromorphic-engineering
+- https://jbc.org/
+
+EQUATIONS:
+- ...
+- EQ027: Entropy -> -Σ p log p
+
+
+VALUATION:
+- Score: 0.611
+- Tier: silver

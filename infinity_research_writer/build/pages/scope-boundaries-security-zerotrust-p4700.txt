@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scope-boundaries-security-zerotrust-p4700
+[ANCHOR] clarity #00C8FF link://clarity/scope-boundaries-security-zerotrust-p4700
+[ANCHOR] alignment #33CCCC link://alignment/scope-boundaries-security-zerotrust-p4700
+
+TITLE: scope-boundaries-security-zerotrust-p4700
+SUMMARY: Research scaffold for scope-boundaries, security-zerotrust.
+
+LINKS:
+- https://emmadata.europa.eu/
+- https://kcl.ac.uk/research
+
+
+EQUATIONS:
+- EQ009: Queue M/M/1 -> ρ = λ/μ, W = 1/(μ - λ)
+- EQ013: Markov chain stationary distribution -> π = πP
+
+
+VALUATION:
+- Score: 0.526
+- Tier: bronze

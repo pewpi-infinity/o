@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/ethics-safeguards-noise-reduction-p4911
+[ANCHOR] ethics #FF6A00 link://ethics/ethics-safeguards-noise-reduction-p4911
+[ANCHOR] clarity #00C8FF link://clarity/ethics-safeguards-noise-reduction-p4911
+[ANCHOR] provenance #7D4DF2 link://provenance/ethics-safeguards-noise-reduction-p4911
+[ANCHOR] scope #6066FF link://scope/ethics-safeguards-noise-reduction-p4911
+
+TITLE: ethics-safeguards-noise-reduction-p4911
+SUMMARY: Research scaffold for ethics-safeguards, noise-reduction.
+
+LINKS:
+- https://archeology.uiowa.edu/
+- https://apa.org/pubs/databases
+
+
+EQUATIONS:
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+
+
+
+VALUATION:
+- Score: 0.544
+- Tier: bronze

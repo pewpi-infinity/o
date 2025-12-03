@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/bayes-inference-meta-analysis-project-value-p655
+[ANCHOR] clarity #00C8FF link://clarity/bayes-inference-meta-analysis-project-value-p655
+[ANCHOR] alignment #33CCCC link://alignment/bayes-inference-meta-analysis-project-value-p655
+
+TITLE: bayes-inference-meta-analysis-project-value-p655
+SUMMARY: Research scaffold for bayes-inference, meta-analysis, project-value.
+
+LINKS:
+- https://frontiersin.org/journals/neuroscience
+- https://erowid.org/chemicals/
+- https://archive.org/
+
+EQUATIONS:
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+
+
+
+VALUATION:
+- Score: 0.604
+- Tier: silver

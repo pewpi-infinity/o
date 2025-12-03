@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/economy-tradeoffs-links-ledger-epidemic-models-master-hash-change-point-p4106
+[ANCHOR] clarity #00C8FF link://clarity/economy-tradeoffs-links-ledger-epidemic-models-master-hash-change-point-p4106
+[ANCHOR] alignment #33CCCC link://alignment/economy-tradeoffs-links-ledger-epidemic-models-master-hash-change-point-p4106
+
+TITLE: economy-tradeoffs-links-ledger-epidemic-models-master-hash-change-point-p4106
+SUMMARY: Research scaffold for economy-tradeoffs, links-ledger, epidemic-models, master-hash, change-point.
+
+LINKS:
+- https://harvard.edu/research
+- https://jamanetwork.com/journals/jamaneurology
+- https://biochemj.org/
+
+EQUATIONS:
+- EQ250: Robust optimization -> minimize max loss over uncertainty set U
+- EQ038: Determinant expansion -> Σ permutations
+
+
+VALUATION:
+- Score: 0.704
+- Tier: silver

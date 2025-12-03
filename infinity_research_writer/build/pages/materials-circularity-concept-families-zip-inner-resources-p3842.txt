@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/materials-circularity-concept-families-zip-inner-resources-p3842
+[ANCHOR] clarity #00C8FF link://clarity/materials-circularity-concept-families-zip-inner-resources-p3842
+[ANCHOR] alignment #33CCCC link://alignment/materials-circularity-concept-families-zip-inner-resources-p3842
+
+TITLE: materials-circularity-concept-families-zip-inner-resources-p3842
+SUMMARY: Research scaffold for materials-circularity, concept-families, zip-inner-resources.
+
+LINKS:
+- https://openlibrary.org/
+- https://icj-cij.org/en/decisions
+- https://scriptorium.columbia.edu/
+
+EQUATIONS:
+- EQ039: Matrix invertibility -> det(A) ≠ 0
+
+
+
+VALUATION:
+- Score: 0.550
+- Tier: bronze

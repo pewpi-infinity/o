@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/paper-index-silicon-fabs-grade-metrics-grid-congestion-p4591
+[ANCHOR] clarity #00C8FF link://clarity/paper-index-silicon-fabs-grade-metrics-grid-congestion-p4591
+[ANCHOR] alignment #33CCCC link://alignment/paper-index-silicon-fabs-grade-metrics-grid-congestion-p4591
+
+TITLE: paper-index-silicon-fabs-grade-metrics-grid-congestion-p4591
+SUMMARY: Research scaffold for paper-index, silicon-fabs, grade-metrics, grid-congestion.
+
+LINKS:
+- https://springer.com/gp/mathematics
+- https://ourworldindata.org/
+- https://arxiv.org/archive/math
+
+EQUATIONS:
+- EQ046: Markov inequality -> P(X≥a) ≤ E[X]/a
+- EQ022: Logistic regression -> σ(wᵀx)
+
+
+VALUATION:
+- Score: 0.642
+- Tier: silver

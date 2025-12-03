@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/controllability-co2-sequestration-p7385
+[ANCHOR] clarity #00C8FF link://clarity/controllability-co2-sequestration-p7385
+[ANCHOR] alignment #33CCCC link://alignment/controllability-co2-sequestration-p7385
+
+TITLE: controllability-co2-sequestration-p7385
+SUMMARY: Research scaffold for controllability, co2-sequestration.
+
+LINKS:
+- https://nature.com/subjects/earth-sciences
+- https://acs.org/content/acs/en/journals.html
+- https://ncbi.nlm.nih.gov/
+
+EQUATIONS:
+- EQ037: Eigenvalue problem -> Ax = λx
+- EQ039: Matrix invertibility -> det(A) ≠ 0
+
+
+VALUATION:
+- Score: 0.549
+- Tier: bronze

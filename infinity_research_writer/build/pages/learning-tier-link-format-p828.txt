@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/learning-tier-link-format-p828
+[ANCHOR] clarity #00C8FF link://clarity/learning-tier-link-format-p828
+[ANCHOR] learning #E6B800 link://learning/learning-tier-link-format-p828
+[ANCHOR] alignment #33CCCC link://alignment/learning-tier-link-format-p828
+
+TITLE: learning-tier-link-format-p828
+SUMMARY: Research scaffold for learning-tier, link-format.
+
+LINKS:
+- https://mdpi.com/
+- https://nature.com/collections
+- https://agu.org/learn-and-develop/learn/earth-and-space-science-news
+
+EQUATIONS:
+- EQ013: Markov chain stationary distribution -> π = πP
+- EQ019: Lasso sparsity -> many β_j = 0
+- EQ029: Fourier transform -> F(ω)=∫ f(t)e^{-iωt}dt
+
+VALUATION:
+- Score: 0.615
+- Tier: silver

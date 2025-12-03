@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/paper-index-silicon-fabs-grade-metrics-grid-congestion-p1511
+[ANCHOR] clarity #00C8FF link://clarity/paper-index-silicon-fabs-grade-metrics-grid-congestion-p1511
+[ANCHOR] alignment #33CCCC link://alignment/paper-index-silicon-fabs-grade-metrics-grid-congestion-p1511
+
+TITLE: paper-index-silicon-fabs-grade-metrics-grid-congestion-p1511
+SUMMARY: Research scaffold for paper-index, silicon-fabs, grade-metrics, grid-congestion.
+
+LINKS:
+- https://biorxiv.org/
+
+
+
+EQUATIONS:
+- EQ039: Matrix invertibility -> det(A) ≠ 0
+- EQ025: Softmax -> exp(z_i) / Σ exp(z)
+- EQ006: Stability -> Re(λ_i(A)) < 0 for continuous systems
+
+VALUATION:
+- Score: 0.595
+- Tier: bronze

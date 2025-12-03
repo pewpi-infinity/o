@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/governance-debate-valuation-report-p3199
+[ANCHOR] ethics #FF6A00 link://ethics/governance-debate-valuation-report-p3199
+[ANCHOR] clarity #00C8FF link://clarity/governance-debate-valuation-report-p3199
+[ANCHOR] provenance #7D4DF2 link://provenance/governance-debate-valuation-report-p3199
+[ANCHOR] scope #6066FF link://scope/governance-debate-valuation-report-p3199
+
+TITLE: governance-debate-valuation-report-p3199
+SUMMARY: Research scaffold for governance-debate, valuation-report.
+
+LINKS:
+- https://springer.com/gp/mathematics
+- https://durham.ac.uk/research
+- https://rsc.org/journals-books-databases/
+
+EQUATIONS:
+- EQ020: PCA -> eigenvectors of covariance Σ
+- EQ019: Lasso sparsity -> many β_j = 0
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+
+VALUATION:
+- Score: 0.629
+- Tier: silver

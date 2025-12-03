@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/artifact-visibility-scholar-ledger-p2011
+[ANCHOR] clarity #00C8FF link://clarity/artifact-visibility-scholar-ledger-p2011
+[ANCHOR] alignment #33CCCC link://alignment/artifact-visibility-scholar-ledger-p2011
+
+TITLE: artifact-visibility-scholar-ledger-p2011
+SUMMARY: Research scaffold for artifact-visibility, scholar-ledger.
+
+LINKS:
+- https://nature.com/subjects/biochemistry
+- https://openalex.org/
+- https://springer.com/gp/biomedicine
+
+EQUATIONS:
+- EQ003: Lagrangian -> L(x, λ) = f(x) + λ^T (Ax - b)
+
+
+
+VALUATION:
+- Score: 0.560
+- Tier: bronze

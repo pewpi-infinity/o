@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/capacity-scaling-alignment-feedback-risk-bounds-p7797
+[ANCHOR] capacity #00D67D link://capacity/capacity-scaling-alignment-feedback-risk-bounds-p7797
+[ANCHOR] clarity #00C8FF link://clarity/capacity-scaling-alignment-feedback-risk-bounds-p7797
+[ANCHOR] provenance #7D4DF2 link://provenance/capacity-scaling-alignment-feedback-risk-bounds-p7797
+[ANCHOR] risk #FF3B3B link://risk/capacity-scaling-alignment-feedback-risk-bounds-p7797
+
+TITLE: capacity-scaling-alignment-feedback-risk-bounds-p7797
+SUMMARY: Research scaffold for capacity-scaling, alignment-feedback, risk-bounds.
+
+LINKS:
+- https://cell.com/trends/biochemical-sciences
+- https://projecteuclid.org/
+- https://nature.com/
+
+EQUATIONS:
+- EQ045: Central limit theorem -> normalized sums→normal
+
+
+
+VALUATION:
+- Score: 0.595
+- Tier: bronze

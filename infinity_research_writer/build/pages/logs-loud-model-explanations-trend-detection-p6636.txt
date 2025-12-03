@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/logs-loud-model-explanations-trend-detection-p6636
+[ANCHOR] clarity #00C8FF link://clarity/logs-loud-model-explanations-trend-detection-p6636
+[ANCHOR] alignment #33CCCC link://alignment/logs-loud-model-explanations-trend-detection-p6636
+
+TITLE: logs-loud-model-explanations-trend-detection-p6636
+SUMMARY: Research scaffold for logs-loud, model-explanations, trend-detection.
+
+LINKS:
+- https://openpsych.net/
+- https://brill.com/browse?level=research
+
+
+EQUATIONS:
+- EQ020: PCA -> eigenvectors of covariance Σ
+
+
+
+VALUATION:
+- Score: 0.537
+- Tier: bronze

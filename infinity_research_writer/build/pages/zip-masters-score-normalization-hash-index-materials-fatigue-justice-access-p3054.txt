@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/zip-masters-score-normalization-hash-index-materials-fatigue-justice-access-p3054
+[ANCHOR] ethics #FF6A00 link://ethics/zip-masters-score-normalization-hash-index-materials-fatigue-justice-access-p3054
+[ANCHOR] clarity #00C8FF link://clarity/zip-masters-score-normalization-hash-index-materials-fatigue-justice-access-p3054
+[ANCHOR] provenance #7D4DF2 link://provenance/zip-masters-score-normalization-hash-index-materials-fatigue-justice-access-p3054
+[ANCHOR] scope #6066FF link://scope/zip-masters-score-normalization-hash-index-materials-fatigue-justice-access-p3054
+
+TITLE: zip-masters-score-normalization-hash-index-materials-fatigue-justice-access-p3054
+SUMMARY: Research scaffold for zip-masters, score-normalization, hash-index, materials-fatigue, justice-access.
+
+LINKS:
+- https://libguides.bodleian.ox.ac.uk/numismatics
+
+
+
+EQUATIONS:
+- EQ023: Cross entropy -> -Σ y log p
+- EQ031: Laplace transform -> ∫f(t)e^{-st}dt
+- EQ026: KL divergence -> Σ p log(p/q)
+
+VALUATION:
+- Score: 0.650
+- Tier: silver

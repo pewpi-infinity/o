@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/education-outreach-nonprogrammer-ux-spectral-methods-governance-standards-observability-p4309
+[ANCHOR] ethics #FF6A00 link://ethics/education-outreach-nonprogrammer-ux-spectral-methods-governance-standards-observability-p4309
+[ANCHOR] clarity #00C8FF link://clarity/education-outreach-nonprogrammer-ux-spectral-methods-governance-standards-observability-p4309
+[ANCHOR] provenance #7D4DF2 link://provenance/education-outreach-nonprogrammer-ux-spectral-methods-governance-standards-observability-p4309
+[ANCHOR] scope #6066FF link://scope/education-outreach-nonprogrammer-ux-spectral-methods-governance-standards-observability-p4309
+
+TITLE: education-outreach-nonprogrammer-ux-spectral-methods-governance-standards-observability-p4309
+SUMMARY: Research scaffold for education-outreach, nonprogrammer-ux, spectral-methods, governance-standards, observability.
+
+LINKS:
+- https://stats.stackexchange.com/questions/tagged/crossvalidated
+
+
+
+EQUATIONS:
+- EQ004: KKT conditions -> ∇f(x*) + A^T λ* = 0, Ax* <= b, λ* >= 0, λ*^T (Ax* - b) = 0
+- EQ007: Controllability -> rank([B, AB, A^2B, ..., A^{n-1}B]) = n
+- EQ033: Wave equation -> ∂²u/∂t² = c²∇²u
+
+VALUATION:
+- Score: 0.730
+- Tier: silver

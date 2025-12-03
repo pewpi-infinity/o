@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/bayes-inference-meta-analysis-project-value-p3385
+[ANCHOR] clarity #00C8FF link://clarity/bayes-inference-meta-analysis-project-value-p3385
+[ANCHOR] alignment #33CCCC link://alignment/bayes-inference-meta-analysis-project-value-p3385
+
+TITLE: bayes-inference-meta-analysis-project-value-p3385
+SUMMARY: Research scaffold for bayes-inference, meta-analysis, project-value.
+
+LINKS:
+- https://frontiersin.org/
+
+
+
+EQUATIONS:
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+- EQ036: Schrödinger equation -> iħ∂ψ/∂t = Hψ
+
+
+VALUATION:
+- Score: 0.537
+- Tier: bronze

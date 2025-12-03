@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/signal-noise-health-equity-p6863
+[ANCHOR] clarity #00C8FF link://clarity/signal-noise-health-equity-p6863
+[ANCHOR] alignment #33CCCC link://alignment/signal-noise-health-equity-p6863
+
+TITLE: signal-noise-health-equity-p6863
+SUMMARY: Research scaffold for signal-noise, health-equity.
+
+LINKS:
+- https://tandfonline.com/
+
+
+
+EQUATIONS:
+- EQ043: Chi-square distribution -> special gamma
+- EQ022: Logistic regression -> σ(wᵀx)
+
+
+VALUATION:
+- Score: 0.459
+- Tier: bronze

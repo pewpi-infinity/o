@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/artifact-visibility-scholar-ledger-p5861
+[ANCHOR] clarity #00C8FF link://clarity/artifact-visibility-scholar-ledger-p5861
+[ANCHOR] alignment #33CCCC link://alignment/artifact-visibility-scholar-ledger-p5861
+
+TITLE: artifact-visibility-scholar-ledger-p5861
+SUMMARY: Research scaffold for artifact-visibility, scholar-ledger.
+
+LINKS:
+- https://edinburgh.ac.uk/research
+- https://mlr.press/
+
+
+EQUATIONS:
+- EQ040: Rank-nullity -> dim(V)=rank+nullity
+
+
+
+VALUATION:
+- Score: 0.477
+- Tier: bronze

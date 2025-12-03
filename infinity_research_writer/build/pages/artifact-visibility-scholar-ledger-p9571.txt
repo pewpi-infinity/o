@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/artifact-visibility-scholar-ledger-p9571
+[ANCHOR] clarity #00C8FF link://clarity/artifact-visibility-scholar-ledger-p9571
+[ANCHOR] alignment #33CCCC link://alignment/artifact-visibility-scholar-ledger-p9571
+
+TITLE: artifact-visibility-scholar-ledger-p9571
+SUMMARY: Research scaffold for artifact-visibility, scholar-ledger.
+
+LINKS:
+- https://pubchem.ncbi.nlm.nih.gov/
+- https://radiopaedia.org/
+
+
+EQUATIONS:
+- EQ021: SVD -> A = UΣVᵀ
+- EQ050: Characteristic function -> E[e^{itX}]
+- EQ018: Ridge regression -> minimize ||y-Xβ||² + λ||β||²
+
+VALUATION:
+- Score: 0.537
+- Tier: bronze

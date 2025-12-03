@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/stochastic-processes-hypothesis-tests-silicon-photonics-network-effects-p3994
+[ANCHOR] clarity #00C8FF link://clarity/stochastic-processes-hypothesis-tests-silicon-photonics-network-effects-p3994
+[ANCHOR] alignment #33CCCC link://alignment/stochastic-processes-hypothesis-tests-silicon-photonics-network-effects-p3994
+
+TITLE: stochastic-processes-hypothesis-tests-silicon-photonics-network-effects-p3994
+SUMMARY: Research scaffold for stochastic-processes, hypothesis-tests, silicon-photonics, network-effects.
+
+LINKS:
+- https://jamanetwork.com/journals/jamaneurology
+- https://scholar.google.com/
+
+
+EQUATIONS:
+- EQ045: Central limit theorem -> normalized sums→normal
+- EQ001: Linear program objective -> maximize c^T x subject to Ax <= b, x >= 0
+- EQ037: Eigenvalue problem -> Ax = λx
+
+VALUATION:
+- Score: 0.617
+- Tier: silver

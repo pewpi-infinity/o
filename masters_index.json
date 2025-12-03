@@ -1,0 +1,12 @@
+{
+  "created_at_utc": "2025-11-29T20:08:01.552191+00:00",
+  "batch_size": 10,
+  "masters": [
+    {
+      "master_index": 1,
+      "count": 10,
+      "master_hash": "085f5c3f9b7bef408f19950e222df2f91df2d87e7f8aab7fad7ca28a0738c10f",
+      "master_zip": "infinity_tokens/master_0001_10.zip"
+    }
+  ]
+}

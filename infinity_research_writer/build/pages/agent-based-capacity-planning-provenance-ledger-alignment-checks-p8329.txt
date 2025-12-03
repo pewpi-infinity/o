@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/agent-based-capacity-planning-provenance-ledger-alignment-checks-p8329
+[ANCHOR] capacity #00D67D link://capacity/agent-based-capacity-planning-provenance-ledger-alignment-checks-p8329
+[ANCHOR] clarity #00C8FF link://clarity/agent-based-capacity-planning-provenance-ledger-alignment-checks-p8329
+[ANCHOR] provenance #7D4DF2 link://provenance/agent-based-capacity-planning-provenance-ledger-alignment-checks-p8329
+[ANCHOR] risk #FF3B3B link://risk/agent-based-capacity-planning-provenance-ledger-alignment-checks-p8329
+
+TITLE: agent-based-capacity-planning-provenance-ledger-alignment-checks-p8329
+SUMMARY: Research scaffold for agent-based, capacity-planning, provenance-ledger, alignment-checks.
+
+LINKS:
+- https://poker.srv.ualberta.ca/publications/
+
+
+
+EQUATIONS:
+- EQ017: L1 regularization -> minimize ||y-Xβ||² + λ||β||₁
+- EQ024: Gradient descent -> θ ← θ - α∇J(θ)
+
+
+VALUATION:
+- Score: 0.588
+- Tier: bronze

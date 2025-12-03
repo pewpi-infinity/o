@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/tier-silver-provenance-signing-context-windows-p4894
+[ANCHOR] clarity #00C8FF link://clarity/tier-silver-provenance-signing-context-windows-p4894
+[ANCHOR] learning #E6B800 link://learning/tier-silver-provenance-signing-context-windows-p4894
+[ANCHOR] alignment #33CCCC link://alignment/tier-silver-provenance-signing-context-windows-p4894
+
+TITLE: tier-silver-provenance-signing-context-windows-p4894
+SUMMARY: Research scaffold for tier-silver, provenance-signing, context-windows.
+
+LINKS:
+- https://law.cornell.edu/
+- https://pnas.org/
+
+
+EQUATIONS:
+- EQ019: Lasso sparsity -> many β_j = 0
+- EQ048: Jensen's inequality -> φ(E[X]) ≤ E[φ(X)]
+
+
+VALUATION:
+- Score: 0.577
+- Tier: bronze

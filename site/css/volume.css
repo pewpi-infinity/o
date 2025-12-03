@@ -1,0 +1,16 @@
+body {
+  background:#111;
+  color:#fff;
+  text-align:center;
+  font-family:Arial;
+  padding-top:30px;
+}
+
+.control-block {
+  margin:20px;
+  font-size:18px;
+}
+
+input[type=range] {
+  width:250px;
+}

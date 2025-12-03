@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/graphene-economy-semantic-index-p4043
+[ANCHOR] capacity #00D67D link://capacity/graphene-economy-semantic-index-p4043
+[ANCHOR] clarity #00C8FF link://clarity/graphene-economy-semantic-index-p4043
+[ANCHOR] provenance #7D4DF2 link://provenance/graphene-economy-semantic-index-p4043
+[ANCHOR] risk #FF3B3B link://risk/graphene-economy-semantic-index-p4043
+
+TITLE: graphene-economy-semantic-index-p4043
+SUMMARY: Research scaffold for graphene-economy, semantic-index.
+
+LINKS:
+- https://data.europa.eu/
+- https://nature.com/
+- https://thelancet.com/journals/lancet/issue/current
+
+EQUATIONS:
+- EQ019: Lasso sparsity -> many β_j = 0
+- EQ017: L1 regularization -> minimize ||y-Xβ||² + λ||β||₁
+- EQ010: Nash equilibrium -> best response mappings intersect
+
+VALUATION:
+- Score: 0.611
+- Tier: silver

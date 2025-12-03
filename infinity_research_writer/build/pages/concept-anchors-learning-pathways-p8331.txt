@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/concept-anchors-learning-pathways-p8331
+[ANCHOR] clarity #00C8FF link://clarity/concept-anchors-learning-pathways-p8331
+[ANCHOR] learning #E6B800 link://learning/concept-anchors-learning-pathways-p8331
+[ANCHOR] alignment #33CCCC link://alignment/concept-anchors-learning-pathways-p8331
+
+TITLE: concept-anchors-learning-pathways-p8331
+SUMMARY: Research scaffold for concept-anchors, learning-pathways.
+
+LINKS:
+- https://openknowledge.worldbank.org/
+- https://mit.edu/research/brain-and-cognitive-sciences
+- https://nature.com/subjects/blood
+
+EQUATIONS:
+- EQ006: Stability -> Re(λ_i(A)) < 0 for continuous systems
+
+
+
+VALUATION:
+- Score: 0.559
+- Tier: bronze

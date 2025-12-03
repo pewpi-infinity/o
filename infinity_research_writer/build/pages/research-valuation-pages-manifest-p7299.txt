@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/research-valuation-pages-manifest-p7299
+[ANCHOR] clarity #00C8FF link://clarity/research-valuation-pages-manifest-p7299
+[ANCHOR] alignment #33CCCC link://alignment/research-valuation-pages-manifest-p7299
+
+TITLE: research-valuation-pages-manifest-p7299
+SUMMARY: Research scaffold for research-valuation, pages-manifest.
+
+LINKS:
+- https://apa.org/pubs/databases
+
+
+
+EQUATIONS:
+- EQ041: Gaussian distribution -> (1/√2πσ²)e^{-(x-μ)²/2σ²}
+- EQ049: Moment generating function -> M(t)=E[e^{tX}]
+
+
+VALUATION:
+- Score: 0.465
+- Tier: bronze

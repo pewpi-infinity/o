@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/ethics-safeguards-noise-reduction-p3931
+[ANCHOR] ethics #FF6A00 link://ethics/ethics-safeguards-noise-reduction-p3931
+[ANCHOR] clarity #00C8FF link://clarity/ethics-safeguards-noise-reduction-p3931
+[ANCHOR] provenance #7D4DF2 link://provenance/ethics-safeguards-noise-reduction-p3931
+[ANCHOR] scope #6066FF link://scope/ethics-safeguards-noise-reduction-p3931
+
+TITLE: ethics-safeguards-noise-reduction-p3931
+SUMMARY: Research scaffold for ethics-safeguards, noise-reduction.
+
+LINKS:
+- https://mlr.press/
+- https://darpa.mil/our-research
+
+
+EQUATIONS:
+- EQ003: Lagrangian -> L(x, λ) = f(x) + λ^T (Ax - b)
+- EQ015: Power of hypothesis test -> 1 - β
+
+
+VALUATION:
+- Score: 0.584
+- Tier: bronze

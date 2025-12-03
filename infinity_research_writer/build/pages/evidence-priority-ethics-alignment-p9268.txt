@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/evidence-priority-ethics-alignment-p9268
+[ANCHOR] ethics #FF6A00 link://ethics/evidence-priority-ethics-alignment-p9268
+[ANCHOR] clarity #00C8FF link://clarity/evidence-priority-ethics-alignment-p9268
+[ANCHOR] provenance #7D4DF2 link://provenance/evidence-priority-ethics-alignment-p9268
+[ANCHOR] scope #6066FF link://scope/evidence-priority-ethics-alignment-p9268
+
+TITLE: evidence-priority-ethics-alignment-p9268
+SUMMARY: Research scaffold for evidence-priority, ethics-alignment.
+
+LINKS:
+- https://scholar.harvard.edu/
+- https://sciencedirect.com/book-series
+- https://data.noaa.gov/
+
+EQUATIONS:
+- EQ025: Softmax -> exp(z_i) / Σ exp(z)
+- EQ049: Moment generating function -> M(t)=E[e^{tX}]
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+
+VALUATION:
+- Score: 0.642
+- Tier: silver

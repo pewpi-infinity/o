@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/effect-sizes-clarity-tables-user-needs-p6582
+[ANCHOR] clarity #00C8FF link://clarity/effect-sizes-clarity-tables-user-needs-p6582
+[ANCHOR] learning #E6B800 link://learning/effect-sizes-clarity-tables-user-needs-p6582
+[ANCHOR] alignment #33CCCC link://alignment/effect-sizes-clarity-tables-user-needs-p6582
+
+TITLE: effect-sizes-clarity-tables-user-needs-p6582
+SUMMARY: Research scaffold for effect-sizes, clarity-tables, user-needs.
+
+LINKS:
+- https://ancientcoins.ca/
+- https://tokyo-u.ac.jp/en/research
+- https://gapminder.org/data/
+
+EQUATIONS:
+- EQ015: Power of hypothesis test -> 1 - β
+- EQ014: Bayesian update -> p(θ|D) ∝ p(D|θ)p(θ)
+- EQ012: Auction revenue equivalence -> symmetric independent private values
+
+VALUATION:
+- Score: 0.639
+- Tier: silver

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/controllability-co2-sequestration-p1785
+[ANCHOR] clarity #00C8FF link://clarity/controllability-co2-sequestration-p1785
+[ANCHOR] alignment #33CCCC link://alignment/controllability-co2-sequestration-p1785
+
+TITLE: controllability-co2-sequestration-p1785
+SUMMARY: Research scaffold for controllability, co2-sequestration.
+
+LINKS:
+- https://qmul.ac.uk/research
+- https://neuromorphicsystems.org/
+- https://nber.org/
+
+EQUATIONS:
+- EQ021: SVD -> A = UΣVᵀ
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+
+
+VALUATION:
+- Score: 0.529
+- Tier: bronze

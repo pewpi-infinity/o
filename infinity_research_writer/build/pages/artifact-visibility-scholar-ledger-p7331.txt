@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/artifact-visibility-scholar-ledger-p7331
+[ANCHOR] clarity #00C8FF link://clarity/artifact-visibility-scholar-ledger-p7331
+[ANCHOR] alignment #33CCCC link://alignment/artifact-visibility-scholar-ledger-p7331
+
+TITLE: artifact-visibility-scholar-ledger-p7331
+SUMMARY: Research scaffold for artifact-visibility, scholar-ledger.
+
+LINKS:
+- https://britishmuseum.org/collection
+
+
+
+EQUATIONS:
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+
+
+
+VALUATION:
+- Score: 0.474
+- Tier: bronze

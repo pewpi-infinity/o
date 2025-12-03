@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/color-links-term-filters-evidence-chains-p2632
+[ANCHOR] clarity #00C8FF link://clarity/color-links-term-filters-evidence-chains-p2632
+[ANCHOR] alignment #33CCCC link://alignment/color-links-term-filters-evidence-chains-p2632
+
+TITLE: color-links-term-filters-evidence-chains-p2632
+SUMMARY: Research scaffold for color-links, term-filters, evidence-chains.
+
+LINKS:
+- https://nasa.gov/
+- https://un.org/sustainabledevelopment/climate-change/
+
+
+EQUATIONS:
+- EQ043: Chi-square distribution -> special gamma
+- EQ011: Mechanism incentive compatibility -> truth-telling maximizes utility
+- EQ021: SVD -> A = UΣVᵀ
+
+VALUATION:
+- Score: 0.557
+- Tier: bronze

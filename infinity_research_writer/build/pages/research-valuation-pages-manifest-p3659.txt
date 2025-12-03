@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/research-valuation-pages-manifest-p3659
+[ANCHOR] clarity #00C8FF link://clarity/research-valuation-pages-manifest-p3659
+[ANCHOR] alignment #33CCCC link://alignment/research-valuation-pages-manifest-p3659
+
+TITLE: research-valuation-pages-manifest-p3659
+SUMMARY: Research scaffold for research-valuation, pages-manifest.
+
+LINKS:
+- https://epfl.ch/en/research/
+- https://tudelft.nl/en/research
+
+
+EQUATIONS:
+- EQ017: L1 regularization -> minimize ||y-Xβ||² + λ||β||₁
+- EQ032: Heat equation -> ∂u/∂t = α∇²u
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+
+VALUATION:
+- Score: 0.569
+- Tier: bronze

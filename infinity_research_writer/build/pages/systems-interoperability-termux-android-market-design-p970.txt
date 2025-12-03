@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/systems-interoperability-termux-android-market-design-p970
+[ANCHOR] clarity #00C8FF link://clarity/systems-interoperability-termux-android-market-design-p970
+[ANCHOR] alignment #33CCCC link://alignment/systems-interoperability-termux-android-market-design-p970
+
+TITLE: systems-interoperability-termux-android-market-design-p970
+SUMMARY: Research scaffold for systems-interoperability, termux-android, market-design.
+
+LINKS:
+- https://humanconnectome.org/
+- https://agu.org/learn-and-develop/learn/atmospheric-science
+- https://darpa.mil/our-research
+
+EQUATIONS:
+- EQ007: Controllability -> rank([B, AB, A^2B, ..., A^{n-1}B]) = n
+- EQ005: Spectral radius -> ρ(A) = max |λ_i(A)|
+
+
+VALUATION:
+- Score: 0.604
+- Tier: silver

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/energy-storage-auction-theory-ledger-proof-review-cycle-anomaly-detection-p3522
+[ANCHOR] clarity #00C8FF link://clarity/energy-storage-auction-theory-ledger-proof-review-cycle-anomaly-detection-p3522
+[ANCHOR] alignment #33CCCC link://alignment/energy-storage-auction-theory-ledger-proof-review-cycle-anomaly-detection-p3522
+
+TITLE: energy-storage-auction-theory-ledger-proof-review-cycle-anomaly-detection-p3522
+SUMMARY: Research scaffold for energy-storage, auction-theory, ledger-proof, review-cycle, anomaly-detection.
+
+LINKS:
+- https://uclpress.co.uk/
+- https://royalsociety.org/journals/
+- https://theoi.com/
+
+EQUATIONS:
+- EQ009: Queue M/M/1 -> ρ = λ/μ, W = 1/(μ - λ)
+- EQ044: Law of large numbers -> sample mean→μ
+- EQ035: Maxwell equations (set of 4)
+
+VALUATION:
+- Score: 0.677
+- Tier: silver

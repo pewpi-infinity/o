@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/benchmark-suites-valuation-ledger-token-ledger-materials-bio-anchor-families-p1650
+[ANCHOR] clarity #00C8FF link://clarity/benchmark-suites-valuation-ledger-token-ledger-materials-bio-anchor-families-p1650
+[ANCHOR] alignment #33CCCC link://alignment/benchmark-suites-valuation-ledger-token-ledger-materials-bio-anchor-families-p1650
+
+TITLE: benchmark-suites-valuation-ledger-token-ledger-materials-bio-anchor-families-p1650
+SUMMARY: Research scaffold for benchmark-suites, valuation-ledger, token-ledger, materials-bio, anchor-families.
+
+LINKS:
+- https://plos.org/
+- https://bl.uk/catalogues-and-collections
+
+
+EQUATIONS:
+- EQ033: Wave equation -> ∂²u/∂t² = c²∇²u
+- EQ032: Heat equation -> ∂u/∂t = α∇²u
+- EQ011: Mechanism incentive compatibility -> truth-telling maximizes utility
+
+VALUATION:
+- Score: 0.642
+- Tier: silver

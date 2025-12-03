@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/learning-tier-link-format-p7758
+[ANCHOR] clarity #00C8FF link://clarity/learning-tier-link-format-p7758
+[ANCHOR] learning #E6B800 link://learning/learning-tier-link-format-p7758
+[ANCHOR] alignment #33CCCC link://alignment/learning-tier-link-format-p7758
+
+TITLE: learning-tier-link-format-p7758
+SUMMARY: Research scaffold for learning-tier, link-format.
+
+LINKS:
+- https://scholar.google.com/
+- https://vellum.sas.ac.uk/
+- https://jstor.org/
+
+EQUATIONS:
+- ...
+- EQ013: Markov chain stationary distribution -> π = πP
+
+
+VALUATION:
+- Score: 0.575
+- Tier: bronze

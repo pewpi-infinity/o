@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/txt-structure-repo-clarity-queue-theory-p5740
+[ANCHOR] clarity #00C8FF link://clarity/txt-structure-repo-clarity-queue-theory-p5740
+[ANCHOR] learning #E6B800 link://learning/txt-structure-repo-clarity-queue-theory-p5740
+[ANCHOR] alignment #33CCCC link://alignment/txt-structure-repo-clarity-queue-theory-p5740
+
+TITLE: txt-structure-repo-clarity-queue-theory-p5740
+SUMMARY: Research scaffold for txt-structure, repo-clarity, queue-theory.
+
+LINKS:
+- https://data.worldbank.org/
+- https://jbc.org/
+
+
+EQUATIONS:
+- EQ038: Determinant expansion -> Σ permutations
+
+
+
+VALUATION:
+- Score: 0.536
+- Tier: bronze

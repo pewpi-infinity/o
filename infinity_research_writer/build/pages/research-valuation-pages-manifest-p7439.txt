@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/research-valuation-pages-manifest-p7439
+[ANCHOR] clarity #00C8FF link://clarity/research-valuation-pages-manifest-p7439
+[ANCHOR] alignment #33CCCC link://alignment/research-valuation-pages-manifest-p7439
+
+TITLE: research-valuation-pages-manifest-p7439
+SUMMARY: Research scaffold for research-valuation, pages-manifest.
+
+LINKS:
+- https://epfl.ch/en/research/
+- https://cambridge.org/core/what-we-publish/journals
+- https://perseus.tufts.edu/
+
+EQUATIONS:
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+
+
+
+VALUATION:
+- Score: 0.542
+- Tier: bronze

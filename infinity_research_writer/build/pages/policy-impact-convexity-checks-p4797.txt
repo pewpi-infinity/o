@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/policy-impact-convexity-checks-p4797
+[ANCHOR] clarity #00C8FF link://clarity/policy-impact-convexity-checks-p4797
+[ANCHOR] alignment #33CCCC link://alignment/policy-impact-convexity-checks-p4797
+
+TITLE: policy-impact-convexity-checks-p4797
+SUMMARY: Research scaffold for policy-impact, convexity-checks.
+
+LINKS:
+- https://tudelft.nl/en/research
+
+
+
+EQUATIONS:
+- EQ025: Softmax -> exp(z_i) / Σ exp(z)
+
+
+
+VALUATION:
+- Score: 0.444
+- Tier: bronze

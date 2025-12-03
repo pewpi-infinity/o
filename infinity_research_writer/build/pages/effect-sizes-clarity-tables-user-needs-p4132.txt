@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/effect-sizes-clarity-tables-user-needs-p4132
+[ANCHOR] clarity #00C8FF link://clarity/effect-sizes-clarity-tables-user-needs-p4132
+[ANCHOR] learning #E6B800 link://learning/effect-sizes-clarity-tables-user-needs-p4132
+[ANCHOR] alignment #33CCCC link://alignment/effect-sizes-clarity-tables-user-needs-p4132
+
+TITLE: effect-sizes-clarity-tables-user-needs-p4132
+SUMMARY: Research scaffold for effect-sizes, clarity-tables, user-needs.
+
+LINKS:
+- https://ipcc.ch/
+- https://agu.org/Share-and-Advocate/Share/Eos
+
+
+EQUATIONS:
+- EQ009: Queue M/M/1 -> ρ = λ/μ, W = 1/(μ - λ)
+
+
+
+VALUATION:
+- Score: 0.536
+- Tier: bronze

@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/learning-tier-link-format-p7058
+[ANCHOR] clarity #00C8FF link://clarity/learning-tier-link-format-p7058
+[ANCHOR] learning #E6B800 link://learning/learning-tier-link-format-p7058
+[ANCHOR] alignment #33CCCC link://alignment/learning-tier-link-format-p7058
+
+TITLE: learning-tier-link-format-p7058
+SUMMARY: Research scaffold for learning-tier, link-format.
+
+LINKS:
+- https://planetmath.org/
+
+
+
+EQUATIONS:
+- EQ024: Gradient descent -> θ ← θ - α∇J(θ)
+- EQ028: Mutual information -> I(X;Y) = H(X)+H(Y)-H(X,Y)
+- EQ001: Linear program objective -> maximize c^T x subject to Ax <= b, x >= 0
+
+VALUATION:
+- Score: 0.498
+- Tier: bronze

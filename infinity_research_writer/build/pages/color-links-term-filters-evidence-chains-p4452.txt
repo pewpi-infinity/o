@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/color-links-term-filters-evidence-chains-p4452
+[ANCHOR] clarity #00C8FF link://clarity/color-links-term-filters-evidence-chains-p4452
+[ANCHOR] alignment #33CCCC link://alignment/color-links-term-filters-evidence-chains-p4452
+
+TITLE: color-links-term-filters-evidence-chains-p4452
+SUMMARY: Research scaffold for color-links, term-filters, evidence-chains.
+
+LINKS:
+- https://scholar.google.com/
+
+
+
+EQUATIONS:
+- EQ038: Determinant expansion -> Σ permutations
+- EQ033: Wave equation -> ∂²u/∂t² = c²∇²u
+- EQ018: Ridge regression -> minimize ||y-Xβ||² + λ||β||²
+
+VALUATION:
+- Score: 0.544
+- Tier: bronze

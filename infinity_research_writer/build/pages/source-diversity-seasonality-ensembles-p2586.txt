@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/source-diversity-seasonality-ensembles-p2586
+[ANCHOR] clarity #00C8FF link://clarity/source-diversity-seasonality-ensembles-p2586
+[ANCHOR] alignment #33CCCC link://alignment/source-diversity-seasonality-ensembles-p2586
+
+TITLE: source-diversity-seasonality-ensembles-p2586
+SUMMARY: Research scaffold for source-diversity, seasonality, ensembles.
+
+LINKS:
+- https://siam.org/journals
+- https://toxnet.nlm.nih.gov/
+- https://biorxiv.org/
+
+EQUATIONS:
+- EQ017: L1 regularization -> minimize ||y-Xβ||² + λ||β||₁
+- EQ046: Markov inequality -> P(X≥a) ≤ E[X]/a
+
+
+VALUATION:
+- Score: 0.601
+- Tier: silver

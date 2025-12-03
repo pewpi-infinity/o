@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/tier-silver-provenance-signing-context-windows-p7764
+[ANCHOR] clarity #00C8FF link://clarity/tier-silver-provenance-signing-context-windows-p7764
+[ANCHOR] learning #E6B800 link://learning/tier-silver-provenance-signing-context-windows-p7764
+[ANCHOR] alignment #33CCCC link://alignment/tier-silver-provenance-signing-context-windows-p7764
+
+TITLE: tier-silver-provenance-signing-context-windows-p7764
+SUMMARY: Research scaffold for tier-silver, provenance-signing, context-windows.
+
+LINKS:
+- https://durham.ac.uk/research
+- https://cambridge.org/core/what-we-publish/textbooks
+
+
+EQUATIONS:
+- EQ047: Chebyshev inequality -> P(|X-μ|≥kσ) ≤ 1/k²
+
+
+
+VALUATION:
+- Score: 0.537
+- Tier: bronze

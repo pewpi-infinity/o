@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/evidence-priority-ethics-alignment-p2548
+[ANCHOR] ethics #FF6A00 link://ethics/evidence-priority-ethics-alignment-p2548
+[ANCHOR] clarity #00C8FF link://clarity/evidence-priority-ethics-alignment-p2548
+[ANCHOR] provenance #7D4DF2 link://provenance/evidence-priority-ethics-alignment-p2548
+[ANCHOR] scope #6066FF link://scope/evidence-priority-ethics-alignment-p2548
+
+TITLE: evidence-priority-ethics-alignment-p2548
+SUMMARY: Research scaffold for evidence-priority, ethics-alignment.
+
+LINKS:
+- https://archeology.uiowa.edu/
+- https://nyu.edu/research
+- https://apa.org/research
+
+EQUATIONS:
+- EQ012: Auction revenue equivalence -> symmetric independent private values
+
+
+
+VALUATION:
+- Score: 0.552
+- Tier: bronze

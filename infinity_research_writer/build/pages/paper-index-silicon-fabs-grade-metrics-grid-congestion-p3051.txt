@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/paper-index-silicon-fabs-grade-metrics-grid-congestion-p3051
+[ANCHOR] clarity #00C8FF link://clarity/paper-index-silicon-fabs-grade-metrics-grid-congestion-p3051
+[ANCHOR] alignment #33CCCC link://alignment/paper-index-silicon-fabs-grade-metrics-grid-congestion-p3051
+
+TITLE: paper-index-silicon-fabs-grade-metrics-grid-congestion-p3051
+SUMMARY: Research scaffold for paper-index, silicon-fabs, grade-metrics, grid-congestion.
+
+LINKS:
+- https://tokyo-u.ac.jp/en/research
+- https://pubmed.ncbi.nlm.nih.gov/
+- https://neuroscience.ox.ac.uk/research
+
+EQUATIONS:
+- EQ024: Gradient descent -> θ ← θ - α∇J(θ)
+- EQ041: Gaussian distribution -> (1/√2πσ²)e^{-(x-μ)²/2σ²}
+- EQ035: Maxwell equations (set of 4)
+
+VALUATION:
+- Score: 0.632
+- Tier: silver

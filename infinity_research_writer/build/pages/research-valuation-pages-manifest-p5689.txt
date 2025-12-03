@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/research-valuation-pages-manifest-p5689
+[ANCHOR] clarity #00C8FF link://clarity/research-valuation-pages-manifest-p5689
+[ANCHOR] alignment #33CCCC link://alignment/research-valuation-pages-manifest-p5689
+
+TITLE: research-valuation-pages-manifest-p5689
+SUMMARY: Research scaffold for research-valuation, pages-manifest.
+
+LINKS:
+- https://nsidc.org/data
+- https://frontiersin.org/journals/neuromorphic-engineering
+
+
+EQUATIONS:
+- EQ015: Power of hypothesis test -> 1 - β
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+- EQ017: L1 regularization -> minimize ||y-Xβ||² + λ||β||₁
+
+VALUATION:
+- Score: 0.549
+- Tier: bronze

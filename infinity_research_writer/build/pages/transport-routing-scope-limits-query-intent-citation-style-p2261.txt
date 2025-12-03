@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/transport-routing-scope-limits-query-intent-citation-style-p2261
+[ANCHOR] clarity #00C8FF link://clarity/transport-routing-scope-limits-query-intent-citation-style-p2261
+[ANCHOR] alignment #33CCCC link://alignment/transport-routing-scope-limits-query-intent-citation-style-p2261
+
+TITLE: transport-routing-scope-limits-query-intent-citation-style-p2261
+SUMMARY: Research scaffold for transport-routing, scope-limits, query-intent, citation-style.
+
+LINKS:
+- https://aip.org/
+- https://data.cdc.gov/
+- https://mit.edu/research/brain-and-cognitive-sciences
+
+EQUATIONS:
+- EQ009: Queue M/M/1 -> ρ = λ/μ, W = 1/(μ - λ)
+- EQ045: Central limit theorem -> normalized sums→normal
+
+
+VALUATION:
+- Score: 0.611
+- Tier: silver

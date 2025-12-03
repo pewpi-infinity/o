@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/buttons-ui-data-integrity-health-telemetry-p5903
+[ANCHOR] clarity #00C8FF link://clarity/buttons-ui-data-integrity-health-telemetry-p5903
+[ANCHOR] alignment #33CCCC link://alignment/buttons-ui-data-integrity-health-telemetry-p5903
+
+TITLE: buttons-ui-data-integrity-health-telemetry-p5903
+SUMMARY: Research scaffold for buttons-ui, data-integrity, health-telemetry.
+
+LINKS:
+- https://soton.ac.uk/research
+- https://nature.com/subjects/evolution
+
+
+EQUATIONS:
+- EQ040: Rank-nullity -> dim(V)=rank+nullity
+- EQ017: L1 regularization -> minimize ||y-Xβ||² + λ||β||₁
+
+
+VALUATION:
+- Score: 0.537
+- Tier: bronze

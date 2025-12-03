@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/ethics-audit-scope-forecasting-reasoning-paths-p4790
+[ANCHOR] ethics #FF6A00 link://ethics/ethics-audit-scope-forecasting-reasoning-paths-p4790
+[ANCHOR] clarity #00C8FF link://clarity/ethics-audit-scope-forecasting-reasoning-paths-p4790
+[ANCHOR] provenance #7D4DF2 link://provenance/ethics-audit-scope-forecasting-reasoning-paths-p4790
+[ANCHOR] scope #6066FF link://scope/ethics-audit-scope-forecasting-reasoning-paths-p4790
+
+TITLE: ethics-audit-scope-forecasting-reasoning-paths-p4790
+SUMMARY: Research scaffold for ethics-audit, scope-forecasting, reasoning-paths.
+
+LINKS:
+- https://nber.org/
+- https://neurips.cc/Conferences/Current
+
+
+EQUATIONS:
+- EQ023: Cross entropy -> -Σ y log p
+
+
+
+VALUATION:
+- Score: 0.556
+- Tier: bronze

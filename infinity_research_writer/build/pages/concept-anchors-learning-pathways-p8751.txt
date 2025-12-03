@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/concept-anchors-learning-pathways-p8751
+[ANCHOR] clarity #00C8FF link://clarity/concept-anchors-learning-pathways-p8751
+[ANCHOR] learning #E6B800 link://learning/concept-anchors-learning-pathways-p8751
+[ANCHOR] alignment #33CCCC link://alignment/concept-anchors-learning-pathways-p8751
+
+TITLE: concept-anchors-learning-pathways-p8751
+SUMMARY: Research scaffold for concept-anchors, learning-pathways.
+
+LINKS:
+- https://berkeley.edu/research
+- https://ucla.edu/research
+
+
+EQUATIONS:
+- EQ032: Heat equation -> ∂u/∂t = α∇²u
+- EQ004: KKT conditions -> ∇f(x*) + A^T λ* = 0, Ax* <= b, λ* >= 0, λ*^T (Ax* - b) = 0
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+
+VALUATION:
+- Score: 0.586
+- Tier: bronze

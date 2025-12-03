@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p5001
+[ANCHOR] ethics #FF6A00 link://ethics/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p5001
+[ANCHOR] capacity #00D67D link://capacity/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p5001
+[ANCHOR] clarity #00C8FF link://clarity/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p5001
+[ANCHOR] provenance #7D4DF2 link://provenance/ethics-consent-delta-logs-justice-restorative-graphene-lattice-p5001
+
+TITLE: ethics-consent-delta-logs-justice-restorative-graphene-lattice-p5001
+SUMMARY: Research scaffold for ethics-consent, delta-logs, justice-restorative, graphene-lattice.
+
+LINKS:
+- https://gazzaleylab.ucsf.edu/publications
+- https://eol.org/
+- https://doaj.org/
+
+EQUATIONS:
+- EQ050: Characteristic function -> E[e^{itX}]
+- EQ018: Ridge regression -> minimize ||y-Xβ||² + λ||β||²
+- EQ048: Jensen's inequality -> φ(E[X]) ≤ E[φ(X)]
+
+VALUATION:
+- Score: 0.692
+- Tier: silver

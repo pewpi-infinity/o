@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/hydrogen-ammonia-justice-appeals-alignment-protocols-p2260
+[ANCHOR] ethics #FF6A00 link://ethics/hydrogen-ammonia-justice-appeals-alignment-protocols-p2260
+[ANCHOR] capacity #00D67D link://capacity/hydrogen-ammonia-justice-appeals-alignment-protocols-p2260
+[ANCHOR] clarity #00C8FF link://clarity/hydrogen-ammonia-justice-appeals-alignment-protocols-p2260
+[ANCHOR] provenance #7D4DF2 link://provenance/hydrogen-ammonia-justice-appeals-alignment-protocols-p2260
+
+TITLE: hydrogen-ammonia-justice-appeals-alignment-protocols-p2260
+SUMMARY: Research scaffold for hydrogen-ammonia, justice-appeals, alignment-protocols.
+
+LINKS:
+- https://aaas.org/
+- https://drugabuse.gov/publications
+- https://clinicaltrials.gov/
+
+EQUATIONS:
+- EQ031: Laplace transform -> ∫f(t)e^{-st}dt
+- EQ025: Softmax -> exp(z_i) / Σ exp(z)
+- EQ039: Matrix invertibility -> det(A) ≠ 0
+
+VALUATION:
+- Score: 0.634
+- Tier: silver

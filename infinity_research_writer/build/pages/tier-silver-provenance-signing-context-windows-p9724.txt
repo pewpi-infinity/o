@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/tier-silver-provenance-signing-context-windows-p9724
+[ANCHOR] clarity #00C8FF link://clarity/tier-silver-provenance-signing-context-windows-p9724
+[ANCHOR] learning #E6B800 link://learning/tier-silver-provenance-signing-context-windows-p9724
+[ANCHOR] alignment #33CCCC link://alignment/tier-silver-provenance-signing-context-windows-p9724
+
+TITLE: tier-silver-provenance-signing-context-windows-p9724
+SUMMARY: Research scaffold for tier-silver, provenance-signing, context-windows.
+
+LINKS:
+- https://poker.srv.ualberta.ca/publications/
+
+
+
+EQUATIONS:
+- EQ010: Nash equilibrium -> best response mappings intersect
+- EQ035: Maxwell equations (set of 4)
+- EQ026: KL divergence -> Σ p log(p/q)
+
+VALUATION:
+- Score: 0.544
+- Tier: bronze

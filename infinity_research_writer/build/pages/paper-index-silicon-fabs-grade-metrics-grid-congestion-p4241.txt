@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/paper-index-silicon-fabs-grade-metrics-grid-congestion-p4241
+[ANCHOR] clarity #00C8FF link://clarity/paper-index-silicon-fabs-grade-metrics-grid-congestion-p4241
+[ANCHOR] alignment #33CCCC link://alignment/paper-index-silicon-fabs-grade-metrics-grid-congestion-p4241
+
+TITLE: paper-index-silicon-fabs-grade-metrics-grid-congestion-p4241
+SUMMARY: Research scaffold for paper-index, silicon-fabs, grade-metrics, grid-congestion.
+
+LINKS:
+- https://un.org/en/research
+- https://berkeley.edu/research
+
+
+EQUATIONS:
+- EQ038: Determinant expansion -> Σ permutations
+- EQ020: PCA -> eigenvectors of covariance Σ
+
+
+VALUATION:
+- Score: 0.599
+- Tier: bronze

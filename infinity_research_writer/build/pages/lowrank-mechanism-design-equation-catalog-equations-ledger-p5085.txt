@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/lowrank-mechanism-design-equation-catalog-equations-ledger-p5085
+[ANCHOR] clarity #00C8FF link://clarity/lowrank-mechanism-design-equation-catalog-equations-ledger-p5085
+[ANCHOR] alignment #33CCCC link://alignment/lowrank-mechanism-design-equation-catalog-equations-ledger-p5085
+
+TITLE: lowrank-mechanism-design-equation-catalog-equations-ledger-p5085
+SUMMARY: Research scaffold for lowrank, mechanism-design, equation-catalog, equations-ledger.
+
+LINKS:
+- https://brainfacts.org/
+
+
+
+EQUATIONS:
+- EQ043: Chi-square distribution -> special gamma
+- EQ007: Controllability -> rank([B, AB, A^2B, ..., A^{n-1}B]) = n
+- EQ026: KL divergence -> Σ p log(p/q)
+
+VALUATION:
+- Score: 0.597
+- Tier: bronze

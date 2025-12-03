@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/energy-storage-auction-theory-ledger-proof-review-cycle-anomaly-detection-p7582
+[ANCHOR] clarity #00C8FF link://clarity/energy-storage-auction-theory-ledger-proof-review-cycle-anomaly-detection-p7582
+[ANCHOR] alignment #33CCCC link://alignment/energy-storage-auction-theory-ledger-proof-review-cycle-anomaly-detection-p7582
+
+TITLE: energy-storage-auction-theory-ledger-proof-review-cycle-anomaly-detection-p7582
+SUMMARY: Research scaffold for energy-storage, auction-theory, ledger-proof, review-cycle, anomaly-detection.
+
+LINKS:
+- https://ox.ac.uk/research
+- https://oxfordacademic.com/
+- https://hathitrust.org/
+
+EQUATIONS:
+- EQ017: L1 regularization -> minimize ||y-Xβ||² + λ||β||₁
+- EQ050: Characteristic function -> E[e^{itX}]
+- EQ023: Cross entropy -> -Σ y log p
+
+VALUATION:
+- Score: 0.677
+- Tier: silver

@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/graphene-economy-semantic-index-p7753
+[ANCHOR] capacity #00D67D link://capacity/graphene-economy-semantic-index-p7753
+[ANCHOR] clarity #00C8FF link://clarity/graphene-economy-semantic-index-p7753
+[ANCHOR] provenance #7D4DF2 link://provenance/graphene-economy-semantic-index-p7753
+[ANCHOR] risk #FF3B3B link://risk/graphene-economy-semantic-index-p7753
+
+TITLE: graphene-economy-semantic-index-p7753
+SUMMARY: Research scaffold for graphene-economy, semantic-index.
+
+LINKS:
+- https://berkeley.edu/research
+- https://beckerfreidman.uchicago.edu/research/
+- https://ox.ac.uk/research
+
+EQUATIONS:
+- EQ021: SVD -> A = UΣVᵀ
+
+
+
+VALUATION:
+- Score: 0.551
+- Tier: bronze

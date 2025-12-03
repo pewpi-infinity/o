@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/provenance-tier-hash-ledger-grand-hash-p1039
+[ANCHOR] clarity #00C8FF link://clarity/provenance-tier-hash-ledger-grand-hash-p1039
+[ANCHOR] learning #E6B800 link://learning/provenance-tier-hash-ledger-grand-hash-p1039
+[ANCHOR] alignment #33CCCC link://alignment/provenance-tier-hash-ledger-grand-hash-p1039
+
+TITLE: provenance-tier-hash-ledger-grand-hash-p1039
+SUMMARY: Research scaffold for provenance-tier, hash-ledger, grand-hash.
+
+LINKS:
+- https://sciencemag.org/journals/science-advances
+- https://jneurosci.org/
+
+
+EQUATIONS:
+- EQ021: SVD -> A = UΣVᵀ
+- EQ024: Gradient descent -> θ ← θ - α∇J(θ)
+- EQ027: Entropy -> -Σ p log p
+
+VALUATION:
+- Score: 0.576
+- Tier: bronze

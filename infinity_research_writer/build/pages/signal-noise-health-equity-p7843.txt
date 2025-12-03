@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/signal-noise-health-equity-p7843
+[ANCHOR] clarity #00C8FF link://clarity/signal-noise-health-equity-p7843
+[ANCHOR] alignment #33CCCC link://alignment/signal-noise-health-equity-p7843
+
+TITLE: signal-noise-health-equity-p7843
+SUMMARY: Research scaffold for signal-noise, health-equity.
+
+LINKS:
+- https://elifesciences.org/
+- https://caltech.edu/research
+- https://opendata.nasa.gov/
+
+EQUATIONS:
+- EQ041: Gaussian distribution -> (1/√2πσ²)e^{-(x-μ)²/2σ²}
+
+
+
+VALUATION:
+- Score: 0.506
+- Tier: bronze

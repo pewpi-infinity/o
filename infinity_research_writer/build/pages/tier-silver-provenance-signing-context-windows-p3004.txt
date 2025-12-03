@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/tier-silver-provenance-signing-context-windows-p3004
+[ANCHOR] clarity #00C8FF link://clarity/tier-silver-provenance-signing-context-windows-p3004
+[ANCHOR] learning #E6B800 link://learning/tier-silver-provenance-signing-context-windows-p3004
+[ANCHOR] alignment #33CCCC link://alignment/tier-silver-provenance-signing-context-windows-p3004
+
+TITLE: tier-silver-provenance-signing-context-windows-p3004
+SUMMARY: Research scaffold for tier-silver, provenance-signing, context-windows.
+
+LINKS:
+- https://pnas.org/
+- https://ncbi.nlm.nih.gov/
+- https://scriptorium.columbia.edu/
+
+EQUATIONS:
+- EQ019: Lasso sparsity -> many β_j = 0
+- EQ047: Chebyshev inequality -> P(|X-μ|≥kσ) ≤ 1/k²
+- EQ031: Laplace transform -> ∫f(t)e^{-st}dt
+
+VALUATION:
+- Score: 0.631
+- Tier: silver

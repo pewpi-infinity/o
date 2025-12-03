@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/research-valuation-pages-manifest-p3099
+[ANCHOR] clarity #00C8FF link://clarity/research-valuation-pages-manifest-p3099
+[ANCHOR] alignment #33CCCC link://alignment/research-valuation-pages-manifest-p3099
+
+TITLE: research-valuation-pages-manifest-p3099
+SUMMARY: Research scaffold for research-valuation, pages-manifest.
+
+LINKS:
+- https://digital.library.yale.edu/
+
+
+
+EQUATIONS:
+- EQ023: Cross entropy -> -Σ y log p
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+- EQ010: Nash equilibrium -> best response mappings intersect
+
+VALUATION:
+- Score: 0.515
+- Tier: bronze

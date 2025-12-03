@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/justice-transparency-risk-tier-markov-chains-p4327
+[ANCHOR] ethics #FF6A00 link://ethics/justice-transparency-risk-tier-markov-chains-p4327
+[ANCHOR] clarity #00C8FF link://clarity/justice-transparency-risk-tier-markov-chains-p4327
+[ANCHOR] provenance #7D4DF2 link://provenance/justice-transparency-risk-tier-markov-chains-p4327
+[ANCHOR] scope #6066FF link://scope/justice-transparency-risk-tier-markov-chains-p4327
+
+TITLE: justice-transparency-risk-tier-markov-chains-p4327
+SUMMARY: Research scaffold for justice-transparency, risk-tier, markov-chains.
+
+LINKS:
+- https://durham.ac.uk/research
+- https://alleninstitute.org/
+- https://planetmath.org/
+
+EQUATIONS:
+- EQ022: Logistic regression -> σ(wᵀx)
+
+
+
+VALUATION:
+- Score: 0.592
+- Tier: bronze

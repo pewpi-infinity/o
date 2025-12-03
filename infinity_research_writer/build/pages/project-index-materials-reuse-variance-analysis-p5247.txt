@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/project-index-materials-reuse-variance-analysis-p5247
+[ANCHOR] clarity #00C8FF link://clarity/project-index-materials-reuse-variance-analysis-p5247
+[ANCHOR] alignment #33CCCC link://alignment/project-index-materials-reuse-variance-analysis-p5247
+
+TITLE: project-index-materials-reuse-variance-analysis-p5247
+SUMMARY: Research scaffold for project-index, materials-reuse, variance-analysis.
+
+LINKS:
+- https://doabooks.org/
+- https://gutenberg.org/
+- https://durham.ac.uk/research
+
+EQUATIONS:
+- EQ250: Robust optimization -> minimize max loss over uncertainty set U
+- EQ008: Observability -> rank([C; CA; CA^2; ...; CA^{n-1}]) = n
+- EQ015: Power of hypothesis test -> 1 - β
+
+VALUATION:
+- Score: 0.643
+- Tier: silver

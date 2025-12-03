@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Infinity Volume Control</title>
+<script src="../js/volume.js"></script>
+<link rel="stylesheet" href="../css/volume.css">
+</head>
+
+<body onload="initVolume()">
+
+<h1>Volume Controls</h1>
+
+<div class="control-block">
+  <label>Master Volume</label>
+  <input id="volSlider" type="range" min="0" max="100" value="60" />
+</div>
+
+<div class="control-block">
+  <button onclick="toggleMute()">Toggle Mute</button>
+</div>
+
+<p id="status"></p>
+
+</body>
+</html>

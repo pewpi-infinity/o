@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/links-index-semantic-color-provenance-learning-health-registry-method-rigor-p3459
+[ANCHOR] clarity #00C8FF link://clarity/links-index-semantic-color-provenance-learning-health-registry-method-rigor-p3459
+[ANCHOR] learning #E6B800 link://learning/links-index-semantic-color-provenance-learning-health-registry-method-rigor-p3459
+[ANCHOR] alignment #33CCCC link://alignment/links-index-semantic-color-provenance-learning-health-registry-method-rigor-p3459
+
+TITLE: links-index-semantic-color-provenance-learning-health-registry-method-rigor-p3459
+SUMMARY: Research scaffold for links-index, semantic-color, provenance-learning, health-registry, method-rigor.
+
+LINKS:
+- https://erowid.org/chemicals/
+
+
+
+EQUATIONS:
+- EQ013: Markov chain stationary distribution -> π = πP
+- EQ005: Spectral radius -> ρ(A) = max |λ_i(A)|
+- EQ006: Stability -> Re(λ_i(A)) < 0 for continuous systems
+
+VALUATION:
+- Score: 0.688
+- Tier: silver

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/solar-perovskite-trial-journal-replicability-p2884
+[ANCHOR] clarity #00C8FF link://clarity/solar-perovskite-trial-journal-replicability-p2884
+[ANCHOR] alignment #33CCCC link://alignment/solar-perovskite-trial-journal-replicability-p2884
+
+TITLE: solar-perovskite-trial-journal-replicability-p2884
+SUMMARY: Research scaffold for solar-perovskite, trial-journal, replicability.
+
+LINKS:
+- https://iop.org/journals
+- https://warwick.ac.uk/research
+- https://pubmed.ncbi.nlm.nih.gov/
+
+EQUATIONS:
+- EQ043: Chi-square distribution -> special gamma
+- EQ037: Eigenvalue problem -> Ax = λx
+
+
+VALUATION:
+- Score: 0.592
+- Tier: bronze

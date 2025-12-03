@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/concept-anchors-learning-pathways-p8401
+[ANCHOR] clarity #00C8FF link://clarity/concept-anchors-learning-pathways-p8401
+[ANCHOR] learning #E6B800 link://learning/concept-anchors-learning-pathways-p8401
+[ANCHOR] alignment #33CCCC link://alignment/concept-anchors-learning-pathways-p8401
+
+TITLE: concept-anchors-learning-pathways-p8401
+SUMMARY: Research scaffold for concept-anchors, learning-pathways.
+
+LINKS:
+- https://mit.edu/research/brain-and-cognitive-sciences
+
+
+
+EQUATIONS:
+- EQ012: Auction revenue equivalence -> symmetric independent private values
+- EQ045: Central limit theorem -> normalized sums→normal
+
+
+VALUATION:
+- Score: 0.482
+- Tier: bronze

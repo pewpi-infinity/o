@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/anchor-ledger-wind-grid-p2599
+[ANCHOR] clarity #00C8FF link://clarity/anchor-ledger-wind-grid-p2599
+[ANCHOR] alignment #33CCCC link://alignment/anchor-ledger-wind-grid-p2599
+
+TITLE: anchor-ledger-wind-grid-p2599
+SUMMARY: Research scaffold for anchor-ledger, wind-grid.
+
+LINKS:
+- https://imf.org/en/Publications
+- https://europa.eu/european-union/documents-publications_en
+- https://oxfordhandbooks.com/
+
+EQUATIONS:
+- EQ017: L1 regularization -> minimize ||y-Xβ||² + λ||β||₁
+- EQ041: Gaussian distribution -> (1/√2πσ²)e^{-(x-μ)²/2σ²}
+
+
+VALUATION:
+- Score: 0.525
+- Tier: bronze

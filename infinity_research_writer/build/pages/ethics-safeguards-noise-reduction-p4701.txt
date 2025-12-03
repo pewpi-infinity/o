@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/ethics-safeguards-noise-reduction-p4701
+[ANCHOR] ethics #FF6A00 link://ethics/ethics-safeguards-noise-reduction-p4701
+[ANCHOR] clarity #00C8FF link://clarity/ethics-safeguards-noise-reduction-p4701
+[ANCHOR] provenance #7D4DF2 link://provenance/ethics-safeguards-noise-reduction-p4701
+[ANCHOR] scope #6066FF link://scope/ethics-safeguards-noise-reduction-p4701
+
+TITLE: ethics-safeguards-noise-reduction-p4701
+SUMMARY: Research scaffold for ethics-safeguards, noise-reduction.
+
+LINKS:
+- https://mayoclinic.org/
+- https://psychedelics.ucsf.edu/research
+- https://orthopaedicresearchsociety.org/
+
+EQUATIONS:
+- EQ019: Lasso sparsity -> many β_j = 0
+- EQ008: Observability -> rank([C; CA; CA^2; ...; CA^{n-1}]) = n
+
+
+VALUATION:
+- Score: 0.588
+- Tier: bronze

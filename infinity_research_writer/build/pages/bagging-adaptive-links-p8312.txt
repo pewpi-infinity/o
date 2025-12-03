@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/bagging-adaptive-links-p8312
+[ANCHOR] clarity #00C8FF link://clarity/bagging-adaptive-links-p8312
+[ANCHOR] alignment #33CCCC link://alignment/bagging-adaptive-links-p8312
+
+TITLE: bagging-adaptive-links-p8312
+SUMMARY: Research scaffold for bagging, adaptive-links.
+
+LINKS:
+- https://alleninstitute.org/
+- https://webofscience.com/
+
+
+EQUATIONS:
+- EQ009: Queue M/M/1 -> ρ = λ/μ, W = 1/(μ - λ)
+- EQ037: Eigenvalue problem -> Ax = λx
+
+
+VALUATION:
+- Score: 0.513
+- Tier: bronze

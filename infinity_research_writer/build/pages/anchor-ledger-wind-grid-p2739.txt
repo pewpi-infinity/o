@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/anchor-ledger-wind-grid-p2739
+[ANCHOR] clarity #00C8FF link://clarity/anchor-ledger-wind-grid-p2739
+[ANCHOR] alignment #33CCCC link://alignment/anchor-ledger-wind-grid-p2739
+
+TITLE: anchor-ledger-wind-grid-p2739
+SUMMARY: Research scaffold for anchor-ledger, wind-grid.
+
+LINKS:
+- https://data.europa.eu/
+- https://neuromorphicsystems.org/
+- https://uchicago.edu/research
+
+EQUATIONS:
+- EQ017: L1 regularization -> minimize ||y-Xβ||² + λ||β||₁
+- EQ023: Cross entropy -> -Σ y log p
+- EQ006: Stability -> Re(λ_i(A)) < 0 for continuous systems
+
+VALUATION:
+- Score: 0.575
+- Tier: bronze

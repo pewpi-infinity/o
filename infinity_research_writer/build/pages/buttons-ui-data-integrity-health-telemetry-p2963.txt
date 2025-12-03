@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/buttons-ui-data-integrity-health-telemetry-p2963
+[ANCHOR] clarity #00C8FF link://clarity/buttons-ui-data-integrity-health-telemetry-p2963
+[ANCHOR] alignment #33CCCC link://alignment/buttons-ui-data-integrity-health-telemetry-p2963
+
+TITLE: buttons-ui-data-integrity-health-telemetry-p2963
+SUMMARY: Research scaffold for buttons-ui, data-integrity, health-telemetry.
+
+LINKS:
+- https://onlinelibrary.wiley.com/
+- https://vellum.sas.ac.uk/
+- https://neuron.yale.edu/neuron/
+
+EQUATIONS:
+- EQ049: Moment generating function -> M(t)=E[e^{tX}]
+- EQ037: Eigenvalue problem -> Ax = λx
+- EQ003: Lagrangian -> L(x, λ) = f(x) + λ^T (Ax - b)
+
+VALUATION:
+- Score: 0.660
+- Tier: silver

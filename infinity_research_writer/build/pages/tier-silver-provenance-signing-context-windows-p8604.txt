@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/tier-silver-provenance-signing-context-windows-p8604
+[ANCHOR] clarity #00C8FF link://clarity/tier-silver-provenance-signing-context-windows-p8604
+[ANCHOR] learning #E6B800 link://learning/tier-silver-provenance-signing-context-windows-p8604
+[ANCHOR] alignment #33CCCC link://alignment/tier-silver-provenance-signing-context-windows-p8604
+
+TITLE: tier-silver-provenance-signing-context-windows-p8604
+SUMMARY: Research scaffold for tier-silver, provenance-signing, context-windows.
+
+LINKS:
+- https://soton.ac.uk/research
+
+
+
+EQUATIONS:
+- EQ044: Law of large numbers -> sample mean→μ
+- EQ012: Auction revenue equivalence -> symmetric independent private values
+- EQ050: Characteristic function -> E[e^{itX}]
+
+VALUATION:
+- Score: 0.544
+- Tier: bronze

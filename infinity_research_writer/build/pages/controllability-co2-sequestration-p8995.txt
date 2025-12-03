@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/controllability-co2-sequestration-p8995
+[ANCHOR] clarity #00C8FF link://clarity/controllability-co2-sequestration-p8995
+[ANCHOR] alignment #33CCCC link://alignment/controllability-co2-sequestration-p8995
+
+TITLE: controllability-co2-sequestration-p8995
+SUMMARY: Research scaffold for controllability, co2-sequestration.
+
+LINKS:
+- https://scriptorium.columbia.edu/
+- https://jamanetwork.com/journals/jamacardiology
+- https://columbia.edu/research
+
+EQUATIONS:
+- EQ049: Moment generating function -> M(t)=E[e^{tX}]
+- EQ008: Observability -> rank([C; CA; CA^2; ...; CA^{n-1}]) = n
+- EQ024: Gradient descent -> θ ← θ - α∇J(θ)
+
+VALUATION:
+- Score: 0.549
+- Tier: bronze

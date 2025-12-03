@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/health-outcomes-tree-decomposition-decision-criteria-pareto-front-p2371
+[ANCHOR] clarity #00C8FF link://clarity/health-outcomes-tree-decomposition-decision-criteria-pareto-front-p2371
+[ANCHOR] alignment #33CCCC link://alignment/health-outcomes-tree-decomposition-decision-criteria-pareto-front-p2371
+
+TITLE: health-outcomes-tree-decomposition-decision-criteria-pareto-front-p2371
+SUMMARY: Research scaffold for health-outcomes, tree-decomposition, decision-criteria, pareto-front.
+
+LINKS:
+- https://bl.uk/catalogues-and-collections
+- https://nature.com/subjects/neuroscience
+- https://mayoclinic.org/
+
+EQUATIONS:
+- EQ019: Lasso sparsity -> many β_j = 0
+- EQ011: Mechanism incentive compatibility -> truth-telling maximizes utility
+
+
+VALUATION:
+- Score: 0.631
+- Tier: silver

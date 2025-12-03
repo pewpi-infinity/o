@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/learning-tier-link-format-p7198
+[ANCHOR] clarity #00C8FF link://clarity/learning-tier-link-format-p7198
+[ANCHOR] learning #E6B800 link://learning/learning-tier-link-format-p7198
+[ANCHOR] alignment #33CCCC link://alignment/learning-tier-link-format-p7198
+
+TITLE: learning-tier-link-format-p7198
+SUMMARY: Research scaffold for learning-tier, link-format.
+
+LINKS:
+- https://nature.com/subjects/evolution
+
+
+
+EQUATIONS:
+- EQ015: Power of hypothesis test -> 1 - β
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+- EQ041: Gaussian distribution -> (1/√2πσ²)e^{-(x-μ)²/2σ²}
+
+VALUATION:
+- Score: 0.548
+- Tier: bronze

@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/agent-based-capacity-planning-provenance-ledger-alignment-checks-p699
+[ANCHOR] capacity #00D67D link://capacity/agent-based-capacity-planning-provenance-ledger-alignment-checks-p699
+[ANCHOR] clarity #00C8FF link://clarity/agent-based-capacity-planning-provenance-ledger-alignment-checks-p699
+[ANCHOR] provenance #7D4DF2 link://provenance/agent-based-capacity-planning-provenance-ledger-alignment-checks-p699
+[ANCHOR] risk #FF3B3B link://risk/agent-based-capacity-planning-provenance-ledger-alignment-checks-p699
+
+TITLE: agent-based-capacity-planning-provenance-ledger-alignment-checks-p699
+SUMMARY: Research scaffold for agent-based, capacity-planning, provenance-ledger, alignment-checks.
+
+LINKS:
+- https://re3data.org/
+- https://uchicago.edu/research
+
+
+EQUATIONS:
+- EQ044: Law of large numbers -> sample mean→μ
+- EQ031: Laplace transform -> ∫f(t)e^{-st}dt
+- EQ037: Eigenvalue problem -> Ax = λx
+
+VALUATION:
+- Score: 0.662
+- Tier: silver

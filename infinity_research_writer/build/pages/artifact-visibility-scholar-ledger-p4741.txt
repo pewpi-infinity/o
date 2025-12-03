@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/artifact-visibility-scholar-ledger-p4741
+[ANCHOR] clarity #00C8FF link://clarity/artifact-visibility-scholar-ledger-p4741
+[ANCHOR] alignment #33CCCC link://alignment/artifact-visibility-scholar-ledger-p4741
+
+TITLE: artifact-visibility-scholar-ledger-p4741
+SUMMARY: Research scaffold for artifact-visibility, scholar-ledger.
+
+LINKS:
+- https://agu.org/learn-and-develop/learn/eos
+- https://aaas.org/
+
+
+EQUATIONS:
+- EQ011: Mechanism incentive compatibility -> truth-telling maximizes utility
+- EQ045: Central limit theorem -> normalized sums→normal
+- EQ033: Wave equation -> ∂²u/∂t² = c²∇²u
+
+VALUATION:
+- Score: 0.517
+- Tier: bronze

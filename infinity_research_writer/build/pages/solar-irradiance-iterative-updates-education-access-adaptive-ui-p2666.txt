@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/solar-irradiance-iterative-updates-education-access-adaptive-ui-p2666
+[ANCHOR] clarity #00C8FF link://clarity/solar-irradiance-iterative-updates-education-access-adaptive-ui-p2666
+[ANCHOR] alignment #33CCCC link://alignment/solar-irradiance-iterative-updates-education-access-adaptive-ui-p2666
+
+TITLE: solar-irradiance-iterative-updates-education-access-adaptive-ui-p2666
+SUMMARY: Research scaffold for solar-irradiance, iterative-updates, education-access, adaptive-ui.
+
+LINKS:
+- https://pubs.acs.org/journal/jacsat
+
+
+
+EQUATIONS:
+- EQ037: Eigenvalue problem -> Ax = λx
+- EQ010: Nash equilibrium -> best response mappings intersect
+- EQ013: Markov chain stationary distribution -> π = πP
+
+VALUATION:
+- Score: 0.611
+- Tier: silver

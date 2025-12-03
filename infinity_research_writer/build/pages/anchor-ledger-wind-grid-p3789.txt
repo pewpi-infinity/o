@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/anchor-ledger-wind-grid-p3789
+[ANCHOR] clarity #00C8FF link://clarity/anchor-ledger-wind-grid-p3789
+[ANCHOR] alignment #33CCCC link://alignment/anchor-ledger-wind-grid-p3789
+
+TITLE: anchor-ledger-wind-grid-p3789
+SUMMARY: Research scaffold for anchor-ledger, wind-grid.
+
+LINKS:
+- https://bnum.euu-bnum.org/
+- https://libguides.bodleian.ox.ac.uk/numismatics
+
+
+EQUATIONS:
+- EQ004: KKT conditions -> ∇f(x*) + A^T λ* = 0, Ax* <= b, λ* >= 0, λ*^T (Ax* - b) = 0
+- EQ035: Maxwell equations (set of 4)
+
+
+VALUATION:
+- Score: 0.541
+- Tier: bronze

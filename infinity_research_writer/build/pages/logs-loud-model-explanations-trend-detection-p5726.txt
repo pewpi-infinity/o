@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/logs-loud-model-explanations-trend-detection-p5726
+[ANCHOR] clarity #00C8FF link://clarity/logs-loud-model-explanations-trend-detection-p5726
+[ANCHOR] alignment #33CCCC link://alignment/logs-loud-model-explanations-trend-detection-p5726
+
+TITLE: logs-loud-model-explanations-trend-detection-p5726
+SUMMARY: Research scaffold for logs-loud, model-explanations, trend-detection.
+
+LINKS:
+- https://wolframalpha.com/examples/mathematics
+- https://sciencemag.org/journals/science-signaling
+
+
+EQUATIONS:
+- EQ025: Softmax -> exp(z_i) / Σ exp(z)
+- EQ049: Moment generating function -> M(t)=E[e^{tX}]
+- EQ031: Laplace transform -> ∫f(t)e^{-st}dt
+
+VALUATION:
+- Score: 0.557
+- Tier: bronze

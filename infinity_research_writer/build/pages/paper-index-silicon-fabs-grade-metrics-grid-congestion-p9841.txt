@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/paper-index-silicon-fabs-grade-metrics-grid-congestion-p9841
+[ANCHOR] clarity #00C8FF link://clarity/paper-index-silicon-fabs-grade-metrics-grid-congestion-p9841
+[ANCHOR] alignment #33CCCC link://alignment/paper-index-silicon-fabs-grade-metrics-grid-congestion-p9841
+
+TITLE: paper-index-silicon-fabs-grade-metrics-grid-congestion-p9841
+SUMMARY: Research scaffold for paper-index, silicon-fabs, grade-metrics, grid-congestion.
+
+LINKS:
+- https://cell.com/
+- https://ncbi.nlm.nih.gov/pmc/
+- https://neuron.yale.edu/neuron/
+
+EQUATIONS:
+- EQ026: KL divergence -> Σ p log(p/q)
+- EQ038: Determinant expansion -> Σ permutations
+- EQ032: Heat equation -> ∂u/∂t = α∇²u
+
+VALUATION:
+- Score: 0.632
+- Tier: silver

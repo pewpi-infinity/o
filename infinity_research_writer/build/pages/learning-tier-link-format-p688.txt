@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/learning-tier-link-format-p688
+[ANCHOR] clarity #00C8FF link://clarity/learning-tier-link-format-p688
+[ANCHOR] learning #E6B800 link://learning/learning-tier-link-format-p688
+[ANCHOR] alignment #33CCCC link://alignment/learning-tier-link-format-p688
+
+TITLE: learning-tier-link-format-p688
+SUMMARY: Research scaffold for learning-tier, link-format.
+
+LINKS:
+- https://drugabuse.gov/publications
+
+
+
+EQUATIONS:
+- EQ036: Schrödinger equation -> iħ∂ψ/∂t = Hψ
+- EQ032: Heat equation -> ∂u/∂t = α∇²u
+- EQ010: Nash equilibrium -> best response mappings intersect
+
+VALUATION:
+- Score: 0.498
+- Tier: bronze

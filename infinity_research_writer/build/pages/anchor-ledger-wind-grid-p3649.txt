@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/anchor-ledger-wind-grid-p3649
+[ANCHOR] clarity #00C8FF link://clarity/anchor-ledger-wind-grid-p3649
+[ANCHOR] alignment #33CCCC link://alignment/anchor-ledger-wind-grid-p3649
+
+TITLE: anchor-ledger-wind-grid-p3649
+SUMMARY: Research scaffold for anchor-ledger, wind-grid.
+
+LINKS:
+- https://brill.com/browse?level=research
+
+
+
+EQUATIONS:
+- EQ028: Mutual information -> I(X;Y) = H(X)+H(Y)-H(X,Y)
+
+
+
+VALUATION:
+- Score: 0.438
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/logs-loud-model-explanations-trend-detection-p7266
+[ANCHOR] clarity #00C8FF link://clarity/logs-loud-model-explanations-trend-detection-p7266
+[ANCHOR] alignment #33CCCC link://alignment/logs-loud-model-explanations-trend-detection-p7266
+
+TITLE: logs-loud-model-explanations-trend-detection-p7266
+SUMMARY: Research scaffold for logs-loud, model-explanations, trend-detection.
+
+LINKS:
+- https://tokyo-u.ac.jp/en/research
+- https://jbc.org/
+- https://cam.ac.uk/research
+
+EQUATIONS:
+- EQ037: Eigenvalue problem -> Ax = λx
+
+
+
+VALUATION:
+- Score: 0.571
+- Tier: bronze

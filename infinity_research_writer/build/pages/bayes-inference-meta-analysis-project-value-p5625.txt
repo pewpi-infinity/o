@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/bayes-inference-meta-analysis-project-value-p5625
+[ANCHOR] clarity #00C8FF link://clarity/bayes-inference-meta-analysis-project-value-p5625
+[ANCHOR] alignment #33CCCC link://alignment/bayes-inference-meta-analysis-project-value-p5625
+
+TITLE: bayes-inference-meta-analysis-project-value-p5625
+SUMMARY: Research scaffold for bayes-inference, meta-analysis, project-value.
+
+LINKS:
+- https://chemspider.com/
+- https://math.mit.edu/research/
+- https://jbc.org/
+
+EQUATIONS:
+- EQ029: Fourier transform -> F(ω)=∫ f(t)e^{-iωt}dt
+- EQ034: Poisson equation -> ∇²u = -ρ/ε
+- EQ040: Rank-nullity -> dim(V)=rank+nullity
+
+VALUATION:
+- Score: 0.594
+- Tier: bronze

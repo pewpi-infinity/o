@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/color-links-term-filters-evidence-chains-p7042
+[ANCHOR] clarity #00C8FF link://clarity/color-links-term-filters-evidence-chains-p7042
+[ANCHOR] alignment #33CCCC link://alignment/color-links-term-filters-evidence-chains-p7042
+
+TITLE: color-links-term-filters-evidence-chains-p7042
+SUMMARY: Research scaffold for color-links, term-filters, evidence-chains.
+
+LINKS:
+- https://openknowledge.worldbank.org/
+- https://egyptology.yale.edu/research
+- https://jamanetwork.com/
+
+EQUATIONS:
+- EQ048: Jensen's inequality -> φ(E[X]) ≤ E[φ(X)]
+- EQ014: Bayesian update -> p(θ|D) ∝ p(D|θ)p(θ)
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+
+VALUATION:
+- Score: 0.650
+- Tier: silver

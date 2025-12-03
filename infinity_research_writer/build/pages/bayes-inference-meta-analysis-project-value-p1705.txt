@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/bayes-inference-meta-analysis-project-value-p1705
+[ANCHOR] clarity #00C8FF link://clarity/bayes-inference-meta-analysis-project-value-p1705
+[ANCHOR] alignment #33CCCC link://alignment/bayes-inference-meta-analysis-project-value-p1705
+
+TITLE: bayes-inference-meta-analysis-project-value-p1705
+SUMMARY: Research scaffold for bayes-inference, meta-analysis, project-value.
+
+LINKS:
+- https://apa.org/research
+- https://link.springer.com/
+- https://nature.com/subjects/atmospheric-science
+
+EQUATIONS:
+- EQ013: Markov chain stationary distribution -> π = πP
+
+
+
+VALUATION:
+- Score: 0.584
+- Tier: bronze

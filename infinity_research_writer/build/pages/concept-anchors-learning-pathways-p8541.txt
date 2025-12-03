@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/concept-anchors-learning-pathways-p8541
+[ANCHOR] clarity #00C8FF link://clarity/concept-anchors-learning-pathways-p8541
+[ANCHOR] learning #E6B800 link://learning/concept-anchors-learning-pathways-p8541
+[ANCHOR] alignment #33CCCC link://alignment/concept-anchors-learning-pathways-p8541
+
+TITLE: concept-anchors-learning-pathways-p8541
+SUMMARY: Research scaffold for concept-anchors, learning-pathways.
+
+LINKS:
+- https://un.org/en/research
+- https://caltech.edu/research
+- https://journals.sagepub.com/home/his
+
+EQUATIONS:
+- EQ024: Gradient descent -> θ ← θ - α∇J(θ)
+- EQ017: L1 regularization -> minimize ||y-Xβ||² + λ||β||₁
+- EQ006: Stability -> Re(λ_i(A)) < 0 for continuous systems
+
+VALUATION:
+- Score: 0.599
+- Tier: bronze

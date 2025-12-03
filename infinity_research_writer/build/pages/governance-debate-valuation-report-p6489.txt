@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/governance-debate-valuation-report-p6489
+[ANCHOR] ethics #FF6A00 link://ethics/governance-debate-valuation-report-p6489
+[ANCHOR] clarity #00C8FF link://clarity/governance-debate-valuation-report-p6489
+[ANCHOR] provenance #7D4DF2 link://provenance/governance-debate-valuation-report-p6489
+[ANCHOR] scope #6066FF link://scope/governance-debate-valuation-report-p6489
+
+TITLE: governance-debate-valuation-report-p6489
+SUMMARY: Research scaffold for governance-debate, valuation-report.
+
+LINKS:
+- https://legifrance.gouv.fr/
+
+
+
+EQUATIONS:
+- EQ043: Chi-square distribution -> special gamma
+- EQ019: Lasso sparsity -> many β_j = 0
+
+
+VALUATION:
+- Score: 0.522
+- Tier: bronze

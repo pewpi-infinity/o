@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/evidence-priority-ethics-alignment-p5978
+[ANCHOR] ethics #FF6A00 link://ethics/evidence-priority-ethics-alignment-p5978
+[ANCHOR] clarity #00C8FF link://clarity/evidence-priority-ethics-alignment-p5978
+[ANCHOR] provenance #7D4DF2 link://provenance/evidence-priority-ethics-alignment-p5978
+[ANCHOR] scope #6066FF link://scope/evidence-priority-ethics-alignment-p5978
+
+TITLE: evidence-priority-ethics-alignment-p5978
+SUMMARY: Research scaffold for evidence-priority, ethics-alignment.
+
+LINKS:
+- https://nature.com/nrd/
+- https://nature.com/subjects/physics
+- https://ncbi.nlm.nih.gov/pmc/
+
+EQUATIONS:
+- EQ010: Nash equilibrium -> best response mappings intersect
+- EQ038: Determinant expansion -> Σ permutations
+- EQ026: KL divergence -> Σ p log(p/q)
+
+VALUATION:
+- Score: 0.592
+- Tier: bronze

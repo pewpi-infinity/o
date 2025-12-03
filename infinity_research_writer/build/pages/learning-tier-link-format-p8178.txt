@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/learning-tier-link-format-p8178
+[ANCHOR] clarity #00C8FF link://clarity/learning-tier-link-format-p8178
+[ANCHOR] learning #E6B800 link://learning/learning-tier-link-format-p8178
+[ANCHOR] alignment #33CCCC link://alignment/learning-tier-link-format-p8178
+
+TITLE: learning-tier-link-format-p8178
+SUMMARY: Research scaffold for learning-tier, link-format.
+
+LINKS:
+- https://gutenberg.org/
+- https://un.org/sustainabledevelopment/climate-change/
+
+
+EQUATIONS:
+- EQ033: Wave equation -> ∂²u/∂t² = c²∇²u
+- EQ015: Power of hypothesis test -> 1 - β
+- EQ049: Moment generating function -> M(t)=E[e^{tX}]
+
+VALUATION:
+- Score: 0.531
+- Tier: bronze

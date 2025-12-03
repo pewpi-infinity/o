@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scope-boundaries-security-zerotrust-p1410
+[ANCHOR] clarity #00C8FF link://clarity/scope-boundaries-security-zerotrust-p1410
+[ANCHOR] alignment #33CCCC link://alignment/scope-boundaries-security-zerotrust-p1410
+
+TITLE: scope-boundaries-security-zerotrust-p1410
+SUMMARY: Research scaffold for scope-boundaries, security-zerotrust.
+
+LINKS:
+- https://fermilab.org/
+
+
+
+EQUATIONS:
+- EQ043: Chi-square distribution -> special gamma
+- EQ050: Characteristic function -> E[e^{itX}]
+- EQ020: PCA -> eigenvectors of covariance Σ
+
+VALUATION:
+- Score: 0.502
+- Tier: bronze

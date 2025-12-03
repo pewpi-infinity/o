@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/tier-silver-provenance-signing-context-windows-p1814
+[ANCHOR] clarity #00C8FF link://clarity/tier-silver-provenance-signing-context-windows-p1814
+[ANCHOR] learning #E6B800 link://learning/tier-silver-provenance-signing-context-windows-p1814
+[ANCHOR] alignment #33CCCC link://alignment/tier-silver-provenance-signing-context-windows-p1814
+
+TITLE: tier-silver-provenance-signing-context-windows-p1814
+SUMMARY: Research scaffold for tier-silver, provenance-signing, context-windows.
+
+LINKS:
+- https://britishmuseum.org/collection
+- https://archeology.uiowa.edu/
+
+
+EQUATIONS:
+- EQ035: Maxwell equations (set of 4)
+- EQ043: Chi-square distribution -> special gamma
+- EQ025: Softmax -> exp(z_i) / Σ exp(z)
+
+VALUATION:
+- Score: 0.577
+- Tier: bronze

@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/ethics-safeguards-noise-reduction-p5751
+[ANCHOR] ethics #FF6A00 link://ethics/ethics-safeguards-noise-reduction-p5751
+[ANCHOR] clarity #00C8FF link://clarity/ethics-safeguards-noise-reduction-p5751
+[ANCHOR] provenance #7D4DF2 link://provenance/ethics-safeguards-noise-reduction-p5751
+[ANCHOR] scope #6066FF link://scope/ethics-safeguards-noise-reduction-p5751
+
+TITLE: ethics-safeguards-noise-reduction-p5751
+SUMMARY: Research scaffold for ethics-safeguards, noise-reduction.
+
+LINKS:
+- https://perseus.tufts.edu/
+- https://neuroscience.ox.ac.uk/research
+
+
+EQUATIONS:
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+- EQ043: Chi-square distribution -> special gamma
+
+
+VALUATION:
+- Score: 0.534
+- Tier: bronze

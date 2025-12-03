@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/justice-transparency-risk-tier-markov-chains-p6917
+[ANCHOR] ethics #FF6A00 link://ethics/justice-transparency-risk-tier-markov-chains-p6917
+[ANCHOR] clarity #00C8FF link://clarity/justice-transparency-risk-tier-markov-chains-p6917
+[ANCHOR] provenance #7D4DF2 link://provenance/justice-transparency-risk-tier-markov-chains-p6917
+[ANCHOR] scope #6066FF link://scope/justice-transparency-risk-tier-markov-chains-p6917
+
+TITLE: justice-transparency-risk-tier-markov-chains-p6917
+SUMMARY: Research scaffold for justice-transparency, risk-tier, markov-chains.
+
+LINKS:
+- https://royalsociety.org/journals/
+- https://imf.org/en/Publications
+
+
+EQUATIONS:
+- EQ021: SVD -> A = UΣVᵀ
+- EQ013: Markov chain stationary distribution -> π = πP
+- EQ008: Observability -> rank([C; CA; CA^2; ...; CA^{n-1}]) = n
+
+VALUATION:
+- Score: 0.629
+- Tier: silver

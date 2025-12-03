@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scope-boundaries-security-zerotrust-p8480
+[ANCHOR] clarity #00C8FF link://clarity/scope-boundaries-security-zerotrust-p8480
+[ANCHOR] alignment #33CCCC link://alignment/scope-boundaries-security-zerotrust-p8480
+
+TITLE: scope-boundaries-security-zerotrust-p8480
+SUMMARY: Research scaffold for scope-boundaries, security-zerotrust.
+
+LINKS:
+- https://caltech.edu/research
+- https://warwick.ac.uk/research
+- https://iop.org/journals
+
+EQUATIONS:
+- EQ050: Characteristic function -> E[e^{itX}]
+
+
+
+VALUATION:
+- Score: 0.509
+- Tier: bronze

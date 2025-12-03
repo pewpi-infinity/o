@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/policy-impact-convexity-checks-p4377
+[ANCHOR] clarity #00C8FF link://clarity/policy-impact-convexity-checks-p4377
+[ANCHOR] alignment #33CCCC link://alignment/policy-impact-convexity-checks-p4377
+
+TITLE: policy-impact-convexity-checks-p4377
+SUMMARY: Research scaffold for policy-impact, convexity-checks.
+
+LINKS:
+- https://sciencedirect.com/book-series
+
+
+
+EQUATIONS:
+- EQ029: Fourier transform -> F(ω)=∫ f(t)e^{-iωt}dt
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+
+
+VALUATION:
+- Score: 0.464
+- Tier: bronze

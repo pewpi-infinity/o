@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/graphene-economy-semantic-index-p5373
+[ANCHOR] capacity #00D67D link://capacity/graphene-economy-semantic-index-p5373
+[ANCHOR] clarity #00C8FF link://clarity/graphene-economy-semantic-index-p5373
+[ANCHOR] provenance #7D4DF2 link://provenance/graphene-economy-semantic-index-p5373
+[ANCHOR] risk #FF3B3B link://risk/graphene-economy-semantic-index-p5373
+
+TITLE: graphene-economy-semantic-index-p5373
+SUMMARY: Research scaffold for graphene-economy, semantic-index.
+
+LINKS:
+- https://who.int/research
+- https://computational-neuroscience.org/publications/
+- https://acs.org/
+
+EQUATIONS:
+- EQ034: Poisson equation -> ∇²u = -ρ/ε
+
+
+
+VALUATION:
+- Score: 0.551
+- Tier: bronze

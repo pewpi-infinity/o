@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/effect-sizes-clarity-tables-user-needs-p7422
+[ANCHOR] clarity #00C8FF link://clarity/effect-sizes-clarity-tables-user-needs-p7422
+[ANCHOR] learning #E6B800 link://learning/effect-sizes-clarity-tables-user-needs-p7422
+[ANCHOR] alignment #33CCCC link://alignment/effect-sizes-clarity-tables-user-needs-p7422
+
+TITLE: effect-sizes-clarity-tables-user-needs-p7422
+SUMMARY: Research scaffold for effect-sizes, clarity-tables, user-needs.
+
+LINKS:
+- https://repec.org/
+
+
+
+EQUATIONS:
+- EQ019: Lasso sparsity -> many β_j = 0
+
+
+
+VALUATION:
+- Score: 0.522
+- Tier: bronze

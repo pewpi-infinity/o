@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/concept-anchors-learning-pathways-p71
+[ANCHOR] clarity #00C8FF link://clarity/concept-anchors-learning-pathways-p71
+[ANCHOR] learning #E6B800 link://learning/concept-anchors-learning-pathways-p71
+[ANCHOR] alignment #33CCCC link://alignment/concept-anchors-learning-pathways-p71
+
+TITLE: concept-anchors-learning-pathways-p71
+SUMMARY: Research scaffold for concept-anchors, learning-pathways.
+
+LINKS:
+- https://openlibrary.org/
+- https://epfl.ch/en/research/
+
+
+EQUATIONS:
+- EQ001: Linear program objective -> maximize c^T x subject to Ax <= b, x >= 0
+- EQ008: Observability -> rank([C; CA; CA^2; ...; CA^{n-1}]) = n
+- EQ005: Spectral radius -> ρ(A) = max |λ_i(A)|
+
+VALUATION:
+- Score: 0.536
+- Tier: bronze

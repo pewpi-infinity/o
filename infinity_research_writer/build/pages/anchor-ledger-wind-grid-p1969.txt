@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/anchor-ledger-wind-grid-p1969
+[ANCHOR] clarity #00C8FF link://clarity/anchor-ledger-wind-grid-p1969
+[ANCHOR] alignment #33CCCC link://alignment/anchor-ledger-wind-grid-p1969
+
+TITLE: anchor-ledger-wind-grid-p1969
+SUMMARY: Research scaffold for anchor-ledger, wind-grid.
+
+LINKS:
+- https://congress.gov/
+- https://pnas.org/
+- https://imf.org/en/Publications
+
+EQUATIONS:
+- EQ027: Entropy -> -Σ p log p
+
+
+
+VALUATION:
+- Score: 0.505
+- Tier: bronze

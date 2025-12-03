@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/color-links-term-filters-evidence-chains-p5362
+[ANCHOR] clarity #00C8FF link://clarity/color-links-term-filters-evidence-chains-p5362
+[ANCHOR] alignment #33CCCC link://alignment/color-links-term-filters-evidence-chains-p5362
+
+TITLE: color-links-term-filters-evidence-chains-p5362
+SUMMARY: Research scaffold for color-links, term-filters, evidence-chains.
+
+LINKS:
+- https://osti.gov/
+- https://oxfordhandbooks.com/
+- https://data.worldbank.org/
+
+EQUATIONS:
+- EQ009: Queue M/M/1 -> ρ = λ/μ, W = 1/(μ - λ)
+- EQ025: Softmax -> exp(z_i) / Σ exp(z)
+
+
+VALUATION:
+- Score: 0.571
+- Tier: bronze

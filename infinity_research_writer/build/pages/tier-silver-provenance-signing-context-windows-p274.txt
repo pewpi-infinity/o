@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/tier-silver-provenance-signing-context-windows-p274
+[ANCHOR] clarity #00C8FF link://clarity/tier-silver-provenance-signing-context-windows-p274
+[ANCHOR] learning #E6B800 link://learning/tier-silver-provenance-signing-context-windows-p274
+[ANCHOR] alignment #33CCCC link://alignment/tier-silver-provenance-signing-context-windows-p274
+
+TITLE: tier-silver-provenance-signing-context-windows-p274
+SUMMARY: Research scaffold for tier-silver, provenance-signing, context-windows.
+
+LINKS:
+- https://wolframalpha.com/examples/mathematics
+
+
+
+EQUATIONS:
+- EQ024: Gradient descent -> θ ← θ - α∇J(θ)
+- EQ006: Stability -> Re(λ_i(A)) < 0 for continuous systems
+- EQ028: Mutual information -> I(X;Y) = H(X)+H(Y)-H(X,Y)
+
+VALUATION:
+- Score: 0.574
+- Tier: bronze

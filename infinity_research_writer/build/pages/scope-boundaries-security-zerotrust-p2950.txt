@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scope-boundaries-security-zerotrust-p2950
+[ANCHOR] clarity #00C8FF link://clarity/scope-boundaries-security-zerotrust-p2950
+[ANCHOR] alignment #33CCCC link://alignment/scope-boundaries-security-zerotrust-p2950
+
+TITLE: scope-boundaries-security-zerotrust-p2950
+SUMMARY: Research scaffold for scope-boundaries, security-zerotrust.
+
+LINKS:
+- https://jneuroengrehab.biomedcentral.com/
+- https://coursera.org/browse/math-and-logic
+
+
+EQUATIONS:
+- EQ039: Matrix invertibility -> det(A) ≠ 0
+- EQ035: Maxwell equations (set of 4)
+
+
+VALUATION:
+- Score: 0.496
+- Tier: bronze

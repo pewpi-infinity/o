@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/solar-perovskite-trial-journal-replicability-p7784
+[ANCHOR] clarity #00C8FF link://clarity/solar-perovskite-trial-journal-replicability-p7784
+[ANCHOR] alignment #33CCCC link://alignment/solar-perovskite-trial-journal-replicability-p7784
+
+TITLE: solar-perovskite-trial-journal-replicability-p7784
+SUMMARY: Research scaffold for solar-perovskite, trial-journal, replicability.
+
+LINKS:
+- https://arxiv.org/archive/math
+- https://manchester.ac.uk/research
+
+
+EQUATIONS:
+- EQ005: Spectral radius -> ρ(A) = max |λ_i(A)|
+- EQ038: Determinant expansion -> Σ permutations
+
+
+VALUATION:
+- Score: 0.539
+- Tier: bronze

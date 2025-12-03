@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scope-boundaries-security-zerotrust-p1200
+[ANCHOR] clarity #00C8FF link://clarity/scope-boundaries-security-zerotrust-p1200
+[ANCHOR] alignment #33CCCC link://alignment/scope-boundaries-security-zerotrust-p1200
+
+TITLE: scope-boundaries-security-zerotrust-p1200
+SUMMARY: Research scaffold for scope-boundaries, security-zerotrust.
+
+LINKS:
+- https://mit.edu/research/brain-and-cognitive-sciences
+- https://scriptorium.columbia.edu/
+- https://ams.org/journals
+
+EQUATIONS:
+- EQ006: Stability -> Re(λ_i(A)) < 0 for continuous systems
+- EQ034: Poisson equation -> ∇²u = -ρ/ε
+- EQ040: Rank-nullity -> dim(V)=rank+nullity
+
+VALUATION:
+- Score: 0.579
+- Tier: bronze

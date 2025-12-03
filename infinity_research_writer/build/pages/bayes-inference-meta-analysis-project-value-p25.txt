@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/bayes-inference-meta-analysis-project-value-p25
+[ANCHOR] clarity #00C8FF link://clarity/bayes-inference-meta-analysis-project-value-p25
+[ANCHOR] alignment #33CCCC link://alignment/bayes-inference-meta-analysis-project-value-p25
+
+TITLE: bayes-inference-meta-analysis-project-value-p25
+SUMMARY: Research scaffold for bayes-inference, meta-analysis, project-value.
+
+LINKS:
+- https://nature.com/subjects/neuromorphic-engineering
+
+
+
+EQUATIONS:
+- EQ050: Characteristic function -> E[e^{itX}]
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+
+
+VALUATION:
+- Score: 0.507
+- Tier: bronze

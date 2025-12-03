@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/concept-anchors-learning-pathways-p2591
+[ANCHOR] clarity #00C8FF link://clarity/concept-anchors-learning-pathways-p2591
+[ANCHOR] learning #E6B800 link://learning/concept-anchors-learning-pathways-p2591
+[ANCHOR] alignment #33CCCC link://alignment/concept-anchors-learning-pathways-p2591
+
+TITLE: concept-anchors-learning-pathways-p2591
+SUMMARY: Research scaffold for concept-anchors, learning-pathways.
+
+LINKS:
+- https://sagepub.com/en-us/nam/journals
+- https://arpa-e.energy.gov/
+
+
+EQUATIONS:
+- EQ027: Entropy -> -Σ p log p
+- EQ043: Chi-square distribution -> special gamma
+
+
+VALUATION:
+- Score: 0.516
+- Tier: bronze

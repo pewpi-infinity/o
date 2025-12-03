@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/benchmark-suites-valuation-ledger-token-ledger-materials-bio-anchor-families-p7950
+[ANCHOR] clarity #00C8FF link://clarity/benchmark-suites-valuation-ledger-token-ledger-materials-bio-anchor-families-p7950
+[ANCHOR] alignment #33CCCC link://alignment/benchmark-suites-valuation-ledger-token-ledger-materials-bio-anchor-families-p7950
+
+TITLE: benchmark-suites-valuation-ledger-token-ledger-materials-bio-anchor-families-p7950
+SUMMARY: Research scaffold for benchmark-suites, valuation-ledger, token-ledger, materials-bio, anchor-families.
+
+LINKS:
+- https://nature.com/subjects/neuroscience
+- https://zenodo.org/
+
+
+EQUATIONS:
+- EQ027: Entropy -> -Σ p log p
+- EQ008: Observability -> rank([C; CA; CA^2; ...; CA^{n-1}]) = n
+- EQ005: Spectral radius -> ρ(A) = max |λ_i(A)|
+
+VALUATION:
+- Score: 0.642
+- Tier: silver

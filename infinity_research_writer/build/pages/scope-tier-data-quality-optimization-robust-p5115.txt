@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scope-tier-data-quality-optimization-robust-p5115
+[ANCHOR] clarity #00C8FF link://clarity/scope-tier-data-quality-optimization-robust-p5115
+[ANCHOR] alignment #33CCCC link://alignment/scope-tier-data-quality-optimization-robust-p5115
+
+TITLE: scope-tier-data-quality-optimization-robust-p5115
+SUMMARY: Research scaffold for scope-tier, data-quality, optimization-robust.
+
+LINKS:
+- https://springer.com/gp/biomedicine
+- https://digital.bodleian.ox.ac.uk/
+
+
+EQUATIONS:
+- EQ047: Chebyshev inequality -> P(|X-μ|≥kσ) ≤ 1/k²
+- EQ048: Jensen's inequality -> φ(E[X]) ≤ E[φ(X)]
+
+
+VALUATION:
+- Score: 0.540
+- Tier: bronze

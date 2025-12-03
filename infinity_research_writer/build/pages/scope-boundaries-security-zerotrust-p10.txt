@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scope-boundaries-security-zerotrust-p10
+[ANCHOR] clarity #00C8FF link://clarity/scope-boundaries-security-zerotrust-p10
+[ANCHOR] alignment #33CCCC link://alignment/scope-boundaries-security-zerotrust-p10
+
+TITLE: scope-boundaries-security-zerotrust-p10
+SUMMARY: Research scaffold for scope-boundaries, security-zerotrust.
+
+LINKS:
+- https://uclpress.co.uk/
+- https://elsevier.com/catalog?producttype=journal
+- https://nature.com/subjects/earth-sciences
+
+EQUATIONS:
+- EQ005: Spectral radius -> ρ(A) = max |λ_i(A)|
+- EQ003: Lagrangian -> L(x, λ) = f(x) + λ^T (Ax - b)
+- EQ043: Chi-square distribution -> special gamma
+
+VALUATION:
+- Score: 0.599
+- Tier: bronze

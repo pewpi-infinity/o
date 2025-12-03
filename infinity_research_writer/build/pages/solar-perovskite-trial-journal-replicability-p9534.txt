@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/solar-perovskite-trial-journal-replicability-p9534
+[ANCHOR] clarity #00C8FF link://clarity/solar-perovskite-trial-journal-replicability-p9534
+[ANCHOR] alignment #33CCCC link://alignment/solar-perovskite-trial-journal-replicability-p9534
+
+TITLE: solar-perovskite-trial-journal-replicability-p9534
+SUMMARY: Research scaffold for solar-perovskite, trial-journal, replicability.
+
+LINKS:
+- https://princeton.edu/research
+- https://worldbank.org/en/research
+- https://aaas.org/
+
+EQUATIONS:
+- EQ040: Rank-nullity -> dim(V)=rank+nullity
+- EQ034: Poisson equation -> ∇²u = -ρ/ε
+- EQ027: Entropy -> -Σ p log p
+
+VALUATION:
+- Score: 0.592
+- Tier: bronze

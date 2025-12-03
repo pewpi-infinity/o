@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/learning-tier-link-format-p2788
+[ANCHOR] clarity #00C8FF link://clarity/learning-tier-link-format-p2788
+[ANCHOR] learning #E6B800 link://learning/learning-tier-link-format-p2788
+[ANCHOR] alignment #33CCCC link://alignment/learning-tier-link-format-p2788
+
+TITLE: learning-tier-link-format-p2788
+SUMMARY: Research scaffold for learning-tier, link-format.
+
+LINKS:
+- https://erowid.org/chemicals/
+- https://link.springer.com/journal/10896
+
+
+EQUATIONS:
+- EQ045: Central limit theorem -> normalized sums→normal
+- EQ031: Laplace transform -> ∫f(t)e^{-st}dt
+
+
+VALUATION:
+- Score: 0.511
+- Tier: bronze

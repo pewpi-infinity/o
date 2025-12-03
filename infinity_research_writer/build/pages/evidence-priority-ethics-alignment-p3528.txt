@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/evidence-priority-ethics-alignment-p3528
+[ANCHOR] ethics #FF6A00 link://ethics/evidence-priority-ethics-alignment-p3528
+[ANCHOR] clarity #00C8FF link://clarity/evidence-priority-ethics-alignment-p3528
+[ANCHOR] provenance #7D4DF2 link://provenance/evidence-priority-ethics-alignment-p3528
+[ANCHOR] scope #6066FF link://scope/evidence-priority-ethics-alignment-p3528
+
+TITLE: evidence-priority-ethics-alignment-p3528
+SUMMARY: Research scaffold for evidence-priority, ethics-alignment.
+
+LINKS:
+- https://jamanetwork.com/journals/jamaneurology
+- https://jamanetwork.com/
+- https://eol.org/
+
+EQUATIONS:
+- EQ007: Controllability -> rank([B, AB, A^2B, ..., A^{n-1}B]) = n
+- EQ036: Schrödinger equation -> iħ∂ψ/∂t = Hψ
+- EQ046: Markov inequality -> P(X≥a) ≤ E[X]/a
+
+VALUATION:
+- Score: 0.652
+- Tier: silver

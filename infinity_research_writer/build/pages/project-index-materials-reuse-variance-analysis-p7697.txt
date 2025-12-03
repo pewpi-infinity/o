@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/project-index-materials-reuse-variance-analysis-p7697
+[ANCHOR] clarity #00C8FF link://clarity/project-index-materials-reuse-variance-analysis-p7697
+[ANCHOR] alignment #33CCCC link://alignment/project-index-materials-reuse-variance-analysis-p7697
+
+TITLE: project-index-materials-reuse-variance-analysis-p7697
+SUMMARY: Research scaffold for project-index, materials-reuse, variance-analysis.
+
+LINKS:
+- https://maps.org/research/
+- https://nature.com/subjects/cardiology
+
+
+EQUATIONS:
+- EQ020: PCA -> eigenvectors of covariance Σ
+- EQ045: Central limit theorem -> normalized sums→normal
+- EQ036: Schrödinger equation -> iħ∂ψ/∂t = Hψ
+
+VALUATION:
+- Score: 0.580
+- Tier: bronze

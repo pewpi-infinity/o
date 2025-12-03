@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/evidence-priority-ethics-alignment-p4578
+[ANCHOR] ethics #FF6A00 link://ethics/evidence-priority-ethics-alignment-p4578
+[ANCHOR] clarity #00C8FF link://clarity/evidence-priority-ethics-alignment-p4578
+[ANCHOR] provenance #7D4DF2 link://provenance/evidence-priority-ethics-alignment-p4578
+[ANCHOR] scope #6066FF link://scope/evidence-priority-ethics-alignment-p4578
+
+TITLE: evidence-priority-ethics-alignment-p4578
+SUMMARY: Research scaffold for evidence-priority, ethics-alignment.
+
+LINKS:
+- https://arxiv.org/
+
+
+
+EQUATIONS:
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+- EQ025: Softmax -> exp(z_i) / Σ exp(z)
+
+
+VALUATION:
+- Score: 0.505
+- Tier: bronze

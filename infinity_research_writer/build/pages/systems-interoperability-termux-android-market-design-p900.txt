@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/systems-interoperability-termux-android-market-design-p900
+[ANCHOR] clarity #00C8FF link://clarity/systems-interoperability-termux-android-market-design-p900
+[ANCHOR] alignment #33CCCC link://alignment/systems-interoperability-termux-android-market-design-p900
+
+TITLE: systems-interoperability-termux-android-market-design-p900
+SUMMARY: Research scaffold for systems-interoperability, termux-android, market-design.
+
+LINKS:
+- https://oecd.org/statistics/
+- https://frontiersin.org/
+
+
+EQUATIONS:
+- EQ013: Markov chain stationary distribution -> π = πP
+
+
+
+VALUATION:
+- Score: 0.550
+- Tier: bronze

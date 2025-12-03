@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/logs-loud-model-explanations-trend-detection-p336
+[ANCHOR] clarity #00C8FF link://clarity/logs-loud-model-explanations-trend-detection-p336
+[ANCHOR] alignment #33CCCC link://alignment/logs-loud-model-explanations-trend-detection-p336
+
+TITLE: logs-loud-model-explanations-trend-detection-p336
+SUMMARY: Research scaffold for logs-loud, model-explanations, trend-detection.
+
+LINKS:
+- https://ancient.eu/
+- https://aaai.org/Library/
+
+
+EQUATIONS:
+- EQ039: Matrix invertibility -> det(A) ≠ 0
+- EQ046: Markov inequality -> P(X≥a) ≤ E[X]/a
+
+
+VALUATION:
+- Score: 0.567
+- Tier: bronze

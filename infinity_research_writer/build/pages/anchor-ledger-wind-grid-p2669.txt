@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/anchor-ledger-wind-grid-p2669
+[ANCHOR] clarity #00C8FF link://clarity/anchor-ledger-wind-grid-p2669
+[ANCHOR] alignment #33CCCC link://alignment/anchor-ledger-wind-grid-p2669
+
+TITLE: anchor-ledger-wind-grid-p2669
+SUMMARY: Research scaffold for anchor-ledger, wind-grid.
+
+LINKS:
+- https://orthopaedicresearchsociety.org/
+- https://medrxiv.org/
+- https://synapse.org/
+
+EQUATIONS:
+- EQ015: Power of hypothesis test -> 1 - β
+- EQ043: Chi-square distribution -> special gamma
+
+
+VALUATION:
+- Score: 0.525
+- Tier: bronze

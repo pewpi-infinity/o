@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/nonconvex-landscapes-bias-detection-p5008
+[ANCHOR] clarity #00C8FF link://clarity/nonconvex-landscapes-bias-detection-p5008
+[ANCHOR] alignment #33CCCC link://alignment/nonconvex-landscapes-bias-detection-p5008
+
+TITLE: nonconvex-landscapes-bias-detection-p5008
+SUMMARY: Research scaffold for nonconvex-landscapes, bias-detection.
+
+LINKS:
+- https://oi.uchicago.edu/research
+- https://data.europa.eu/
+
+
+EQUATIONS:
+- EQ037: Eigenvalue problem -> Ax = λx
+
+
+
+VALUATION:
+- Score: 0.494
+- Tier: bronze

@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/diff-hashes-publish-gates-clarity-visuals-batch-hash-streaming-research-p6736
+[ANCHOR] clarity #00C8FF link://clarity/diff-hashes-publish-gates-clarity-visuals-batch-hash-streaming-research-p6736
+[ANCHOR] learning #E6B800 link://learning/diff-hashes-publish-gates-clarity-visuals-batch-hash-streaming-research-p6736
+[ANCHOR] alignment #33CCCC link://alignment/diff-hashes-publish-gates-clarity-visuals-batch-hash-streaming-research-p6736
+
+TITLE: diff-hashes-publish-gates-clarity-visuals-batch-hash-streaming-research-p6736
+SUMMARY: Research scaffold for diff-hashes, publish-gates, clarity-visuals, batch-hash, streaming-research.
+
+LINKS:
+- https://openei.org/
+- https://ucla.edu/research
+- https://kcl.ac.uk/research
+
+EQUATIONS:
+- EQ015: Power of hypothesis test -> 1 - β
+- EQ011: Mechanism incentive compatibility -> truth-telling maximizes utility
+- EQ003: Lagrangian -> L(x, λ) = f(x) + λ^T (Ax - b)
+
+VALUATION:
+- Score: 0.745
+- Tier: silver

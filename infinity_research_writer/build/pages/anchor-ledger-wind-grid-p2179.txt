@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/anchor-ledger-wind-grid-p2179
+[ANCHOR] clarity #00C8FF link://clarity/anchor-ledger-wind-grid-p2179
+[ANCHOR] alignment #33CCCC link://alignment/anchor-ledger-wind-grid-p2179
+
+TITLE: anchor-ledger-wind-grid-p2179
+SUMMARY: Research scaffold for anchor-ledger, wind-grid.
+
+LINKS:
+- https://europa.eu/european-union/documents-publications_en
+
+
+
+EQUATIONS:
+- EQ007: Controllability -> rank([B, AB, A^2B, ..., A^{n-1}B]) = n
+- EQ048: Jensen's inequality -> φ(E[X]) ≤ E[φ(X)]
+
+
+VALUATION:
+- Score: 0.488
+- Tier: bronze

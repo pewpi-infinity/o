@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/source-diversity-seasonality-ensembles-p8116
+[ANCHOR] clarity #00C8FF link://clarity/source-diversity-seasonality-ensembles-p8116
+[ANCHOR] alignment #33CCCC link://alignment/source-diversity-seasonality-ensembles-p8116
+
+TITLE: source-diversity-seasonality-ensembles-p8116
+SUMMARY: Research scaffold for source-diversity, seasonality, ensembles.
+
+LINKS:
+- https://tokyo-u.ac.jp/en/research
+- https://physics.aps.org/
+
+
+EQUATIONS:
+- EQ034: Poisson equation -> ∇²u = -ρ/ε
+
+
+
+VALUATION:
+- Score: 0.517
+- Tier: bronze

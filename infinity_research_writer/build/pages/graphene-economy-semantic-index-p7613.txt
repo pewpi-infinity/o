@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/graphene-economy-semantic-index-p7613
+[ANCHOR] capacity #00D67D link://capacity/graphene-economy-semantic-index-p7613
+[ANCHOR] clarity #00C8FF link://clarity/graphene-economy-semantic-index-p7613
+[ANCHOR] provenance #7D4DF2 link://provenance/graphene-economy-semantic-index-p7613
+[ANCHOR] risk #FF3B3B link://risk/graphene-economy-semantic-index-p7613
+
+TITLE: graphene-economy-semantic-index-p7613
+SUMMARY: Research scaffold for graphene-economy, semantic-index.
+
+LINKS:
+- https://theoi.com/
+- https://agu.org/learn-and-develop/learn/eos
+
+
+EQUATIONS:
+- EQ046: Markov inequality -> P(X≥a) ≤ E[X]/a
+- EQ250: Robust optimization -> minimize max loss over uncertainty set U
+- EQ037: Eigenvalue problem -> Ax = λx
+
+VALUATION:
+- Score: 0.657
+- Tier: silver

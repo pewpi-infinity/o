@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/logs-loud-model-explanations-trend-detection-p4116
+[ANCHOR] clarity #00C8FF link://clarity/logs-loud-model-explanations-trend-detection-p4116
+[ANCHOR] alignment #33CCCC link://alignment/logs-loud-model-explanations-trend-detection-p4116
+
+TITLE: logs-loud-model-explanations-trend-detection-p4116
+SUMMARY: Research scaffold for logs-loud, model-explanations, trend-detection.
+
+LINKS:
+- https://numismatics.org/
+
+
+
+EQUATIONS:
+- EQ021: SVD -> A = UΣVᵀ
+- EQ026: KL divergence -> Σ p log(p/q)
+- EQ025: Softmax -> exp(z_i) / Σ exp(z)
+
+VALUATION:
+- Score: 0.524
+- Tier: bronze

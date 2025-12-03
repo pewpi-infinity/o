@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scope-boundaries-security-zerotrust-p5960
+[ANCHOR] clarity #00C8FF link://clarity/scope-boundaries-security-zerotrust-p5960
+[ANCHOR] alignment #33CCCC link://alignment/scope-boundaries-security-zerotrust-p5960
+
+TITLE: scope-boundaries-security-zerotrust-p5960
+SUMMARY: Research scaffold for scope-boundaries, security-zerotrust.
+
+LINKS:
+- https://acs.org/content/acs/en/journals.html
+
+
+
+EQUATIONS:
+- EQ011: Mechanism incentive compatibility -> truth-telling maximizes utility
+- EQ035: Maxwell equations (set of 4)
+
+
+VALUATION:
+- Score: 0.462
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/policy-impact-convexity-checks-p5707
+[ANCHOR] clarity #00C8FF link://clarity/policy-impact-convexity-checks-p5707
+[ANCHOR] alignment #33CCCC link://alignment/policy-impact-convexity-checks-p5707
+
+TITLE: policy-impact-convexity-checks-p5707
+SUMMARY: Research scaffold for policy-impact, convexity-checks.
+
+LINKS:
+- https://jamanetwork.com/
+- https://biochemj.org/
+
+
+EQUATIONS:
+- EQ031: Laplace transform -> ∫f(t)e^{-st}dt
+- EQ023: Cross entropy -> -Σ y log p
+
+
+VALUATION:
+- Score: 0.497
+- Tier: bronze

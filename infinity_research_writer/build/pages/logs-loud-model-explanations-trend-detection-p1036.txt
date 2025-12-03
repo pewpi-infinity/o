@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/logs-loud-model-explanations-trend-detection-p1036
+[ANCHOR] clarity #00C8FF link://clarity/logs-loud-model-explanations-trend-detection-p1036
+[ANCHOR] alignment #33CCCC link://alignment/logs-loud-model-explanations-trend-detection-p1036
+
+TITLE: logs-loud-model-explanations-trend-detection-p1036
+SUMMARY: Research scaffold for logs-loud, model-explanations, trend-detection.
+
+LINKS:
+- https://rsc.org/journals-books-databases/
+
+
+
+EQUATIONS:
+- EQ030: Convolution -> (f*g)(t)=∫f(τ)g(t-τ)dτ
+- EQ045: Central limit theorem -> normalized sums→normal
+- EQ043: Chi-square distribution -> special gamma
+
+VALUATION:
+- Score: 0.524
+- Tier: bronze

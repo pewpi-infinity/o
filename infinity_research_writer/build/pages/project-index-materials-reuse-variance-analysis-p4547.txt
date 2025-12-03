@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/project-index-materials-reuse-variance-analysis-p4547
+[ANCHOR] clarity #00C8FF link://clarity/project-index-materials-reuse-variance-analysis-p4547
+[ANCHOR] alignment #33CCCC link://alignment/project-index-materials-reuse-variance-analysis-p4547
+
+TITLE: project-index-materials-reuse-variance-analysis-p4547
+SUMMARY: Research scaffold for project-index, materials-reuse, variance-analysis.
+
+LINKS:
+- https://intechopen.com/
+
+
+
+EQUATIONS:
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+
+
+
+VALUATION:
+- Score: 0.487
+- Tier: bronze

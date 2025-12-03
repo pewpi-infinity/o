@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/research-valuation-pages-manifest-p9679
+[ANCHOR] clarity #00C8FF link://clarity/research-valuation-pages-manifest-p9679
+[ANCHOR] alignment #33CCCC link://alignment/research-valuation-pages-manifest-p9679
+
+TITLE: research-valuation-pages-manifest-p9679
+SUMMARY: Research scaffold for research-valuation, pages-manifest.
+
+LINKS:
+- https://cochranelibrary.com/
+
+
+
+EQUATIONS:
+- EQ032: Heat equation -> ∂u/∂t = α∇²u
+- EQ048: Jensen's inequality -> φ(E[X]) ≤ E[φ(X)]
+- EQ019: Lasso sparsity -> many β_j = 0
+
+VALUATION:
+- Score: 0.505
+- Tier: bronze

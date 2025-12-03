@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/bayes-inference-meta-analysis-project-value-p7585
+[ANCHOR] clarity #00C8FF link://clarity/bayes-inference-meta-analysis-project-value-p7585
+[ANCHOR] alignment #33CCCC link://alignment/bayes-inference-meta-analysis-project-value-p7585
+
+TITLE: bayes-inference-meta-analysis-project-value-p7585
+SUMMARY: Research scaffold for bayes-inference, meta-analysis, project-value.
+
+LINKS:
+- https://jneurosci.org/
+- https://ucla.edu/research
+
+
+EQUATIONS:
+- EQ038: Determinant expansion -> Σ permutations
+- EQ015: Power of hypothesis test -> 1 - β
+- EQ037: Eigenvalue problem -> Ax = λx
+
+VALUATION:
+- Score: 0.580
+- Tier: bronze

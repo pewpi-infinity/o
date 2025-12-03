@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/artifact-visibility-scholar-ledger-p401
+[ANCHOR] clarity #00C8FF link://clarity/artifact-visibility-scholar-ledger-p401
+[ANCHOR] alignment #33CCCC link://alignment/artifact-visibility-scholar-ledger-p401
+
+TITLE: artifact-visibility-scholar-ledger-p401
+SUMMARY: Research scaffold for artifact-visibility, scholar-ledger.
+
+LINKS:
+- https://egyptology.yale.edu/research
+- https://gbif.org/
+- https://cambridge.org/core/what-we-publish/journals
+
+EQUATIONS:
+- EQ014: Bayesian update -> p(θ|D) ∝ p(D|θ)p(θ)
+- EQ045: Central limit theorem -> normalized sums→normal
+- EQ046: Markov inequality -> P(X≥a) ≤ E[X]/a
+
+VALUATION:
+- Score: 0.611
+- Tier: silver

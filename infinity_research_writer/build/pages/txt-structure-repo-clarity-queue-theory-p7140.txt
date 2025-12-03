@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/txt-structure-repo-clarity-queue-theory-p7140
+[ANCHOR] clarity #00C8FF link://clarity/txt-structure-repo-clarity-queue-theory-p7140
+[ANCHOR] learning #E6B800 link://learning/txt-structure-repo-clarity-queue-theory-p7140
+[ANCHOR] alignment #33CCCC link://alignment/txt-structure-repo-clarity-queue-theory-p7140
+
+TITLE: txt-structure-repo-clarity-queue-theory-p7140
+SUMMARY: Research scaffold for txt-structure, repo-clarity, queue-theory.
+
+LINKS:
+- https://loveandscience.com/
+- https://mlr.press/
+
+
+EQUATIONS:
+- EQ010: Nash equilibrium -> best response mappings intersect
+- EQ013: Markov chain stationary distribution -> π = πP
+- EQ040: Rank-nullity -> dim(V)=rank+nullity
+
+VALUATION:
+- Score: 0.606
+- Tier: silver

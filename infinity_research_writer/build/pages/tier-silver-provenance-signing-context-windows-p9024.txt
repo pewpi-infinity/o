@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/tier-silver-provenance-signing-context-windows-p9024
+[ANCHOR] clarity #00C8FF link://clarity/tier-silver-provenance-signing-context-windows-p9024
+[ANCHOR] learning #E6B800 link://learning/tier-silver-provenance-signing-context-windows-p9024
+[ANCHOR] alignment #33CCCC link://alignment/tier-silver-provenance-signing-context-windows-p9024
+
+TITLE: tier-silver-provenance-signing-context-windows-p9024
+SUMMARY: Research scaffold for tier-silver, provenance-signing, context-windows.
+
+LINKS:
+- https://yale.edu/research/neuroscience
+- https://poker.srv.ualberta.ca/publications/
+
+
+EQUATIONS:
+- EQ037: Eigenvalue problem -> Ax = λx
+- EQ003: Lagrangian -> L(x, λ) = f(x) + λ^T (Ax - b)
+- EQ250: Robust optimization -> minimize max loss over uncertainty set U
+
+VALUATION:
+- Score: 0.697
+- Tier: silver

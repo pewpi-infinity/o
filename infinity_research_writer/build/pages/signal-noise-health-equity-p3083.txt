@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/signal-noise-health-equity-p3083
+[ANCHOR] clarity #00C8FF link://clarity/signal-noise-health-equity-p3083
+[ANCHOR] alignment #33CCCC link://alignment/signal-noise-health-equity-p3083
+
+TITLE: signal-noise-health-equity-p3083
+SUMMARY: Research scaffold for signal-noise, health-equity.
+
+LINKS:
+- https://doabooks.org/
+- https://frontiersin.org/journals/neuroscience
+- https://agu.org/learn-and-develop/learn/eos
+
+EQUATIONS:
+- EQ038: Determinant expansion -> Σ permutations
+- EQ034: Poisson equation -> ∇²u = -ρ/ε
+
+
+VALUATION:
+- Score: 0.526
+- Tier: bronze

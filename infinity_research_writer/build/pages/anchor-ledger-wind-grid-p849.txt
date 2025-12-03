@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/anchor-ledger-wind-grid-p849
+[ANCHOR] clarity #00C8FF link://clarity/anchor-ledger-wind-grid-p849
+[ANCHOR] alignment #33CCCC link://alignment/anchor-ledger-wind-grid-p849
+
+TITLE: anchor-ledger-wind-grid-p849
+SUMMARY: Research scaffold for anchor-ledger, wind-grid.
+
+LINKS:
+- https://metmuseum.org/art/metpublications
+
+
+
+EQUATIONS:
+- EQ005: Spectral radius -> ρ(A) = max |λ_i(A)|
+- EQ037: Eigenvalue problem -> Ax = λx
+- EQ015: Power of hypothesis test -> 1 - β
+
+VALUATION:
+- Score: 0.498
+- Tier: bronze

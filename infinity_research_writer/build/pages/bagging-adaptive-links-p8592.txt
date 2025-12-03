@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/bagging-adaptive-links-p8592
+[ANCHOR] clarity #00C8FF link://clarity/bagging-adaptive-links-p8592
+[ANCHOR] alignment #33CCCC link://alignment/bagging-adaptive-links-p8592
+
+TITLE: bagging-adaptive-links-p8592
+SUMMARY: Research scaffold for bagging, adaptive-links.
+
+LINKS:
+- https://gazzaleylab.ucsf.edu/publications
+
+
+
+EQUATIONS:
+- EQ027: Entropy -> -Σ p log p
+
+
+
+VALUATION:
+- Score: 0.439
+- Tier: bronze

@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/concept-anchors-learning-pathways-p701
+[ANCHOR] clarity #00C8FF link://clarity/concept-anchors-learning-pathways-p701
+[ANCHOR] learning #E6B800 link://learning/concept-anchors-learning-pathways-p701
+[ANCHOR] alignment #33CCCC link://alignment/concept-anchors-learning-pathways-p701
+
+TITLE: concept-anchors-learning-pathways-p701
+SUMMARY: Research scaffold for concept-anchors, learning-pathways.
+
+LINKS:
+- https://onlinelibrary.wiley.com/
+- https://data.worldbank.org/
+- https://nsidc.org/data
+
+EQUATIONS:
+- EQ044: Law of large numbers -> sample mean→μ
+- EQ040: Rank-nullity -> dim(V)=rank+nullity
+- EQ010: Nash equilibrium -> best response mappings intersect
+
+VALUATION:
+- Score: 0.569
+- Tier: bronze

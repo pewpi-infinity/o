@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/solar-perovskite-trial-journal-replicability-p7364
+[ANCHOR] clarity #00C8FF link://clarity/solar-perovskite-trial-journal-replicability-p7364
+[ANCHOR] alignment #33CCCC link://alignment/solar-perovskite-trial-journal-replicability-p7364
+
+TITLE: solar-perovskite-trial-journal-replicability-p7364
+SUMMARY: Research scaffold for solar-perovskite, trial-journal, replicability.
+
+LINKS:
+- https://arxiv.org/
+- https://jbc.org/
+
+
+EQUATIONS:
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+- EQ017: L1 regularization -> minimize ||y-Xβ||² + λ||β||₁
+- EQ005: Spectral radius -> ρ(A) = max |λ_i(A)|
+
+VALUATION:
+- Score: 0.609
+- Tier: silver

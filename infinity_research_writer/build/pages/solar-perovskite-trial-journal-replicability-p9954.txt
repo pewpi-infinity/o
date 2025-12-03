@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/solar-perovskite-trial-journal-replicability-p9954
+[ANCHOR] clarity #00C8FF link://clarity/solar-perovskite-trial-journal-replicability-p9954
+[ANCHOR] alignment #33CCCC link://alignment/solar-perovskite-trial-journal-replicability-p9954
+
+TITLE: solar-perovskite-trial-journal-replicability-p9954
+SUMMARY: Research scaffold for solar-perovskite, trial-journal, replicability.
+
+LINKS:
+- https://nus.edu.sg/research
+- https://drugabuse.gov/publications
+- https://edinburgh.ac.uk/research
+
+EQUATIONS:
+- EQ036: Schrödinger equation -> iħ∂ψ/∂t = Hψ
+- EQ005: Spectral radius -> ρ(A) = max |λ_i(A)|
+
+
+VALUATION:
+- Score: 0.572
+- Tier: bronze

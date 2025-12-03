@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/agent-based-capacity-planning-provenance-ledger-alignment-checks-p69
+[ANCHOR] capacity #00D67D link://capacity/agent-based-capacity-planning-provenance-ledger-alignment-checks-p69
+[ANCHOR] clarity #00C8FF link://clarity/agent-based-capacity-planning-provenance-ledger-alignment-checks-p69
+[ANCHOR] provenance #7D4DF2 link://provenance/agent-based-capacity-planning-provenance-ledger-alignment-checks-p69
+[ANCHOR] risk #FF3B3B link://risk/agent-based-capacity-planning-provenance-ledger-alignment-checks-p69
+
+TITLE: agent-based-capacity-planning-provenance-ledger-alignment-checks-p69
+SUMMARY: Research scaffold for agent-based, capacity-planning, provenance-ledger, alignment-checks.
+
+LINKS:
+- https://nyu.edu/research
+
+
+
+EQUATIONS:
+- EQ003: Lagrangian -> L(x, λ) = f(x) + λ^T (Ax - b)
+- EQ001: Linear program objective -> maximize c^T x subject to Ax <= b, x >= 0
+
+
+VALUATION:
+- Score: 0.638
+- Tier: silver

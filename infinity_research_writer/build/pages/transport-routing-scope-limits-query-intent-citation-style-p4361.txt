@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/transport-routing-scope-limits-query-intent-citation-style-p4361
+[ANCHOR] clarity #00C8FF link://clarity/transport-routing-scope-limits-query-intent-citation-style-p4361
+[ANCHOR] alignment #33CCCC link://alignment/transport-routing-scope-limits-query-intent-citation-style-p4361
+
+TITLE: transport-routing-scope-limits-query-intent-citation-style-p4361
+SUMMARY: Research scaffold for transport-routing, scope-limits, query-intent, citation-style.
+
+LINKS:
+- https://planetmath.org/
+- https://neuron.yale.edu/neuron/
+- https://agu.org/learn-and-develop/learn/eos
+
+EQUATIONS:
+- EQ035: Maxwell equations (set of 4)
+- EQ041: Gaussian distribution -> (1/√2πσ²)e^{-(x-μ)²/2σ²}
+
+
+VALUATION:
+- Score: 0.611
+- Tier: silver

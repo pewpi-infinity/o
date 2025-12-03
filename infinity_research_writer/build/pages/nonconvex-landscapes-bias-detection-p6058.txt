@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/nonconvex-landscapes-bias-detection-p6058
+[ANCHOR] clarity #00C8FF link://clarity/nonconvex-landscapes-bias-detection-p6058
+[ANCHOR] alignment #33CCCC link://alignment/nonconvex-landscapes-bias-detection-p6058
+
+TITLE: nonconvex-landscapes-bias-detection-p6058
+SUMMARY: Research scaffold for nonconvex-landscapes, bias-detection.
+
+LINKS:
+- https://springer.com/gp/biomedicine
+- https://egyptology.yale.edu/research
+
+
+EQUATIONS:
+- EQ018: Ridge regression -> minimize ||y-Xβ||² + λ||β||²
+- EQ005: Spectral radius -> ρ(A) = max |λ_i(A)|
+
+
+VALUATION:
+- Score: 0.514
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scope-tier-data-quality-optimization-robust-p8055
+[ANCHOR] clarity #00C8FF link://clarity/scope-tier-data-quality-optimization-robust-p8055
+[ANCHOR] alignment #33CCCC link://alignment/scope-tier-data-quality-optimization-robust-p8055
+
+TITLE: scope-tier-data-quality-optimization-robust-p8055
+SUMMARY: Research scaffold for scope-tier, data-quality, optimization-robust.
+
+LINKS:
+- https://warwick.ac.uk/research
+- https://journals.sagepub.com/home/jfm
+
+
+EQUATIONS:
+- EQ032: Heat equation -> ∂u/∂t = α∇²u
+- EQ005: Spectral radius -> ρ(A) = max |λ_i(A)|
+
+
+VALUATION:
+- Score: 0.540
+- Tier: bronze

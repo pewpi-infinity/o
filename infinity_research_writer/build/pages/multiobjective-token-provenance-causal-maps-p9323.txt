@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/multiobjective-token-provenance-causal-maps-p9323
+[ANCHOR] clarity #00C8FF link://clarity/multiobjective-token-provenance-causal-maps-p9323
+[ANCHOR] learning #E6B800 link://learning/multiobjective-token-provenance-causal-maps-p9323
+[ANCHOR] alignment #33CCCC link://alignment/multiobjective-token-provenance-causal-maps-p9323
+
+TITLE: multiobjective-token-provenance-causal-maps-p9323
+SUMMARY: Research scaffold for multiobjective, token-provenance, causal-maps.
+
+LINKS:
+- https://cochranelibrary.com/
+
+
+
+EQUATIONS:
+- EQ023: Cross entropy -> -Σ y log p
+- EQ007: Controllability -> rank([B, AB, A^2B, ..., A^{n-1}B]) = n
+
+
+VALUATION:
+- Score: 0.555
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/logs-loud-model-explanations-trend-detection-p966
+[ANCHOR] clarity #00C8FF link://clarity/logs-loud-model-explanations-trend-detection-p966
+[ANCHOR] alignment #33CCCC link://alignment/logs-loud-model-explanations-trend-detection-p966
+
+TITLE: logs-loud-model-explanations-trend-detection-p966
+SUMMARY: Research scaffold for logs-loud, model-explanations, trend-detection.
+
+LINKS:
+- https://nature.com/subjects/neuroscience
+
+
+
+EQUATIONS:
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+- EQ019: Lasso sparsity -> many β_j = 0
+
+
+VALUATION:
+- Score: 0.524
+- Tier: bronze

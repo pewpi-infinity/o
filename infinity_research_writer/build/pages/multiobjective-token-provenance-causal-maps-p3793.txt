@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/multiobjective-token-provenance-causal-maps-p3793
+[ANCHOR] clarity #00C8FF link://clarity/multiobjective-token-provenance-causal-maps-p3793
+[ANCHOR] learning #E6B800 link://learning/multiobjective-token-provenance-causal-maps-p3793
+[ANCHOR] alignment #33CCCC link://alignment/multiobjective-token-provenance-causal-maps-p3793
+
+TITLE: multiobjective-token-provenance-causal-maps-p3793
+SUMMARY: Research scaffold for multiobjective, token-provenance, causal-maps.
+
+LINKS:
+- https://repec.org/
+- https://europa.eu/european-union/documents-publications_en
+- https://nature.com/subjects/neuromorphic-engineering
+
+EQUATIONS:
+- EQ033: Wave equation -> ∂²u/∂t² = c²∇²u
+- EQ043: Chi-square distribution -> special gamma
+
+
+VALUATION:
+- Score: 0.592
+- Tier: bronze

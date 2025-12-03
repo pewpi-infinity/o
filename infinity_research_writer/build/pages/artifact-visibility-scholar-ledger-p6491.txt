@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/artifact-visibility-scholar-ledger-p6491
+[ANCHOR] clarity #00C8FF link://clarity/artifact-visibility-scholar-ledger-p6491
+[ANCHOR] alignment #33CCCC link://alignment/artifact-visibility-scholar-ledger-p6491
+
+TITLE: artifact-visibility-scholar-ledger-p6491
+SUMMARY: Research scaffold for artifact-visibility, scholar-ledger.
+
+LINKS:
+- https://alleninstitute.org/
+
+
+
+EQUATIONS:
+- EQ044: Law of large numbers -> sample mean→μ
+
+
+
+VALUATION:
+- Score: 0.444
+- Tier: bronze

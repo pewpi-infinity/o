@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/boosting-zip-ledger-token-index-economy-resilience-inference-graphs-p5066
+[ANCHOR] clarity #00C8FF link://clarity/boosting-zip-ledger-token-index-economy-resilience-inference-graphs-p5066
+[ANCHOR] alignment #33CCCC link://alignment/boosting-zip-ledger-token-index-economy-resilience-inference-graphs-p5066
+
+TITLE: boosting-zip-ledger-token-index-economy-resilience-inference-graphs-p5066
+SUMMARY: Research scaffold for boosting, zip-ledger, token-index, economy-resilience, inference-graphs.
+
+LINKS:
+- https://reading.ac.uk/research
+- https://ucl.ac.uk/research
+
+
+EQUATIONS:
+- EQ004: KKT conditions -> ∇f(x*) + A^T λ* = 0, Ax* <= b, λ* >= 0, λ*^T (Ax* - b) = 0
+- EQ010: Nash equilibrium -> best response mappings intersect
+- EQ015: Power of hypothesis test -> 1 - β
+
+VALUATION:
+- Score: 0.695
+- Tier: silver

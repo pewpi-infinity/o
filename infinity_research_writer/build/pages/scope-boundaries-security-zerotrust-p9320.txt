@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scope-boundaries-security-zerotrust-p9320
+[ANCHOR] clarity #00C8FF link://clarity/scope-boundaries-security-zerotrust-p9320
+[ANCHOR] alignment #33CCCC link://alignment/scope-boundaries-security-zerotrust-p9320
+
+TITLE: scope-boundaries-security-zerotrust-p9320
+SUMMARY: Research scaffold for scope-boundaries, security-zerotrust.
+
+LINKS:
+- https://springer.com/gp/biomedicine
+- https://opendata.nasa.gov/
+
+
+EQUATIONS:
+- EQ044: Law of large numbers -> sample mean→μ
+- EQ047: Chebyshev inequality -> P(|X-μ|≥kσ) ≤ 1/k²
+- EQ046: Markov inequality -> P(X≥a) ≤ E[X]/a
+
+VALUATION:
+- Score: 0.546
+- Tier: bronze

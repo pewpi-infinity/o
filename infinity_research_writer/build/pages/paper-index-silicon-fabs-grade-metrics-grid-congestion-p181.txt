@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/paper-index-silicon-fabs-grade-metrics-grid-congestion-p181
+[ANCHOR] clarity #00C8FF link://clarity/paper-index-silicon-fabs-grade-metrics-grid-congestion-p181
+[ANCHOR] alignment #33CCCC link://alignment/paper-index-silicon-fabs-grade-metrics-grid-congestion-p181
+
+TITLE: paper-index-silicon-fabs-grade-metrics-grid-congestion-p181
+SUMMARY: Research scaffold for paper-index, silicon-fabs, grade-metrics, grid-congestion.
+
+LINKS:
+- https://humanorigins.si.edu/
+- https://ipcc.ch/
+- https://mlr.press/
+
+EQUATIONS:
+- EQ001: Linear program objective -> maximize c^T x subject to Ax <= b, x >= 0
+- EQ036: Schrödinger equation -> iħ∂ψ/∂t = Hψ
+- EQ027: Entropy -> -Σ p log p
+
+VALUATION:
+- Score: 0.632
+- Tier: silver

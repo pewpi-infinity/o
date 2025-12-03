@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/justice-transparency-risk-tier-markov-chains-p1597
+[ANCHOR] ethics #FF6A00 link://ethics/justice-transparency-risk-tier-markov-chains-p1597
+[ANCHOR] clarity #00C8FF link://clarity/justice-transparency-risk-tier-markov-chains-p1597
+[ANCHOR] provenance #7D4DF2 link://provenance/justice-transparency-risk-tier-markov-chains-p1597
+[ANCHOR] scope #6066FF link://scope/justice-transparency-risk-tier-markov-chains-p1597
+
+TITLE: justice-transparency-risk-tier-markov-chains-p1597
+SUMMARY: Research scaffold for justice-transparency, risk-tier, markov-chains.
+
+LINKS:
+- https://imf.org/en/Publications
+- https://coursera.org/browse/math-and-logic
+- https://mathworld.wolfram.com/
+
+EQUATIONS:
+- EQ046: Markov inequality -> P(X≥a) ≤ E[X]/a
+
+
+
+VALUATION:
+- Score: 0.622
+- Tier: silver

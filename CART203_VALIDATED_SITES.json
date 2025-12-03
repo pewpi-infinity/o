@@ -1,0 +1,13 @@
+{
+    "total_valid": 8,
+    "valid_sites": [
+        "https://arxiv.org",
+        "https://nature.com",
+        "https://nasa.gov",
+        "https://esa.int",
+        "https://nist.gov",
+        "https://mit.edu",
+        "https://stanford.edu",
+        "https://caltech.edu"
+    ]
+}

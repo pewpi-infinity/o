@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/artifact-visibility-scholar-ledger-p9501
+[ANCHOR] clarity #00C8FF link://clarity/artifact-visibility-scholar-ledger-p9501
+[ANCHOR] alignment #33CCCC link://alignment/artifact-visibility-scholar-ledger-p9501
+
+TITLE: artifact-visibility-scholar-ledger-p9501
+SUMMARY: Research scaffold for artifact-visibility, scholar-ledger.
+
+LINKS:
+- https://agu.org/learn-and-develop/learn/atmospheric-science
+- https://uchicago.edu/research
+- https://orthopaedicresearchsociety.org/
+
+EQUATIONS:
+- EQ034: Poisson equation -> ∇²u = -ρ/ε
+- EQ013: Markov chain stationary distribution -> π = πP
+
+
+VALUATION:
+- Score: 0.560
+- Tier: bronze

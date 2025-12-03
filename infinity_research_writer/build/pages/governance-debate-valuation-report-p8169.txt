@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/governance-debate-valuation-report-p8169
+[ANCHOR] ethics #FF6A00 link://ethics/governance-debate-valuation-report-p8169
+[ANCHOR] clarity #00C8FF link://clarity/governance-debate-valuation-report-p8169
+[ANCHOR] provenance #7D4DF2 link://provenance/governance-debate-valuation-report-p8169
+[ANCHOR] scope #6066FF link://scope/governance-debate-valuation-report-p8169
+
+TITLE: governance-debate-valuation-report-p8169
+SUMMARY: Research scaffold for governance-debate, valuation-report.
+
+LINKS:
+- https://gazzaleylab.ucsf.edu/publications
+
+
+
+EQUATIONS:
+- EQ038: Determinant expansion -> Σ permutations
+- EQ041: Gaussian distribution -> (1/√2πσ²)e^{-(x-μ)²/2σ²}
+- EQ019: Lasso sparsity -> many β_j = 0
+
+VALUATION:
+- Score: 0.542
+- Tier: bronze

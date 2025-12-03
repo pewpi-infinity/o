@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/systems-interoperability-termux-android-market-design-p3350
+[ANCHOR] clarity #00C8FF link://clarity/systems-interoperability-termux-android-market-design-p3350
+[ANCHOR] alignment #33CCCC link://alignment/systems-interoperability-termux-android-market-design-p3350
+
+TITLE: systems-interoperability-termux-android-market-design-p3350
+SUMMARY: Research scaffold for systems-interoperability, termux-android, market-design.
+
+LINKS:
+- https://doaj.org/
+- https://alleninstitute.org/what-we-do/brain-science/
+- https://neuron.yale.edu/neuron/
+
+EQUATIONS:
+- EQ049: Moment generating function -> M(t)=E[e^{tX}]
+
+
+
+VALUATION:
+- Score: 0.553
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/anchor-ledger-wind-grid-p6239
+[ANCHOR] clarity #00C8FF link://clarity/anchor-ledger-wind-grid-p6239
+[ANCHOR] alignment #33CCCC link://alignment/anchor-ledger-wind-grid-p6239
+
+TITLE: anchor-ledger-wind-grid-p6239
+SUMMARY: Research scaffold for anchor-ledger, wind-grid.
+
+LINKS:
+- https://nida.nih.gov/research
+- https://royalsociety.org/journals/
+
+
+EQUATIONS:
+- EQ026: KL divergence -> Σ p log(p/q)
+- EQ020: PCA -> eigenvectors of covariance Σ
+- EQ005: Spectral radius -> ρ(A) = max |λ_i(A)|
+
+VALUATION:
+- Score: 0.531
+- Tier: bronze

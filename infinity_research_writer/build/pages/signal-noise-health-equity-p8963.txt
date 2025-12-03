@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/signal-noise-health-equity-p8963
+[ANCHOR] clarity #00C8FF link://clarity/signal-noise-health-equity-p8963
+[ANCHOR] alignment #33CCCC link://alignment/signal-noise-health-equity-p8963
+
+TITLE: signal-noise-health-equity-p8963
+SUMMARY: Research scaffold for signal-noise, health-equity.
+
+LINKS:
+- https://maa.org/press/periodicals
+- https://pubchem.ncbi.nlm.nih.gov/
+
+
+EQUATIONS:
+- EQ021: SVD -> A = UΣVᵀ
+- EQ048: Jensen's inequality -> φ(E[X]) ≤ E[φ(X)]
+- EQ036: Schrödinger equation -> iħ∂ψ/∂t = Hψ
+
+VALUATION:
+- Score: 0.513
+- Tier: bronze

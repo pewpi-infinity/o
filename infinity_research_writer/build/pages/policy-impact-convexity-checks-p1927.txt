@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/policy-impact-convexity-checks-p1927
+[ANCHOR] clarity #00C8FF link://clarity/policy-impact-convexity-checks-p1927
+[ANCHOR] alignment #33CCCC link://alignment/policy-impact-convexity-checks-p1927
+
+TITLE: policy-impact-convexity-checks-p1927
+SUMMARY: Research scaffold for policy-impact, convexity-checks.
+
+LINKS:
+- https://oxfordacademic.com/
+
+
+
+EQUATIONS:
+- EQ031: Laplace transform -> ∫f(t)e^{-st}dt
+- EQ019: Lasso sparsity -> many β_j = 0
+
+
+VALUATION:
+- Score: 0.484
+- Tier: bronze

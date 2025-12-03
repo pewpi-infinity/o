@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/signal-noise-health-equity-p4693
+[ANCHOR] clarity #00C8FF link://clarity/signal-noise-health-equity-p4693
+[ANCHOR] alignment #33CCCC link://alignment/signal-noise-health-equity-p4693
+
+TITLE: signal-noise-health-equity-p4693
+SUMMARY: Research scaffold for signal-noise, health-equity.
+
+LINKS:
+- https://openpsych.net/
+- https://scriptorium.columbia.edu/
+
+
+EQUATIONS:
+- EQ008: Observability -> rank([C; CA; CA^2; ...; CA^{n-1}]) = n
+- EQ044: Law of large numbers -> sample mean→μ
+
+
+VALUATION:
+- Score: 0.493
+- Tier: bronze

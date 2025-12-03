@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/source-diversity-seasonality-ensembles-p66
+[ANCHOR] clarity #00C8FF link://clarity/source-diversity-seasonality-ensembles-p66
+[ANCHOR] alignment #33CCCC link://alignment/source-diversity-seasonality-ensembles-p66
+
+TITLE: source-diversity-seasonality-ensembles-p66
+SUMMARY: Research scaffold for source-diversity, seasonality, ensembles.
+
+LINKS:
+- https://nber.org/
+
+
+
+EQUATIONS:
+- EQ008: Observability -> rank([C; CA; CA^2; ...; CA^{n-1}]) = n
+- EQ007: Controllability -> rank([B, AB, A^2B, ..., A^{n-1}B]) = n
+
+
+VALUATION:
+- Score: 0.534
+- Tier: bronze

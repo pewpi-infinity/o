@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/energy-storage-auction-theory-ledger-proof-review-cycle-anomaly-detection-p8282
+[ANCHOR] clarity #00C8FF link://clarity/energy-storage-auction-theory-ledger-proof-review-cycle-anomaly-detection-p8282
+[ANCHOR] alignment #33CCCC link://alignment/energy-storage-auction-theory-ledger-proof-review-cycle-anomaly-detection-p8282
+
+TITLE: energy-storage-auction-theory-ledger-proof-review-cycle-anomaly-detection-p8282
+SUMMARY: Research scaffold for energy-storage, auction-theory, ledger-proof, review-cycle, anomaly-detection.
+
+LINKS:
+- https://scholar.google.com/
+- https://law.cornell.edu/
+
+
+EQUATIONS:
+- EQ005: Spectral radius -> ρ(A) = max |λ_i(A)|
+- EQ011: Mechanism incentive compatibility -> truth-telling maximizes utility
+- EQ019: Lasso sparsity -> many β_j = 0
+
+VALUATION:
+- Score: 0.663
+- Tier: silver

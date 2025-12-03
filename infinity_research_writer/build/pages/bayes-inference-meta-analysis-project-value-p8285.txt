@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/bayes-inference-meta-analysis-project-value-p8285
+[ANCHOR] clarity #00C8FF link://clarity/bayes-inference-meta-analysis-project-value-p8285
+[ANCHOR] alignment #33CCCC link://alignment/bayes-inference-meta-analysis-project-value-p8285
+
+TITLE: bayes-inference-meta-analysis-project-value-p8285
+SUMMARY: Research scaffold for bayes-inference, meta-analysis, project-value.
+
+LINKS:
+- https://neuroscience.ox.ac.uk/research
+- https://nature.com/subjects/chemistry
+- https://ncbi.nlm.nih.gov/pmc/
+
+EQUATIONS:
+- EQ004: KKT conditions -> ∇f(x*) + A^T λ* = 0, Ax* <= b, λ* >= 0, λ*^T (Ax* - b) = 0
+
+
+
+VALUATION:
+- Score: 0.604
+- Tier: silver

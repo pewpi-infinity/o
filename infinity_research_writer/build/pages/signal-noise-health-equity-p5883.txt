@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/signal-noise-health-equity-p5883
+[ANCHOR] clarity #00C8FF link://clarity/signal-noise-health-equity-p5883
+[ANCHOR] alignment #33CCCC link://alignment/signal-noise-health-equity-p5883
+
+TITLE: signal-noise-health-equity-p5883
+SUMMARY: Research scaffold for signal-noise, health-equity.
+
+LINKS:
+- https://iucn.org/resources/publications
+- https://oapen.org/
+- https://perseus.tufts.edu/
+
+EQUATIONS:
+- EQ044: Law of large numbers -> sample mean→μ
+
+
+
+VALUATION:
+- Score: 0.506
+- Tier: bronze

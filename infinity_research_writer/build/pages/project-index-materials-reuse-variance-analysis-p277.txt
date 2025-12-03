@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/project-index-materials-reuse-variance-analysis-p277
+[ANCHOR] clarity #00C8FF link://clarity/project-index-materials-reuse-variance-analysis-p277
+[ANCHOR] alignment #33CCCC link://alignment/project-index-materials-reuse-variance-analysis-p277
+
+TITLE: project-index-materials-reuse-variance-analysis-p277
+SUMMARY: Research scaffold for project-index, materials-reuse, variance-analysis.
+
+LINKS:
+- https://brainfacts.org/
+
+
+
+EQUATIONS:
+- EQ041: Gaussian distribution -> (1/√2πσ²)e^{-(x-μ)²/2σ²}
+- EQ008: Observability -> rank([C; CA; CA^2; ...; CA^{n-1}]) = n
+- EQ034: Poisson equation -> ∇²u = -ρ/ε
+
+VALUATION:
+- Score: 0.527
+- Tier: bronze

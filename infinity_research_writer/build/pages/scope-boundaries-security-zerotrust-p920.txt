@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scope-boundaries-security-zerotrust-p920
+[ANCHOR] clarity #00C8FF link://clarity/scope-boundaries-security-zerotrust-p920
+[ANCHOR] alignment #33CCCC link://alignment/scope-boundaries-security-zerotrust-p920
+
+TITLE: scope-boundaries-security-zerotrust-p920
+SUMMARY: Research scaffold for scope-boundaries, security-zerotrust.
+
+LINKS:
+- https://ncbi.nlm.nih.gov/books/
+
+
+
+EQUATIONS:
+- EQ040: Rank-nullity -> dim(V)=rank+nullity
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+
+
+VALUATION:
+- Score: 0.462
+- Tier: bronze

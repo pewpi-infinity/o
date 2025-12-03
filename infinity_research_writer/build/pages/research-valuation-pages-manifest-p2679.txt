@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/research-valuation-pages-manifest-p2679
+[ANCHOR] clarity #00C8FF link://clarity/research-valuation-pages-manifest-p2679
+[ANCHOR] alignment #33CCCC link://alignment/research-valuation-pages-manifest-p2679
+
+TITLE: research-valuation-pages-manifest-p2679
+SUMMARY: Research scaffold for research-valuation, pages-manifest.
+
+LINKS:
+- https://sagepub.com/en-us/nam/journals
+- https://poker.srv.ualberta.ca/publications/
+- https://nature.com/
+
+EQUATIONS:
+- EQ025: Softmax -> exp(z_i) / Σ exp(z)
+
+
+
+VALUATION:
+- Score: 0.512
+- Tier: bronze

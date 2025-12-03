@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/project-index-materials-reuse-variance-analysis-p2307
+[ANCHOR] clarity #00C8FF link://clarity/project-index-materials-reuse-variance-analysis-p2307
+[ANCHOR] alignment #33CCCC link://alignment/project-index-materials-reuse-variance-analysis-p2307
+
+TITLE: project-index-materials-reuse-variance-analysis-p2307
+SUMMARY: Research scaffold for project-index, materials-reuse, variance-analysis.
+
+LINKS:
+- https://digital.library.yale.edu/
+- https://jneuroengrehab.biomedcentral.com/
+- https://elifesciences.org/
+
+EQUATIONS:
+- EQ007: Controllability -> rank([B, AB, A^2B, ..., A^{n-1}B]) = n
+- EQ004: KKT conditions -> ∇f(x*) + A^T λ* = 0, Ax* <= b, λ* >= 0, λ*^T (Ax* - b) = 0
+- EQ023: Cross entropy -> -Σ y log p
+
+VALUATION:
+- Score: 0.673
+- Tier: silver

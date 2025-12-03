@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/project-index-materials-reuse-variance-analysis-p8537
+[ANCHOR] clarity #00C8FF link://clarity/project-index-materials-reuse-variance-analysis-p8537
+[ANCHOR] alignment #33CCCC link://alignment/project-index-materials-reuse-variance-analysis-p8537
+
+TITLE: project-index-materials-reuse-variance-analysis-p8537
+SUMMARY: Research scaffold for project-index, materials-reuse, variance-analysis.
+
+LINKS:
+- https://who.int/health-topics
+
+
+
+EQUATIONS:
+- EQ017: L1 regularization -> minimize ||y-Xβ||² + λ||β||₁
+
+
+
+VALUATION:
+- Score: 0.487
+- Tier: bronze

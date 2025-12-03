@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/provenance-tier-hash-ledger-grand-hash-p6849
+[ANCHOR] clarity #00C8FF link://clarity/provenance-tier-hash-ledger-grand-hash-p6849
+[ANCHOR] learning #E6B800 link://learning/provenance-tier-hash-ledger-grand-hash-p6849
+[ANCHOR] alignment #33CCCC link://alignment/provenance-tier-hash-ledger-grand-hash-p6849
+
+TITLE: provenance-tier-hash-ledger-grand-hash-p6849
+SUMMARY: Research scaffold for provenance-tier, hash-ledger, grand-hash.
+
+LINKS:
+- https://scriptorium.columbia.edu/
+
+
+
+EQUATIONS:
+- EQ023: Cross entropy -> -Σ y log p
+- EQ011: Mechanism incentive compatibility -> truth-telling maximizes utility
+- EQ009: Queue M/M/1 -> ρ = λ/μ, W = 1/(μ - λ)
+
+VALUATION:
+- Score: 0.542
+- Tier: bronze

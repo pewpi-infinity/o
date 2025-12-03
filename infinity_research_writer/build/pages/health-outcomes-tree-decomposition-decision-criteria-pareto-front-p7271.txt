@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/health-outcomes-tree-decomposition-decision-criteria-pareto-front-p7271
+[ANCHOR] clarity #00C8FF link://clarity/health-outcomes-tree-decomposition-decision-criteria-pareto-front-p7271
+[ANCHOR] alignment #33CCCC link://alignment/health-outcomes-tree-decomposition-decision-criteria-pareto-front-p7271
+
+TITLE: health-outcomes-tree-decomposition-decision-criteria-pareto-front-p7271
+SUMMARY: Research scaffold for health-outcomes, tree-decomposition, decision-criteria, pareto-front.
+
+LINKS:
+- https://jneuroengrehab.biomedcentral.com/
+- https://sciencedirect.com/journal/earth-and-planetary-science-letters
+- https://sciencemag.org/journals/science-signaling
+
+EQUATIONS:
+- EQ033: Wave equation -> ∂²u/∂t² = c²∇²u
+
+
+
+VALUATION:
+- Score: 0.591
+- Tier: bronze

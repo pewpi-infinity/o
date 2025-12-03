@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/boosting-zip-ledger-token-index-economy-resilience-inference-graphs-p7236
+[ANCHOR] clarity #00C8FF link://clarity/boosting-zip-ledger-token-index-economy-resilience-inference-graphs-p7236
+[ANCHOR] alignment #33CCCC link://alignment/boosting-zip-ledger-token-index-economy-resilience-inference-graphs-p7236
+
+TITLE: boosting-zip-ledger-token-index-economy-resilience-inference-graphs-p7236
+SUMMARY: Research scaffold for boosting, zip-ledger, token-index, economy-resilience, inference-graphs.
+
+LINKS:
+- https://nih.gov/brain-initiative
+
+
+
+EQUATIONS:
+- EQ043: Chi-square distribution -> special gamma
+- EQ038: Determinant expansion -> Σ permutations
+
+
+VALUATION:
+- Score: 0.591
+- Tier: bronze

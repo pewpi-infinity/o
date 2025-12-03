@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/controllability-co2-sequestration-p8785
+[ANCHOR] clarity #00C8FF link://clarity/controllability-co2-sequestration-p8785
+[ANCHOR] alignment #33CCCC link://alignment/controllability-co2-sequestration-p8785
+
+TITLE: controllability-co2-sequestration-p8785
+SUMMARY: Research scaffold for controllability, co2-sequestration.
+
+LINKS:
+- https://nature.com/subjects/neuromorphic-engineering
+- https://unsw.edu.au/research
+- https://sciencemag.org/journals/science-signaling
+
+EQUATIONS:
+- EQ024: Gradient descent -> θ ← θ - α∇J(θ)
+
+
+
+VALUATION:
+- Score: 0.509
+- Tier: bronze

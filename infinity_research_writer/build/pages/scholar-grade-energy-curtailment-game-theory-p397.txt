@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scholar-grade-energy-curtailment-game-theory-p397
+[ANCHOR] clarity #00C8FF link://clarity/scholar-grade-energy-curtailment-game-theory-p397
+[ANCHOR] alignment #33CCCC link://alignment/scholar-grade-energy-curtailment-game-theory-p397
+
+TITLE: scholar-grade-energy-curtailment-game-theory-p397
+SUMMARY: Research scaffold for scholar-grade, energy-curtailment, game-theory.
+
+LINKS:
+- https://projecteuclid.org/
+- https://nih.gov/
+- https://law.cornell.edu/
+
+EQUATIONS:
+- EQ014: Bayesian update -> p(θ|D) ∝ p(D|θ)p(θ)
+- EQ036: Schrödinger equation -> iħ∂ψ/∂t = Hψ
+- EQ021: SVD -> A = UΣVᵀ
+
+VALUATION:
+- Score: 0.621
+- Tier: silver

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/artifact-visibility-scholar-ledger-p4111
+[ANCHOR] clarity #00C8FF link://clarity/artifact-visibility-scholar-ledger-p4111
+[ANCHOR] alignment #33CCCC link://alignment/artifact-visibility-scholar-ledger-p4111
+
+TITLE: artifact-visibility-scholar-ledger-p4111
+SUMMARY: Research scaffold for artifact-visibility, scholar-ledger.
+
+LINKS:
+- https://thelancet.com/journals/lancet/issue/current
+- https://beckerfreidman.uchicago.edu/research/
+
+
+EQUATIONS:
+- EQ014: Bayesian update -> p(θ|D) ∝ p(D|θ)p(θ)
+
+
+
+VALUATION:
+- Score: 0.507
+- Tier: bronze

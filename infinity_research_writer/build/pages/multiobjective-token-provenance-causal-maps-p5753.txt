@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/multiobjective-token-provenance-causal-maps-p5753
+[ANCHOR] clarity #00C8FF link://clarity/multiobjective-token-provenance-causal-maps-p5753
+[ANCHOR] learning #E6B800 link://learning/multiobjective-token-provenance-causal-maps-p5753
+[ANCHOR] alignment #33CCCC link://alignment/multiobjective-token-provenance-causal-maps-p5753
+
+TITLE: multiobjective-token-provenance-causal-maps-p5753
+SUMMARY: Research scaffold for multiobjective, token-provenance, causal-maps.
+
+LINKS:
+- https://worldbank.org/en/research
+- https://berkeley.edu/research
+- https://tokyo-u.ac.jp/en/research
+
+EQUATIONS:
+- EQ041: Gaussian distribution -> (1/√2πσ²)e^{-(x-μ)²/2σ²}
+
+
+
+VALUATION:
+- Score: 0.572
+- Tier: bronze

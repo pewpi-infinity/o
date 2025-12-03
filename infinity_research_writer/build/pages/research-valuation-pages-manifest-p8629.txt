@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/research-valuation-pages-manifest-p8629
+[ANCHOR] clarity #00C8FF link://clarity/research-valuation-pages-manifest-p8629
+[ANCHOR] alignment #33CCCC link://alignment/research-valuation-pages-manifest-p8629
+
+TITLE: research-valuation-pages-manifest-p8629
+SUMMARY: Research scaffold for research-valuation, pages-manifest.
+
+LINKS:
+- https://science.org/
+- https://jbc.org/
+
+
+EQUATIONS:
+- EQ039: Matrix invertibility -> det(A) ≠ 0
+
+
+
+VALUATION:
+- Score: 0.479
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/controllability-co2-sequestration-p6755
+[ANCHOR] clarity #00C8FF link://clarity/controllability-co2-sequestration-p6755
+[ANCHOR] alignment #33CCCC link://alignment/controllability-co2-sequestration-p6755
+
+TITLE: controllability-co2-sequestration-p6755
+SUMMARY: Research scaffold for controllability, co2-sequestration.
+
+LINKS:
+- https://link.springer.com/journal/10896
+- https://nature.com/subjects/atmospheric-science
+- https://agu.org/Publish-with-AGU/Journals
+
+EQUATIONS:
+- EQ032: Heat equation -> ∂u/∂t = α∇²u
+
+
+
+VALUATION:
+- Score: 0.509
+- Tier: bronze

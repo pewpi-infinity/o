@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/solar-perovskite-trial-journal-replicability-p5964
+[ANCHOR] clarity #00C8FF link://clarity/solar-perovskite-trial-journal-replicability-p5964
+[ANCHOR] alignment #33CCCC link://alignment/solar-perovskite-trial-journal-replicability-p5964
+
+TITLE: solar-perovskite-trial-journal-replicability-p5964
+SUMMARY: Research scaffold for solar-perovskite, trial-journal, replicability.
+
+LINKS:
+- https://arxiv.org/
+- https://columbia.edu/research
+- https://stats.stackexchange.com/questions/tagged/crossvalidated
+
+EQUATIONS:
+- EQ007: Controllability -> rank([B, AB, A^2B, ..., A^{n-1}B]) = n
+- EQ035: Maxwell equations (set of 4)
+
+
+VALUATION:
+- Score: 0.602
+- Tier: silver

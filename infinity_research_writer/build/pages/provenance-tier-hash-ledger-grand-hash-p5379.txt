@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/provenance-tier-hash-ledger-grand-hash-p5379
+[ANCHOR] clarity #00C8FF link://clarity/provenance-tier-hash-ledger-grand-hash-p5379
+[ANCHOR] learning #E6B800 link://learning/provenance-tier-hash-ledger-grand-hash-p5379
+[ANCHOR] alignment #33CCCC link://alignment/provenance-tier-hash-ledger-grand-hash-p5379
+
+TITLE: provenance-tier-hash-ledger-grand-hash-p5379
+SUMMARY: Research scaffold for provenance-tier, hash-ledger, grand-hash.
+
+LINKS:
+- https://jneuroengrehab.biomedcentral.com/
+- https://sciencemag.org/journals/science-advances
+
+
+EQUATIONS:
+- EQ004: KKT conditions -> ∇f(x*) + A^T λ* = 0, Ax* <= b, λ* >= 0, λ*^T (Ax* - b) = 0
+- EQ013: Markov chain stationary distribution -> π = πP
+- EQ003: Lagrangian -> L(x, λ) = f(x) + λ^T (Ax - b)
+
+VALUATION:
+- Score: 0.706
+- Tier: silver

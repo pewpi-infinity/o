@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/risk-mitigation-robust-optimization-fusion-blanket-gradient-flows-p2738
+[ANCHOR] capacity #00D67D link://capacity/risk-mitigation-robust-optimization-fusion-blanket-gradient-flows-p2738
+[ANCHOR] clarity #00C8FF link://clarity/risk-mitigation-robust-optimization-fusion-blanket-gradient-flows-p2738
+[ANCHOR] provenance #7D4DF2 link://provenance/risk-mitigation-robust-optimization-fusion-blanket-gradient-flows-p2738
+[ANCHOR] risk #FF3B3B link://risk/risk-mitigation-robust-optimization-fusion-blanket-gradient-flows-p2738
+
+TITLE: risk-mitigation-robust-optimization-fusion-blanket-gradient-flows-p2738
+SUMMARY: Research scaffold for risk-mitigation, robust-optimization, fusion-blanket, gradient-flows.
+
+LINKS:
+- https://scriptorium.columbia.edu/
+
+
+
+EQUATIONS:
+- EQ047: Chebyshev inequality -> P(|X-μ|≥kσ) ≤ 1/k²
+- EQ018: Ridge regression -> minimize ||y-Xβ||² + λ||β||²
+- EQ017: L1 regularization -> minimize ||y-Xβ||² + λ||β||₁
+
+VALUATION:
+- Score: 0.628
+- Tier: silver

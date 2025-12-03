@@ -1,0 +1,35 @@
+{
+    "balance": 47,
+    "history": [
+        {
+            "time": 1764582381,
+            "type": "time-earn",
+            "amount": 5
+        },
+        {
+            "time": 1764584674,
+            "type": "time-earn",
+            "amount": 1
+        },
+        {
+            "time": 1764629979,
+            "type": "time-earn",
+            "amount": 25
+        },
+        {
+            "time": 1764632494,
+            "type": "time-earn",
+            "amount": 1
+        },
+        {
+            "time": 1764634953,
+            "type": "time-earn",
+            "amount": 1
+        },
+        {
+            "time": 1764660643,
+            "type": "time-earn",
+            "amount": 14
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/multiobjective-token-provenance-causal-maps-p4073
+[ANCHOR] clarity #00C8FF link://clarity/multiobjective-token-provenance-causal-maps-p4073
+[ANCHOR] learning #E6B800 link://learning/multiobjective-token-provenance-causal-maps-p4073
+[ANCHOR] alignment #33CCCC link://alignment/multiobjective-token-provenance-causal-maps-p4073
+
+TITLE: multiobjective-token-provenance-causal-maps-p4073
+SUMMARY: Research scaffold for multiobjective, token-provenance, causal-maps.
+
+LINKS:
+- https://openei.org/
+
+
+
+EQUATIONS:
+- EQ047: Chebyshev inequality -> P(|X-μ|≥kσ) ≤ 1/k²
+- ...
+- EQ038: Determinant expansion -> Σ permutations
+
+VALUATION:
+- Score: 0.545
+- Tier: bronze

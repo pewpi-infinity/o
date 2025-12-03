@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/concept-anchors-learning-pathways-p1471
+[ANCHOR] clarity #00C8FF link://clarity/concept-anchors-learning-pathways-p1471
+[ANCHOR] learning #E6B800 link://learning/concept-anchors-learning-pathways-p1471
+[ANCHOR] alignment #33CCCC link://alignment/concept-anchors-learning-pathways-p1471
+
+TITLE: concept-anchors-learning-pathways-p1471
+SUMMARY: Research scaffold for concept-anchors, learning-pathways.
+
+LINKS:
+- https://bnum.euu-bnum.org/
+
+
+
+EQUATIONS:
+- EQ044: Law of large numbers -> sample mean→μ
+
+
+
+VALUATION:
+- Score: 0.462
+- Tier: bronze

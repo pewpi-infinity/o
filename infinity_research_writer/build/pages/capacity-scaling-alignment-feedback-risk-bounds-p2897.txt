@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/capacity-scaling-alignment-feedback-risk-bounds-p2897
+[ANCHOR] capacity #00D67D link://capacity/capacity-scaling-alignment-feedback-risk-bounds-p2897
+[ANCHOR] clarity #00C8FF link://clarity/capacity-scaling-alignment-feedback-risk-bounds-p2897
+[ANCHOR] provenance #7D4DF2 link://provenance/capacity-scaling-alignment-feedback-risk-bounds-p2897
+[ANCHOR] risk #FF3B3B link://risk/capacity-scaling-alignment-feedback-risk-bounds-p2897
+
+TITLE: capacity-scaling-alignment-feedback-risk-bounds-p2897
+SUMMARY: Research scaffold for capacity-scaling, alignment-feedback, risk-bounds.
+
+LINKS:
+- https://bonekey-ibms.mdc-berlin.de/
+- https://oecd.org/statistics/
+- https://radiopaedia.org/
+
+EQUATIONS:
+- EQ017: L1 regularization -> minimize ||y-Xβ||² + λ||β||₁
+- EQ036: Schrödinger equation -> iħ∂ψ/∂t = Hψ
+- EQ013: Markov chain stationary distribution -> π = πP
+
+VALUATION:
+- Score: 0.665
+- Tier: silver

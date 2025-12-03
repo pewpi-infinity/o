@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/multiobjective-token-provenance-causal-maps-p363
+[ANCHOR] clarity #00C8FF link://clarity/multiobjective-token-provenance-causal-maps-p363
+[ANCHOR] learning #E6B800 link://learning/multiobjective-token-provenance-causal-maps-p363
+[ANCHOR] alignment #33CCCC link://alignment/multiobjective-token-provenance-causal-maps-p363
+
+TITLE: multiobjective-token-provenance-causal-maps-p363
+SUMMARY: Research scaffold for multiobjective, token-provenance, causal-maps.
+
+LINKS:
+- https://congress.gov/
+- https://nasa.gov/
+- https://biochemj.org/
+
+EQUATIONS:
+- EQ003: Lagrangian -> L(x, λ) = f(x) + λ^T (Ax - b)
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+- EQ006: Stability -> Re(λ_i(A)) < 0 for continuous systems
+
+VALUATION:
+- Score: 0.742
+- Tier: silver

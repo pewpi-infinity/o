@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/bagging-adaptive-links-p2572
+[ANCHOR] clarity #00C8FF link://clarity/bagging-adaptive-links-p2572
+[ANCHOR] alignment #33CCCC link://alignment/bagging-adaptive-links-p2572
+
+TITLE: bagging-adaptive-links-p2572
+SUMMARY: Research scaffold for bagging, adaptive-links.
+
+LINKS:
+- https://icpsr.umich.edu/
+- https://arxiv.org/archive/math
+
+
+EQUATIONS:
+- EQ029: Fourier transform -> F(ω)=∫ f(t)e^{-iωt}dt
+- EQ011: Mechanism incentive compatibility -> truth-telling maximizes utility
+
+
+VALUATION:
+- Score: 0.493
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/nonconvex-landscapes-bias-detection-p9068
+[ANCHOR] clarity #00C8FF link://clarity/nonconvex-landscapes-bias-detection-p9068
+[ANCHOR] alignment #33CCCC link://alignment/nonconvex-landscapes-bias-detection-p9068
+
+TITLE: nonconvex-landscapes-bias-detection-p9068
+SUMMARY: Research scaffold for nonconvex-landscapes, bias-detection.
+
+LINKS:
+- https://gutenberg.org/
+- https://openpsych.net/
+- https://worldbank.org/en/research
+
+EQUATIONS:
+- EQ048: Jensen's inequality -> φ(E[X]) ≤ E[φ(X)]
+- EQ032: Heat equation -> ∂u/∂t = α∇²u
+- EQ047: Chebyshev inequality -> P(|X-μ|≥kσ) ≤ 1/k²
+
+VALUATION:
+- Score: 0.548
+- Tier: bronze

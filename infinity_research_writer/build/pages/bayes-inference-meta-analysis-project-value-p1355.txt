@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/bayes-inference-meta-analysis-project-value-p1355
+[ANCHOR] clarity #00C8FF link://clarity/bayes-inference-meta-analysis-project-value-p1355
+[ANCHOR] alignment #33CCCC link://alignment/bayes-inference-meta-analysis-project-value-p1355
+
+TITLE: bayes-inference-meta-analysis-project-value-p1355
+SUMMARY: Research scaffold for bayes-inference, meta-analysis, project-value.
+
+LINKS:
+- https://elsevier.com/catalog?producttype=journal
+- https://math.berkeley.edu/research
+- https://edinburgh.ac.uk/research
+
+EQUATIONS:
+- EQ041: Gaussian distribution -> (1/√2πσ²)e^{-(x-μ)²/2σ²}
+- EQ044: Law of large numbers -> sample mean→μ
+
+
+VALUATION:
+- Score: 0.574
+- Tier: bronze

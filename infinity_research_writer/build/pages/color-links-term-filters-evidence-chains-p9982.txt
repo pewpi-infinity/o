@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/color-links-term-filters-evidence-chains-p9982
+[ANCHOR] clarity #00C8FF link://clarity/color-links-term-filters-evidence-chains-p9982
+[ANCHOR] alignment #33CCCC link://alignment/color-links-term-filters-evidence-chains-p9982
+
+TITLE: color-links-term-filters-evidence-chains-p9982
+SUMMARY: Research scaffold for color-links, term-filters, evidence-chains.
+
+LINKS:
+- https://openalex.org/
+- https://data.un.org/
+- https://plos.org/
+
+EQUATIONS:
+- EQ020: PCA -> eigenvectors of covariance Σ
+- EQ040: Rank-nullity -> dim(V)=rank+nullity
+- EQ035: Maxwell equations (set of 4)
+
+VALUATION:
+- Score: 0.611
+- Tier: silver

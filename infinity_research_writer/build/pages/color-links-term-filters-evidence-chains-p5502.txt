@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/color-links-term-filters-evidence-chains-p5502
+[ANCHOR] clarity #00C8FF link://clarity/color-links-term-filters-evidence-chains-p5502
+[ANCHOR] alignment #33CCCC link://alignment/color-links-term-filters-evidence-chains-p5502
+
+TITLE: color-links-term-filters-evidence-chains-p5502
+SUMMARY: Research scaffold for color-links, term-filters, evidence-chains.
+
+LINKS:
+- https://data.cdc.gov/
+- https://agu.org/Share-and-Advocate/Share/Eos
+
+
+EQUATIONS:
+- EQ036: Schrödinger equation -> iħ∂ψ/∂t = Hψ
+- EQ048: Jensen's inequality -> φ(E[X]) ≤ E[φ(X)]
+
+
+VALUATION:
+- Score: 0.537
+- Tier: bronze

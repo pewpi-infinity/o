@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/justice-transparency-risk-tier-markov-chains-p2367
+[ANCHOR] ethics #FF6A00 link://ethics/justice-transparency-risk-tier-markov-chains-p2367
+[ANCHOR] clarity #00C8FF link://clarity/justice-transparency-risk-tier-markov-chains-p2367
+[ANCHOR] provenance #7D4DF2 link://provenance/justice-transparency-risk-tier-markov-chains-p2367
+[ANCHOR] scope #6066FF link://scope/justice-transparency-risk-tier-markov-chains-p2367
+
+TITLE: justice-transparency-risk-tier-markov-chains-p2367
+SUMMARY: Research scaffold for justice-transparency, risk-tier, markov-chains.
+
+LINKS:
+- https://scriptorium.columbia.edu/
+- https://health.harvard.edu/
+- https://royalsocietypublishing.org/journal/rspb
+
+EQUATIONS:
+- EQ032: Heat equation -> ∂u/∂t = α∇²u
+- EQ022: Logistic regression -> σ(wᵀx)
+
+
+VALUATION:
+- Score: 0.612
+- Tier: silver

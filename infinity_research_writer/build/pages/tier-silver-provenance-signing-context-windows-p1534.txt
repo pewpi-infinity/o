@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/tier-silver-provenance-signing-context-windows-p1534
+[ANCHOR] clarity #00C8FF link://clarity/tier-silver-provenance-signing-context-windows-p1534
+[ANCHOR] learning #E6B800 link://learning/tier-silver-provenance-signing-context-windows-p1534
+[ANCHOR] alignment #33CCCC link://alignment/tier-silver-provenance-signing-context-windows-p1534
+
+TITLE: tier-silver-provenance-signing-context-windows-p1534
+SUMMARY: Research scaffold for tier-silver, provenance-signing, context-windows.
+
+LINKS:
+- https://wolframalpha.com/examples/mathematics
+- https://journals.sagepub.com/home/jfm
+
+
+EQUATIONS:
+- EQ048: Jensen's inequality -> φ(E[X]) ≤ E[φ(X)]
+- EQ039: Matrix invertibility -> det(A) ≠ 0
+- EQ047: Chebyshev inequality -> P(|X-μ|≥kσ) ≤ 1/k²
+
+VALUATION:
+- Score: 0.577
+- Tier: bronze

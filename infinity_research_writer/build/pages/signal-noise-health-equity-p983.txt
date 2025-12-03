@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/signal-noise-health-equity-p983
+[ANCHOR] clarity #00C8FF link://clarity/signal-noise-health-equity-p983
+[ANCHOR] alignment #33CCCC link://alignment/signal-noise-health-equity-p983
+
+TITLE: signal-noise-health-equity-p983
+SUMMARY: Research scaffold for signal-noise, health-equity.
+
+LINKS:
+- https://cambridge.org/core/what-we-publish/textbooks
+- https://terrytao.wordpress.com/
+- https://oi.uchicago.edu/research
+
+EQUATIONS:
+- EQ050: Characteristic function -> E[e^{itX}]
+
+
+
+VALUATION:
+- Score: 0.506
+- Tier: bronze

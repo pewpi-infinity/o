@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/signal-noise-health-equity-p8473
+[ANCHOR] clarity #00C8FF link://clarity/signal-noise-health-equity-p8473
+[ANCHOR] alignment #33CCCC link://alignment/signal-noise-health-equity-p8473
+
+TITLE: signal-noise-health-equity-p8473
+SUMMARY: Research scaffold for signal-noise, health-equity.
+
+LINKS:
+- https://doabooks.org/
+- https://wolframalpha.com/examples/mathematics
+- https://onlinelibrary.wiley.com/
+
+EQUATIONS:
+- EQ043: Chi-square distribution -> special gamma
+- EQ033: Wave equation -> ∂²u/∂t² = c²∇²u
+- EQ020: PCA -> eigenvectors of covariance Σ
+
+VALUATION:
+- Score: 0.566
+- Tier: bronze

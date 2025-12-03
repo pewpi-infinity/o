@@ -1,0 +1,41 @@
+body {
+    background: #0b0b0f;
+    color: #e8e8f2;
+    font-family: monospace;
+}
+
+.login_container, .terminal_wrapper {
+    width: 80%;
+    max-width: 600px;
+    margin: auto;
+    margin-top: 8vh;
+    background: #1a1a22;
+    padding: 20px;
+    border-radius: 12px;
+}
+
+button {
+    padding: 10px 20px;
+    margin-top: 10px;
+    background: #6f4aff;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+textarea {
+    width: 100%;
+    background: #0f0f14;
+    color: #e8e8f2;
+    border: 1px solid #6f4aff;
+    padding: 10px;
+}
+
+.feed_item {
+    background: #111118;
+    padding: 10px;
+    margin-top: 10px;
+    border-left: 3px solid #6f4aff;
+    border-radius: 5px;
+}

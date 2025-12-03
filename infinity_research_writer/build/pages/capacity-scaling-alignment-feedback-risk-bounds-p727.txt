@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/capacity-scaling-alignment-feedback-risk-bounds-p727
+[ANCHOR] capacity #00D67D link://capacity/capacity-scaling-alignment-feedback-risk-bounds-p727
+[ANCHOR] clarity #00C8FF link://clarity/capacity-scaling-alignment-feedback-risk-bounds-p727
+[ANCHOR] provenance #7D4DF2 link://provenance/capacity-scaling-alignment-feedback-risk-bounds-p727
+[ANCHOR] risk #FF3B3B link://risk/capacity-scaling-alignment-feedback-risk-bounds-p727
+
+TITLE: capacity-scaling-alignment-feedback-risk-bounds-p727
+SUMMARY: Research scaffold for capacity-scaling, alignment-feedback, risk-bounds.
+
+LINKS:
+- https://gbif.org/
+- https://sciencedirect.com/journal/earth-and-planetary-science-letters
+- https://gutenberg.org/
+
+EQUATIONS:
+- EQ027: Entropy -> -Σ p log p
+- EQ033: Wave equation -> ∂²u/∂t² = c²∇²u
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+
+VALUATION:
+- Score: 0.685
+- Tier: silver

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/anchor-ledger-wind-grid-p8969
+[ANCHOR] clarity #00C8FF link://clarity/anchor-ledger-wind-grid-p8969
+[ANCHOR] alignment #33CCCC link://alignment/anchor-ledger-wind-grid-p8969
+
+TITLE: anchor-ledger-wind-grid-p8969
+SUMMARY: Research scaffold for anchor-ledger, wind-grid.
+
+LINKS:
+- https://nature.com/collections
+- https://synapse.org/
+- https://cambridge.org/core/what-we-publish/textbooks
+
+EQUATIONS:
+- EQ020: PCA -> eigenvectors of covariance Σ
+- EQ031: Laplace transform -> ∫f(t)e^{-st}dt
+
+
+VALUATION:
+- Score: 0.545
+- Tier: bronze

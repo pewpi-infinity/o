@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/evidence-priority-ethics-alignment-p2268
+[ANCHOR] ethics #FF6A00 link://ethics/evidence-priority-ethics-alignment-p2268
+[ANCHOR] clarity #00C8FF link://clarity/evidence-priority-ethics-alignment-p2268
+[ANCHOR] provenance #7D4DF2 link://provenance/evidence-priority-ethics-alignment-p2268
+[ANCHOR] scope #6066FF link://scope/evidence-priority-ethics-alignment-p2268
+
+TITLE: evidence-priority-ethics-alignment-p2268
+SUMMARY: Research scaffold for evidence-priority, ethics-alignment.
+
+LINKS:
+- https://frontiersin.org/
+- https://reading.ac.uk/research
+
+
+EQUATIONS:
+- EQ009: Queue M/M/1 -> ρ = λ/μ, W = 1/(μ - λ)
+- EQ041: Gaussian distribution -> (1/√2πσ²)e^{-(x-μ)²/2σ²}
+
+
+VALUATION:
+- Score: 0.539
+- Tier: bronze

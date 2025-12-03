@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/governance-debate-valuation-report-p5439
+[ANCHOR] ethics #FF6A00 link://ethics/governance-debate-valuation-report-p5439
+[ANCHOR] clarity #00C8FF link://clarity/governance-debate-valuation-report-p5439
+[ANCHOR] provenance #7D4DF2 link://provenance/governance-debate-valuation-report-p5439
+[ANCHOR] scope #6066FF link://scope/governance-debate-valuation-report-p5439
+
+TITLE: governance-debate-valuation-report-p5439
+SUMMARY: Research scaffold for governance-debate, valuation-report.
+
+LINKS:
+- https://onlinelibrary.wiley.com/
+
+
+
+EQUATIONS:
+- EQ048: Jensen's inequality -> φ(E[X]) ≤ E[φ(X)]
+- EQ044: Law of large numbers -> sample mean→μ
+- EQ043: Chi-square distribution -> special gamma
+
+VALUATION:
+- Score: 0.522
+- Tier: bronze

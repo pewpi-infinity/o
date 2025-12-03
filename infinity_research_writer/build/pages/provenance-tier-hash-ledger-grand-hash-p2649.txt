@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/provenance-tier-hash-ledger-grand-hash-p2649
+[ANCHOR] clarity #00C8FF link://clarity/provenance-tier-hash-ledger-grand-hash-p2649
+[ANCHOR] learning #E6B800 link://learning/provenance-tier-hash-ledger-grand-hash-p2649
+[ANCHOR] alignment #33CCCC link://alignment/provenance-tier-hash-ledger-grand-hash-p2649
+
+TITLE: provenance-tier-hash-ledger-grand-hash-p2649
+SUMMARY: Research scaffold for provenance-tier, hash-ledger, grand-hash.
+
+LINKS:
+- https://nature.com/collections
+- https://bnum.euu-bnum.org/
+- https://oapen.org/
+
+EQUATIONS:
+- EQ019: Lasso sparsity -> many β_j = 0
+- EQ045: Central limit theorem -> normalized sums→normal
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+
+VALUATION:
+- Score: 0.679
+- Tier: silver

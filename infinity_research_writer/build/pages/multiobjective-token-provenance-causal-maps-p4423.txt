@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/multiobjective-token-provenance-causal-maps-p4423
+[ANCHOR] clarity #00C8FF link://clarity/multiobjective-token-provenance-causal-maps-p4423
+[ANCHOR] learning #E6B800 link://learning/multiobjective-token-provenance-causal-maps-p4423
+[ANCHOR] alignment #33CCCC link://alignment/multiobjective-token-provenance-causal-maps-p4423
+
+TITLE: multiobjective-token-provenance-causal-maps-p4423
+SUMMARY: Research scaffold for multiobjective, token-provenance, causal-maps.
+
+LINKS:
+- https://oapen.org/
+- https://scopus.com/
+- https://nber.org/
+
+EQUATIONS:
+- EQ023: Cross entropy -> -Σ y log p
+- EQ045: Central limit theorem -> normalized sums→normal
+
+
+VALUATION:
+- Score: 0.592
+- Tier: bronze

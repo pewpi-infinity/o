@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/signal-noise-health-equity-p9453
+[ANCHOR] clarity #00C8FF link://clarity/signal-noise-health-equity-p9453
+[ANCHOR] alignment #33CCCC link://alignment/signal-noise-health-equity-p9453
+
+TITLE: signal-noise-health-equity-p9453
+SUMMARY: Research scaffold for signal-noise, health-equity.
+
+LINKS:
+- https://conservation.org/research
+- https://caltech.edu/research
+
+
+EQUATIONS:
+- EQ046: Markov inequality -> P(X≥a) ≤ E[X]/a
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+
+
+VALUATION:
+- Score: 0.553
+- Tier: bronze

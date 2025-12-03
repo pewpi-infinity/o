@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/anchor-ledger-wind-grid-p3229
+[ANCHOR] clarity #00C8FF link://clarity/anchor-ledger-wind-grid-p3229
+[ANCHOR] alignment #33CCCC link://alignment/anchor-ledger-wind-grid-p3229
+
+TITLE: anchor-ledger-wind-grid-p3229
+SUMMARY: Research scaffold for anchor-ledger, wind-grid.
+
+LINKS:
+- https://cambridge.org/core/what-we-publish/journals
+- https://osf.io/
+- https://ncbi.nlm.nih.gov/Taxonomy/
+
+EQUATIONS:
+- EQ036: Schrödinger equation -> iħ∂ψ/∂t = Hψ
+- EQ047: Chebyshev inequality -> P(|X-μ|≥kσ) ≤ 1/k²
+
+
+VALUATION:
+- Score: 0.525
+- Tier: bronze

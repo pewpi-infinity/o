@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/evidence-priority-ethics-alignment-p8638
+[ANCHOR] ethics #FF6A00 link://ethics/evidence-priority-ethics-alignment-p8638
+[ANCHOR] clarity #00C8FF link://clarity/evidence-priority-ethics-alignment-p8638
+[ANCHOR] provenance #7D4DF2 link://provenance/evidence-priority-ethics-alignment-p8638
+[ANCHOR] scope #6066FF link://scope/evidence-priority-ethics-alignment-p8638
+
+TITLE: evidence-priority-ethics-alignment-p8638
+SUMMARY: Research scaffold for evidence-priority, ethics-alignment.
+
+LINKS:
+- https://scholar.google.com/
+- https://arpa-e.energy.gov/
+
+
+EQUATIONS:
+- EQ038: Determinant expansion -> Σ permutations
+- EQ011: Mechanism incentive compatibility -> truth-telling maximizes utility
+
+
+VALUATION:
+- Score: 0.539
+- Tier: bronze

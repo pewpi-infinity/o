@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/multiobjective-token-provenance-causal-maps-p1903
+[ANCHOR] clarity #00C8FF link://clarity/multiobjective-token-provenance-causal-maps-p1903
+[ANCHOR] learning #E6B800 link://learning/multiobjective-token-provenance-causal-maps-p1903
+[ANCHOR] alignment #33CCCC link://alignment/multiobjective-token-provenance-causal-maps-p1903
+
+TITLE: multiobjective-token-provenance-causal-maps-p1903
+SUMMARY: Research scaffold for multiobjective, token-provenance, causal-maps.
+
+LINKS:
+- https://icj-cij.org/en/decisions
+- https://gbif.org/
+
+
+EQUATIONS:
+- EQ001: Linear program objective -> maximize c^T x subject to Ax <= b, x >= 0
+- EQ007: Controllability -> rank([B, AB, A^2B, ..., A^{n-1}B]) = n
+
+
+VALUATION:
+- Score: 0.589
+- Tier: bronze

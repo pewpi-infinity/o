@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/effect-sizes-clarity-tables-user-needs-p1262
+[ANCHOR] clarity #00C8FF link://clarity/effect-sizes-clarity-tables-user-needs-p1262
+[ANCHOR] learning #E6B800 link://learning/effect-sizes-clarity-tables-user-needs-p1262
+[ANCHOR] alignment #33CCCC link://alignment/effect-sizes-clarity-tables-user-needs-p1262
+
+TITLE: effect-sizes-clarity-tables-user-needs-p1262
+SUMMARY: Research scaffold for effect-sizes, clarity-tables, user-needs.
+
+LINKS:
+- https://apa.org/research
+- https://humanbrainproject.eu/en/
+- https://zenodo.org/
+
+EQUATIONS:
+- EQ037: Eigenvalue problem -> Ax = λx
+- EQ035: Maxwell equations (set of 4)
+- EQ009: Queue M/M/1 -> ρ = λ/μ, W = 1/(μ - λ)
+
+VALUATION:
+- Score: 0.629
+- Tier: silver

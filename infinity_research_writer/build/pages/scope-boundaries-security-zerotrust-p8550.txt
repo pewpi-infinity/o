@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scope-boundaries-security-zerotrust-p8550
+[ANCHOR] clarity #00C8FF link://clarity/scope-boundaries-security-zerotrust-p8550
+[ANCHOR] alignment #33CCCC link://alignment/scope-boundaries-security-zerotrust-p8550
+
+TITLE: scope-boundaries-security-zerotrust-p8550
+SUMMARY: Research scaffold for scope-boundaries, security-zerotrust.
+
+LINKS:
+- https://humanbrainproject.eu/en/
+
+
+
+EQUATIONS:
+- EQ022: Logistic regression -> σ(wᵀx)
+- EQ025: Softmax -> exp(z_i) / Σ exp(z)
+
+
+VALUATION:
+- Score: 0.462
+- Tier: bronze

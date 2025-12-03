@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/justice-transparency-risk-tier-markov-chains-p3487
+[ANCHOR] ethics #FF6A00 link://ethics/justice-transparency-risk-tier-markov-chains-p3487
+[ANCHOR] clarity #00C8FF link://clarity/justice-transparency-risk-tier-markov-chains-p3487
+[ANCHOR] provenance #7D4DF2 link://provenance/justice-transparency-risk-tier-markov-chains-p3487
+[ANCHOR] scope #6066FF link://scope/justice-transparency-risk-tier-markov-chains-p3487
+
+TITLE: justice-transparency-risk-tier-markov-chains-p3487
+SUMMARY: Research scaffold for justice-transparency, risk-tier, markov-chains.
+
+LINKS:
+- https://emmadata.europa.eu/
+- https://cambridge.org/core/what-we-publish/textbooks
+- https://nature.com/subjects/neuromorphic-engineering
+
+EQUATIONS:
+- EQ007: Controllability -> rank([B, AB, A^2B, ..., A^{n-1}B]) = n
+
+
+
+VALUATION:
+- Score: 0.622
+- Tier: silver

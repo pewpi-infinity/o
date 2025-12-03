@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/artifact-visibility-scholar-ledger-p8871
+[ANCHOR] clarity #00C8FF link://clarity/artifact-visibility-scholar-ledger-p8871
+[ANCHOR] alignment #33CCCC link://alignment/artifact-visibility-scholar-ledger-p8871
+
+TITLE: artifact-visibility-scholar-ledger-p8871
+SUMMARY: Research scaffold for artifact-visibility, scholar-ledger.
+
+LINKS:
+- https://planetmath.org/
+- https://khanacademy.org/math
+- https://anthrosource.onlinelibrary.wiley.com/
+
+EQUATIONS:
+- EQ033: Wave equation -> ∂²u/∂t² = c²∇²u
+- EQ043: Chi-square distribution -> special gamma
+- EQ034: Poisson equation -> ∇²u = -ρ/ε
+
+VALUATION:
+- Score: 0.551
+- Tier: bronze

@@ -1,0 +1,15 @@
+{
+  "encrypted": true,
+  "user": null,
+  "capsule": null,
+  "ledger": {
+    "balance": 5,
+    "history": [
+      {
+        "time": 1764582381,
+        "type": "time-earn",
+        "amount": 5
+      }
+    ]
+  }
+}

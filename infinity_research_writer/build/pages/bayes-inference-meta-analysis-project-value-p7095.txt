@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/bayes-inference-meta-analysis-project-value-p7095
+[ANCHOR] clarity #00C8FF link://clarity/bayes-inference-meta-analysis-project-value-p7095
+[ANCHOR] alignment #33CCCC link://alignment/bayes-inference-meta-analysis-project-value-p7095
+
+TITLE: bayes-inference-meta-analysis-project-value-p7095
+SUMMARY: Research scaffold for bayes-inference, meta-analysis, project-value.
+
+LINKS:
+- https://stoa.org/
+- https://stats.stackexchange.com/questions/tagged/crossvalidated
+- https://siam.org/journals
+
+EQUATIONS:
+- EQ003: Lagrangian -> L(x, λ) = f(x) + λ^T (Ax - b)
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+- EQ032: Heat equation -> ∂u/∂t = α∇²u
+
+VALUATION:
+- Score: 0.694
+- Tier: silver

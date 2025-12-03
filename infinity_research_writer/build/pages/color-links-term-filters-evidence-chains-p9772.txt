@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/color-links-term-filters-evidence-chains-p9772
+[ANCHOR] clarity #00C8FF link://clarity/color-links-term-filters-evidence-chains-p9772
+[ANCHOR] alignment #33CCCC link://alignment/color-links-term-filters-evidence-chains-p9772
+
+TITLE: color-links-term-filters-evidence-chains-p9772
+SUMMARY: Research scaffold for color-links, term-filters, evidence-chains.
+
+LINKS:
+- https://harvard.edu/research
+- https://oapen.org/
+- https://neuron.yale.edu/neuron/
+
+EQUATIONS:
+- EQ035: Maxwell equations (set of 4)
+- EQ024: Gradient descent -> θ ← θ - α∇J(θ)
+
+
+VALUATION:
+- Score: 0.571
+- Tier: bronze

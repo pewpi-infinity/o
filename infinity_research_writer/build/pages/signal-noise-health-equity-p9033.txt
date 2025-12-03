@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/signal-noise-health-equity-p9033
+[ANCHOR] clarity #00C8FF link://clarity/signal-noise-health-equity-p9033
+[ANCHOR] alignment #33CCCC link://alignment/signal-noise-health-equity-p9033
+
+TITLE: signal-noise-health-equity-p9033
+SUMMARY: Research scaffold for signal-noise, health-equity.
+
+LINKS:
+- https://mit.edu/research/brain-and-cognitive-sciences
+- https://stanford.edu/group/brainscience/
+
+
+EQUATIONS:
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+- EQ019: Lasso sparsity -> many β_j = 0
+
+
+VALUATION:
+- Score: 0.563
+- Tier: bronze

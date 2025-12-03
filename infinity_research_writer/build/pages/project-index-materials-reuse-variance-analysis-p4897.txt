@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/project-index-materials-reuse-variance-analysis-p4897
+[ANCHOR] clarity #00C8FF link://clarity/project-index-materials-reuse-variance-analysis-p4897
+[ANCHOR] alignment #33CCCC link://alignment/project-index-materials-reuse-variance-analysis-p4897
+
+TITLE: project-index-materials-reuse-variance-analysis-p4897
+SUMMARY: Research scaffold for project-index, materials-reuse, variance-analysis.
+
+LINKS:
+- https://sciencedirect.com/book-series
+
+
+
+EQUATIONS:
+- EQ025: Softmax -> exp(z_i) / Σ exp(z)
+- EQ023: Cross entropy -> -Σ y log p
+- EQ041: Gaussian distribution -> (1/√2πσ²)e^{-(x-μ)²/2σ²}
+
+VALUATION:
+- Score: 0.527
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/paper-index-silicon-fabs-grade-metrics-grid-congestion-p7881
+[ANCHOR] clarity #00C8FF link://clarity/paper-index-silicon-fabs-grade-metrics-grid-congestion-p7881
+[ANCHOR] alignment #33CCCC link://alignment/paper-index-silicon-fabs-grade-metrics-grid-congestion-p7881
+
+TITLE: paper-index-silicon-fabs-grade-metrics-grid-congestion-p7881
+SUMMARY: Research scaffold for paper-index, silicon-fabs, grade-metrics, grid-congestion.
+
+LINKS:
+- https://ncbi.nlm.nih.gov/pmc/
+- https://ukdataservice.ac.uk/
+- https://louvre.fr/en/archives-and-documentation
+
+EQUATIONS:
+- EQ038: Determinant expansion -> Σ permutations
+- EQ037: Eigenvalue problem -> Ax = λx
+- EQ040: Rank-nullity -> dim(V)=rank+nullity
+
+VALUATION:
+- Score: 0.652
+- Tier: silver

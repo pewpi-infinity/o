@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/controllability-co2-sequestration-p1015
+[ANCHOR] clarity #00C8FF link://clarity/controllability-co2-sequestration-p1015
+[ANCHOR] alignment #33CCCC link://alignment/controllability-co2-sequestration-p1015
+
+TITLE: controllability-co2-sequestration-p1015
+SUMMARY: Research scaffold for controllability, co2-sequestration.
+
+LINKS:
+- https://manchester.ac.uk/research
+- https://nature.com/subjects/earth-sciences
+
+
+EQUATIONS:
+- EQ045: Central limit theorem -> normalized sums→normal
+
+
+
+VALUATION:
+- Score: 0.476
+- Tier: bronze

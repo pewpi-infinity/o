@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/multiobjective-token-provenance-causal-maps-p1133
+[ANCHOR] clarity #00C8FF link://clarity/multiobjective-token-provenance-causal-maps-p1133
+[ANCHOR] learning #E6B800 link://learning/multiobjective-token-provenance-causal-maps-p1133
+[ANCHOR] alignment #33CCCC link://alignment/multiobjective-token-provenance-causal-maps-p1133
+
+TITLE: multiobjective-token-provenance-causal-maps-p1133
+SUMMARY: Research scaffold for multiobjective, token-provenance, causal-maps.
+
+LINKS:
+- https://aip.org/
+- https://darwin-online.org.uk/
+
+
+EQUATIONS:
+- EQ019: Lasso sparsity -> many β_j = 0
+- EQ013: Markov chain stationary distribution -> π = πP
+- EQ001: Linear program objective -> maximize c^T x subject to Ax <= b, x >= 0
+
+VALUATION:
+- Score: 0.629
+- Tier: silver

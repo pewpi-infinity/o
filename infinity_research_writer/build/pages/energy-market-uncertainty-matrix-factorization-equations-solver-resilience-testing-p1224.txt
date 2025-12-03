@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/energy-market-uncertainty-matrix-factorization-equations-solver-resilience-testing-p1224
+[ANCHOR] clarity #00C8FF link://clarity/energy-market-uncertainty-matrix-factorization-equations-solver-resilience-testing-p1224
+[ANCHOR] alignment #33CCCC link://alignment/energy-market-uncertainty-matrix-factorization-equations-solver-resilience-testing-p1224
+
+TITLE: energy-market-uncertainty-matrix-factorization-equations-solver-resilience-testing-p1224
+SUMMARY: Research scaffold for energy-market, uncertainty, matrix-factorization, equations-solver, resilience-testing.
+
+LINKS:
+- https://anthrosource.onlinelibrary.wiley.com/
+- https://agu.org/Publish-with-AGU/Journals
+- https://openknowledge.worldbank.org/
+
+EQUATIONS:
+- EQ044: Law of large numbers -> sample mean→μ
+- EQ045: Central limit theorem -> normalized sums→normal
+
+
+VALUATION:
+- Score: 0.657
+- Tier: silver

@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/evidence-priority-ethics-alignment-p3388
+[ANCHOR] ethics #FF6A00 link://ethics/evidence-priority-ethics-alignment-p3388
+[ANCHOR] clarity #00C8FF link://clarity/evidence-priority-ethics-alignment-p3388
+[ANCHOR] provenance #7D4DF2 link://provenance/evidence-priority-ethics-alignment-p3388
+[ANCHOR] scope #6066FF link://scope/evidence-priority-ethics-alignment-p3388
+
+TITLE: evidence-priority-ethics-alignment-p3388
+SUMMARY: Research scaffold for evidence-priority, ethics-alignment.
+
+LINKS:
+- https://bloodjournal.org/
+- https://cell.com/
+- https://oxfordacademic.com/
+
+EQUATIONS:
+- EQ041: Gaussian distribution -> (1/√2πσ²)e^{-(x-μ)²/2σ²}
+- EQ004: KKT conditions -> ∇f(x*) + A^T λ* = 0, Ax* <= b, λ* >= 0, λ*^T (Ax* - b) = 0
+- EQ019: Lasso sparsity -> many β_j = 0
+
+VALUATION:
+- Score: 0.662
+- Tier: silver

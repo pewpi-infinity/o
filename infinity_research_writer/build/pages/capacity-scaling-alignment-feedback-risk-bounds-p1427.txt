@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/capacity-scaling-alignment-feedback-risk-bounds-p1427
+[ANCHOR] capacity #00D67D link://capacity/capacity-scaling-alignment-feedback-risk-bounds-p1427
+[ANCHOR] clarity #00C8FF link://clarity/capacity-scaling-alignment-feedback-risk-bounds-p1427
+[ANCHOR] provenance #7D4DF2 link://provenance/capacity-scaling-alignment-feedback-risk-bounds-p1427
+[ANCHOR] risk #FF3B3B link://risk/capacity-scaling-alignment-feedback-risk-bounds-p1427
+
+TITLE: capacity-scaling-alignment-feedback-risk-bounds-p1427
+SUMMARY: Research scaffold for capacity-scaling, alignment-feedback, risk-bounds.
+
+LINKS:
+- https://apa.org/pubs/databases
+- https://nature.com/subjects/neuromorphic-engineering
+
+
+EQUATIONS:
+- EQ019: Lasso sparsity -> many β_j = 0
+
+
+
+VALUATION:
+- Score: 0.582
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/color-links-term-filters-evidence-chains-p9842
+[ANCHOR] clarity #00C8FF link://clarity/color-links-term-filters-evidence-chains-p9842
+[ANCHOR] alignment #33CCCC link://alignment/color-links-term-filters-evidence-chains-p9842
+
+TITLE: color-links-term-filters-evidence-chains-p9842
+SUMMARY: Research scaffold for color-links, term-filters, evidence-chains.
+
+LINKS:
+- https://nber.org/
+- https://climate.nasa.gov/
+- https://usgs.gov/products/publications
+
+EQUATIONS:
+- EQ019: Lasso sparsity -> many β_j = 0
+
+
+
+VALUATION:
+- Score: 0.571
+- Tier: bronze

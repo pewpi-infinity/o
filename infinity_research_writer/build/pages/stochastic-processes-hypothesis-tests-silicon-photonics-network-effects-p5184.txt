@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/stochastic-processes-hypothesis-tests-silicon-photonics-network-effects-p5184
+[ANCHOR] clarity #00C8FF link://clarity/stochastic-processes-hypothesis-tests-silicon-photonics-network-effects-p5184
+[ANCHOR] alignment #33CCCC link://alignment/stochastic-processes-hypothesis-tests-silicon-photonics-network-effects-p5184
+
+TITLE: stochastic-processes-hypothesis-tests-silicon-photonics-network-effects-p5184
+SUMMARY: Research scaffold for stochastic-processes, hypothesis-tests, silicon-photonics, network-effects.
+
+LINKS:
+- https://oi.uchicago.edu/research
+- https://arxiv.org/
+- https://unep.org/resources/publications
+
+EQUATIONS:
+- EQ037: Eigenvalue problem -> Ax = λx
+- EQ017: L1 regularization -> minimize ||y-Xβ||² + λ||β||₁
+
+
+VALUATION:
+- Score: 0.631
+- Tier: silver

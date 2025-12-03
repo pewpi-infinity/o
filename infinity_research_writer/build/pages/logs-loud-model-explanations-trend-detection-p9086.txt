@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/logs-loud-model-explanations-trend-detection-p9086
+[ANCHOR] clarity #00C8FF link://clarity/logs-loud-model-explanations-trend-detection-p9086
+[ANCHOR] alignment #33CCCC link://alignment/logs-loud-model-explanations-trend-detection-p9086
+
+TITLE: logs-loud-model-explanations-trend-detection-p9086
+SUMMARY: Research scaffold for logs-loud, model-explanations, trend-detection.
+
+LINKS:
+- https://royalsocietypublishing.org/journal/rspb
+- https://pubmed.ncbi.nlm.nih.gov/
+
+
+EQUATIONS:
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+- EQ041: Gaussian distribution -> (1/√2πσ²)e^{-(x-μ)²/2σ²}
+- EQ009: Queue M/M/1 -> ρ = λ/μ, W = 1/(μ - λ)
+
+VALUATION:
+- Score: 0.587
+- Tier: bronze

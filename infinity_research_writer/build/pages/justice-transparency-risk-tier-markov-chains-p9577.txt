@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/justice-transparency-risk-tier-markov-chains-p9577
+[ANCHOR] ethics #FF6A00 link://ethics/justice-transparency-risk-tier-markov-chains-p9577
+[ANCHOR] clarity #00C8FF link://clarity/justice-transparency-risk-tier-markov-chains-p9577
+[ANCHOR] provenance #7D4DF2 link://provenance/justice-transparency-risk-tier-markov-chains-p9577
+[ANCHOR] scope #6066FF link://scope/justice-transparency-risk-tier-markov-chains-p9577
+
+TITLE: justice-transparency-risk-tier-markov-chains-p9577
+SUMMARY: Research scaffold for justice-transparency, risk-tier, markov-chains.
+
+LINKS:
+- https://metmuseum.org/art/metpublications
+- https://archive.org/
+- https://imf.org/en/Publications
+
+EQUATIONS:
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+- EQ045: Central limit theorem -> normalized sums→normal
+- EQ021: SVD -> A = UΣVᵀ
+
+VALUATION:
+- Score: 0.682
+- Tier: silver

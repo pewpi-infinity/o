@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scope-tier-data-quality-optimization-robust-p1265
+[ANCHOR] clarity #00C8FF link://clarity/scope-tier-data-quality-optimization-robust-p1265
+[ANCHOR] alignment #33CCCC link://alignment/scope-tier-data-quality-optimization-robust-p1265
+
+TITLE: scope-tier-data-quality-optimization-robust-p1265
+SUMMARY: Research scaffold for scope-tier, data-quality, optimization-robust.
+
+LINKS:
+- https://arpa-e.energy.gov/
+- https://jamanetwork.com/journals/jamaneurology
+
+
+EQUATIONS:
+- EQ011: Mechanism incentive compatibility -> truth-telling maximizes utility
+- EQ029: Fourier transform -> F(ω)=∫ f(t)e^{-iωt}dt
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+
+VALUATION:
+- Score: 0.590
+- Tier: bronze

@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/effect-sizes-clarity-tables-user-needs-p4272
+[ANCHOR] clarity #00C8FF link://clarity/effect-sizes-clarity-tables-user-needs-p4272
+[ANCHOR] learning #E6B800 link://learning/effect-sizes-clarity-tables-user-needs-p4272
+[ANCHOR] alignment #33CCCC link://alignment/effect-sizes-clarity-tables-user-needs-p4272
+
+TITLE: effect-sizes-clarity-tables-user-needs-p4272
+SUMMARY: Research scaffold for effect-sizes, clarity-tables, user-needs.
+
+LINKS:
+- https://apa.org/research
+- https://jamanetwork.com/journals/jamaoncology
+
+
+EQUATIONS:
+- EQ020: PCA -> eigenvectors of covariance Σ
+
+
+
+VALUATION:
+- Score: 0.556
+- Tier: bronze

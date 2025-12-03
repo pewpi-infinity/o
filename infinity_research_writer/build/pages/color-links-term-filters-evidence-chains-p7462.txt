@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/color-links-term-filters-evidence-chains-p7462
+[ANCHOR] clarity #00C8FF link://clarity/color-links-term-filters-evidence-chains-p7462
+[ANCHOR] alignment #33CCCC link://alignment/color-links-term-filters-evidence-chains-p7462
+
+TITLE: color-links-term-filters-evidence-chains-p7462
+SUMMARY: Research scaffold for color-links, term-filters, evidence-chains.
+
+LINKS:
+- https://mlr.press/
+- https://ssrn.com/
+- https://iop.org/journals
+
+EQUATIONS:
+- EQ009: Queue M/M/1 -> ρ = λ/μ, W = 1/(μ - λ)
+
+
+
+VALUATION:
+- Score: 0.550
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/signal-noise-health-equity-p213
+[ANCHOR] clarity #00C8FF link://clarity/signal-noise-health-equity-p213
+[ANCHOR] alignment #33CCCC link://alignment/signal-noise-health-equity-p213
+
+TITLE: signal-noise-health-equity-p213
+SUMMARY: Research scaffold for signal-noise, health-equity.
+
+LINKS:
+- https://caltech.edu/research
+- https://cern.ch/
+
+
+EQUATIONS:
+- EQ009: Queue M/M/1 -> ρ = λ/μ, W = 1/(μ - λ)
+
+
+
+VALUATION:
+- Score: 0.473
+- Tier: bronze

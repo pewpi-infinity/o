@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/color-links-term-filters-evidence-chains-p8862
+[ANCHOR] clarity #00C8FF link://clarity/color-links-term-filters-evidence-chains-p8862
+[ANCHOR] alignment #33CCCC link://alignment/color-links-term-filters-evidence-chains-p8862
+
+TITLE: color-links-term-filters-evidence-chains-p8862
+SUMMARY: Research scaffold for color-links, term-filters, evidence-chains.
+
+LINKS:
+- https://ourworldindata.org/
+- https://oi.uchicago.edu/research
+- https://toxnet.nlm.nih.gov/
+
+EQUATIONS:
+- EQ031: Laplace transform -> ∫f(t)e^{-st}dt
+
+
+
+VALUATION:
+- Score: 0.550
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/transport-routing-scope-limits-query-intent-citation-style-p3521
+[ANCHOR] clarity #00C8FF link://clarity/transport-routing-scope-limits-query-intent-citation-style-p3521
+[ANCHOR] alignment #33CCCC link://alignment/transport-routing-scope-limits-query-intent-citation-style-p3521
+
+TITLE: transport-routing-scope-limits-query-intent-citation-style-p3521
+SUMMARY: Research scaffold for transport-routing, scope-limits, query-intent, citation-style.
+
+LINKS:
+- https://drugabuse.gov/publications
+- https://wolframalpha.com/examples/mathematics
+- https://agu.org/learn-and-develop/learn/earth-and-space-science-news
+
+EQUATIONS:
+- EQ023: Cross entropy -> -Σ y log p
+
+
+
+VALUATION:
+- Score: 0.591
+- Tier: bronze

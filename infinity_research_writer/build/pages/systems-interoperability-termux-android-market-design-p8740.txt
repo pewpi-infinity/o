@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/systems-interoperability-termux-android-market-design-p8740
+[ANCHOR] clarity #00C8FF link://clarity/systems-interoperability-termux-android-market-design-p8740
+[ANCHOR] alignment #33CCCC link://alignment/systems-interoperability-termux-android-market-design-p8740
+
+TITLE: systems-interoperability-termux-android-market-design-p8740
+SUMMARY: Research scaffold for systems-interoperability, termux-android, market-design.
+
+LINKS:
+- https://nature.com/subjects/neuroscience
+- https://neurips.cc/Conferences/Current
+
+
+EQUATIONS:
+- EQ029: Fourier transform -> F(ω)=∫ f(t)e^{-iωt}dt
+
+
+
+VALUATION:
+- Score: 0.520
+- Tier: bronze

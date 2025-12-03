@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/multiobjective-token-provenance-causal-maps-p6873
+[ANCHOR] clarity #00C8FF link://clarity/multiobjective-token-provenance-causal-maps-p6873
+[ANCHOR] learning #E6B800 link://learning/multiobjective-token-provenance-causal-maps-p6873
+[ANCHOR] alignment #33CCCC link://alignment/multiobjective-token-provenance-causal-maps-p6873
+
+TITLE: multiobjective-token-provenance-causal-maps-p6873
+SUMMARY: Research scaffold for multiobjective, token-provenance, causal-maps.
+
+LINKS:
+- https://sciencemag.org/journals/science-advances
+- https://doaj.org/
+- https://loveandscience.com/
+
+EQUATIONS:
+- EQ038: Determinant expansion -> Σ permutations
+
+
+
+VALUATION:
+- Score: 0.572
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/signal-noise-health-equity-p9733
+[ANCHOR] clarity #00C8FF link://clarity/signal-noise-health-equity-p9733
+[ANCHOR] alignment #33CCCC link://alignment/signal-noise-health-equity-p9733
+
+TITLE: signal-noise-health-equity-p9733
+SUMMARY: Research scaffold for signal-noise, health-equity.
+
+LINKS:
+- https://darpa.mil/our-research
+- https://psychedelics.ucsf.edu/research
+- https://geoscienceworld.org/
+
+EQUATIONS:
+- EQ038: Determinant expansion -> Σ permutations
+- EQ050: Characteristic function -> E[e^{itX}]
+- EQ041: Gaussian distribution -> (1/√2πσ²)e^{-(x-μ)²/2σ²}
+
+VALUATION:
+- Score: 0.546
+- Tier: bronze

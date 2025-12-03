@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/solar-perovskite-trial-journal-replicability-p9884
+[ANCHOR] clarity #00C8FF link://clarity/solar-perovskite-trial-journal-replicability-p9884
+[ANCHOR] alignment #33CCCC link://alignment/solar-perovskite-trial-journal-replicability-p9884
+
+TITLE: solar-perovskite-trial-journal-replicability-p9884
+SUMMARY: Research scaffold for solar-perovskite, trial-journal, replicability.
+
+LINKS:
+- https://re3data.org/
+
+
+
+EQUATIONS:
+- EQ033: Wave equation -> ∂²u/∂t² = c²∇²u
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+
+
+VALUATION:
+- Score: 0.505
+- Tier: bronze

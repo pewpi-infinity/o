@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scholar-grade-energy-curtailment-game-theory-p1447
+[ANCHOR] clarity #00C8FF link://clarity/scholar-grade-energy-curtailment-game-theory-p1447
+[ANCHOR] alignment #33CCCC link://alignment/scholar-grade-energy-curtailment-game-theory-p1447
+
+TITLE: scholar-grade-energy-curtailment-game-theory-p1447
+SUMMARY: Research scaffold for scholar-grade, energy-curtailment, game-theory.
+
+LINKS:
+- https://egyptology.yale.edu/research
+- https://ncbi.nlm.nih.gov/
+- https://link.springer.com/journal/10896
+
+EQUATIONS:
+- EQ043: Chi-square distribution -> special gamma
+- EQ006: Stability -> Re(λ_i(A)) < 0 for continuous systems
+
+
+VALUATION:
+- Score: 0.601
+- Tier: silver

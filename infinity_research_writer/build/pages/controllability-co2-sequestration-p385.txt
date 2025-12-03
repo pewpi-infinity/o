@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/controllability-co2-sequestration-p385
+[ANCHOR] clarity #00C8FF link://clarity/controllability-co2-sequestration-p385
+[ANCHOR] alignment #33CCCC link://alignment/controllability-co2-sequestration-p385
+
+TITLE: controllability-co2-sequestration-p385
+SUMMARY: Research scaffold for controllability, co2-sequestration.
+
+LINKS:
+- https://data.europa.eu/
+- https://apa.org/research
+- https://ourworldindata.org/
+
+EQUATIONS:
+- EQ003: Lagrangian -> L(x, λ) = f(x) + λ^T (Ax - b)
+
+
+
+VALUATION:
+- Score: 0.559
+- Tier: bronze

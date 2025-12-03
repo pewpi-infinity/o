@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/privacy-preserving-scholar-synthesis-reference-quality-p2493
+[ANCHOR] clarity #00C8FF link://clarity/privacy-preserving-scholar-synthesis-reference-quality-p2493
+[ANCHOR] alignment #33CCCC link://alignment/privacy-preserving-scholar-synthesis-reference-quality-p2493
+
+TITLE: privacy-preserving-scholar-synthesis-reference-quality-p2493
+SUMMARY: Research scaffold for privacy-preserving, scholar-synthesis, reference-quality.
+
+LINKS:
+- https://agu.org/learn-and-develop/learn/atmospheric-science
+- https://kcl.ac.uk/research
+- https://radiopaedia.org/
+
+EQUATIONS:
+- EQ250: Robust optimization -> minimize max loss over uncertainty set U
+- EQ044: Law of large numbers -> sample mean→μ
+- ...
+
+VALUATION:
+- Score: 0.643
+- Tier: silver

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/privacy-preserving-scholar-synthesis-reference-quality-p6273
+[ANCHOR] clarity #00C8FF link://clarity/privacy-preserving-scholar-synthesis-reference-quality-p6273
+[ANCHOR] alignment #33CCCC link://alignment/privacy-preserving-scholar-synthesis-reference-quality-p6273
+
+TITLE: privacy-preserving-scholar-synthesis-reference-quality-p6273
+SUMMARY: Research scaffold for privacy-preserving, scholar-synthesis, reference-quality.
+
+LINKS:
+- https://terrytao.wordpress.com/
+
+
+
+EQUATIONS:
+- EQ021: SVD -> A = UΣVᵀ
+
+
+
+VALUATION:
+- Score: 0.487
+- Tier: bronze

@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/txt-structure-repo-clarity-queue-theory-p3710
+[ANCHOR] clarity #00C8FF link://clarity/txt-structure-repo-clarity-queue-theory-p3710
+[ANCHOR] learning #E6B800 link://learning/txt-structure-repo-clarity-queue-theory-p3710
+[ANCHOR] alignment #33CCCC link://alignment/txt-structure-repo-clarity-queue-theory-p3710
+
+TITLE: txt-structure-repo-clarity-queue-theory-p3710
+SUMMARY: Research scaffold for txt-structure, repo-clarity, queue-theory.
+
+LINKS:
+- https://gazzaleylab.ucsf.edu/publications
+- https://openpsych.net/
+
+
+EQUATIONS:
+- EQ045: Central limit theorem -> normalized sums→normal
+- EQ033: Wave equation -> ∂²u/∂t² = c²∇²u
+- EQ015: Power of hypothesis test -> 1 - β
+
+VALUATION:
+- Score: 0.576
+- Tier: bronze

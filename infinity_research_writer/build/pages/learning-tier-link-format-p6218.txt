@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/learning-tier-link-format-p6218
+[ANCHOR] clarity #00C8FF link://clarity/learning-tier-link-format-p6218
+[ANCHOR] learning #E6B800 link://learning/learning-tier-link-format-p6218
+[ANCHOR] alignment #33CCCC link://alignment/learning-tier-link-format-p6218
+
+TITLE: learning-tier-link-format-p6218
+SUMMARY: Research scaffold for learning-tier, link-format.
+
+LINKS:
+- https://scopus.com/
+
+
+
+EQUATIONS:
+- EQ030: Convolution -> (f*g)(t)=∫f(τ)g(t-τ)dτ
+- ...
+
+
+VALUATION:
+- Score: 0.478
+- Tier: bronze

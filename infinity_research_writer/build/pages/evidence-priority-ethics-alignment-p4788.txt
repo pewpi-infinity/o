@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/evidence-priority-ethics-alignment-p4788
+[ANCHOR] ethics #FF6A00 link://ethics/evidence-priority-ethics-alignment-p4788
+[ANCHOR] clarity #00C8FF link://clarity/evidence-priority-ethics-alignment-p4788
+[ANCHOR] provenance #7D4DF2 link://provenance/evidence-priority-ethics-alignment-p4788
+[ANCHOR] scope #6066FF link://scope/evidence-priority-ethics-alignment-p4788
+
+TITLE: evidence-priority-ethics-alignment-p4788
+SUMMARY: Research scaffold for evidence-priority, ethics-alignment.
+
+LINKS:
+- https://who.int/research
+- https://stoa.org/
+
+
+EQUATIONS:
+- EQ025: Softmax -> exp(z_i) / Σ exp(z)
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+- EQ049: Moment generating function -> M(t)=E[e^{tX}]
+
+VALUATION:
+- Score: 0.559
+- Tier: bronze

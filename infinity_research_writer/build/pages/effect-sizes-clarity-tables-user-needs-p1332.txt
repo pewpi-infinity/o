@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/effect-sizes-clarity-tables-user-needs-p1332
+[ANCHOR] clarity #00C8FF link://clarity/effect-sizes-clarity-tables-user-needs-p1332
+[ANCHOR] learning #E6B800 link://learning/effect-sizes-clarity-tables-user-needs-p1332
+[ANCHOR] alignment #33CCCC link://alignment/effect-sizes-clarity-tables-user-needs-p1332
+
+TITLE: effect-sizes-clarity-tables-user-needs-p1332
+SUMMARY: Research scaffold for effect-sizes, clarity-tables, user-needs.
+
+LINKS:
+- https://gapminder.org/data/
+- https://icj-cij.org/en/decisions
+
+
+EQUATIONS:
+- EQ021: SVD -> A = UΣVᵀ
+- EQ010: Nash equilibrium -> best response mappings intersect
+
+
+VALUATION:
+- Score: 0.556
+- Tier: bronze

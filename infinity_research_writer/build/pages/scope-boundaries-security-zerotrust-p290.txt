@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scope-boundaries-security-zerotrust-p290
+[ANCHOR] clarity #00C8FF link://clarity/scope-boundaries-security-zerotrust-p290
+[ANCHOR] alignment #33CCCC link://alignment/scope-boundaries-security-zerotrust-p290
+
+TITLE: scope-boundaries-security-zerotrust-p290
+SUMMARY: Research scaffold for scope-boundaries, security-zerotrust.
+
+LINKS:
+- https://princeton.edu/research
+- https://cell.com/trends/biochemical-sciences
+
+
+EQUATIONS:
+- EQ039: Matrix invertibility -> det(A) ≠ 0
+- EQ004: KKT conditions -> ∇f(x*) + A^T λ* = 0, Ax* <= b, λ* >= 0, λ*^T (Ax* - b) = 0
+- ...
+
+VALUATION:
+- Score: 0.566
+- Tier: bronze

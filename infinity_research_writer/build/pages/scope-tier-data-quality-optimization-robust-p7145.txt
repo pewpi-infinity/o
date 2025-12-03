@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scope-tier-data-quality-optimization-robust-p7145
+[ANCHOR] clarity #00C8FF link://clarity/scope-tier-data-quality-optimization-robust-p7145
+[ANCHOR] alignment #33CCCC link://alignment/scope-tier-data-quality-optimization-robust-p7145
+
+TITLE: scope-tier-data-quality-optimization-robust-p7145
+SUMMARY: Research scaffold for scope-tier, data-quality, optimization-robust.
+
+LINKS:
+- https://icj-cij.org/en/decisions
+- https://asa3.org/
+- https://beckerfreidman.uchicago.edu/research/
+
+EQUATIONS:
+- EQ025: Softmax -> exp(z_i) / Σ exp(z)
+- EQ036: Schrödinger equation -> iħ∂ψ/∂t = Hψ
+
+
+VALUATION:
+- Score: 0.574
+- Tier: bronze

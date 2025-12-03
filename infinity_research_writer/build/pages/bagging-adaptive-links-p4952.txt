@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/bagging-adaptive-links-p4952
+[ANCHOR] clarity #00C8FF link://clarity/bagging-adaptive-links-p4952
+[ANCHOR] alignment #33CCCC link://alignment/bagging-adaptive-links-p4952
+
+TITLE: bagging-adaptive-links-p4952
+SUMMARY: Research scaffold for bagging, adaptive-links.
+
+LINKS:
+- https://law.cornell.edu/
+- https://jamanetwork.com/journals/jamacardiology
+
+
+EQUATIONS:
+- EQ001: Linear program objective -> maximize c^T x subject to Ax <= b, x >= 0
+- EQ028: Mutual information -> I(X;Y) = H(X)+H(Y)-H(X,Y)
+- EQ011: Mechanism incentive compatibility -> truth-telling maximizes utility
+
+VALUATION:
+- Score: 0.513
+- Tier: bronze

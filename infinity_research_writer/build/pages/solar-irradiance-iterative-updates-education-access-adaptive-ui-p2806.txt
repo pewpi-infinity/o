@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/solar-irradiance-iterative-updates-education-access-adaptive-ui-p2806
+[ANCHOR] clarity #00C8FF link://clarity/solar-irradiance-iterative-updates-education-access-adaptive-ui-p2806
+[ANCHOR] alignment #33CCCC link://alignment/solar-irradiance-iterative-updates-education-access-adaptive-ui-p2806
+
+TITLE: solar-irradiance-iterative-updates-education-access-adaptive-ui-p2806
+SUMMARY: Research scaffold for solar-irradiance, iterative-updates, education-access, adaptive-ui.
+
+LINKS:
+- https://warwick.ac.uk/research
+- https://osf.io/
+
+
+EQUATIONS:
+- EQ036: Schrödinger equation -> iħ∂ψ/∂t = Hψ
+- EQ005: Spectral radius -> ρ(A) = max |λ_i(A)|
+- EQ022: Logistic regression -> σ(wᵀx)
+
+VALUATION:
+- Score: 0.594
+- Tier: bronze

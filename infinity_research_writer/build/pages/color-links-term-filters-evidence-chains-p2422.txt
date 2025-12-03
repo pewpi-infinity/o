@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/color-links-term-filters-evidence-chains-p2422
+[ANCHOR] clarity #00C8FF link://clarity/color-links-term-filters-evidence-chains-p2422
+[ANCHOR] alignment #33CCCC link://alignment/color-links-term-filters-evidence-chains-p2422
+
+TITLE: color-links-term-filters-evidence-chains-p2422
+SUMMARY: Research scaffold for color-links, term-filters, evidence-chains.
+
+LINKS:
+- https://perseus.tufts.edu/
+- https://who.int/health-topics
+- https://nature.com/
+
+EQUATIONS:
+- EQ047: Chebyshev inequality -> P(|X-μ|≥kσ) ≤ 1/k²
+- EQ026: KL divergence -> Σ p log(p/q)
+
+
+VALUATION:
+- Score: 0.571
+- Tier: bronze

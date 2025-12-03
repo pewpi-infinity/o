@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/tier-silver-provenance-signing-context-windows-p8394
+[ANCHOR] clarity #00C8FF link://clarity/tier-silver-provenance-signing-context-windows-p8394
+[ANCHOR] learning #E6B800 link://learning/tier-silver-provenance-signing-context-windows-p8394
+[ANCHOR] alignment #33CCCC link://alignment/tier-silver-provenance-signing-context-windows-p8394
+
+TITLE: tier-silver-provenance-signing-context-windows-p8394
+SUMMARY: Research scaffold for tier-silver, provenance-signing, context-windows.
+
+LINKS:
+- https://ncbi.nlm.nih.gov/books/
+- https://health.harvard.edu/
+- https://humanbrainproject.eu/en/
+
+EQUATIONS:
+- EQ046: Markov inequality -> P(X≥a) ≤ E[X]/a
+- EQ036: Schrödinger equation -> iħ∂ψ/∂t = Hψ
+
+
+VALUATION:
+- Score: 0.621
+- Tier: silver

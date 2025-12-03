@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/controllability-co2-sequestration-p1085
+[ANCHOR] clarity #00C8FF link://clarity/controllability-co2-sequestration-p1085
+[ANCHOR] alignment #33CCCC link://alignment/controllability-co2-sequestration-p1085
+
+TITLE: controllability-co2-sequestration-p1085
+SUMMARY: Research scaffold for controllability, co2-sequestration.
+
+LINKS:
+- https://elifesciences.org/
+- https://oecd.org/statistics/
+
+
+EQUATIONS:
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+
+
+
+VALUATION:
+- Score: 0.476
+- Tier: bronze

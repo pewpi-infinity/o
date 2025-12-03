@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/controllability-co2-sequestration-p6125
+[ANCHOR] clarity #00C8FF link://clarity/controllability-co2-sequestration-p6125
+[ANCHOR] alignment #33CCCC link://alignment/controllability-co2-sequestration-p6125
+
+TITLE: controllability-co2-sequestration-p6125
+SUMMARY: Research scaffold for controllability, co2-sequestration.
+
+LINKS:
+- https://digital.bodleian.ox.ac.uk/
+
+
+
+EQUATIONS:
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+- EQ041: Gaussian distribution -> (1/√2πσ²)e^{-(x-μ)²/2σ²}
+
+
+VALUATION:
+- Score: 0.492
+- Tier: bronze

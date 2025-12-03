@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/policy-impact-convexity-checks-p2487
+[ANCHOR] clarity #00C8FF link://clarity/policy-impact-convexity-checks-p2487
+[ANCHOR] alignment #33CCCC link://alignment/policy-impact-convexity-checks-p2487
+
+TITLE: policy-impact-convexity-checks-p2487
+SUMMARY: Research scaffold for policy-impact, convexity-checks.
+
+LINKS:
+- https://journals.sagepub.com/home/his
+- https://physics.aps.org/
+- https://bl.uk/catalogues-and-collections
+
+EQUATIONS:
+- EQ037: Eigenvalue problem -> Ax = λx
+
+
+
+VALUATION:
+- Score: 0.531
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/user-config-hydro-optimization-needs-mapping-p94
+[ANCHOR] clarity #00C8FF link://clarity/user-config-hydro-optimization-needs-mapping-p94
+[ANCHOR] alignment #33CCCC link://alignment/user-config-hydro-optimization-needs-mapping-p94
+
+TITLE: user-config-hydro-optimization-needs-mapping-p94
+SUMMARY: Research scaffold for user-config, hydro-optimization, needs-mapping.
+
+LINKS:
+- https://frontiersin.org/journals/neuroscience
+- https://ams.org/journals
+- https://anu.edu.au/research
+
+EQUATIONS:
+- EQ044: Law of large numbers -> sample mean→μ
+- EQ014: Bayesian update -> p(θ|D) ∝ p(D|θ)p(θ)
+
+
+VALUATION:
+- Score: 0.604
+- Tier: silver

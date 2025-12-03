@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/logs-loud-model-explanations-trend-detection-p1246
+[ANCHOR] clarity #00C8FF link://clarity/logs-loud-model-explanations-trend-detection-p1246
+[ANCHOR] alignment #33CCCC link://alignment/logs-loud-model-explanations-trend-detection-p1246
+
+TITLE: logs-loud-model-explanations-trend-detection-p1246
+SUMMARY: Research scaffold for logs-loud, model-explanations, trend-detection.
+
+LINKS:
+- https://aaas.org/
+- https://apa.org/research
+- https://iupac.org/
+
+EQUATIONS:
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+- EQ006: Stability -> Re(λ_i(A)) < 0 for continuous systems
+- EQ024: Gradient descent -> θ ← θ - α∇J(θ)
+
+VALUATION:
+- Score: 0.621
+- Tier: silver

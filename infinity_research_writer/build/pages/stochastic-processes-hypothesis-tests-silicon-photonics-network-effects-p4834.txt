@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/stochastic-processes-hypothesis-tests-silicon-photonics-network-effects-p4834
+[ANCHOR] clarity #00C8FF link://clarity/stochastic-processes-hypothesis-tests-silicon-photonics-network-effects-p4834
+[ANCHOR] alignment #33CCCC link://alignment/stochastic-processes-hypothesis-tests-silicon-photonics-network-effects-p4834
+
+TITLE: stochastic-processes-hypothesis-tests-silicon-photonics-network-effects-p4834
+SUMMARY: Research scaffold for stochastic-processes, hypothesis-tests, silicon-photonics, network-effects.
+
+LINKS:
+- https://physics.aps.org/
+- https://science.org/
+- https://europa.eu/european-union/documents-publications_en
+
+EQUATIONS:
+- EQ022: Logistic regression -> σ(wᵀx)
+- EQ040: Rank-nullity -> dim(V)=rank+nullity
+- EQ048: Jensen's inequality -> φ(E[X]) ≤ E[φ(X)]
+
+VALUATION:
+- Score: 0.631
+- Tier: silver

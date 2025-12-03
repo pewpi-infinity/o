@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/capacity-tier-power-analysis-geothermal-integration-p3515
+[ANCHOR] capacity #00D67D link://capacity/capacity-tier-power-analysis-geothermal-integration-p3515
+[ANCHOR] clarity #00C8FF link://clarity/capacity-tier-power-analysis-geothermal-integration-p3515
+[ANCHOR] provenance #7D4DF2 link://provenance/capacity-tier-power-analysis-geothermal-integration-p3515
+[ANCHOR] risk #FF3B3B link://risk/capacity-tier-power-analysis-geothermal-integration-p3515
+
+TITLE: capacity-tier-power-analysis-geothermal-integration-p3515
+SUMMARY: Research scaffold for capacity-tier, power-analysis, geothermal-integration.
+
+LINKS:
+- https://agu.org/learn-and-develop/learn/earth-and-space-science-news
+- https://crcpress.com/mathematics
+- https://cell.com/
+
+EQUATIONS:
+- EQ035: Maxwell equations (set of 4)
+- EQ021: SVD -> A = UΣVᵀ
+- EQ044: Law of large numbers -> sample mean→μ
+
+VALUATION:
+- Score: 0.631
+- Tier: silver

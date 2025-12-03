@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/learning-tier-link-format-p128
+[ANCHOR] clarity #00C8FF link://clarity/learning-tier-link-format-p128
+[ANCHOR] learning #E6B800 link://learning/learning-tier-link-format-p128
+[ANCHOR] alignment #33CCCC link://alignment/learning-tier-link-format-p128
+
+TITLE: learning-tier-link-format-p128
+SUMMARY: Research scaffold for learning-tier, link-format.
+
+LINKS:
+- https://ncbi.nlm.nih.gov/pmc/
+- https://agu.org/Share-and-Advocate/Share/Eos
+
+
+EQUATIONS:
+- EQ038: Determinant expansion -> Σ permutations
+
+
+
+VALUATION:
+- Score: 0.491
+- Tier: bronze

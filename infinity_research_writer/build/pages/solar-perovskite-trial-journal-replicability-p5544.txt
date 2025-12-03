@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/solar-perovskite-trial-journal-replicability-p5544
+[ANCHOR] clarity #00C8FF link://clarity/solar-perovskite-trial-journal-replicability-p5544
+[ANCHOR] alignment #33CCCC link://alignment/solar-perovskite-trial-journal-replicability-p5544
+
+TITLE: solar-perovskite-trial-journal-replicability-p5544
+SUMMARY: Research scaffold for solar-perovskite, trial-journal, replicability.
+
+LINKS:
+- https://ideas.repec.org/
+
+
+
+EQUATIONS:
+- EQ046: Markov inequality -> P(X≥a) ≤ E[X]/a
+- EQ047: Chebyshev inequality -> P(|X-μ|≥kσ) ≤ 1/k²
+- EQ027: Entropy -> -Σ p log p
+
+VALUATION:
+- Score: 0.555
+- Tier: bronze

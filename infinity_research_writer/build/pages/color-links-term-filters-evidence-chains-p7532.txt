@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/color-links-term-filters-evidence-chains-p7532
+[ANCHOR] clarity #00C8FF link://clarity/color-links-term-filters-evidence-chains-p7532
+[ANCHOR] alignment #33CCCC link://alignment/color-links-term-filters-evidence-chains-p7532
+
+TITLE: color-links-term-filters-evidence-chains-p7532
+SUMMARY: Research scaffold for color-links, term-filters, evidence-chains.
+
+LINKS:
+- https://acs.org/
+
+
+
+EQUATIONS:
+- EQ033: Wave equation -> ∂²u/∂t² = c²∇²u
+- EQ041: Gaussian distribution -> (1/√2πσ²)e^{-(x-μ)²/2σ²}
+
+
+VALUATION:
+- Score: 0.504
+- Tier: bronze

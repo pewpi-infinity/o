@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/boosting-zip-ledger-token-index-economy-resilience-inference-graphs-p2056
+[ANCHOR] clarity #00C8FF link://clarity/boosting-zip-ledger-token-index-economy-resilience-inference-graphs-p2056
+[ANCHOR] alignment #33CCCC link://alignment/boosting-zip-ledger-token-index-economy-resilience-inference-graphs-p2056
+
+TITLE: boosting-zip-ledger-token-index-economy-resilience-inference-graphs-p2056
+SUMMARY: Research scaffold for boosting, zip-ledger, token-index, economy-resilience, inference-graphs.
+
+LINKS:
+- https://bloodjournal.org/
+- https://warwick.ac.uk/research
+- https://oecd.org/statistics/
+
+EQUATIONS:
+- EQ019: Lasso sparsity -> many β_j = 0
+- EQ024: Gradient descent -> θ ← θ - α∇J(θ)
+
+
+VALUATION:
+- Score: 0.678
+- Tier: silver

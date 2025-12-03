@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/source-diversity-seasonality-ensembles-p3146
+[ANCHOR] clarity #00C8FF link://clarity/source-diversity-seasonality-ensembles-p3146
+[ANCHOR] alignment #33CCCC link://alignment/source-diversity-seasonality-ensembles-p3146
+
+TITLE: source-diversity-seasonality-ensembles-p3146
+SUMMARY: Research scaffold for source-diversity, seasonality, ensembles.
+
+LINKS:
+- https://unep.org/resources/publications
+
+
+
+EQUATIONS:
+- EQ050: Characteristic function -> E[e^{itX}]
+- EQ041: Gaussian distribution -> (1/√2πσ²)e^{-(x-μ)²/2σ²}
+
+
+VALUATION:
+- Score: 0.504
+- Tier: bronze

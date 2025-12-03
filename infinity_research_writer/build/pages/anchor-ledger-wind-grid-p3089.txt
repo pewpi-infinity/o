@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/anchor-ledger-wind-grid-p3089
+[ANCHOR] clarity #00C8FF link://clarity/anchor-ledger-wind-grid-p3089
+[ANCHOR] alignment #33CCCC link://alignment/anchor-ledger-wind-grid-p3089
+
+TITLE: anchor-ledger-wind-grid-p3089
+SUMMARY: Research scaffold for anchor-ledger, wind-grid.
+
+LINKS:
+- https://clinicaltrials.gov/
+
+
+
+EQUATIONS:
+- EQ250: Robust optimization -> minimize max loss over uncertainty set U
+
+
+
+VALUATION:
+- Score: 0.488
+- Tier: bronze

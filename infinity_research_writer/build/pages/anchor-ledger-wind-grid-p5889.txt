@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/anchor-ledger-wind-grid-p5889
+[ANCHOR] clarity #00C8FF link://clarity/anchor-ledger-wind-grid-p5889
+[ANCHOR] alignment #33CCCC link://alignment/anchor-ledger-wind-grid-p5889
+
+TITLE: anchor-ledger-wind-grid-p5889
+SUMMARY: Research scaffold for anchor-ledger, wind-grid.
+
+LINKS:
+- https://nature.com/nrd/
+- https://data.un.org/
+- https://cdc.gov/
+
+EQUATIONS:
+- EQ031: Laplace transform -> ∫f(t)e^{-st}dt
+- EQ024: Gradient descent -> θ ← θ - α∇J(θ)
+
+
+VALUATION:
+- Score: 0.525
+- Tier: bronze

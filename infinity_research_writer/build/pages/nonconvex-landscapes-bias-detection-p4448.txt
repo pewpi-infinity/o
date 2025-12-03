@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/nonconvex-landscapes-bias-detection-p4448
+[ANCHOR] clarity #00C8FF link://clarity/nonconvex-landscapes-bias-detection-p4448
+[ANCHOR] alignment #33CCCC link://alignment/nonconvex-landscapes-bias-detection-p4448
+
+TITLE: nonconvex-landscapes-bias-detection-p4448
+SUMMARY: Research scaffold for nonconvex-landscapes, bias-detection.
+
+LINKS:
+- https://govinfo.gov/
+- https://ncbi.nlm.nih.gov/Taxonomy/
+- https://ssrn.com/en/index.cfm/lsn-legal-studies/
+
+EQUATIONS:
+- EQ032: Heat equation -> ∂u/∂t = α∇²u
+- EQ013: Markov chain stationary distribution -> π = πP
+- EQ030: Convolution -> (f*g)(t)=∫f(τ)g(t-τ)dτ
+
+VALUATION:
+- Score: 0.578
+- Tier: bronze

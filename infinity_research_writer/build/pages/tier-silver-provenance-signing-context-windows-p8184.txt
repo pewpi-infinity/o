@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/tier-silver-provenance-signing-context-windows-p8184
+[ANCHOR] clarity #00C8FF link://clarity/tier-silver-provenance-signing-context-windows-p8184
+[ANCHOR] learning #E6B800 link://learning/tier-silver-provenance-signing-context-windows-p8184
+[ANCHOR] alignment #33CCCC link://alignment/tier-silver-provenance-signing-context-windows-p8184
+
+TITLE: tier-silver-provenance-signing-context-windows-p8184
+SUMMARY: Research scaffold for tier-silver, provenance-signing, context-windows.
+
+LINKS:
+- https://usgs.gov/products/publications
+- https://reading.ac.uk/research
+
+
+EQUATIONS:
+- EQ003: Lagrangian -> L(x, λ) = f(x) + λ^T (Ax - b)
+- EQ018: Ridge regression -> minimize ||y-Xβ||² + λ||β||²
+
+
+VALUATION:
+- Score: 0.627
+- Tier: silver

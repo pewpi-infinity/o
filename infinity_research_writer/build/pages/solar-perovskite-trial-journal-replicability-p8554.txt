@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/solar-perovskite-trial-journal-replicability-p8554
+[ANCHOR] clarity #00C8FF link://clarity/solar-perovskite-trial-journal-replicability-p8554
+[ANCHOR] alignment #33CCCC link://alignment/solar-perovskite-trial-journal-replicability-p8554
+
+TITLE: solar-perovskite-trial-journal-replicability-p8554
+SUMMARY: Research scaffold for solar-perovskite, trial-journal, replicability.
+
+LINKS:
+- https://sciencemag.org/journals/science-advances
+- https://hathitrust.org/
+- https://oecd.org/statistics/
+
+EQUATIONS:
+- EQ024: Gradient descent -> θ ← θ - α∇J(θ)
+- EQ050: Characteristic function -> E[e^{itX}]
+- EQ010: Nash equilibrium -> best response mappings intersect
+
+VALUATION:
+- Score: 0.592
+- Tier: bronze

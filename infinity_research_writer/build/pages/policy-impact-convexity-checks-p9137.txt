@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/policy-impact-convexity-checks-p9137
+[ANCHOR] clarity #00C8FF link://clarity/policy-impact-convexity-checks-p9137
+[ANCHOR] alignment #33CCCC link://alignment/policy-impact-convexity-checks-p9137
+
+TITLE: policy-impact-convexity-checks-p9137
+SUMMARY: Research scaffold for policy-impact, convexity-checks.
+
+LINKS:
+- https://humanbrainproject.eu/en/
+
+
+
+EQUATIONS:
+- EQ033: Wave equation -> ∂²u/∂t² = c²∇²u
+
+
+
+VALUATION:
+- Score: 0.444
+- Tier: bronze

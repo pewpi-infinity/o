@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/tier-silver-provenance-signing-context-windows-p2514
+[ANCHOR] clarity #00C8FF link://clarity/tier-silver-provenance-signing-context-windows-p2514
+[ANCHOR] learning #E6B800 link://learning/tier-silver-provenance-signing-context-windows-p2514
+[ANCHOR] alignment #33CCCC link://alignment/tier-silver-provenance-signing-context-windows-p2514
+
+TITLE: tier-silver-provenance-signing-context-windows-p2514
+SUMMARY: Research scaffold for tier-silver, provenance-signing, context-windows.
+
+LINKS:
+- https://projecteuclid.org/
+
+
+
+EQUATIONS:
+- EQ044: Law of large numbers -> sample mean→μ
+- EQ026: KL divergence -> Σ p log(p/q)
+- EQ045: Central limit theorem -> normalized sums→normal
+
+VALUATION:
+- Score: 0.544
+- Tier: bronze

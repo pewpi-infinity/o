@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/policy-impact-convexity-checks-p6547
+[ANCHOR] clarity #00C8FF link://clarity/policy-impact-convexity-checks-p6547
+[ANCHOR] alignment #33CCCC link://alignment/policy-impact-convexity-checks-p6547
+
+TITLE: policy-impact-convexity-checks-p6547
+SUMMARY: Research scaffold for policy-impact, convexity-checks.
+
+LINKS:
+- https://noaa.gov/
+- https://digital-scriptorium.org/
+
+
+EQUATIONS:
+- EQ030: Convolution -> (f*g)(t)=∫f(τ)g(t-τ)dτ
+- EQ023: Cross entropy -> -Σ y log p
+
+
+VALUATION:
+- Score: 0.497
+- Tier: bronze

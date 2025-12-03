@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/project-index-materials-reuse-variance-analysis-p9657
+[ANCHOR] clarity #00C8FF link://clarity/project-index-materials-reuse-variance-analysis-p9657
+[ANCHOR] alignment #33CCCC link://alignment/project-index-materials-reuse-variance-analysis-p9657
+
+TITLE: project-index-materials-reuse-variance-analysis-p9657
+SUMMARY: Research scaffold for project-index, materials-reuse, variance-analysis.
+
+LINKS:
+- https://berkeley.edu/research
+- https://mit.edu/research/brain-and-cognitive-sciences
+- https://nus.edu.sg/research
+
+EQUATIONS:
+- EQ027: Entropy -> -Σ p log p
+- EQ048: Jensen's inequality -> φ(E[X]) ≤ E[φ(X)]
+
+
+VALUATION:
+- Score: 0.574
+- Tier: bronze

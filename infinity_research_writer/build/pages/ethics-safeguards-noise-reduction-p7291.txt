@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/ethics-safeguards-noise-reduction-p7291
+[ANCHOR] ethics #FF6A00 link://ethics/ethics-safeguards-noise-reduction-p7291
+[ANCHOR] clarity #00C8FF link://clarity/ethics-safeguards-noise-reduction-p7291
+[ANCHOR] provenance #7D4DF2 link://provenance/ethics-safeguards-noise-reduction-p7291
+[ANCHOR] scope #6066FF link://scope/ethics-safeguards-noise-reduction-p7291
+
+TITLE: ethics-safeguards-noise-reduction-p7291
+SUMMARY: Research scaffold for ethics-safeguards, noise-reduction.
+
+LINKS:
+- https://bloodjournal.org/
+
+
+
+EQUATIONS:
+- EQ017: L1 regularization -> minimize ||y-Xβ||² + λ||β||₁
+- ...
+- EQ025: Softmax -> exp(z_i) / Σ exp(z)
+
+VALUATION:
+- Score: 0.521
+- Tier: bronze

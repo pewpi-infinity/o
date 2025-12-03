@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/artifact-visibility-scholar-ledger-p1731
+[ANCHOR] clarity #00C8FF link://clarity/artifact-visibility-scholar-ledger-p1731
+[ANCHOR] alignment #33CCCC link://alignment/artifact-visibility-scholar-ledger-p1731
+
+TITLE: artifact-visibility-scholar-ledger-p1731
+SUMMARY: Research scaffold for artifact-visibility, scholar-ledger.
+
+LINKS:
+- https://nature.com/subjects/physics
+- https://linear.ups.edu/
+
+
+EQUATIONS:
+- EQ022: Logistic regression -> σ(wᵀx)
+
+
+
+VALUATION:
+- Score: 0.477
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scope-tier-data-quality-optimization-robust-p3085
+[ANCHOR] clarity #00C8FF link://clarity/scope-tier-data-quality-optimization-robust-p3085
+[ANCHOR] alignment #33CCCC link://alignment/scope-tier-data-quality-optimization-robust-p3085
+
+TITLE: scope-tier-data-quality-optimization-robust-p3085
+SUMMARY: Research scaffold for scope-tier, data-quality, optimization-robust.
+
+LINKS:
+- https://sciencedirect.com/journal/earth-and-planetary-science-letters
+
+
+
+EQUATIONS:
+- ...
+- EQ041: Gaussian distribution -> (1/√2πσ²)e^{-(x-μ)²/2σ²}
+- EQ022: Logistic regression -> σ(wᵀx)
+
+VALUATION:
+- Score: 0.527
+- Tier: bronze

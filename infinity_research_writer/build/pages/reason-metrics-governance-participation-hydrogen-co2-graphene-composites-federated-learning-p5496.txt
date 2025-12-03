@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/reason-metrics-governance-participation-hydrogen-co2-graphene-composites-federated-learning-p5496
+[ANCHOR] ethics #FF6A00 link://ethics/reason-metrics-governance-participation-hydrogen-co2-graphene-composites-federated-learning-p5496
+[ANCHOR] capacity #00D67D link://capacity/reason-metrics-governance-participation-hydrogen-co2-graphene-composites-federated-learning-p5496
+[ANCHOR] clarity #00C8FF link://clarity/reason-metrics-governance-participation-hydrogen-co2-graphene-composites-federated-learning-p5496
+[ANCHOR] provenance #7D4DF2 link://provenance/reason-metrics-governance-participation-hydrogen-co2-graphene-composites-federated-learning-p5496
+
+TITLE: reason-metrics-governance-participation-hydrogen-co2-graphene-composites-federated-learning-p5496
+SUMMARY: Research scaffold for reason-metrics, governance-participation, hydrogen-co2, graphene-composites, federated-learning.
+
+LINKS:
+- https://digital.bodleian.ox.ac.uk/
+
+
+
+EQUATIONS:
+- EQ026: KL divergence -> Σ p log(p/q)
+- EQ043: Chi-square distribution -> special gamma
+
+
+VALUATION:
+- Score: 0.628
+- Tier: silver

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scope-boundaries-security-zerotrust-p7080
+[ANCHOR] clarity #00C8FF link://clarity/scope-boundaries-security-zerotrust-p7080
+[ANCHOR] alignment #33CCCC link://alignment/scope-boundaries-security-zerotrust-p7080
+
+TITLE: scope-boundaries-security-zerotrust-p7080
+SUMMARY: Research scaffold for scope-boundaries, security-zerotrust.
+
+LINKS:
+- https://acs.org/content/acs/en/journals.html
+- https://elsevier.com/catalog?producttype=journal
+
+
+EQUATIONS:
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+- EQ030: Convolution -> (f*g)(t)=∫f(τ)g(t-τ)dτ
+
+
+VALUATION:
+- Score: 0.496
+- Tier: bronze

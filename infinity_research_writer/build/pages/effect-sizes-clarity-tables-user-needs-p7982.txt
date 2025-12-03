@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/effect-sizes-clarity-tables-user-needs-p7982
+[ANCHOR] clarity #00C8FF link://clarity/effect-sizes-clarity-tables-user-needs-p7982
+[ANCHOR] learning #E6B800 link://learning/effect-sizes-clarity-tables-user-needs-p7982
+[ANCHOR] alignment #33CCCC link://alignment/effect-sizes-clarity-tables-user-needs-p7982
+
+TITLE: effect-sizes-clarity-tables-user-needs-p7982
+SUMMARY: Research scaffold for effect-sizes, clarity-tables, user-needs.
+
+LINKS:
+- https://nature.com/subjects/evolution
+- https://maps.org/research/
+
+
+EQUATIONS:
+- EQ047: Chebyshev inequality -> P(|X-μ|≥kσ) ≤ 1/k²
+- EQ040: Rank-nullity -> dim(V)=rank+nullity
+- EQ020: PCA -> eigenvectors of covariance Σ
+
+VALUATION:
+- Score: 0.596
+- Tier: bronze

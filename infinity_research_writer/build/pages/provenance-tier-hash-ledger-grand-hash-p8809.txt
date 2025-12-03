@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/provenance-tier-hash-ledger-grand-hash-p8809
+[ANCHOR] clarity #00C8FF link://clarity/provenance-tier-hash-ledger-grand-hash-p8809
+[ANCHOR] learning #E6B800 link://learning/provenance-tier-hash-ledger-grand-hash-p8809
+[ANCHOR] alignment #33CCCC link://alignment/provenance-tier-hash-ledger-grand-hash-p8809
+
+TITLE: provenance-tier-hash-ledger-grand-hash-p8809
+SUMMARY: Research scaffold for provenance-tier, hash-ledger, grand-hash.
+
+LINKS:
+- https://terrytao.wordpress.com/
+- https://asa3.org/
+- https://ncbi.nlm.nih.gov/pmc/
+
+EQUATIONS:
+- EQ041: Gaussian distribution -> (1/√2πσ²)e^{-(x-μ)²/2σ²}
+- EQ044: Law of large numbers -> sample mean→μ
+- EQ250: Robust optimization -> minimize max loss over uncertainty set U
+
+VALUATION:
+- Score: 0.659
+- Tier: silver

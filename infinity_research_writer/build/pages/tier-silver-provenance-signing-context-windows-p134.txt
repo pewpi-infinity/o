@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/tier-silver-provenance-signing-context-windows-p134
+[ANCHOR] clarity #00C8FF link://clarity/tier-silver-provenance-signing-context-windows-p134
+[ANCHOR] learning #E6B800 link://learning/tier-silver-provenance-signing-context-windows-p134
+[ANCHOR] alignment #33CCCC link://alignment/tier-silver-provenance-signing-context-windows-p134
+
+TITLE: tier-silver-provenance-signing-context-windows-p134
+SUMMARY: Research scaffold for tier-silver, provenance-signing, context-windows.
+
+LINKS:
+- https://frontiersin.org/journals/neuromorphic-engineering
+- https://stats.stackexchange.com/questions/tagged/crossvalidated
+- https://ams.org/journals
+
+EQUATIONS:
+- EQ047: Chebyshev inequality -> P(|X-μ|≥kσ) ≤ 1/k²
+- EQ038: Determinant expansion -> Σ permutations
+
+
+VALUATION:
+- Score: 0.591
+- Tier: bronze

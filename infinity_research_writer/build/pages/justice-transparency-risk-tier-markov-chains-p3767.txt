@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/justice-transparency-risk-tier-markov-chains-p3767
+[ANCHOR] ethics #FF6A00 link://ethics/justice-transparency-risk-tier-markov-chains-p3767
+[ANCHOR] clarity #00C8FF link://clarity/justice-transparency-risk-tier-markov-chains-p3767
+[ANCHOR] provenance #7D4DF2 link://provenance/justice-transparency-risk-tier-markov-chains-p3767
+[ANCHOR] scope #6066FF link://scope/justice-transparency-risk-tier-markov-chains-p3767
+
+TITLE: justice-transparency-risk-tier-markov-chains-p3767
+SUMMARY: Research scaffold for justice-transparency, risk-tier, markov-chains.
+
+LINKS:
+- https://bonekey-ibms.mdc-berlin.de/
+- https://evolution.berkeley.edu/
+
+
+EQUATIONS:
+- EQ023: Cross entropy -> -Σ y log p
+- EQ045: Central limit theorem -> normalized sums→normal
+
+
+VALUATION:
+- Score: 0.579
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/buttons-ui-data-integrity-health-telemetry-p5553
+[ANCHOR] clarity #00C8FF link://clarity/buttons-ui-data-integrity-health-telemetry-p5553
+[ANCHOR] alignment #33CCCC link://alignment/buttons-ui-data-integrity-health-telemetry-p5553
+
+TITLE: buttons-ui-data-integrity-health-telemetry-p5553
+SUMMARY: Research scaffold for buttons-ui, data-integrity, health-telemetry.
+
+LINKS:
+- https://ncbi.nlm.nih.gov/
+- https://plos.org/
+- https://spinnaker.cs.manchester.ac.uk/publications
+
+EQUATIONS:
+- EQ038: Determinant expansion -> Σ permutations
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+
+
+VALUATION:
+- Score: 0.621
+- Tier: silver

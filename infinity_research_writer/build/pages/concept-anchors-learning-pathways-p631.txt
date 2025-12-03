@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/concept-anchors-learning-pathways-p631
+[ANCHOR] clarity #00C8FF link://clarity/concept-anchors-learning-pathways-p631
+[ANCHOR] learning #E6B800 link://learning/concept-anchors-learning-pathways-p631
+[ANCHOR] alignment #33CCCC link://alignment/concept-anchors-learning-pathways-p631
+
+TITLE: concept-anchors-learning-pathways-p631
+SUMMARY: Research scaffold for concept-anchors, learning-pathways.
+
+LINKS:
+- https://worldbank.org/en/research
+- https://paleobiology.si.edu/
+- https://oxfordhandbooks.com/
+
+EQUATIONS:
+- EQ021: SVD -> A = UΣVᵀ
+- EQ250: Robust optimization -> minimize max loss over uncertainty set U
+
+
+VALUATION:
+- Score: 0.599
+- Tier: bronze

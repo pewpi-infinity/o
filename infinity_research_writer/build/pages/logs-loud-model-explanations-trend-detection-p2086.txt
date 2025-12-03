@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/logs-loud-model-explanations-trend-detection-p2086
+[ANCHOR] clarity #00C8FF link://clarity/logs-loud-model-explanations-trend-detection-p2086
+[ANCHOR] alignment #33CCCC link://alignment/logs-loud-model-explanations-trend-detection-p2086
+
+TITLE: logs-loud-model-explanations-trend-detection-p2086
+SUMMARY: Research scaffold for logs-loud, model-explanations, trend-detection.
+
+LINKS:
+- https://agu.org/Share-and-Advocate/Share/Eos
+- https://brainfacts.org/
+- https://icj-cij.org/en/decisions
+
+EQUATIONS:
+- EQ043: Chi-square distribution -> special gamma
+- EQ047: Chebyshev inequality -> P(|X-μ|≥kσ) ≤ 1/k²
+
+
+VALUATION:
+- Score: 0.571
+- Tier: bronze

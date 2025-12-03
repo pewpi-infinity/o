@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/nonconvex-landscapes-bias-detection-p7388
+[ANCHOR] clarity #00C8FF link://clarity/nonconvex-landscapes-bias-detection-p7388
+[ANCHOR] alignment #33CCCC link://alignment/nonconvex-landscapes-bias-detection-p7388
+
+TITLE: nonconvex-landscapes-bias-detection-p7388
+SUMMARY: Research scaffold for nonconvex-landscapes, bias-detection.
+
+LINKS:
+- https://agu.org/learn-and-develop/learn/eos
+- https://neurips.cc/Conferences/Current
+- https://aaai.org/Library/
+
+EQUATIONS:
+- EQ007: Controllability -> rank([B, AB, A^2B, ..., A^{n-1}B]) = n
+
+
+
+VALUATION:
+- Score: 0.538
+- Tier: bronze

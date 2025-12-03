@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/tier-silver-provenance-signing-context-windows-p1394
+[ANCHOR] clarity #00C8FF link://clarity/tier-silver-provenance-signing-context-windows-p1394
+[ANCHOR] learning #E6B800 link://learning/tier-silver-provenance-signing-context-windows-p1394
+[ANCHOR] alignment #33CCCC link://alignment/tier-silver-provenance-signing-context-windows-p1394
+
+TITLE: tier-silver-provenance-signing-context-windows-p1394
+SUMMARY: Research scaffold for tier-silver, provenance-signing, context-windows.
+
+LINKS:
+- https://bmj.com/
+- https://drugpolicy.org/resource-library
+
+
+EQUATIONS:
+- EQ034: Poisson equation -> ∇²u = -ρ/ε
+- EQ043: Chi-square distribution -> special gamma
+
+
+VALUATION:
+- Score: 0.557
+- Tier: bronze

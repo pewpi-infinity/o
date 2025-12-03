@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/source-diversity-seasonality-ensembles-p5316
+[ANCHOR] clarity #00C8FF link://clarity/source-diversity-seasonality-ensembles-p5316
+[ANCHOR] alignment #33CCCC link://alignment/source-diversity-seasonality-ensembles-p5316
+
+TITLE: source-diversity-seasonality-ensembles-p5316
+SUMMARY: Research scaffold for source-diversity, seasonality, ensembles.
+
+LINKS:
+- https://iupac.org/
+- https://link.springer.com/journal/10896
+- https://psychologytoday.com/us/topics
+
+EQUATIONS:
+- EQ040: Rank-nullity -> dim(V)=rank+nullity
+- EQ004: KKT conditions -> ∇f(x*) + A^T λ* = 0, Ax* <= b, λ* >= 0, λ*^T (Ax* - b) = 0
+- EQ010: Nash equilibrium -> best response mappings intersect
+
+VALUATION:
+- Score: 0.640
+- Tier: silver

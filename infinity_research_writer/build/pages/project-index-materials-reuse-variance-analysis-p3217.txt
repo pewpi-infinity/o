@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/project-index-materials-reuse-variance-analysis-p3217
+[ANCHOR] clarity #00C8FF link://clarity/project-index-materials-reuse-variance-analysis-p3217
+[ANCHOR] alignment #33CCCC link://alignment/project-index-materials-reuse-variance-analysis-p3217
+
+TITLE: project-index-materials-reuse-variance-analysis-p3217
+SUMMARY: Research scaffold for project-index, materials-reuse, variance-analysis.
+
+LINKS:
+- https://usgs.gov/products/publications
+- https://ionosphere.meteoromania.ro/
+- https://europa.eu/european-union/documents-publications_en
+
+EQUATIONS:
+- EQ044: Law of large numbers -> sample mean→μ
+- EQ043: Chi-square distribution -> special gamma
+
+
+VALUATION:
+- Score: 0.574
+- Tier: bronze

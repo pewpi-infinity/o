@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/boosting-zip-ledger-token-index-economy-resilience-inference-graphs-p1146
+[ANCHOR] clarity #00C8FF link://clarity/boosting-zip-ledger-token-index-economy-resilience-inference-graphs-p1146
+[ANCHOR] alignment #33CCCC link://alignment/boosting-zip-ledger-token-index-economy-resilience-inference-graphs-p1146
+
+TITLE: boosting-zip-ledger-token-index-economy-resilience-inference-graphs-p1146
+SUMMARY: Research scaffold for boosting, zip-ledger, token-index, economy-resilience, inference-graphs.
+
+LINKS:
+- https://osf.io/
+- https://neurips.cc/Conferences/Current
+- https://jneurosci.org/
+
+EQUATIONS:
+- EQ003: Lagrangian -> L(x, λ) = f(x) + λ^T (Ax - b)
+- EQ018: Ridge regression -> minimize ||y-Xβ||² + λ||β||²
+- EQ027: Entropy -> -Σ p log p
+
+VALUATION:
+- Score: 0.748
+- Tier: silver

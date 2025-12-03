@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/policy-impact-convexity-checks-p9627
+[ANCHOR] clarity #00C8FF link://clarity/policy-impact-convexity-checks-p9627
+[ANCHOR] alignment #33CCCC link://alignment/policy-impact-convexity-checks-p9627
+
+TITLE: policy-impact-convexity-checks-p9627
+SUMMARY: Research scaffold for policy-impact, convexity-checks.
+
+LINKS:
+- https://nature.com/subjects/blood
+- https://maps.org/research/
+- https://archive.org/
+
+EQUATIONS:
+- EQ041: Gaussian distribution -> (1/√2πσ²)e^{-(x-μ)²/2σ²}
+- EQ044: Law of large numbers -> sample mean→μ
+
+
+VALUATION:
+- Score: 0.531
+- Tier: bronze

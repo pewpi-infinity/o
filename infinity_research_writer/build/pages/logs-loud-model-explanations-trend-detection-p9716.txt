@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/logs-loud-model-explanations-trend-detection-p9716
+[ANCHOR] clarity #00C8FF link://clarity/logs-loud-model-explanations-trend-detection-p9716
+[ANCHOR] alignment #33CCCC link://alignment/logs-loud-model-explanations-trend-detection-p9716
+
+TITLE: logs-loud-model-explanations-trend-detection-p9716
+SUMMARY: Research scaffold for logs-loud, model-explanations, trend-detection.
+
+LINKS:
+- https://psychedelics.ucsf.edu/research
+- https://humanbrainproject.eu/en/
+- https://directory.doabooks.org/
+
+EQUATIONS:
+- EQ019: Lasso sparsity -> many β_j = 0
+- EQ003: Lagrangian -> L(x, λ) = f(x) + λ^T (Ax - b)
+- EQ010: Nash equilibrium -> best response mappings intersect
+
+VALUATION:
+- Score: 0.660
+- Tier: silver

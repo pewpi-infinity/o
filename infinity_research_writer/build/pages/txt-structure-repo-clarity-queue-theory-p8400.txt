@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/txt-structure-repo-clarity-queue-theory-p8400
+[ANCHOR] clarity #00C8FF link://clarity/txt-structure-repo-clarity-queue-theory-p8400
+[ANCHOR] learning #E6B800 link://learning/txt-structure-repo-clarity-queue-theory-p8400
+[ANCHOR] alignment #33CCCC link://alignment/txt-structure-repo-clarity-queue-theory-p8400
+
+TITLE: txt-structure-repo-clarity-queue-theory-p8400
+SUMMARY: Research scaffold for txt-structure, repo-clarity, queue-theory.
+
+LINKS:
+- https://math.berkeley.edu/research
+- https://alleninstitute.org/what-we-do/brain-science/
+
+
+EQUATIONS:
+- EQ009: Queue M/M/1 -> ρ = λ/μ, W = 1/(μ - λ)
+- EQ048: Jensen's inequality -> φ(E[X]) ≤ E[φ(X)]
+- EQ039: Matrix invertibility -> det(A) ≠ 0
+
+VALUATION:
+- Score: 0.576
+- Tier: bronze

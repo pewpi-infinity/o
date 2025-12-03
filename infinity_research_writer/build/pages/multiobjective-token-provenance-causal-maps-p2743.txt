@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/multiobjective-token-provenance-causal-maps-p2743
+[ANCHOR] clarity #00C8FF link://clarity/multiobjective-token-provenance-causal-maps-p2743
+[ANCHOR] learning #E6B800 link://learning/multiobjective-token-provenance-causal-maps-p2743
+[ANCHOR] alignment #33CCCC link://alignment/multiobjective-token-provenance-causal-maps-p2743
+
+TITLE: multiobjective-token-provenance-causal-maps-p2743
+SUMMARY: Research scaffold for multiobjective, token-provenance, causal-maps.
+
+LINKS:
+- https://mayoclinic.org/
+
+
+
+EQUATIONS:
+- EQ007: Controllability -> rank([B, AB, A^2B, ..., A^{n-1}B]) = n
+- EQ008: Observability -> rank([C; CA; CA^2; ...; CA^{n-1}]) = n
+- EQ049: Moment generating function -> M(t)=E[e^{tX}]
+
+VALUATION:
+- Score: 0.575
+- Tier: bronze

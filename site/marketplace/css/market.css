@@ -1,0 +1,31 @@
+body {
+  background:#0a0a0f;
+  color:white;
+  font-family: monospace;
+}
+
+#listing_container {
+  margin-top:20px;
+}
+
+.listing_card {
+  background:#161621;
+  padding:15px;
+  border-radius:8px;
+  margin-bottom:15px;
+}
+.notify {
+  background:#6f4aff;
+  color:white;
+  padding:10px;
+  position:fixed;
+  top:10px;
+  right:10px;
+  border-radius:6px;
+  font-weight:bold;
+}
+.gallery_grid {
+  display:grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap:15px;
+}

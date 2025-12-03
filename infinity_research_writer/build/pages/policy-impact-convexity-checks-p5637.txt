@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/policy-impact-convexity-checks-p5637
+[ANCHOR] clarity #00C8FF link://clarity/policy-impact-convexity-checks-p5637
+[ANCHOR] alignment #33CCCC link://alignment/policy-impact-convexity-checks-p5637
+
+TITLE: policy-impact-convexity-checks-p5637
+SUMMARY: Research scaffold for policy-impact, convexity-checks.
+
+LINKS:
+- https://ionosphere.meteoromania.ro/
+- https://mit.edu/research/brain-and-cognitive-sciences
+- https://chemspider.com/
+
+EQUATIONS:
+- EQ034: Poisson equation -> ∇²u = -ρ/ε
+- EQ011: Mechanism incentive compatibility -> truth-telling maximizes utility
+
+
+VALUATION:
+- Score: 0.531
+- Tier: bronze

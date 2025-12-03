@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/controllability-co2-sequestration-p735
+[ANCHOR] clarity #00C8FF link://clarity/controllability-co2-sequestration-p735
+[ANCHOR] alignment #33CCCC link://alignment/controllability-co2-sequestration-p735
+
+TITLE: controllability-co2-sequestration-p735
+SUMMARY: Research scaffold for controllability, co2-sequestration.
+
+LINKS:
+- https://egyptology.yale.edu/research
+- https://nature.com/subjects/physics
+- https://legifrance.gouv.fr/
+
+EQUATIONS:
+- EQ049: Moment generating function -> M(t)=E[e^{tX}]
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+- EQ004: KKT conditions -> ∇f(x*) + A^T λ* = 0, Ax* <= b, λ* >= 0, λ*^T (Ax* - b) = 0
+
+VALUATION:
+- Score: 0.629
+- Tier: silver

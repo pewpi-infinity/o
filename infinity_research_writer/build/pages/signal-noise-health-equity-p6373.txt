@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/signal-noise-health-equity-p6373
+[ANCHOR] clarity #00C8FF link://clarity/signal-noise-health-equity-p6373
+[ANCHOR] alignment #33CCCC link://alignment/signal-noise-health-equity-p6373
+
+TITLE: signal-noise-health-equity-p6373
+SUMMARY: Research scaffold for signal-noise, health-equity.
+
+LINKS:
+- https://royalsocietypublishing.org/
+- https://openlibrary.org/
+
+
+EQUATIONS:
+- EQ012: Auction revenue equivalence -> symmetric independent private values
+- EQ026: KL divergence -> Σ p log(p/q)
+- EQ003: Lagrangian -> L(x, λ) = f(x) + λ^T (Ax - b)
+
+VALUATION:
+- Score: 0.563
+- Tier: bronze

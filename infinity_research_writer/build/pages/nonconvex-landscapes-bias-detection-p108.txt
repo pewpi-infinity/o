@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/nonconvex-landscapes-bias-detection-p108
+[ANCHOR] clarity #00C8FF link://clarity/nonconvex-landscapes-bias-detection-p108
+[ANCHOR] alignment #33CCCC link://alignment/nonconvex-landscapes-bias-detection-p108
+
+TITLE: nonconvex-landscapes-bias-detection-p108
+SUMMARY: Research scaffold for nonconvex-landscapes, bias-detection.
+
+LINKS:
+- https://jneuroengrehab.biomedcentral.com/
+- https://computational-neuroscience.org/publications/
+
+
+EQUATIONS:
+- EQ009: Queue M/M/1 -> ρ = λ/μ, W = 1/(μ - λ)
+
+
+
+VALUATION:
+- Score: 0.474
+- Tier: bronze

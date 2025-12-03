@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/ethics-safeguards-noise-reduction-p9321
+[ANCHOR] ethics #FF6A00 link://ethics/ethics-safeguards-noise-reduction-p9321
+[ANCHOR] clarity #00C8FF link://clarity/ethics-safeguards-noise-reduction-p9321
+[ANCHOR] provenance #7D4DF2 link://provenance/ethics-safeguards-noise-reduction-p9321
+[ANCHOR] scope #6066FF link://scope/ethics-safeguards-noise-reduction-p9321
+
+TITLE: ethics-safeguards-noise-reduction-p9321
+SUMMARY: Research scaffold for ethics-safeguards, noise-reduction.
+
+LINKS:
+- https://erowid.org/chemicals/
+- https://cambridge.org/core/what-we-publish/journals
+
+
+EQUATIONS:
+- EQ011: Mechanism incentive compatibility -> truth-telling maximizes utility
+- EQ004: KKT conditions -> ∇f(x*) + A^T λ* = 0, Ax* <= b, λ* >= 0, λ*^T (Ax* - b) = 0
+- EQ007: Controllability -> rank([B, AB, A^2B, ..., A^{n-1}B]) = n
+
+VALUATION:
+- Score: 0.634
+- Tier: silver

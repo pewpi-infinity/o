@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/nonconvex-landscapes-bias-detection-p2138
+[ANCHOR] clarity #00C8FF link://clarity/nonconvex-landscapes-bias-detection-p2138
+[ANCHOR] alignment #33CCCC link://alignment/nonconvex-landscapes-bias-detection-p2138
+
+TITLE: nonconvex-landscapes-bias-detection-p2138
+SUMMARY: Research scaffold for nonconvex-landscapes, bias-detection.
+
+LINKS:
+- https://nsf.gov/
+- https://sciencedirect.com/journal/earth-and-planetary-science-letters
+
+
+EQUATIONS:
+- EQ032: Heat equation -> ∂u/∂t = α∇²u
+- EQ028: Mutual information -> I(X;Y) = H(X)+H(Y)-H(X,Y)
+- EQ029: Fourier transform -> F(ω)=∫ f(t)e^{-iωt}dt
+
+VALUATION:
+- Score: 0.514
+- Tier: bronze

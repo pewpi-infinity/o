@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/provenance-tier-hash-ledger-grand-hash-p7059
+[ANCHOR] clarity #00C8FF link://clarity/provenance-tier-hash-ledger-grand-hash-p7059
+[ANCHOR] learning #E6B800 link://learning/provenance-tier-hash-ledger-grand-hash-p7059
+[ANCHOR] alignment #33CCCC link://alignment/provenance-tier-hash-ledger-grand-hash-p7059
+
+TITLE: provenance-tier-hash-ledger-grand-hash-p7059
+SUMMARY: Research scaffold for provenance-tier, hash-ledger, grand-hash.
+
+LINKS:
+- https://bonekey-ibms.mdc-berlin.de/
+- https://uscourts.gov/statistics-reports
+- https://nyu.edu/research
+
+EQUATIONS:
+- EQ040: Rank-nullity -> dim(V)=rank+nullity
+- EQ050: Characteristic function -> E[e^{itX}]
+- EQ004: KKT conditions -> ∇f(x*) + A^T λ* = 0, Ax* <= b, λ* >= 0, λ*^T (Ax* - b) = 0
+
+VALUATION:
+- Score: 0.659
+- Tier: silver

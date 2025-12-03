@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/color-links-term-filters-evidence-chains-p3542
+[ANCHOR] clarity #00C8FF link://clarity/color-links-term-filters-evidence-chains-p3542
+[ANCHOR] alignment #33CCCC link://alignment/color-links-term-filters-evidence-chains-p3542
+
+TITLE: color-links-term-filters-evidence-chains-p3542
+SUMMARY: Research scaffold for color-links, term-filters, evidence-chains.
+
+LINKS:
+- https://frontiersin.org/
+- https://digital-scriptorium.org/
+- https://fda.gov/science-research
+
+EQUATIONS:
+- EQ050: Characteristic function -> E[e^{itX}]
+
+
+
+VALUATION:
+- Score: 0.550
+- Tier: bronze

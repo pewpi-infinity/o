@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/evidence-priority-ethics-alignment-p4508
+[ANCHOR] ethics #FF6A00 link://ethics/evidence-priority-ethics-alignment-p4508
+[ANCHOR] clarity #00C8FF link://clarity/evidence-priority-ethics-alignment-p4508
+[ANCHOR] provenance #7D4DF2 link://provenance/evidence-priority-ethics-alignment-p4508
+[ANCHOR] scope #6066FF link://scope/evidence-priority-ethics-alignment-p4508
+
+TITLE: evidence-priority-ethics-alignment-p4508
+SUMMARY: Research scaffold for evidence-priority, ethics-alignment.
+
+LINKS:
+- https://cambridge.org/core/what-we-publish/journals
+- https://ourworldindata.org/
+- https://data.worldbank.org/
+
+EQUATIONS:
+- EQ047: Chebyshev inequality -> P(|X-μ|≥kσ) ≤ 1/k²
+
+
+
+VALUATION:
+- Score: 0.552
+- Tier: bronze

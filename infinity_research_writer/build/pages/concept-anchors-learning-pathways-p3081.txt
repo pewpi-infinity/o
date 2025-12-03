@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/concept-anchors-learning-pathways-p3081
+[ANCHOR] clarity #00C8FF link://clarity/concept-anchors-learning-pathways-p3081
+[ANCHOR] learning #E6B800 link://learning/concept-anchors-learning-pathways-p3081
+[ANCHOR] alignment #33CCCC link://alignment/concept-anchors-learning-pathways-p3081
+
+TITLE: concept-anchors-learning-pathways-p3081
+SUMMARY: Research scaffold for concept-anchors, learning-pathways.
+
+LINKS:
+- https://berkeley.edu/research
+- https://bl.uk/catalogues-and-collections
+- https://ancientcoins.ca/
+
+EQUATIONS:
+- EQ028: Mutual information -> I(X;Y) = H(X)+H(Y)-H(X,Y)
+- EQ043: Chi-square distribution -> special gamma
+- EQ013: Markov chain stationary distribution -> π = πP
+
+VALUATION:
+- Score: 0.599
+- Tier: bronze

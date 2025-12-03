@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/anchor-ledger-wind-grid-p709
+[ANCHOR] clarity #00C8FF link://clarity/anchor-ledger-wind-grid-p709
+[ANCHOR] alignment #33CCCC link://alignment/anchor-ledger-wind-grid-p709
+
+TITLE: anchor-ledger-wind-grid-p709
+SUMMARY: Research scaffold for anchor-ledger, wind-grid.
+
+LINKS:
+- https://nature.com/nrd/
+- https://thelancet.com/journals/lancet/issue/current
+- https://journals.sagepub.com/home/his
+
+EQUATIONS:
+- EQ023: Cross entropy -> -Σ y log p
+- EQ027: Entropy -> -Σ p log p
+- EQ017: L1 regularization -> minimize ||y-Xβ||² + λ||β||₁
+
+VALUATION:
+- Score: 0.545
+- Tier: bronze

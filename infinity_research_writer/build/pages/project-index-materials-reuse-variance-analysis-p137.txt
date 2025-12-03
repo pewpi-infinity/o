@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/project-index-materials-reuse-variance-analysis-p137
+[ANCHOR] clarity #00C8FF link://clarity/project-index-materials-reuse-variance-analysis-p137
+[ANCHOR] alignment #33CCCC link://alignment/project-index-materials-reuse-variance-analysis-p137
+
+TITLE: project-index-materials-reuse-variance-analysis-p137
+SUMMARY: Research scaffold for project-index, materials-reuse, variance-analysis.
+
+LINKS:
+- https://ieeexplore.ieee.org/
+- https://icpsr.umich.edu/
+
+
+EQUATIONS:
+- EQ012: Auction revenue equivalence -> symmetric independent private values
+- EQ032: Heat equation -> ∂u/∂t = α∇²u
+
+
+VALUATION:
+- Score: 0.540
+- Tier: bronze

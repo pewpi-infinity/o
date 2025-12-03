@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/signal-noise-health-equity-p4413
+[ANCHOR] clarity #00C8FF link://clarity/signal-noise-health-equity-p4413
+[ANCHOR] alignment #33CCCC link://alignment/signal-noise-health-equity-p4413
+
+TITLE: signal-noise-health-equity-p4413
+SUMMARY: Research scaffold for signal-noise, health-equity.
+
+LINKS:
+- https://soton.ac.uk/research
+
+
+
+EQUATIONS:
+- EQ020: PCA -> eigenvectors of covariance Σ
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+
+
+VALUATION:
+- Score: 0.509
+- Tier: bronze

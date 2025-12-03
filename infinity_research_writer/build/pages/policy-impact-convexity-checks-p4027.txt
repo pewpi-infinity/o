@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/policy-impact-convexity-checks-p4027
+[ANCHOR] clarity #00C8FF link://clarity/policy-impact-convexity-checks-p4027
+[ANCHOR] alignment #33CCCC link://alignment/policy-impact-convexity-checks-p4027
+
+TITLE: policy-impact-convexity-checks-p4027
+SUMMARY: Research scaffold for policy-impact, convexity-checks.
+
+LINKS:
+- https://jamanetwork.com/journals/jamaoncology
+
+
+
+EQUATIONS:
+- EQ023: Cross entropy -> -Σ y log p
+- EQ043: Chi-square distribution -> special gamma
+- EQ044: Law of large numbers -> sample mean→μ
+
+VALUATION:
+- Score: 0.484
+- Tier: bronze

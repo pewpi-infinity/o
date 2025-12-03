@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/bagging-adaptive-links-p3972
+[ANCHOR] clarity #00C8FF link://clarity/bagging-adaptive-links-p3972
+[ANCHOR] alignment #33CCCC link://alignment/bagging-adaptive-links-p3972
+
+TITLE: bagging-adaptive-links-p3972
+SUMMARY: Research scaffold for bagging, adaptive-links.
+
+LINKS:
+- https://elsevier.com/catalog?producttype=journal
+- https://who.int/research
+
+
+EQUATIONS:
+- EQ038: Determinant expansion -> Σ permutations
+- EQ019: Lasso sparsity -> many β_j = 0
+
+
+VALUATION:
+- Score: 0.513
+- Tier: bronze

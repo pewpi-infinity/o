@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/solar-irradiance-iterative-updates-education-access-adaptive-ui-p5116
+[ANCHOR] clarity #00C8FF link://clarity/solar-irradiance-iterative-updates-education-access-adaptive-ui-p5116
+[ANCHOR] alignment #33CCCC link://alignment/solar-irradiance-iterative-updates-education-access-adaptive-ui-p5116
+
+TITLE: solar-irradiance-iterative-updates-education-access-adaptive-ui-p5116
+SUMMARY: Research scaffold for solar-irradiance, iterative-updates, education-access, adaptive-ui.
+
+LINKS:
+- https://alleninstitute.org/what-we-do/brain-science/
+- https://jamanetwork.com/journals/jamaoncology
+- https://math.berkeley.edu/research
+
+EQUATIONS:
+- EQ038: Determinant expansion -> Σ permutations
+- EQ013: Markov chain stationary distribution -> π = πP
+
+
+VALUATION:
+- Score: 0.638
+- Tier: silver

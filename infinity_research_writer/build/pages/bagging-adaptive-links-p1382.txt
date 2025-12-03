@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/bagging-adaptive-links-p1382
+[ANCHOR] clarity #00C8FF link://clarity/bagging-adaptive-links-p1382
+[ANCHOR] alignment #33CCCC link://alignment/bagging-adaptive-links-p1382
+
+TITLE: bagging-adaptive-links-p1382
+SUMMARY: Research scaffold for bagging, adaptive-links.
+
+LINKS:
+- https://anthrosource.onlinelibrary.wiley.com/
+- https://data.un.org/
+- https://clinicaltrials.gov/
+
+EQUATIONS:
+- EQ038: Determinant expansion -> Σ permutations
+
+
+
+VALUATION:
+- Score: 0.506
+- Tier: bronze

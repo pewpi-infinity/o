@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/paper-index-silicon-fabs-grade-metrics-grid-congestion-p6411
+[ANCHOR] clarity #00C8FF link://clarity/paper-index-silicon-fabs-grade-metrics-grid-congestion-p6411
+[ANCHOR] alignment #33CCCC link://alignment/paper-index-silicon-fabs-grade-metrics-grid-congestion-p6411
+
+TITLE: paper-index-silicon-fabs-grade-metrics-grid-congestion-p6411
+SUMMARY: Research scaffold for paper-index, silicon-fabs, grade-metrics, grid-congestion.
+
+LINKS:
+- https://gazzaleylab.ucsf.edu/publications
+- https://iucn.org/resources/publications
+- https://erowid.org/chemicals/
+
+EQUATIONS:
+- EQ011: Mechanism incentive compatibility -> truth-telling maximizes utility
+- EQ010: Nash equilibrium -> best response mappings intersect
+- EQ013: Markov chain stationary distribution -> π = πP
+
+VALUATION:
+- Score: 0.662
+- Tier: silver

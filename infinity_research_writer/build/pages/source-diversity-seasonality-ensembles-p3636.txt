@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/source-diversity-seasonality-ensembles-p3636
+[ANCHOR] clarity #00C8FF link://clarity/source-diversity-seasonality-ensembles-p3636
+[ANCHOR] alignment #33CCCC link://alignment/source-diversity-seasonality-ensembles-p3636
+
+TITLE: source-diversity-seasonality-ensembles-p3636
+SUMMARY: Research scaffold for source-diversity, seasonality, ensembles.
+
+LINKS:
+- https://vellum.sas.ac.uk/
+
+
+
+EQUATIONS:
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+- EQ007: Controllability -> rank([B, AB, A^2B, ..., A^{n-1}B]) = n
+- EQ022: Logistic regression -> σ(wᵀx)
+
+VALUATION:
+- Score: 0.554
+- Tier: bronze

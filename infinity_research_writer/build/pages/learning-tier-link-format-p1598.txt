@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/learning-tier-link-format-p1598
+[ANCHOR] clarity #00C8FF link://clarity/learning-tier-link-format-p1598
+[ANCHOR] learning #E6B800 link://learning/learning-tier-link-format-p1598
+[ANCHOR] alignment #33CCCC link://alignment/learning-tier-link-format-p1598
+
+TITLE: learning-tier-link-format-p1598
+SUMMARY: Research scaffold for learning-tier, link-format.
+
+LINKS:
+- https://stanford.edu/group/brainscience/
+- https://openalex.org/
+- https://ionosphere.meteoromania.ro/
+
+EQUATIONS:
+- EQ031: Laplace transform -> ∫f(t)e^{-st}dt
+- EQ003: Lagrangian -> L(x, λ) = f(x) + λ^T (Ax - b)
+
+
+VALUATION:
+- Score: 0.595
+- Tier: bronze

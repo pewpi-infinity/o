@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/logs-loud-model-explanations-trend-detection-p6426
+[ANCHOR] clarity #00C8FF link://clarity/logs-loud-model-explanations-trend-detection-p6426
+[ANCHOR] alignment #33CCCC link://alignment/logs-loud-model-explanations-trend-detection-p6426
+
+TITLE: logs-loud-model-explanations-trend-detection-p6426
+SUMMARY: Research scaffold for logs-loud, model-explanations, trend-detection.
+
+LINKS:
+- https://frontiersin.org/
+
+
+
+EQUATIONS:
+- EQ037: Eigenvalue problem -> Ax = λx
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+- EQ043: Chi-square distribution -> special gamma
+
+VALUATION:
+- Score: 0.574
+- Tier: bronze

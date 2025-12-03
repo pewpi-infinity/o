@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/evidence-priority-ethics-alignment-p2058
+[ANCHOR] ethics #FF6A00 link://ethics/evidence-priority-ethics-alignment-p2058
+[ANCHOR] clarity #00C8FF link://clarity/evidence-priority-ethics-alignment-p2058
+[ANCHOR] provenance #7D4DF2 link://provenance/evidence-priority-ethics-alignment-p2058
+[ANCHOR] scope #6066FF link://scope/evidence-priority-ethics-alignment-p2058
+
+TITLE: evidence-priority-ethics-alignment-p2058
+SUMMARY: Research scaffold for evidence-priority, ethics-alignment.
+
+LINKS:
+- https://apa.org/pubs/databases
+- https://congress.gov/
+- https://ukdataservice.ac.uk/
+
+EQUATIONS:
+- EQ250: Robust optimization -> minimize max loss over uncertainty set U
+
+
+
+VALUATION:
+- Score: 0.602
+- Tier: silver

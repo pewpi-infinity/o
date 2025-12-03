@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/tier-silver-provenance-signing-context-windows-p4474
+[ANCHOR] clarity #00C8FF link://clarity/tier-silver-provenance-signing-context-windows-p4474
+[ANCHOR] learning #E6B800 link://learning/tier-silver-provenance-signing-context-windows-p4474
+[ANCHOR] alignment #33CCCC link://alignment/tier-silver-provenance-signing-context-windows-p4474
+
+TITLE: tier-silver-provenance-signing-context-windows-p4474
+SUMMARY: Research scaffold for tier-silver, provenance-signing, context-windows.
+
+LINKS:
+- https://synapse.org/
+
+
+
+EQUATIONS:
+- EQ037: Eigenvalue problem -> Ax = λx
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+
+
+VALUATION:
+- Score: 0.594
+- Tier: bronze

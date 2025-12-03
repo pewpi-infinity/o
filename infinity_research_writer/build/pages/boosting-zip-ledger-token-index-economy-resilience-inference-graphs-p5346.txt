@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/boosting-zip-ledger-token-index-economy-resilience-inference-graphs-p5346
+[ANCHOR] clarity #00C8FF link://clarity/boosting-zip-ledger-token-index-economy-resilience-inference-graphs-p5346
+[ANCHOR] alignment #33CCCC link://alignment/boosting-zip-ledger-token-index-economy-resilience-inference-graphs-p5346
+
+TITLE: boosting-zip-ledger-token-index-economy-resilience-inference-graphs-p5346
+SUMMARY: Research scaffold for boosting, zip-ledger, token-index, economy-resilience, inference-graphs.
+
+LINKS:
+- https://royalsocietypublishing.org/journal/rspb
+
+
+
+EQUATIONS:
+- EQ021: SVD -> A = UΣVᵀ
+- EQ045: Central limit theorem -> normalized sums→normal
+- EQ002: Convexity check -> Hessian H(x) positive semidefinite
+
+VALUATION:
+- Score: 0.661
+- Tier: silver

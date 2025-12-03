@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>Infinity-OS Terminal</title>
+<script src="js/ipfs.min.js"></script>
+<script src="js/ipfs_client.js"></script>
+<script src="js/ipfs_upload.js"></script>
+<script src="js/ledger_sync.js"></script>
+<script src="js/terminal_feed.js"></script>
+<script src="js/terminal_loop.js"></script>
+</head>
+<body>
+<h1>Infinity-OS Terminal</h1>
+
+<textarea id="terminal_input" rows="3" cols="60"></textarea>
+<br>
+<button onclick="sendCommand()">Run</button>
+
+<h2>Feed</h2>
+<div id="terminal_feed"></div>
+
+</body>
+</html>

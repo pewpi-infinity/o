@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/stochastic-processes-hypothesis-tests-silicon-photonics-network-effects-p2804
+[ANCHOR] clarity #00C8FF link://clarity/stochastic-processes-hypothesis-tests-silicon-photonics-network-effects-p2804
+[ANCHOR] alignment #33CCCC link://alignment/stochastic-processes-hypothesis-tests-silicon-photonics-network-effects-p2804
+
+TITLE: stochastic-processes-hypothesis-tests-silicon-photonics-network-effects-p2804
+SUMMARY: Research scaffold for stochastic-processes, hypothesis-tests, silicon-photonics, network-effects.
+
+LINKS:
+- https://osti.gov/
+- https://darpa.mil/our-research
+- https://nature.com/nrd/
+
+EQUATIONS:
+- EQ013: Markov chain stationary distribution -> π = πP
+- EQ039: Matrix invertibility -> det(A) ≠ 0
+
+
+VALUATION:
+- Score: 0.641
+- Tier: silver

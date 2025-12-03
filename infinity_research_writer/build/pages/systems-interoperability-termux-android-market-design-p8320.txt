@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/systems-interoperability-termux-android-market-design-p8320
+[ANCHOR] clarity #00C8FF link://clarity/systems-interoperability-termux-android-market-design-p8320
+[ANCHOR] alignment #33CCCC link://alignment/systems-interoperability-termux-android-market-design-p8320
+
+TITLE: systems-interoperability-termux-android-market-design-p8320
+SUMMARY: Research scaffold for systems-interoperability, termux-android, market-design.
+
+LINKS:
+- https://math.berkeley.edu/research
+- https://beckerfreidman.uchicago.edu/research/
+
+
+EQUATIONS:
+- EQ046: Markov inequality -> P(X≥a) ≤ E[X]/a
+
+
+
+VALUATION:
+- Score: 0.550
+- Tier: bronze

@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/nonconvex-landscapes-bias-detection-p38
+[ANCHOR] clarity #00C8FF link://clarity/nonconvex-landscapes-bias-detection-p38
+[ANCHOR] alignment #33CCCC link://alignment/nonconvex-landscapes-bias-detection-p38
+
+TITLE: nonconvex-landscapes-bias-detection-p38
+SUMMARY: Research scaffold for nonconvex-landscapes, bias-detection.
+
+LINKS:
+- https://ox.ac.uk/research
+
+
+
+EQUATIONS:
+- EQ046: Markov inequality -> P(X≥a) ≤ E[X]/a
+
+
+
+VALUATION:
+- Score: 0.471
+- Tier: bronze

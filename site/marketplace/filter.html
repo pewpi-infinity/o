@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Advanced Filters</title>
+<link rel="stylesheet" href="css/market.css">
+<script src="js/filter_engine.js"></script>
+</head>
+
+<body onload="initFilters()">
+
+<h1>Advanced Filters</h1>
+
+<select id="rarity">
+  <option value="">Any Rarity</option>
+  <option value="Common">Common</option>
+  <option value="Uncommon">Uncommon</option>
+  <option value="Rare">Rare</option>
+  <option value="Ultra-Rare">Ultra-Rare</option>
+  <option value="Mythic">Mythic</option>
+</select>
+
+<select id="pattern">
+  <option value="">Any Pattern</option>
+  <option value="fractal">Fractal</option>
+  <option value="mirror">Mirror</option>
+  <option value="palindrome">Palindrome</option>
+  <option value="prime">Prime</option>
+</select>
+
+<h3>Price Band (USD)</h3>
+<input id="minPrice" placeholder="Min">  
+<input id="maxPrice" placeholder="Max">
+
+<button onclick="runFilter()">Apply</button>
+
+<div id="out"></div>
+
+</body>
+</html>

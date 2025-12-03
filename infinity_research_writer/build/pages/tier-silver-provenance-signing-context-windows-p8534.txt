@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/tier-silver-provenance-signing-context-windows-p8534
+[ANCHOR] clarity #00C8FF link://clarity/tier-silver-provenance-signing-context-windows-p8534
+[ANCHOR] learning #E6B800 link://learning/tier-silver-provenance-signing-context-windows-p8534
+[ANCHOR] alignment #33CCCC link://alignment/tier-silver-provenance-signing-context-windows-p8534
+
+TITLE: tier-silver-provenance-signing-context-windows-p8534
+SUMMARY: Research scaffold for tier-silver, provenance-signing, context-windows.
+
+LINKS:
+- https://data.un.org/
+- https://durham.ac.uk/research
+- https://zenodo.org/
+
+EQUATIONS:
+- EQ015: Power of hypothesis test -> 1 - β
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+
+
+VALUATION:
+- Score: 0.591
+- Tier: bronze

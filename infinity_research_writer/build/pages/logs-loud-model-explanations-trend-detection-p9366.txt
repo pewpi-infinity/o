@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/logs-loud-model-explanations-trend-detection-p9366
+[ANCHOR] clarity #00C8FF link://clarity/logs-loud-model-explanations-trend-detection-p9366
+[ANCHOR] alignment #33CCCC link://alignment/logs-loud-model-explanations-trend-detection-p9366
+
+TITLE: logs-loud-model-explanations-trend-detection-p9366
+SUMMARY: Research scaffold for logs-loud, model-explanations, trend-detection.
+
+LINKS:
+- https://biochemj.org/
+- https://openalex.org/
+
+
+EQUATIONS:
+- EQ049: Moment generating function -> M(t)=E[e^{tX}]
+- EQ008: Observability -> rank([C; CA; CA^2; ...; CA^{n-1}]) = n
+- EQ037: Eigenvalue problem -> Ax = λx
+
+VALUATION:
+- Score: 0.577
+- Tier: bronze

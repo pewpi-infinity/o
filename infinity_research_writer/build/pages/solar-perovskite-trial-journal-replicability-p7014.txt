@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/solar-perovskite-trial-journal-replicability-p7014
+[ANCHOR] clarity #00C8FF link://clarity/solar-perovskite-trial-journal-replicability-p7014
+[ANCHOR] alignment #33CCCC link://alignment/solar-perovskite-trial-journal-replicability-p7014
+
+TITLE: solar-perovskite-trial-journal-replicability-p7014
+SUMMARY: Research scaffold for solar-perovskite, trial-journal, replicability.
+
+LINKS:
+- https://neuroscience.ox.ac.uk/research
+- https://ox.ac.uk/research
+
+
+EQUATIONS:
+- EQ015: Power of hypothesis test -> 1 - β
+- EQ035: Maxwell equations (set of 4)
+
+
+VALUATION:
+- Score: 0.539
+- Tier: bronze

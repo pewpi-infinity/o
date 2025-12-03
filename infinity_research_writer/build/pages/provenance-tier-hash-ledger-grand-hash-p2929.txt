@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/provenance-tier-hash-ledger-grand-hash-p2929
+[ANCHOR] clarity #00C8FF link://clarity/provenance-tier-hash-ledger-grand-hash-p2929
+[ANCHOR] learning #E6B800 link://learning/provenance-tier-hash-ledger-grand-hash-p2929
+[ANCHOR] alignment #33CCCC link://alignment/provenance-tier-hash-ledger-grand-hash-p2929
+
+TITLE: provenance-tier-hash-ledger-grand-hash-p2929
+SUMMARY: Research scaffold for provenance-tier, hash-ledger, grand-hash.
+
+LINKS:
+- https://esa.int/
+- https://govinfo.gov/
+- https://acs.org/content/acs/en/journals.html
+
+EQUATIONS:
+- EQ007: Controllability -> rank([B, AB, A^2B, ..., A^{n-1}B]) = n
+
+
+
+VALUATION:
+- Score: 0.599
+- Tier: bronze

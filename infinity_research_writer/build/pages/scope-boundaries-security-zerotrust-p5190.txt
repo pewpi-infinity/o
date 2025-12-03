@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scope-boundaries-security-zerotrust-p5190
+[ANCHOR] clarity #00C8FF link://clarity/scope-boundaries-security-zerotrust-p5190
+[ANCHOR] alignment #33CCCC link://alignment/scope-boundaries-security-zerotrust-p5190
+
+TITLE: scope-boundaries-security-zerotrust-p5190
+SUMMARY: Research scaffold for scope-boundaries, security-zerotrust.
+
+LINKS:
+- https://ieeexplore.ieee.org/
+- https://tandfonline.com/
+- https://apa.org/research
+
+EQUATIONS:
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+- EQ037: Eigenvalue problem -> Ax = λx
+- EQ039: Matrix invertibility -> det(A) ≠ 0
+
+VALUATION:
+- Score: 0.599
+- Tier: bronze

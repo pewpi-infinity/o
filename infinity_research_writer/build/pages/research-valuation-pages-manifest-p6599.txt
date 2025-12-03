@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/research-valuation-pages-manifest-p6599
+[ANCHOR] clarity #00C8FF link://clarity/research-valuation-pages-manifest-p6599
+[ANCHOR] alignment #33CCCC link://alignment/research-valuation-pages-manifest-p6599
+
+TITLE: research-valuation-pages-manifest-p6599
+SUMMARY: Research scaffold for research-valuation, pages-manifest.
+
+LINKS:
+- https://icpsr.umich.edu/
+- https://bloodjournal.org/
+
+
+EQUATIONS:
+- EQ022: Logistic regression -> σ(wᵀx)
+- EQ040: Rank-nullity -> dim(V)=rank+nullity
+- EQ037: Eigenvalue problem -> Ax = λx
+
+VALUATION:
+- Score: 0.539
+- Tier: bronze

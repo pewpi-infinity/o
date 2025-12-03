@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/user-config-hydro-optimization-needs-mapping-p9124
+[ANCHOR] clarity #00C8FF link://clarity/user-config-hydro-optimization-needs-mapping-p9124
+[ANCHOR] alignment #33CCCC link://alignment/user-config-hydro-optimization-needs-mapping-p9124
+
+TITLE: user-config-hydro-optimization-needs-mapping-p9124
+SUMMARY: Research scaffold for user-config, hydro-optimization, needs-mapping.
+
+LINKS:
+- https://congress.gov/
+- https://mit.edu/research/brain-and-cognitive-sciences
+- https://nsf.gov/
+
+EQUATIONS:
+- EQ250: Robust optimization -> minimize max loss over uncertainty set U
+- EQ010: Nash equilibrium -> best response mappings intersect
+
+
+VALUATION:
+- Score: 0.624
+- Tier: silver

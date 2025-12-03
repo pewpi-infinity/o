@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/concept-anchors-learning-pathways-p1121
+[ANCHOR] clarity #00C8FF link://clarity/concept-anchors-learning-pathways-p1121
+[ANCHOR] learning #E6B800 link://learning/concept-anchors-learning-pathways-p1121
+[ANCHOR] alignment #33CCCC link://alignment/concept-anchors-learning-pathways-p1121
+
+TITLE: concept-anchors-learning-pathways-p1121
+SUMMARY: Research scaffold for concept-anchors, learning-pathways.
+
+LINKS:
+- https://bl.uk/catalogues-and-collections
+- https://oapen.org/
+- https://nature.com/subjects/atmospheric-science
+
+EQUATIONS:
+- EQ012: Auction revenue equivalence -> symmetric independent private values
+
+
+
+VALUATION:
+- Score: 0.529
+- Tier: bronze

@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/evidence-priority-ethics-alignment-p1148
+[ANCHOR] ethics #FF6A00 link://ethics/evidence-priority-ethics-alignment-p1148
+[ANCHOR] clarity #00C8FF link://clarity/evidence-priority-ethics-alignment-p1148
+[ANCHOR] provenance #7D4DF2 link://provenance/evidence-priority-ethics-alignment-p1148
+[ANCHOR] scope #6066FF link://scope/evidence-priority-ethics-alignment-p1148
+
+TITLE: evidence-priority-ethics-alignment-p1148
+SUMMARY: Research scaffold for evidence-priority, ethics-alignment.
+
+LINKS:
+- https://archeology.uiowa.edu/
+- https://unep.org/resources/publications
+
+
+EQUATIONS:
+- EQ020: PCA -> eigenvectors of covariance Σ
+- EQ012: Auction revenue equivalence -> symmetric independent private values
+- EQ008: Observability -> rank([C; CA; CA^2; ...; CA^{n-1}]) = n
+
+VALUATION:
+- Score: 0.579
+- Tier: bronze

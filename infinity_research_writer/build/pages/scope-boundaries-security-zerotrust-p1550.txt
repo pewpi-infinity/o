@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/scope-boundaries-security-zerotrust-p1550
+[ANCHOR] clarity #00C8FF link://clarity/scope-boundaries-security-zerotrust-p1550
+[ANCHOR] alignment #33CCCC link://alignment/scope-boundaries-security-zerotrust-p1550
+
+TITLE: scope-boundaries-security-zerotrust-p1550
+SUMMARY: Research scaffold for scope-boundaries, security-zerotrust.
+
+LINKS:
+- https://edinburgh.ac.uk/research
+- https://pubmed.ncbi.nlm.nih.gov/
+- https://noaa.gov/
+
+EQUATIONS:
+- EQ047: Chebyshev inequality -> P(|X-μ|≥kσ) ≤ 1/k²
+- EQ013: Markov chain stationary distribution -> π = πP
+
+
+VALUATION:
+- Score: 0.559
+- Tier: bronze

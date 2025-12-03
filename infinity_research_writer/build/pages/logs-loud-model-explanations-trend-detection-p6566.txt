@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/logs-loud-model-explanations-trend-detection-p6566
+[ANCHOR] clarity #00C8FF link://clarity/logs-loud-model-explanations-trend-detection-p6566
+[ANCHOR] alignment #33CCCC link://alignment/logs-loud-model-explanations-trend-detection-p6566
+
+TITLE: logs-loud-model-explanations-trend-detection-p6566
+SUMMARY: Research scaffold for logs-loud, model-explanations, trend-detection.
+
+LINKS:
+- https://nature.com/subjects/cardiology
+- https://ieeexplore.ieee.org/
+
+
+EQUATIONS:
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+- EQ010: Nash equilibrium -> best response mappings intersect
+- EQ001: Linear program objective -> maximize c^T x subject to Ax <= b, x >= 0
+
+VALUATION:
+- Score: 0.587
+- Tier: bronze

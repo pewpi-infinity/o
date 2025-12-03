@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/provenance-tier-hash-ledger-grand-hash-p8249
+[ANCHOR] clarity #00C8FF link://clarity/provenance-tier-hash-ledger-grand-hash-p8249
+[ANCHOR] learning #E6B800 link://learning/provenance-tier-hash-ledger-grand-hash-p8249
+[ANCHOR] alignment #33CCCC link://alignment/provenance-tier-hash-ledger-grand-hash-p8249
+
+TITLE: provenance-tier-hash-ledger-grand-hash-p8249
+SUMMARY: Research scaffold for provenance-tier, hash-ledger, grand-hash.
+
+LINKS:
+- https://oapen.org/
+- https://toxnet.nlm.nih.gov/
+
+
+EQUATIONS:
+- EQ023: Cross entropy -> -Σ y log p
+- EQ022: Logistic regression -> σ(wᵀx)
+
+
+VALUATION:
+- Score: 0.556
+- Tier: bronze

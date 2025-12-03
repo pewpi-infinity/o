@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/bayes-inference-meta-analysis-project-value-p5835
+[ANCHOR] clarity #00C8FF link://clarity/bayes-inference-meta-analysis-project-value-p5835
+[ANCHOR] alignment #33CCCC link://alignment/bayes-inference-meta-analysis-project-value-p5835
+
+TITLE: bayes-inference-meta-analysis-project-value-p5835
+SUMMARY: Research scaffold for bayes-inference, meta-analysis, project-value.
+
+LINKS:
+- https://digital.bodleian.ox.ac.uk/
+- https://ucl.ac.uk/research
+
+
+EQUATIONS:
+- EQ049: Moment generating function -> M(t)=E[e^{tX}]
+
+
+
+VALUATION:
+- Score: 0.520
+- Tier: bronze

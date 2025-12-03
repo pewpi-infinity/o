@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/multiobjective-token-provenance-causal-maps-p3303
+[ANCHOR] clarity #00C8FF link://clarity/multiobjective-token-provenance-causal-maps-p3303
+[ANCHOR] learning #E6B800 link://learning/multiobjective-token-provenance-causal-maps-p3303
+[ANCHOR] alignment #33CCCC link://alignment/multiobjective-token-provenance-causal-maps-p3303
+
+TITLE: multiobjective-token-provenance-causal-maps-p3303
+SUMMARY: Research scaffold for multiobjective, token-provenance, causal-maps.
+
+LINKS:
+- https://doabooks.org/
+- https://uchicago.edu/research
+
+
+EQUATIONS:
+- EQ022: Logistic regression -> σ(wᵀx)
+- EQ001: Linear program objective -> maximize c^T x subject to Ax <= b, x >= 0
+- EQ031: Laplace transform -> ∫f(t)e^{-st}dt
+
+VALUATION:
+- Score: 0.579
+- Tier: bronze

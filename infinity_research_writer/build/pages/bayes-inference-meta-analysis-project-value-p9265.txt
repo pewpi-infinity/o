@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/bayes-inference-meta-analysis-project-value-p9265
+[ANCHOR] clarity #00C8FF link://clarity/bayes-inference-meta-analysis-project-value-p9265
+[ANCHOR] alignment #33CCCC link://alignment/bayes-inference-meta-analysis-project-value-p9265
+
+TITLE: bayes-inference-meta-analysis-project-value-p9265
+SUMMARY: Research scaffold for bayes-inference, meta-analysis, project-value.
+
+LINKS:
+- https://caltech.edu/research
+- https://fermilab.org/
+
+
+EQUATIONS:
+- EQ041: Gaussian distribution -> (1/√2πσ²)e^{-(x-μ)²/2σ²}
+- EQ003: Lagrangian -> L(x, λ) = f(x) + λ^T (Ax - b)
+
+
+VALUATION:
+- Score: 0.590
+- Tier: bronze

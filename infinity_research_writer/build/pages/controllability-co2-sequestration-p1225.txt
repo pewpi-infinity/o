@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/controllability-co2-sequestration-p1225
+[ANCHOR] clarity #00C8FF link://clarity/controllability-co2-sequestration-p1225
+[ANCHOR] alignment #33CCCC link://alignment/controllability-co2-sequestration-p1225
+
+TITLE: controllability-co2-sequestration-p1225
+SUMMARY: Research scaffold for controllability, co2-sequestration.
+
+LINKS:
+- https://nature.com/subjects/neuroscience
+
+
+
+EQUATIONS:
+- EQ001: Linear program objective -> maximize c^T x subject to Ax <= b, x >= 0
+- EQ044: Law of large numbers -> sample mean→μ
+- EQ005: Spectral radius -> ρ(A) = max |λ_i(A)|
+
+VALUATION:
+- Score: 0.482
+- Tier: bronze

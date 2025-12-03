@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/risk-mitigation-robust-optimization-fusion-blanket-gradient-flows-p6378
+[ANCHOR] capacity #00D67D link://capacity/risk-mitigation-robust-optimization-fusion-blanket-gradient-flows-p6378
+[ANCHOR] clarity #00C8FF link://clarity/risk-mitigation-robust-optimization-fusion-blanket-gradient-flows-p6378
+[ANCHOR] provenance #7D4DF2 link://provenance/risk-mitigation-robust-optimization-fusion-blanket-gradient-flows-p6378
+[ANCHOR] risk #FF3B3B link://risk/risk-mitigation-robust-optimization-fusion-blanket-gradient-flows-p6378
+
+TITLE: risk-mitigation-robust-optimization-fusion-blanket-gradient-flows-p6378
+SUMMARY: Research scaffold for risk-mitigation, robust-optimization, fusion-blanket, gradient-flows.
+
+LINKS:
+- https://conservation.org/research
+- https://mdpi.com/
+- https://neuromorphicsystems.org/
+
+EQUATIONS:
+- EQ050: Characteristic function -> E[e^{itX}]
+- EQ019: Lasso sparsity -> many β_j = 0
+- EQ043: Chi-square distribution -> special gamma
+
+VALUATION:
+- Score: 0.695
+- Tier: silver

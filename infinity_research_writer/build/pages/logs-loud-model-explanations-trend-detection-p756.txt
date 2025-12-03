@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/logs-loud-model-explanations-trend-detection-p756
+[ANCHOR] clarity #00C8FF link://clarity/logs-loud-model-explanations-trend-detection-p756
+[ANCHOR] alignment #33CCCC link://alignment/logs-loud-model-explanations-trend-detection-p756
+
+TITLE: logs-loud-model-explanations-trend-detection-p756
+SUMMARY: Research scaffold for logs-loud, model-explanations, trend-detection.
+
+LINKS:
+- https://gbif.org/
+
+
+
+EQUATIONS:
+- EQ023: Cross entropy -> -Σ y log p
+- EQ020: PCA -> eigenvectors of covariance Σ
+- EQ009: Queue M/M/1 -> ρ = λ/μ, W = 1/(μ - λ)
+
+VALUATION:
+- Score: 0.544
+- Tier: bronze

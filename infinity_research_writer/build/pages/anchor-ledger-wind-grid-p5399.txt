@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/anchor-ledger-wind-grid-p5399
+[ANCHOR] clarity #00C8FF link://clarity/anchor-ledger-wind-grid-p5399
+[ANCHOR] alignment #33CCCC link://alignment/anchor-ledger-wind-grid-p5399
+
+TITLE: anchor-ledger-wind-grid-p5399
+SUMMARY: Research scaffold for anchor-ledger, wind-grid.
+
+LINKS:
+- https://data.noaa.gov/
+
+
+
+EQUATIONS:
+- EQ014: Bayesian update -> p(θ|D) ∝ p(D|θ)p(θ)
+- EQ011: Mechanism incentive compatibility -> truth-telling maximizes utility
+
+
+VALUATION:
+- Score: 0.488
+- Tier: bronze

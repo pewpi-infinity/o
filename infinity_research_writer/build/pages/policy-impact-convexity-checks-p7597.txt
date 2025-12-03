@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/policy-impact-convexity-checks-p7597
+[ANCHOR] clarity #00C8FF link://clarity/policy-impact-convexity-checks-p7597
+[ANCHOR] alignment #33CCCC link://alignment/policy-impact-convexity-checks-p7597
+
+TITLE: policy-impact-convexity-checks-p7597
+SUMMARY: Research scaffold for policy-impact, convexity-checks.
+
+LINKS:
+- https://nasa.gov/
+- https://nature.com/subjects/neuromorphic-engineering
+
+
+EQUATIONS:
+- ...
+- EQ044: Law of large numbers -> sample mean→μ
+
+
+VALUATION:
+- Score: 0.497
+- Tier: bronze

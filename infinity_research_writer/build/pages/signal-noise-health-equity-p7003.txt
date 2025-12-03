@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/signal-noise-health-equity-p7003
+[ANCHOR] clarity #00C8FF link://clarity/signal-noise-health-equity-p7003
+[ANCHOR] alignment #33CCCC link://alignment/signal-noise-health-equity-p7003
+
+TITLE: signal-noise-health-equity-p7003
+SUMMARY: Research scaffold for signal-noise, health-equity.
+
+LINKS:
+- https://ukdataservice.ac.uk/
+- https://pubchem.ncbi.nlm.nih.gov/
+
+
+EQUATIONS:
+- EQ025: Softmax -> exp(z_i) / Σ exp(z)
+
+
+
+VALUATION:
+- Score: 0.473
+- Tier: bronze

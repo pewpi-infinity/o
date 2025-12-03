@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/tier-silver-provenance-signing-context-windows-p2094
+[ANCHOR] clarity #00C8FF link://clarity/tier-silver-provenance-signing-context-windows-p2094
+[ANCHOR] learning #E6B800 link://learning/tier-silver-provenance-signing-context-windows-p2094
+[ANCHOR] alignment #33CCCC link://alignment/tier-silver-provenance-signing-context-windows-p2094
+
+TITLE: tier-silver-provenance-signing-context-windows-p2094
+SUMMARY: Research scaffold for tier-silver, provenance-signing, context-windows.
+
+LINKS:
+- https://data.worldbank.org/
+- https://repec.org/
+
+
+EQUATIONS:
+- EQ032: Heat equation -> ∂u/∂t = α∇²u
+- EQ042: t-distribution -> Γ((ν+1)/2)/√(νπ)Γ(ν/2)(1+x²/ν)^{-(ν+1)/2}
+- EQ030: Convolution -> (f*g)(t)=∫f(τ)g(t-τ)dτ
+
+VALUATION:
+- Score: 0.577
+- Tier: bronze

@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/diff-hashes-publish-gates-clarity-visuals-batch-hash-streaming-research-p6666
+[ANCHOR] clarity #00C8FF link://clarity/diff-hashes-publish-gates-clarity-visuals-batch-hash-streaming-research-p6666
+[ANCHOR] learning #E6B800 link://learning/diff-hashes-publish-gates-clarity-visuals-batch-hash-streaming-research-p6666
+[ANCHOR] alignment #33CCCC link://alignment/diff-hashes-publish-gates-clarity-visuals-batch-hash-streaming-research-p6666
+
+TITLE: diff-hashes-publish-gates-clarity-visuals-batch-hash-streaming-research-p6666
+SUMMARY: Research scaffold for diff-hashes, publish-gates, clarity-visuals, batch-hash, streaming-research.
+
+LINKS:
+- https://ncbi.nlm.nih.gov/Taxonomy/
+- https://berkeley.edu/research
+- https://louvre.fr/en/archives-and-documentation
+
+EQUATIONS:
+- EQ024: Gradient descent -> θ ← θ - α∇J(θ)
+- EQ034: Poisson equation -> ∇²u = -ρ/ε
+
+
+VALUATION:
+- Score: 0.675
+- Tier: silver

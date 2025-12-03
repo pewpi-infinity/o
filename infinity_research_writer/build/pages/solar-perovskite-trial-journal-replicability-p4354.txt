@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/solar-perovskite-trial-journal-replicability-p4354
+[ANCHOR] clarity #00C8FF link://clarity/solar-perovskite-trial-journal-replicability-p4354
+[ANCHOR] alignment #33CCCC link://alignment/solar-perovskite-trial-journal-replicability-p4354
+
+TITLE: solar-perovskite-trial-journal-replicability-p4354
+SUMMARY: Research scaffold for solar-perovskite, trial-journal, replicability.
+
+LINKS:
+- https://nature.com/subjects/oncology
+
+
+
+EQUATIONS:
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+- EQ026: KL divergence -> Σ p log(p/q)
+
+
+VALUATION:
+- Score: 0.535
+- Tier: bronze

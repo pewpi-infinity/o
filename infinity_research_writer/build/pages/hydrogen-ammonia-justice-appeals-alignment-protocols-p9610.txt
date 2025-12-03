@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/hydrogen-ammonia-justice-appeals-alignment-protocols-p9610
+[ANCHOR] ethics #FF6A00 link://ethics/hydrogen-ammonia-justice-appeals-alignment-protocols-p9610
+[ANCHOR] capacity #00D67D link://capacity/hydrogen-ammonia-justice-appeals-alignment-protocols-p9610
+[ANCHOR] clarity #00C8FF link://clarity/hydrogen-ammonia-justice-appeals-alignment-protocols-p9610
+[ANCHOR] provenance #7D4DF2 link://provenance/hydrogen-ammonia-justice-appeals-alignment-protocols-p9610
+
+TITLE: hydrogen-ammonia-justice-appeals-alignment-protocols-p9610
+SUMMARY: Research scaffold for hydrogen-ammonia, justice-appeals, alignment-protocols.
+
+LINKS:
+- https://conservation.org/research
+- https://radiopaedia.org/
+- https://iop.org/journals
+
+EQUATIONS:
+- EQ022: Logistic regression -> σ(wᵀx)
+- EQ027: Entropy -> -Σ p log p
+
+
+VALUATION:
+- Score: 0.614
+- Tier: silver

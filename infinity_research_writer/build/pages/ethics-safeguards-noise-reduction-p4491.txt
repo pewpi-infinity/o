@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/ethics-safeguards-noise-reduction-p4491
+[ANCHOR] ethics #FF6A00 link://ethics/ethics-safeguards-noise-reduction-p4491
+[ANCHOR] clarity #00C8FF link://clarity/ethics-safeguards-noise-reduction-p4491
+[ANCHOR] provenance #7D4DF2 link://provenance/ethics-safeguards-noise-reduction-p4491
+[ANCHOR] scope #6066FF link://scope/ethics-safeguards-noise-reduction-p4491
+
+TITLE: ethics-safeguards-noise-reduction-p4491
+SUMMARY: Research scaffold for ethics-safeguards, noise-reduction.
+
+LINKS:
+- https://ideas.repec.org/
+
+
+
+EQUATIONS:
+- EQ043: Chi-square distribution -> special gamma
+- EQ012: Auction revenue equivalence -> symmetric independent private values
+
+
+VALUATION:
+- Score: 0.501
+- Tier: bronze

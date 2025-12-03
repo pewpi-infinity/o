@@ -1,0 +1,21 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/learning-tier-link-format-p7688
+[ANCHOR] clarity #00C8FF link://clarity/learning-tier-link-format-p7688
+[ANCHOR] learning #E6B800 link://learning/learning-tier-link-format-p7688
+[ANCHOR] alignment #33CCCC link://alignment/learning-tier-link-format-p7688
+
+TITLE: learning-tier-link-format-p7688
+SUMMARY: Research scaffold for learning-tier, link-format.
+
+LINKS:
+- https://projecteuclid.org/
+
+
+
+EQUATIONS:
+- EQ035: Maxwell equations (set of 4)
+
+
+
+VALUATION:
+- Score: 0.458
+- Tier: bronze

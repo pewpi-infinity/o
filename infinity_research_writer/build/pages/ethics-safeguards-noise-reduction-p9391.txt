@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/ethics-safeguards-noise-reduction-p9391
+[ANCHOR] ethics #FF6A00 link://ethics/ethics-safeguards-noise-reduction-p9391
+[ANCHOR] clarity #00C8FF link://clarity/ethics-safeguards-noise-reduction-p9391
+[ANCHOR] provenance #7D4DF2 link://provenance/ethics-safeguards-noise-reduction-p9391
+[ANCHOR] scope #6066FF link://scope/ethics-safeguards-noise-reduction-p9391
+
+TITLE: ethics-safeguards-noise-reduction-p9391
+SUMMARY: Research scaffold for ethics-safeguards, noise-reduction.
+
+LINKS:
+- https://metmuseum.org/art/metpublications
+- https://unep.org/resources/publications
+
+
+EQUATIONS:
+- EQ016: Confidence interval -> μ̂ ± z σ / √n
+- EQ035: Maxwell equations (set of 4)
+
+
+VALUATION:
+- Score: 0.564
+- Tier: bronze

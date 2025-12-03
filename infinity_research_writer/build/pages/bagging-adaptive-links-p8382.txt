@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/bagging-adaptive-links-p8382
+[ANCHOR] clarity #00C8FF link://clarity/bagging-adaptive-links-p8382
+[ANCHOR] alignment #33CCCC link://alignment/bagging-adaptive-links-p8382
+
+TITLE: bagging-adaptive-links-p8382
+SUMMARY: Research scaffold for bagging, adaptive-links.
+
+LINKS:
+- https://drugpolicy.org/resource-library
+- https://fermilab.org/
+- https://unsw.edu.au/research
+
+EQUATIONS:
+- EQ026: KL divergence -> Σ p log(p/q)
+- EQ045: Central limit theorem -> normalized sums→normal
+
+
+VALUATION:
+- Score: 0.526
+- Tier: bronze

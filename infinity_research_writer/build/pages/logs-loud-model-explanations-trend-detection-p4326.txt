@@ -1,0 +1,20 @@
+[ANCHOR] provenance #7D4DF2 link://provenance/logs-loud-model-explanations-trend-detection-p4326
+[ANCHOR] clarity #00C8FF link://clarity/logs-loud-model-explanations-trend-detection-p4326
+[ANCHOR] alignment #33CCCC link://alignment/logs-loud-model-explanations-trend-detection-p4326
+
+TITLE: logs-loud-model-explanations-trend-detection-p4326
+SUMMARY: Research scaffold for logs-loud, model-explanations, trend-detection.
+
+LINKS:
+- https://psychologytoday.com/us/topics
+- https://law.cornell.edu/
+- https://oi.uchicago.edu/research
+
+EQUATIONS:
+- EQ035: Maxwell equations (set of 4)
+- EQ013: Markov chain stationary distribution -> π = πP
+- EQ041: Gaussian distribution -> (1/√2πσ²)e^{-(x-μ)²/2σ²}
+
+VALUATION:
+- Score: 0.621
+- Tier: silver

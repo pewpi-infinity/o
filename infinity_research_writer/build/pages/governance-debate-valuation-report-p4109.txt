@@ -1,0 +1,22 @@
+[ANCHOR] alignment #33CCCC link://alignment/governance-debate-valuation-report-p4109
+[ANCHOR] ethics #FF6A00 link://ethics/governance-debate-valuation-report-p4109
+[ANCHOR] clarity #00C8FF link://clarity/governance-debate-valuation-report-p4109
+[ANCHOR] provenance #7D4DF2 link://provenance/governance-debate-valuation-report-p4109
+[ANCHOR] scope #6066FF link://scope/governance-debate-valuation-report-p4109
+
+TITLE: governance-debate-valuation-report-p4109
+SUMMARY: Research scaffold for governance-debate, valuation-report.
+
+LINKS:
+- https://aaas.org/
+- https://who.int/health-topics
+
+
+EQUATIONS:
+- EQ010: Nash equilibrium -> best response mappings intersect
+
+
+
+VALUATION:
+- Score: 0.516
+- Tier: bronze
