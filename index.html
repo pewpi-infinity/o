@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>ResearchBand — News & Token Builder</title>
+  <link rel="stylesheet" href="styles.css">
+  <!-- ethers.js CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/ethers@5.7.2/dist/ethers.umd.min.js"></script>
+  <!-- Web3.Storage will be imported from app-token.js via ESM bundle -->
+</head>
+<body>
+  <header>
+    <h1>ResearchBand — Newsfeed & Token Builder</h1>
+    <div class="controls">
+      <input id="repoInput" placeholder="owner/repo (e.g. pewpi-infinity/o)" />
+      <input id="branchInput" placeholder="branch (optional, default: main)" />
+      <input id="tokenInput" placeholder="GitHub token (optional, local only)" />
+      <button id="loadBtn">Load /o Articles</button>
+
+      <button id="connectWalletBtn">Connect Wallet</button>
+      <span id="walletAddr" class="mono"></span>
+    </div>
+  </header>
+
+  <main>
+    <section id="news">
+      <h2>Articles</h2>
+      <div id="articles" class="grid"></div>
+    </section>
+
+    <aside id="sidebar">
+      <h3>Terminal</h3>
+      <div id="terminal" class="terminal">
+        <div id="termOutput" class="term-output"></div>
+        <input id="termInput" class="term-input" placeholder="Commands: help, list, read <file>, create-token-from <file>" />
+      </div>
+
+      <h3>Token Wallet (local)</h3>
+      <div id="wallet">
+        <button id="createTokenBtn">Create Token (local simulated)</button>
+        <ul id="tokensList"></ul>
+      </div>
+
+      <h3>Token Builder</h3>
+      <div id="tokenBuilder">
+        <label>Web3.Storage API key (optional, stored in localStorage):</label>
+        <input id="w3sKey" placeholder="paste web3.storage API key" />
+        <label>GitHub token (optional, repo write - stored in localStorage):</label>
+        <input id="ghKey" placeholder="paste personal access token (optional)" />
+        <div style="margin-top:8px">
+          <button id="createFromArticleBtn">Create token from selected article</button>
+        </div>
+        <div id="selectedArticle" style="margin-top:8px;color:#ddd"></div>
+        <div id="metadataResult" style="margin-top:8px"></div>
+      </div>
+
+      <h3>Filters</h3>
+      <div id="filters" class="filters">
+        <button data-filter="all">All</button>
+        <button data-filter="green" class="green">Engineering</button>
+        <button data-filter="orange" class="orange">CEO</button>
+        <button data-filter="blue" class="blue">Input</button>
+        <button data-filter="yellow" class="yellow">Extract</button>
+        <button data-filter="red" class="red">Multi-route</button>
+        <button data-filter="pink" class="pink">Investigate</button>
+        <button data-filter="purple" class="purple">Assimilations</button>
+      </div>
+    </aside>
+  </main>
+
+  <template id="articleTemplate">
+    <article class="card">
+      <h4 class="title"></h4>
+      <div class="meta"></div>
+      <div class="content"></div>
+      <div class="tags"></div>
+      <div class="article-actions" style="margin-top:8px;">
+        <button class="pickArticleBtn">Select</button>
+        <button class="createTokenBtn">Create token</button>
+      </div>
+    </article>
+  </template>
+
+  <script type="module" src="app-token.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
