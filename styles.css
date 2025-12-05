@@ -1,0 +1,56 @@
+:root{
+  --green:#2ecc71;
+  --orange:#e67e22;
+  --blue:#3498db;
+  --yellow:#f1c40f;
+  --red:#e74c3c;
+  --pink:#ff66b3;
+  --purple:#9b59b6;
+  --bg:#0f1720;
+  --card:#0b1220;
+  --text:#e6eef6;
+}
+
+*{box-sizing:border-box;font-family:Inter,Segoe UI,Arial,Helvetica,sans-serif;color:var(--text)}
+body{background:linear-gradient(180deg,#071020, #0d1924);margin:0;padding:0}
+header{padding:16px;display:flex;align-items:center;gap:16px;flex-wrap:wrap}
+header h1{margin:0;font-size:1.25rem}
+.controls{display:flex;gap:8px;flex-wrap:wrap}
+.controls input{padding:8px;border-radius:6px;border:1px solid #203040;background:#071826;color:var(--text)}
+.controls button{padding:8px 12px;border-radius:6px;border:none;background:#162a3a;color:var(--text);cursor:pointer}
+.mono{font-family:monospace;margin-left:8px}
+
+main{display:flex;gap:16px;padding:16px}
+#news{flex:2}
+#sidebar{width:360px}
+
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:12px}
+.card{background:var(--card);padding:12px;border-radius:8px;border:1px solid rgba(255,255,255,0.03)}
+.title{margin:0 0 8px 0}
+.meta{font-size:12px;opacity:0.8;margin-bottom:8px}
+.content{white-space:pre-wrap;font-size:14px}
+
+.tag{display:inline-block;padding:4px 8px;border-radius:999px;margin-right:6px;margin-top:8px;font-size:12px;color:#071018}
+
+/* color codes */
+.green{background:var(--green);color:#021007}
+.orange{background:var(--orange);color:#2b1200}
+.blue{background:var(--blue);color:#021a2b}
+.yellow{background:var(--yellow);color:#2b2000}
+.red{background:var(--red);color:#2b0500}
+.pink{background:var(--pink);color:#2b021a}
+.purple{background:var(--purple);color:#1b0b1b}
+
+/* Terminal */
+.terminal{background:#02060a;border-radius:6px;padding:8px;border:1px solid rgba(255,255,255,0.03)}
+.term-output{height:160px;overflow:auto;padding:8px;font-family:monospace;color:#9fdbe6;background:#02060a;border-radius:6px}
+.term-input{width:100%;padding:8px;border-radius:6px;border:1px solid #0a3944;background:#021420;color:var(--text);margin-top:8px}
+
+/* small devices */
+@media (max-width:900px){
+  main{flex-direction:column}
+  #sidebar{width:auto}
+}
+
+/* links in article view */
+a.article-link{color:var(--blue);text-decoration:underline;cursor:pointer}
